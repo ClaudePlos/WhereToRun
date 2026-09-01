@@ -1,7 +1,18 @@
 import { LANGS } from './schema.mjs';
 
-/** Higher wins when two sources describe the same race. */
-export const SOURCE_PRECEDENCE = { curated: 100, runsignup: 50, wikidata: 40, unknown: 0 };
+/**
+ * Higher wins when two sources describe the same race. RunSignup outranks
+ * UltraSignup because it is the only source carrying entry fees; UltraSignup
+ * outranks Wikidata because its dates come from the organiser rather than being
+ * rolled forward from a past edition.
+ */
+export const SOURCE_PRECEDENCE = {
+  curated: 100,
+  runsignup: 50,
+  ultrasignup: 45,
+  wikidata: 40,
+  unknown: 0,
+};
 
 const COUNTRY_NAMES_PL = {
   AR: 'Argentyna', AT: 'Austria', AU: 'Australia', AQ: 'Antarktyda', BE: 'Belgia', BR: 'Brazylia',
