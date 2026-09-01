@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "American Heroes Run is a ultramarathon. Location: Longmont, United States. Date: 11 September 2026 – 12 September 2026. Distances: 160.9 km, 24 h, 6 hour open start, Virtual - Any Distance. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Longmont, United States, 11 September 2026 – 12 September 2026"
+    },
+    "pl": {
+      "description": "American Heroes Run to ultramaraton. Lokalizacja: Longmont, Stany Zjednoczone. Termin: 11 września 2026 – 12 września 2026. Dystanse: 160.9 km, 24 h, 6 hour open start, Virtual - Any Distance. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Longmont, Stany Zjednoczone, 11 września 2026 – 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "14.7 km",
+    "9 hrs & 11 min",
+    "5 km"
+  ],
+  "endDate": "2026-09-12",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Longmont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "American Heroes Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64427",
+  "slug": "american-heroes-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "3241",
+    "url": "https://ultrasignup.com/register.aspx?did=64427"
+  },
+  "start": {
+    "lat": 40.1656,
+    "lon": -105.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.facebook.com/americanheroesruncolorado"
+}

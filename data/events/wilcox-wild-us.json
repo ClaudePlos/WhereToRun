@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Wilcox Wild is a ultramarathon. Location: Stony Creek, United States. Date: Sunday, 6 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stony Creek, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Wilcox Wild to ultramaraton. Lokalizacja: Stony Creek, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stony Creek, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stony Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Wilcox Wild",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64579",
+  "slug": "wilcox-wild-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "17886",
+    "url": "https://ultrasignup.com/register.aspx?did=64579"
+  },
+  "start": {
+    "lat": 43.405,
+    "lon": -74.0803,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.scendurance.com"
+}

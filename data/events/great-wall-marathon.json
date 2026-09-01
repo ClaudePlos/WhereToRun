@@ -50,7 +50,7 @@
   "registrationUrl": null,
   "slug": "great-wall-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "great-wall-marathon",
     "url": "https://great-wall-marathon.com/"
@@ -58,7 +58,8 @@
   "start": {
     "lat": 40.1075,
     "lon": 117.502778,
-    "name": "Yin and Yang Square, Huangyaguan Great Wall"
+    "name": "Yin and Yang Square, Huangyaguan Great Wall",
+    "precision": "exact"
   },
   "tags": [
     "asia",
@@ -67,6 +68,6 @@
     "stairs"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://great-wall-marathon.com/"
 }

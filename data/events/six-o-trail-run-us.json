@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Six-O Trail Run is a ultramarathon. Location: Cleburne, United States. Date: Saturday, 5 September 2026. Distances: 50 km, 42.2 km, 1, 2 Marathon, 9.7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cleburne, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Six-O Trail Run to ultramaraton. Lokalizacja: Cleburne, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 50 km, 42.2 km, 1, 2 Marathon, 9.7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cleburne, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "9.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cleburne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Six-O Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64474",
+  "slug": "six-o-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "10542",
+    "url": "https://ultrasignup.com/register.aspx?did=64474"
+  },
+  "start": {
+    "lat": 32.2298,
+    "lon": -97.6033,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://blazetrails.com"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Jump Off Joe Marathon is a road race. Location: Kennewick, United States. Date: Saturday, 5 September 2026. Distances: 42.2 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kennewick, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Jump Off Joe Marathon to bieg uliczny. Lokalizacja: Kennewick, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 42.2 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kennewick, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kennewick",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Jump Off Joe Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64559",
+  "slug": "jump-off-joe-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "5869",
+    "url": "https://ultrasignup.com/register.aspx?did=64559"
+  },
+  "start": {
+    "lat": 46.1544,
+    "lon": -119.157,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.deltaendurancellc.com/races/jump-off-joe-marathon"
+}

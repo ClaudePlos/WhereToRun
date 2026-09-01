@@ -57,7 +57,7 @@
   "registrationUrl": "https://www.baa.org/races/boston-marathon/qualify/",
   "slug": "boston-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "boston-marathon",
     "url": "https://www.baa.org/races/boston-marathon/"
@@ -65,7 +65,8 @@
   "start": {
     "lat": 42.228611,
     "lon": -71.522778,
-    "name": "Main Street, Hopkinton"
+    "name": "Main Street, Hopkinton",
+    "precision": "exact"
   },
   "tags": [
     "historic",
@@ -75,6 +76,6 @@
     "world-marathon-major"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://www.baa.org/races/boston-marathon/"
 }

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Hawk Hundred is a ultramarathon. Location: Lawrence, United States. Date: Saturday, 12 September 2026. Distances: 160.9 km, 80.5 km, 42.2 km, 100 Miler Pacer. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lawrence, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Hawk Hundred to ultramaraton. Lokalizacja: Lawrence, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 160.9 km, 80.5 km, 42.2 km, 100 Miler Pacer. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lawrence, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "42.2 km",
+    "100 Miler Pacer"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lawrence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Hawk Hundred",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63333",
+  "slug": "hawk-hundred-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "2615",
+    "url": "https://ultrasignup.com/register.aspx?did=63333"
+  },
+  "start": {
+    "lat": 38.9403,
+    "lon": -95.3403,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://www.hawkhundred.com"
+}

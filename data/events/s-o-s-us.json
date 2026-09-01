@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "S.O.S. is a ultramarathon. Location: Middleburg, United States. Date: Saturday, 12 September 2026. Distances: 12 h, 12 hours Ruck, 9 km, 9k Ruck, 6 hours Ruck, 6 h, 3 hours Ruck, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Middleburg, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "S.O.S. to ultramaraton. Lokalizacja: Middleburg, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 12 h, 12 hours Ruck, 9 km, 9k Ruck, 6 hours Ruck, 6 h, 3 hours Ruck, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Middleburg, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12 hours Ruck",
+    "9 km",
+    "9k Ruck",
+    "6 hours Ruck",
+    "6 h",
+    "3 hours Ruck",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Middleburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "S.O.S.",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65839",
+  "slug": "s-o-s-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "17410",
+    "url": "https://ultrasignup.com/register.aspx?did=65839"
+  },
+  "start": {
+    "lat": 30.123,
+    "lon": -81.8807,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://sombrerorunning.com/events"
+}

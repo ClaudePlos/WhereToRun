@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "SRT - Shawangunk Ridge Trail Run is a ultramarathon. Location: Rosendale, United States. Date: Saturday, 12 September 2026. Distances: 112.7 km, 48.3 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rosendale, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "SRT - Shawangunk Ridge Trail Run to ultramaraton. Lokalizacja: Rosendale, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 112.7 km, 48.3 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rosendale, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "112.7 km",
+    "48.3 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rosendale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "SRT - Shawangunk Ridge Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63250",
+  "slug": "srt-shawangunk-ridge-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "4479",
+    "url": "https://ultrasignup.com/register.aspx?did=63250"
+  },
+  "start": {
+    "lat": 41.8481,
+    "lon": -74.0883,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://runwildhv.org/srt"
+}

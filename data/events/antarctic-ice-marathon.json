@@ -49,7 +49,7 @@
   "registrationUrl": null,
   "slug": "antarctic-ice-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "antarctic-ice-marathon",
     "url": "https://www.icemarathon.com/"
@@ -57,7 +57,8 @@
   "start": {
     "lat": -79.766667,
     "lon": -83.266667,
-    "name": "Union Glacier Camp"
+    "name": "Union Glacier Camp",
+    "precision": "exact"
   },
   "tags": [
     "antarctica",
@@ -66,6 +67,6 @@
     "extreme"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://www.icemarathon.com/"
 }

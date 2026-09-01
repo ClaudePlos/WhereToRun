@@ -57,7 +57,7 @@
   "registrationUrl": null,
   "slug": "new-york-city-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "new-york-city-marathon",
     "url": "https://www.nyrr.org/tcsnycmarathon"
@@ -65,7 +65,8 @@
   "start": {
     "lat": 40.605833,
     "lon": -74.056944,
-    "name": "Fort Wadsworth, Staten Island"
+    "name": "Fort Wadsworth, Staten Island",
+    "precision": "exact"
   },
   "tags": [
     "iconic",
@@ -74,6 +75,6 @@
     "world-marathon-major"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://www.nyrr.org/tcsnycmarathon"
 }

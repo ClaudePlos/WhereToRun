@@ -50,7 +50,7 @@
   "registrationUrl": null,
   "slug": "midnight-sun-marathon-tromso",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "midnight-sun-marathon-tromso",
     "url": "https://msm.no/en/"
@@ -58,7 +58,8 @@
   "start": {
     "lat": 69.649167,
     "lon": 18.955833,
-    "name": "Tromsø city centre"
+    "name": "Tromsø city centre",
+    "precision": "exact"
   },
   "tags": [
     "arctic",
@@ -67,6 +68,6 @@
     "scenic"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://msm.no/en/"
 }

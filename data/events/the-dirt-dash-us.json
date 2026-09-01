@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Dirt Dash is a road race. Location: Johns Island, United States. Date: Saturday, 12 September 2026. Distances: 42.2 km, 1, 2 Marathon, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Johns Island, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "The Dirt Dash to bieg uliczny. Lokalizacja: Johns Island, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 42.2 km, 1, 2 Marathon, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Johns Island, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Johns Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "The Dirt Dash",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63452",
+  "slug": "the-dirt-dash-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "3097",
+    "url": "https://ultrasignup.com/register.aspx?did=63452"
+  },
+  "start": {
+    "lat": 32.641,
+    "lon": -80.1221,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://www.palmettoultras.com"
+}

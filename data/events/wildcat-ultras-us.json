@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Wildcat Ultras is a ultramarathon. Location: Pensacola, United States. Date: Saturday, 5 September 2026. Distances: 160.9 km, 100 km, 80.5 km, 50 km, 24.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pensacola, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Wildcat Ultras to ultramaraton. Lokalizacja: Pensacola, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 160.9 km, 100 km, 80.5 km, 50 km, 24.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pensacola, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "24.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pensacola",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Wildcat Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64701",
+  "slug": "wildcat-ultras-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "4582",
+    "url": "https://ultrasignup.com/register.aspx?did=64701"
+  },
+  "start": {
+    "lat": 30.5153,
+    "lon": -87.3692,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.wildcat100.com"
+}

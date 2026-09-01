@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Barn 200 is a ultramarathon. Location: Bonney Lake, United States. Date: Friday, 4 September 2026. Distances: 321.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bonney Lake, United States, Friday, 4 September 2026"
+    },
+    "pl": {
+      "description": "Black Barn 200 to ultramaraton. Lokalizacja: Bonney Lake, Stany Zjednoczone. Termin: piątek, 4 września 2026. Dystanse: 321.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bonney Lake, Stany Zjednoczone, piątek, 4 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bonney Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Black Barn 200",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67411",
+  "slug": "black-barn-200-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20593",
+    "url": "https://ultrasignup.com/register.aspx?did=67411"
+  },
+  "start": {
+    "lat": 47.1542,
+    "lon": -122.187,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://freedomultra.com"
+}

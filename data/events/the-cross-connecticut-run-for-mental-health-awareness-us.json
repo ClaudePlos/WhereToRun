@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Cross-Connecticut Run for Mental Health Awareness is a ultramarathon. Location: West Suffield, United States. Date: Saturday, 12 September 2026. Distances: 90.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — West Suffield, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "The Cross-Connecticut Run for Mental Health Awareness to ultramaraton. Lokalizacja: West Suffield, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 90.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — West Suffield, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "90.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Suffield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "The Cross-Connecticut Run for Mental Health Awareness",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66392",
+  "slug": "the-cross-connecticut-run-for-mental-health-awareness-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "10837",
+    "url": "https://ultrasignup.com/register.aspx?did=66392"
+  },
+  "start": {
+    "lat": 41.9979,
+    "lon": -72.7673,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://secure.givelively.org/donate/mental-health-connecticut-inc/the-2025-cross-connecticut-run-for-mental-health"
+}

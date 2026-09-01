@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Wisconsin ANVIL Ultra Triathlon is a road race. Location: Dousman, United States. Date: Wednesday, 9 September 2026. Distances: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dousman, United States, Wednesday, 9 September 2026"
+    },
+    "pl": {
+      "description": "Wisconsin ANVIL Ultra Triathlon to bieg uliczny. Lokalizacja: Dousman, Stany Zjednoczone. Termin: środa, 9 września 2026. Dystanse: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dousman, Stany Zjednoczone, środa, 9 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Triple ANVIL Triathlon",
+    "Triple ANVIL Relay - 3 Person Team",
+    "Triple ANVIL Relay - 2 Person Team",
+    "DO"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dousman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Wisconsin ANVIL Ultra Triathlon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63506",
+  "slug": "wisconsin-anvil-ultra-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "19515",
+    "url": "https://ultrasignup.com/register.aspx?did=63506"
+  },
+  "start": {
+    "lat": 42.9811,
+    "lon": -88.4995,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://anvil-ultratri.com/"
+}

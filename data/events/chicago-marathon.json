@@ -57,7 +57,7 @@
   "registrationUrl": "https://www.chicagomarathon.com/runners/frequently-asked-application-questions/",
   "slug": "chicago-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "chicago-marathon",
     "url": "https://www.chicagomarathon.com/"
@@ -65,7 +65,8 @@
   "start": {
     "lat": 41.874722,
     "lon": -87.620833,
-    "name": "Grant Park"
+    "name": "Grant Park",
+    "precision": "exact"
   },
   "tags": [
     "fast-course",
@@ -74,6 +75,6 @@
     "world-marathon-major"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://www.chicagomarathon.com/"
 }

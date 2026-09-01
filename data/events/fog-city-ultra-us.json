@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fog City Ultra is a road race. Location: San Francisco, United States. Date: Saturday, 5 September 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Francisco, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Fog City Ultra to bieg uliczny. Lokalizacja: San Francisco, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Francisco, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Fog City Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68473",
+  "slug": "fog-city-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20934",
+    "url": "https://ultrasignup.com/register.aspx?did=68473"
+  },
+  "start": {
+    "lat": 37.7289,
+    "lon": -122.493,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.paincaverunningco.com/"
+}

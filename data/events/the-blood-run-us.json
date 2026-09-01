@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Blood Run is a ultramarathon. Location: Lennox, United States. Date: 4 September 2026 – 6 September 2026. Distances: 48 h, 36 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lennox, United States, 4 September 2026 – 6 September 2026"
+    },
+    "pl": {
+      "description": "The Blood Run to ultramaraton. Lokalizacja: Lennox, Stany Zjednoczone. Termin: 4 września 2026 – 6 września 2026. Dystanse: 48 h, 36 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lennox, Stany Zjednoczone, 4 września 2026 – 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h",
+    "3 h"
+  ],
+  "endDate": "2026-09-06",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lennox",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "The Blood Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64538",
+  "slug": "the-blood-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "8097",
+    "url": "https://ultrasignup.com/register.aspx?did=64538"
+  },
+  "start": {
+    "lat": 43.2842,
+    "lon": -96.884,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.facebook.com/Thebloodrun/"
+}

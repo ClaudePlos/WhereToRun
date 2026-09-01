@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sisu Backyard Ultra at Lake Rebecca is a road race. Location: Rockford, United States. Date: Saturday, 5 September 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rockford, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Sisu Backyard Ultra at Lake Rebecca to bieg uliczny. Lokalizacja: Rockford, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rockford, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Sisu Backyard Ultra at Lake Rebecca",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67192",
+  "slug": "sisu-backyard-ultra-at-lake-rebecca-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20533",
+    "url": "https://ultrasignup.com/register.aspx?did=67192"
+  },
+  "start": {
+    "lat": 45.0726,
+    "lon": -93.7493,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://sisuprojectmn.com"
+}

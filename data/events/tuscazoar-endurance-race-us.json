@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Tuscazoar Endurance Race is a ultramarathon. Location: Dover, United States. Date: Saturday, 5 September 2026. Distances: 160.9 km, 120.7 km, 50M Night, 80.5 km, 25 Miler Night, 40.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dover, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Tuscazoar Endurance Race to ultramaraton. Lokalizacja: Dover, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 160.9 km, 120.7 km, 50M Night, 80.5 km, 25 Miler Night, 40.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dover, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "120.7 km",
+    "50M Night",
+    "80.5 km",
+    "25 Miler Night",
+    "40.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Tuscazoar Endurance Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63555",
+  "slug": "tuscazoar-endurance-race-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "10217",
+    "url": "https://ultrasignup.com/register.aspx?did=63555"
+  },
+  "start": {
+    "lat": 40.5206,
+    "lon": -81.474,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://www.race-brimstone.com"
+}

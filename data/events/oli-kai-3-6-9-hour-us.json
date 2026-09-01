@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Oli Kai 3, 6, & 9 Hour is a ultramarathon. Location: Chattanooga, United States. Date: Saturday, 5 September 2026. Distances: 9 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chattanooga, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Oli Kai 3, 6, & 9 Hour to ultramaraton. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 9 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chattanooga, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "9 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Oli Kai 3, 6, & 9 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64758",
+  "slug": "oli-kai-3-6-9-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "12418",
+    "url": "https://ultrasignup.com/register.aspx?did=64758"
+  },
+  "start": {
+    "lat": 35.0101,
+    "lon": -85.3646,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://www.badbeardevents.com/"
+}

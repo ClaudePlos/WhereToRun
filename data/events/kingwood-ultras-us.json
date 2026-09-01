@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "KingWood  Ultras is a ultramarathon. Location: Frenchtown, United States. Date: 11 September 2026 – 13 September 2026. Distances: 160.9 km, 48 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Frenchtown, United States, 11 September 2026 – 13 September 2026"
+    },
+    "pl": {
+      "description": "KingWood  Ultras to ultramaraton. Lokalizacja: Frenchtown, Stany Zjednoczone. Termin: 11 września 2026 – 13 września 2026. Dystanse: 160.9 km, 48 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Frenchtown, Stany Zjednoczone, 11 września 2026 – 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "80.5 km",
+    "12 h",
+    "42.2 km",
+    "6 h",
+    "10K Saturday"
+  ],
+  "endDate": "2026-09-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Frenchtown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "KingWood  Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65422",
+  "slug": "kingwood-ultras-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20029",
+    "url": "https://ultrasignup.com/register.aspx?did=65422"
+  },
+  "start": {
+    "lat": 40.5056,
+    "lon": -75.0443,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://spirit-trips.com/"
+}

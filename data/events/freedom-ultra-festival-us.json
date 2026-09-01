@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Freedom Ultra Festival is a ultramarathon. Location: Bonney Lake, United States. Date: 5 September 2026 – 8 September 2026. Distances: 160.9 km, 100 km, 80.5 km, 50 km, 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bonney Lake, United States, 5 September 2026 – 8 September 2026"
+    },
+    "pl": {
+      "description": "Freedom Ultra Festival to ultramaraton. Lokalizacja: Bonney Lake, Stany Zjednoczone. Termin: 5 września 2026 – 8 września 2026. Dystanse: 160.9 km, 100 km, 80.5 km, 50 km, 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bonney Lake, Stany Zjednoczone, 5 września 2026 – 8 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2026-09-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bonney Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Freedom Ultra Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65621",
+  "slug": "freedom-ultra-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20075",
+    "url": "https://ultrasignup.com/register.aspx?did=65621"
+  },
+  "start": {
+    "lat": 47.154,
+    "lon": -122.187,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://freedomultra.com/freedom-ultra-festival"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Iron Mountain is a ultramarathon. Location: Damascus, United States. Date: Saturday, 5 September 2026. Distances: 80.5 km, 64.4 km, 48.3 km, 25.7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Damascus, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Iron Mountain to ultramaraton. Lokalizacja: Damascus, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 80.5 km, 64.4 km, 48.3 km, 25.7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Damascus, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "64.4 km",
+    "48.3 km",
+    "25.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Damascus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Iron Mountain",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66477",
+  "slug": "iron-mountain-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "300",
+    "url": "https://ultrasignup.com/register.aspx?did=66477"
+  },
+  "start": {
+    "lat": 36.6338,
+    "lon": -81.7914,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://sites.google.com/site/ironmountaintrailrun/Home"
+}

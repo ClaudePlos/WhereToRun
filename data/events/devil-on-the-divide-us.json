@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Devil on the Divide is a ultramarathon. Location: Empire, United States. Date: Saturday, 12 September 2026. Distances: 50 km, 22 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Empire, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Devil on the Divide to ultramaraton. Lokalizacja: Empire, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, 22 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Empire, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "22 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Empire",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Devil on the Divide",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64668",
+  "slug": "devil-on-the-divide-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "4379",
+    "url": "https://ultrasignup.com/register.aspx?did=64668"
+  },
+  "start": {
+    "lat": 39.7562,
+    "lon": -105.684,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "http://www.devilonthedivideultra.com"
+}

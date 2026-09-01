@@ -57,7 +57,7 @@
   "registrationUrl": null,
   "slug": "london-marathon",
   "source": {
-    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "fetchedAt": "2026-09-01T19:51:22.928Z",
     "id": "curated",
     "ref": "london-marathon",
     "url": "https://www.londonmarathonevents.co.uk/london-marathon"
@@ -65,7 +65,8 @@
   "start": {
     "lat": 51.4695,
     "lon": 0.0088,
-    "name": "Blackheath, Greenwich"
+    "name": "Blackheath, Greenwich",
+    "precision": "exact"
   },
   "tags": [
     "charity",
@@ -74,6 +75,6 @@
     "world-marathon-major"
   ],
   "type": "road",
-  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://www.londonmarathonevents.co.uk/london-marathon"
 }

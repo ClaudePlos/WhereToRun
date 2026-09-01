@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pinellas Trail Challenge is a ultramarathon. Location: St. Petersburg, United States. Date: Saturday, 5 September 2026. Distances: 74 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St. Petersburg, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Pinellas Trail Challenge to ultramaraton. Lokalizacja: St. Petersburg, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 74 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St. Petersburg, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "74 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Petersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Pinellas Trail Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66830",
+  "slug": "pinellas-trail-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "4360",
+    "url": "https://ultrasignup.com/register.aspx?did=66830"
+  },
+  "start": {
+    "lat": 27.7682,
+    "lon": -82.6331,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.facebook.com/groups/463447423751977"
+}

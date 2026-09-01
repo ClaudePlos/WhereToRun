@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Long Watch is a ultramarathon. Location: Woodland, United States. Date: Saturday, 5 September 2026. Distances: 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Woodland, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "The Long Watch to ultramaraton. Lokalizacja: Woodland, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Woodland, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Woodland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "The Long Watch",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67336",
+  "slug": "the-long-watch-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "20571",
+    "url": "https://ultrasignup.com/register.aspx?did=67336"
+  },
+  "start": {
+    "lat": 45.8884,
+    "lon": -122.757,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://www.facebook.com/events/2220290715434288/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%2"
+}

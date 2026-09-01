@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "24 Hours at Lake Z is a ultramarathon. Location: Dahlonega, United States. Date: Saturday, 5 September 2026. Distances: 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dahlonega, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "24 Hours at Lake Z to ultramaraton. Lokalizacja: Dahlonega, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dahlonega, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T19:51:22.922Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dahlonega",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "24 Hours at Lake Z",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67567",
+  "slug": "24-hours-at-lake-z-us",
+  "source": {
+    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "id": "ultrasignup",
+    "ref": "18988",
+    "url": "https://ultrasignup.com/register.aspx?did=67567"
+  },
+  "start": {
+    "lat": 34.5451,
+    "lon": -83.967,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "website": "https://dumassevents.com/24-hours-at-lake-z/"
+}
