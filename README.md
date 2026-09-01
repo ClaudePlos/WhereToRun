@@ -67,8 +67,9 @@ sources still fill in fields the winner left empty).
 3. **Settings → Actions → General → Workflow permissions: Read and write**, so the scheduled
    collector can commit the data it finds.
 
-The collector runs at 06:00, 13:00 and 20:00 UTC, and can be triggered by hand from the
-Actions tab (with optional source filter and dry-run).
+The collector runs at 06:23, 13:13 and 20:13 UTC — deliberately off the hour, because GitHub
+queues every cron scheduled on :00 together and those runs are the ones most often delayed.
+It can also be triggered by hand from the Actions tab (with optional source filter and dry-run).
 
 ### Adding or fixing an event
 
@@ -143,8 +144,9 @@ priorytecie i tak uzupełniają pola, których zwycięzca nie wypełnił).
 3. **Settings → Actions → General → Workflow permissions: Read and write**, żeby automat
    mógł commitować znalezione dane.
 
-Kolektor uruchamia się o 06:00, 13:00 i 20:00 UTC, można go też odpalić ręcznie z zakładki
-Actions (z opcjonalnym wyborem źródeł i trybem dry-run).
+Kolektor uruchamia się o 06:23, 13:13 i 20:13 UTC — celowo nie o pełnych godzinach, bo GitHub
+kolejkuje wszystkie zadania cron ustawione na :00 naraz i to one najczęściej się opóźniają.
+Można go też odpalić ręcznie z zakładki Actions (z opcjonalnym wyborem źródeł i trybem dry-run).
 
 ### Dodawanie i poprawianie biegów
 
