@@ -50,13 +50,25 @@ export const ENDPOINTS = [
     id: 'runraceusa',
     status: 'candidate',
     note: 'Open CC BY 4.0 dump of US races',
-    url: 'https://runraceusa.com/api/races.json',
+    url: 'https://runraceusa.com/data/upcoming.json',
   },
   {
     id: 'runraceusa-index',
     status: 'candidate',
-    note: 'Landing page — read it for the real JSON URL if races.json 404s',
+    note: 'Landing page — read it for the real JSON URL if the dump moves',
     url: 'https://runraceusa.com/api',
+  },
+  {
+    id: 'nominatim',
+    status: 'candidate',
+    note: 'Geocoder — DUV gives city and country but no coordinates',
+    url: 'https://nominatim.openstreetmap.org/search?format=json&limit=1&city=S%C3%A3o+Paulo&country=Brazil',
+  },
+  {
+    id: 'wikipedia-pl',
+    status: 'candidate',
+    note: 'Polish summaries for the PL side of the portal',
+    url: 'https://pl.wikipedia.org/api/rest_v1/page/summary/Maraton_Bosto%C5%84ski',
   },
   {
     id: 'ultrasignup',
@@ -88,18 +100,38 @@ export function describe(value, depth = 0) {
   return `${typeof value}(${value})`;
 }
 
-/** Finds the array of records inside an arbitrarily wrapped payload. */
-export function findRecords(json) {
-  if (Array.isArray(json)) return { path: '$', rows: json };
+const RECORD_KEYS = /^(races|events|results|items|records|data|entries|list)$/i;
+
+/**
+ * Finds the array of records inside an arbitrarily wrapped payload.
+ *
+ * Payloads often carry several arrays — RunRaceUSA's dump has a six-entry
+ * `sources` list alongside the tens of thousands of `races` — so candidates are
+ * scored rather than taken in key order: a promising key name wins, and length
+ * breaks the tie. Arrays of objects beat arrays of strings, which are usually
+ * metadata.
+ */
+export function findRecords(json, path = '$') {
+  if (Array.isArray(json)) return json.length > 0 ? { path, rows: json } : null;
   if (!json || typeof json !== 'object') return null;
+
+  const candidates = [];
   for (const [key, value] of Object.entries(json)) {
-    if (Array.isArray(value) && value.length > 0) return { path: `$.${key}`, rows: value };
+    const found = findRecords(value, `${path}.${key}`);
+    if (!found) continue;
+    const named = RECORD_KEYS.test(key) ? 1 : 0;
+    const structured = typeof found.rows[0] === 'object' && found.rows[0] !== null ? 1 : 0;
+    candidates.push({ ...found, score: [named, structured, found.rows.length] });
   }
-  for (const [key, value] of Object.entries(json)) {
-    const nested = value && typeof value === 'object' ? findRecords(value) : null;
-    if (nested) return { path: `$.${key}${nested.path.slice(1)}`, rows: nested.rows };
-  }
-  return null;
+  if (candidates.length === 0) return null;
+
+  candidates.sort((a, b) => {
+    for (let i = 0; i < a.score.length; i += 1) {
+      if (a.score[i] !== b.score[i]) return b.score[i] - a.score[i];
+    }
+    return 0;
+  });
+  return { path: candidates[0].path, rows: candidates[0].rows };
 }
 
 async function probe(endpoint, fetchImpl) {

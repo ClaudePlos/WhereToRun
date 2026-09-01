@@ -49,13 +49,27 @@ node scripts/collect.mjs --sources=runsignup --max-new=10
 |---|---|---|
 | `curated` | no | Hand-written entries for the world's best-known races, verified against organiser sites. |
 | `runsignup` | no | [RunSignup's open REST API](https://runsignup.com/API): dates, coordinates, entry fees and registration links. Mostly North America. |
+| `ultrasignup` | no | The calendar behind [UltraSignup](https://ultrasignup.com/), where most US trail and ultra races register. Exact start coordinates, no fees. |
+| `runraceusa` | no | [RunRaceUSA's](https://runraceusa.com/api) nightly CC BY 4.0 dump, itself aggregating six registration platforms. Coordinates are often only the host town, and are flagged as such. |
 | `wikidata` | no | [Wikidata SPARQL](https://query.wikidata.org/): notable races worldwide with coordinates, official sites and Wikipedia articles. Next-edition dates are estimated from the last known edition. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude with the web search tool proposes races the open APIs miss. Skipped silently when the key is absent. |
 
 There is no single global race API — Ahotu and AIMS have no public one — so the collector
 combines several and merges the results by source precedence
-(`curated` > `runsignup` > `wikidata` > `ai-discovery` for conflicts; lower-precedence
-sources still fill in fields the winner left empty).
+(`curated` > `runsignup` > `ultrasignup` > `runraceusa` > `wikidata` > `ai-discovery` for
+conflicts; lower-precedence sources still fill in fields the winner left empty). RunSignup
+ranks highest of the automated sources because it is the only one carrying entry fees.
+
+Sources are picked by probing them first, not by trusting documentation:
+
+```bash
+node scripts/probe-sources.mjs             # every endpoint
+node scripts/probe-sources.mjs duv         # just one
+```
+
+It prints each endpoint's status, payload shape and first record. The same script runs from
+the Actions tab as **Probe data sources** — useful when a collector run reports `fetched: 0`
+and you need to know whether the endpoint died or just renamed a field.
 
 ### Repository setup
 
@@ -83,8 +97,9 @@ the pipeline with the same validation as every other source.
 ### Accuracy
 
 Dates with `"dateStatus": "estimated"` come from an event's usual pattern rather than an
-organiser's announcement, and fees with `"indicative": true` are ballpark figures. Both are
-labelled in the UI. Always confirm on the organiser's own site before booking a trip.
+organiser's announcement, fees with `"indicative": true` are ballpark figures, and
+`"start": { "precision": "city" }` means the pin is the host town rather than the start line.
+All three are labelled in the UI. Always confirm on the organiser's own site before booking a trip.
 
 ---
 
@@ -126,13 +141,28 @@ node scripts/collect.mjs --sources=runsignup --max-new=10
 |---|---|---|
 | `curated` | nie | Ręcznie pisane wpisy o najbardziej znanych biegach świata, weryfikowane na stronach organizatorów. |
 | `runsignup` | nie | [Otwarte API REST RunSignup](https://runsignup.com/API): terminy, współrzędne, opłaty startowe i linki do zapisów. Głównie Ameryka Północna. |
+| `ultrasignup` | nie | Kalendarz [UltraSignup](https://ultrasignup.com/), gdzie zapisuje się większość amerykańskich biegów trailowych i ultra. Dokładne współrzędne startu, bez opłat. |
+| `runraceusa` | nie | Codzienny zrzut [RunRaceUSA](https://runraceusa.com/api) na licencji CC BY 4.0, sam agregujący sześć platform zapisowych. Współrzędne to często tylko miejscowość — i tak są oznaczane. |
 | `wikidata` | nie | [Wikidata SPARQL](https://query.wikidata.org/): znane biegi z całego świata ze współrzędnymi, stronami oficjalnymi i artykułami Wikipedii. Data kolejnej edycji jest szacowana na podstawie ostatniej znanej. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude z wyszukiwaniem w sieci proponuje biegi, których nie mają otwarte API. Bez klucza źródło jest po prostu pomijane. |
 
 Nie istnieje jedno globalne API z biegami — Ahotu ani AIMS nie udostępniają publicznego —
 więc kolektor łączy kilka źródeł i scala wyniki według priorytetu
-(przy konflikcie `curated` > `runsignup` > `wikidata` > `ai-discovery`; źródła o niższym
-priorytecie i tak uzupełniają pola, których zwycięzca nie wypełnił).
+(przy konflikcie `curated` > `runsignup` > `ultrasignup` > `runraceusa` > `wikidata` >
+`ai-discovery`; źródła o niższym priorytecie i tak uzupełniają pola, których zwycięzca nie
+wypełnił). RunSignup stoi najwyżej wśród źródeł automatycznych, bo jako jedyne niesie opłaty
+startowe.
+
+Źródła dobieramy, sprawdzając je na żywo, a nie ufając dokumentacji:
+
+```bash
+node scripts/probe-sources.mjs             # wszystkie endpointy
+node scripts/probe-sources.mjs duv         # tylko jeden
+```
+
+Skrypt wypisuje status, kształt odpowiedzi i pierwszy rekord. To samo uruchamia się z zakładki
+Actions jako **Probe data sources** — przydaje się, gdy kolektor raportuje `fetched: 0` i trzeba
+wiedzieć, czy endpoint padł, czy tylko zmienił nazwy pól.
 
 ### Konfiguracja repozytorium
 

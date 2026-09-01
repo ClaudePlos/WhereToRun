@@ -2,6 +2,13 @@ export const LANGS = ['en', 'pl'];
 
 export const EVENT_TYPES = ['road', 'trail', 'ultra', 'stage', 'obstacle', 'track', 'other'];
 
+/**
+ * How much the start coordinates can be trusted. Some sources publish the exact
+ * start line, others only geocode the host town — a difference worth showing on
+ * a portal whose promise is a marked start point.
+ */
+export const START_PRECISIONS = ['exact', 'city'];
+
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const CURRENCY = /^[A-Z]{3}$/;
@@ -91,12 +98,16 @@ export function validateEvent(event) {
   if (!isPlainObject(event.start)) {
     errors.push('start: required object with lat/lon');
   } else {
-    const { lat, lon } = event.start;
+    const { lat, lon, precision } = event.start;
     if (typeof lat !== 'number' || Number.isNaN(lat) || lat < -90 || lat > 90) {
       errors.push(`start.lat: must be a number between -90 and 90 (${lat})`);
     }
     if (typeof lon !== 'number' || Number.isNaN(lon) || lon < -180 || lon > 180) {
       errors.push(`start.lon: must be a number between -180 and 180 (${lon})`);
+    }
+    // Optional; absent means the coordinates point at the start line itself.
+    if (precision != null && !START_PRECISIONS.includes(precision)) {
+      errors.push(`start.precision: must be one of ${START_PRECISIONS.join(', ')} (${precision})`);
     }
   }
 

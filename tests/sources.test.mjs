@@ -3,6 +3,17 @@ import assert from 'node:assert/strict';
 import { parseRaces, isInteresting } from '../scripts/sources/runsignup.mjs';
 import { parseBindings, parsePoint, nextEditionDate } from '../scripts/sources/wikidata.mjs';
 import { extractJsonArray } from '../scripts/sources/ai-discovery.mjs';
+import {
+  parseEvents as parseUltraSignup,
+  parseDistances as parseUltraSignupDistances,
+  isInteresting as isUltraSignupInteresting,
+} from '../scripts/sources/ultrasignup.mjs';
+import { findRecords } from '../scripts/probe-sources.mjs';
+import {
+  parseRaces as parseRunRaceUsa,
+  startPrecision,
+  isInteresting as isRunRaceUsaInteresting,
+} from '../scripts/sources/runraceusa.mjs';
 
 const today = new Date('2027-01-01T00:00:00Z');
 
@@ -145,4 +156,192 @@ test('AI discovery output survives prose around the JSON block', () => {
   assert.deepEqual(extractJsonArray(text), [{ name: 'Race' }]);
   assert.deepEqual(extractJsonArray('no json here'), []);
   assert.deepEqual(extractJsonArray('```json\n{ broken\n```'), []);
+});
+
+// --- UltraSignup ---------------------------------------------------------
+// Field names and value formats below are copied from a live probe run, not
+// invented: "9/4/2026" dates, coordinates as strings, free-text distances.
+
+const ultrasignupPayload = [
+  {
+    EventId: 8097,
+    EventDateId: 64538,
+    EventName: 'Bear Ridge 100 Mile',
+    EventDate: '9/4/2027',
+    EventDateEnd: '9/6/2027',
+    Distances: '100 Mile, 50K',
+    DistanceCategories: ' ultra',
+    City: 'Lennox',
+    State: 'SD',
+    Latitude: '43.2842',
+    Longitude: '-96.884',
+    EventWebsite: 'https://example.org/bear-ridge',
+    Cancelled: false,
+    VirtualEvent: false,
+  },
+  {
+    EventId: 2,
+    EventDateId: 2,
+    EventName: 'Timed Backyard Classic',
+    EventDate: '10/1/2027',
+    Distances: '48hrs, 36 Hour',
+    DistanceCategories: ' non ultra',
+    City: 'Austin',
+    State: 'TX',
+    Latitude: '30.2672',
+    Longitude: '-97.7431',
+    Cancelled: false,
+    VirtualEvent: false,
+  },
+  {
+    EventId: 3,
+    EventDateId: 3,
+    EventName: 'Sprint 10K',
+    EventDate: '10/2/2027',
+    Distances: '10K',
+    DistanceCategories: ' non ultra',
+    City: 'Reno',
+    State: 'NV',
+    Latitude: '39.5296',
+    Longitude: '-119.8138',
+    Cancelled: false,
+    VirtualEvent: false,
+  },
+  {
+    EventId: 4,
+    EventDateId: 4,
+    EventName: 'Cancelled 100K',
+    EventDate: '10/3/2027',
+    Distances: '100K',
+    City: 'Denver',
+    State: 'CO',
+    Latitude: '39.7392',
+    Longitude: '-104.9903',
+    Cancelled: true,
+    VirtualEvent: false,
+  },
+  {
+    EventId: 5,
+    EventDateId: 5,
+    EventName: 'Overseas 100K',
+    EventDate: '10/4/2027',
+    Distances: '100K',
+    City: 'Chamonix',
+    State: 'HautgSavoie',
+    Latitude: '45.9237',
+    Longitude: '6.8694',
+    Cancelled: false,
+    VirtualEvent: false,
+  },
+];
+
+test('ultrasignup keeps ultra and timed races, drops short, cancelled and non-US ones', () => {
+  const events = parseUltraSignup(ultrasignupPayload, { today });
+  assert.deepEqual(
+    events.map((event) => event.name),
+    ['Bear Ridge 100 Mile', 'Timed Backyard Classic'],
+  );
+});
+
+test('ultrasignup reads M/D/YYYY dates and string coordinates', () => {
+  const [race] = parseUltraSignup(ultrasignupPayload, { today });
+  assert.equal(race.date, '2027-09-04');
+  assert.equal(race.endDate, '2027-09-06');
+  assert.deepEqual(race.start, { lat: 43.2842, lon: -96.884, name: null, precision: 'exact' });
+  assert.equal(race.location.countryCode, 'US');
+  assert.equal(race.registrationUrl, 'https://ultrasignup.com/register.aspx?did=64538');
+});
+
+test('ultrasignup converts miles to kilometres and labels timed races by duration', () => {
+  assert.deepEqual(parseUltraSignupDistances('100 Mile, 50K').labels, ['160.9 km', '50 km']);
+  const timed = parseUltraSignupDistances('48hrs, 36 Hour');
+  assert.deepEqual(timed.labels, ['48 h', '36 h']);
+  assert.equal(timed.timedHours, 48);
+  assert.deepEqual(timed.km, []);
+});
+
+test('ultrasignup keeps unparseable distance text rather than dropping it', () => {
+  assert.deepEqual(parseUltraSignupDistances('Marathon, Backyard').labels, ['42.2 km', 'Backyard']);
+});
+
+test('"non ultra" does not count as an ultra category', () => {
+  assert.equal(isUltraSignupInteresting({ km: [10], timedHours: 0 }, ' non ultra'), false);
+  assert.equal(isUltraSignupInteresting({ km: [10], timedHours: 0 }, ' ultra'), true);
+});
+
+test('probe picks the record array over a short metadata array', () => {
+  // RunRaceUSA's dump carries a six-entry "sources" list next to its races.
+  const found = findRecords({ sources: ['a', 'b'], races: [{ name: 'X' }, { name: 'Y' }] });
+  assert.equal(found.path, '$.races');
+  assert.equal(found.rows.length, 2);
+});
+
+// --- RunRaceUSA ----------------------------------------------------------
+// Shape taken from a live probe of https://runraceusa.com/data/upcoming.json.
+
+const runRaceUsaPayload = {
+  window_days: 365,
+  sources: ['runsignup', 'raceroster'],
+  races: [
+    {
+      name: 'Prairie Ultra 50K',
+      date: '2027-05-15',
+      city: 'Dallas Center',
+      state: 'IA',
+      lat: 41.6853,
+      lng: -93.9659,
+      d: ['50K', '25K'],
+      url: 'https://raceroster.com/events/2027/1/prairie-ultra',
+      geo: 'city',
+      s: 'prairie-ultra-50k-ia',
+    },
+    {
+      name: 'Harbour Marathon',
+      date: '2027-06-01',
+      city: 'Portland',
+      state: 'ME',
+      lat: 43.6591,
+      lng: -70.2568,
+      d: ['Marathon'],
+      url: 'https://example.org/harbour',
+      geo: 'venue',
+      s: 'harbour-marathon-me',
+    },
+    {
+      name: 'Village Fun Run 5K',
+      date: '2027-06-02',
+      city: 'Nowhere',
+      state: 'KS',
+      lat: 39.0,
+      lng: -98.0,
+      d: ['5K'],
+      geo: 'city',
+      s: 'village-fun-run-ks',
+    },
+  ],
+};
+
+test('runraceusa keeps long races and drops the 5Ks that dominate the dump', () => {
+  const races = parseRunRaceUsa(runRaceUsaPayload, { today });
+  assert.deepEqual(races.map((race) => race.name), ['Prairie Ultra 50K', 'Harbour Marathon']);
+});
+
+test('runraceusa marks town-level coordinates as approximate', () => {
+  const [ultra, marathon] = parseRunRaceUsa(runRaceUsaPayload, { today });
+  assert.equal(ultra.start.precision, 'city');
+  assert.equal(marathon.start.precision, 'exact');
+});
+
+test('startPrecision only trusts "city" to mean a geocoded town', () => {
+  assert.equal(startPrecision('city'), 'city');
+  assert.equal(startPrecision('venue'), 'exact');
+  assert.equal(startPrecision(undefined), 'exact');
+});
+
+test('an empty distance list is not evidence of a long race', () => {
+  const empty = { labels: [], km: [], timedHours: 0 };
+  assert.equal(isRunRaceUsaInteresting('Some 5K', empty), false);
+  assert.equal(isRunRaceUsaInteresting('Desert Ultra', empty), true);
+  // A half marathon must not match on the word "marathon".
+  assert.equal(isRunRaceUsaInteresting('City Half-Marathon', empty), false);
 });

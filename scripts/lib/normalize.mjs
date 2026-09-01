@@ -1,7 +1,19 @@
 import { LANGS } from './schema.mjs';
 
-/** Higher wins when two sources describe the same race. */
-export const SOURCE_PRECEDENCE = { curated: 100, runsignup: 50, wikidata: 40, unknown: 0 };
+/**
+ * Higher wins when two sources describe the same race. RunSignup outranks
+ * UltraSignup because it is the only source carrying entry fees; UltraSignup
+ * outranks RunRaceUSA, whose coordinates are often only the host town, which in
+ * turn outranks Wikidata, whose dates are rolled forward from a past edition.
+ */
+export const SOURCE_PRECEDENCE = {
+  curated: 100,
+  runsignup: 50,
+  ultrasignup: 45,
+  runraceusa: 42,
+  wikidata: 40,
+  unknown: 0,
+};
 
 const COUNTRY_NAMES_PL = {
   AR: 'Argentyna', AT: 'Austria', AU: 'Australia', AQ: 'Antarktyda', BE: 'Belgia', BR: 'Brazylia',
@@ -103,7 +115,9 @@ export function buildContent(event, lang) {
     } else {
       lines.push('Opłata startowa: sprawdź na stronie organizatora.');
     }
-    lines.push('Miejsce startu zaznaczone na mapie poniżej.');
+    lines.push(event.start?.precision === 'city'
+      ? 'Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.'
+      : 'Miejsce startu zaznaczone na mapie poniżej.');
     return { summary: capitalize(summary), description: lines.join(' ') };
   }
 
@@ -118,7 +132,9 @@ export function buildContent(event, lang) {
   } else {
     lines.push('Entry fee: check with the organiser.');
   }
-  lines.push('The start location is marked on the map below.');
+  lines.push(event.start?.precision === 'city'
+    ? 'The map below shows the host town; check the organiser for the exact start line.'
+    : 'The start location is marked on the map below.');
   return { summary: capitalize(summary), description: lines.join(' ') };
 }
 
@@ -149,6 +165,7 @@ export function normalizeEvent(input, now = new Date()) {
       lat: round6(input.start?.lat),
       lon: round6(input.start?.lon),
       name: input.start?.name ?? null,
+      precision: input.start?.precision ?? 'exact',
     },
     fees: input.fees ?? [],
     links: input.links ?? [],
