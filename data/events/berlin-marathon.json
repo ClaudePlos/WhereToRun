@@ -1,0 +1,70 @@
+{
+  "content": {
+    "en": {
+      "description": "Berlin is the world record course: the pancake-flat loop through Tiergarten, Potsdamer Platz and the Brandenburg Gate has produced more marathon world records than any other race. Entry is by lottery (drawn the previous autumn), with charity and tour-operator places as the alternative routes in. Around 55,000 runners start on Straße des 17. Juni and finish under the Brandenburg Gate.",
+      "summary": "The flattest and fastest of the Marathon Majors — where most marathon world records fall."
+    },
+    "pl": {
+      "description": "Berlin to trasa rekordów świata: płaska pętla przez Tiergarten, Potsdamer Platz i Bramę Brandenburską dała więcej rekordów świata w maratonie niż jakikolwiek inny bieg. Wejście odbywa się przez losowanie (rozstrzygane jesienią roku poprzedniego), a alternatywą są pakiety charytatywne i biura podróży. Około 55 000 biegaczy startuje na Straße des 17. Juni, a meta znajduje się pod Bramą Brandenburską.",
+      "summary": "Najbardziej płaski i najszybszy z Majorsów — tu padają rekordy świata w maratonie."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 205,
+      "currency": "EUR",
+      "indicative": false,
+      "label": {
+        "en": "Standard entry (incl. 4-day transport ticket)",
+        "pl": "Pakiet standardowy (z 4-dniowym biletem komunikacji)"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Berlin_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "BMW BERLIN-MARATHON",
+  "registrationUrl": "https://www.bmw-berlin-marathon.com/en/registration/registration-information",
+  "slug": "berlin-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "berlin-marathon",
+    "url": "https://www.bmw-berlin-marathon.com/en/"
+  },
+  "start": {
+    "lat": 52.514444,
+    "lon": 13.350278,
+    "name": "Straße des 17. Juni, Tiergarten"
+  },
+  "tags": [
+    "europe",
+    "fast-course",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.bmw-berlin-marathon.com/en/"
+}

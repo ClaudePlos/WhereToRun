@@ -1,0 +1,79 @@
+{
+  "content": {
+    "en": {
+      "description": "New York starts on the Verrazzano-Narrows Bridge above the harbour and crosses all five boroughs before finishing in Central Park. It is the largest marathon in the world by finishers and the loudest — First Avenue after the Queensboro Bridge is a wall of sound. The course is honest rather than fast: the bridges roll, and the final miles climb through Central Park.",
+      "summary": "The biggest marathon on earth: five boroughs, five bridges, two million spectators."
+    },
+    "pl": {
+      "description": "Nowy Jork startuje na moście Verrazzano-Narrows nad zatoką i przecina wszystkie pięć dzielnic, by zakończyć bieg w Central Parku. To największy maraton świata pod względem liczby biegaczy na mecie i jednocześnie najgłośniejszy — First Avenue za mostem Queensboro to ściana dźwięku. Trasa jest wymagająca, nie szybka: mosty falują, a ostatnie kilometry pną się przez Central Park.",
+      "summary": "Największy maraton świata: pięć dzielnic, pięć mostów, dwa miliony kibiców."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 333.11,
+      "currency": "USD",
+      "indicative": false,
+      "label": {
+        "en": "Non-member entry",
+        "pl": "Opłata bez członkostwa NYRR"
+      }
+    },
+    {
+      "amount": 269.66,
+      "currency": "USD",
+      "indicative": false,
+      "label": {
+        "en": "NYRR member entry",
+        "pl": "Opłata dla członków NYRR"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/New_York_City_Marathon"
+    }
+  ],
+  "location": {
+    "city": "New York City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "New York"
+  },
+  "manual": false,
+  "name": "TCS New York City Marathon",
+  "registrationUrl": null,
+  "slug": "new-york-city-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "new-york-city-marathon",
+    "url": "https://www.nyrr.org/tcsnycmarathon"
+  },
+  "start": {
+    "lat": 40.605833,
+    "lon": -74.056944,
+    "name": "Fort Wadsworth, Staten Island"
+  },
+  "tags": [
+    "iconic",
+    "north-america",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.nyrr.org/tcsnycmarathon"
+}

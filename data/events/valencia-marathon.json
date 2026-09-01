@@ -1,0 +1,70 @@
+{
+  "content": {
+    "en": {
+      "description": "Valencia has become the personal-best factory of European marathoning — flat, sheltered, run in ideal December temperatures, with pacing groups for every target time. The finish is unique: a blue carpet laid across a footbridge over the lake at the City of Arts and Sciences. Places sell out months ahead, so plan the entry well before autumn.",
+      "summary": "Europe’s fastest non-Major: flat, cool December weather and a finish on a bridge over water."
+    },
+    "pl": {
+      "description": "Walencja stała się fabryką życiówek europejskiego maratonu — płasko, osłonięcie od wiatru, idealne grudniowe temperatury i pacemakerzy na każdy czas docelowy. Meta jest wyjątkowa: niebieski dywan rozłożony na kładce nad taflą wody w Mieście Sztuki i Nauki. Pakiety wyprzedają się na miesiące przed biegiem, więc zapisy warto zaplanować jeszcze przed jesienią.",
+      "summary": "Najszybszy europejski maraton spoza Majorsów: płasko, chłodny grudzień i meta na moście nad wodą."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 115,
+      "currency": "EUR",
+      "indicative": true,
+      "label": {
+        "en": "Standard entry",
+        "pl": "Opłata standardowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Valencia_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Valencia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Maratón Valencia Trinidad Alfonso",
+  "registrationUrl": null,
+  "slug": "valencia-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "valencia-marathon",
+    "url": "https://www.valenciaciudaddelrunning.com/en/marathon/"
+  },
+  "start": {
+    "lat": 39.4545,
+    "lon": -0.351,
+    "name": "Ciudad de las Artes y las Ciencias"
+  },
+  "tags": [
+    "europe",
+    "fast-course",
+    "pb-hunting",
+    "road"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.valenciaciudaddelrunning.com/en/marathon/"
+}

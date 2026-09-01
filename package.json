@@ -1,0 +1,23 @@
+{
+  "name": "wheretorun",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "collect": "node scripts/collect.mjs",
+    "collect:dry": "node scripts/collect.mjs --dry-run",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "astro": "^5.14.1",
+    "playwright": "^1.62.1"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.123.0",
+    "leaflet": "^1.9.4"
+  }
+}

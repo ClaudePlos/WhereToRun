@@ -1,0 +1,71 @@
+{
+  "content": {
+    "en": {
+      "description": "UTMB circles the Mont Blanc massif through three countries, and the fastest runners take just over 19 hours while most spend two nights on the trail. Entry requires Running Stones earned at qualifying UTMB World Series races, then a lottery on top. Race week in Chamonix also hosts CCC, OCC, TDS and PTL, so a start line is realistically reachable at several distances. The 2027 date follows the usual late-August pattern — confirm when the calendar is published.",
+      "summary": "The world championship of trail running: 171 km and 10,000 m of climbing around Mont Blanc, through France, Italy and Switzerland."
+    },
+    "pl": {
+      "description": "UTMB okrąża masyw Mont Blanc przez trzy kraje — najszybsi pokonują trasę w nieco ponad 19 godzin, większość spędza na szlaku dwie noce. Wejście wymaga zdobycia Running Stones w kwalifikacyjnych biegach UTMB World Series, a następnie wylosowania miejsca. W tygodniu startowym w Chamonix rozgrywane są też CCC, OCC, TDS i PTL, więc realnie można wybrać jeden z kilku dystansów. Data 2027 wynika ze stałego wzorca końca sierpnia — potwierdź po publikacji kalendarza.",
+      "summary": "Nieoficjalne mistrzostwa świata w biegach górskich: 171 km i 10 000 m przewyższenia wokół Mont Blanc, przez Francję, Włochy i Szwajcarię."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-08-27",
+  "dateStatus": "estimated",
+  "distances": [
+    "171 km / 10 000 m D+"
+  ],
+  "endDate": "2027-08-29",
+  "featured": true,
+  "fees": [
+    {
+      "amount": 400,
+      "currency": "EUR",
+      "indicative": true,
+      "label": {
+        "en": "UTMB 171 km entry",
+        "pl": "Opłata za UTMB 171 km"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "All races of the week",
+        "pl": "Wszystkie biegi tygodnia"
+      },
+      "url": "https://montblanc.utmb.world/races"
+    }
+  ],
+  "location": {
+    "city": "Chamonix-Mont-Blanc",
+    "country": "France",
+    "countryCode": "FR",
+    "region": null
+  },
+  "manual": false,
+  "name": "UTMB Mont-Blanc",
+  "registrationUrl": "https://utmb.world/open-registrations",
+  "slug": "utmb-mont-blanc",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "utmb-mont-blanc",
+    "url": "https://montblanc.utmb.world/"
+  },
+  "start": {
+    "lat": 45.923611,
+    "lon": 6.869444,
+    "name": "Place du Triangle de l’Amitié, Chamonix"
+  },
+  "tags": [
+    "bucket-list",
+    "europe",
+    "mountains",
+    "trail",
+    "ultra"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://montblanc.utmb.world/"
+}

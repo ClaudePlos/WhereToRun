@@ -1,0 +1,72 @@
+{
+  "content": {
+    "en": {
+      "description": "The course leaves Yin and Yang Square, climbs onto the Huangyaguan section of the Great Wall, drops into surrounding villages and farmland, then returns to the Wall for a second pass. There are 5,164 steps in total and finishing times run one to two hours slower than a runner’s road marathon. Entries are typically sold as travel packages through official partners rather than as a standalone bib.",
+      "summary": "5,164 steps on the Great Wall of China, twice, in May humidity."
+    },
+    "pl": {
+      "description": "Trasa wychodzi z Placu Yin i Yang, wspina się na odcinek Huangyaguan Wielkiego Muru, schodzi do okolicznych wiosek i pól, a następnie wraca na Mur na drugie przejście. Do pokonania jest łącznie 5164 stopni, a czasy na mecie bywają o jedną–dwie godziny gorsze od maratonu ulicznego. Zapisy sprzedawane są zwykle w formie pakietów turystycznych u oficjalnych partnerów, a nie jako sam numer startowy.",
+      "summary": "5164 stopnie na Wielkim Murze Chińskim, dwa razy, w majowej wilgotności."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-05-15",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "8.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [
+    {
+      "amount": 1300,
+      "currency": "EUR",
+      "indicative": true,
+      "label": {
+        "en": "Entry incl. travel package",
+        "pl": "Pakiet startowy z podróżą"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Great_Wall_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Huangyaguan, Tianjin",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Great Wall Marathon",
+  "registrationUrl": null,
+  "slug": "great-wall-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "great-wall-marathon",
+    "url": "https://great-wall-marathon.com/"
+  },
+  "start": {
+    "lat": 40.1075,
+    "lon": 117.502778,
+    "name": "Yin and Yang Square, Huangyaguan Great Wall"
+  },
+  "tags": [
+    "asia",
+    "bucket-list",
+    "hilly",
+    "stairs"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://great-wall-marathon.com/"
+}

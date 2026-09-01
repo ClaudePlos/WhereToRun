@@ -1,0 +1,79 @@
+{
+  "content": {
+    "en": {
+      "description": "Tokyo runs from the Metropolitan Government Building in Shinjuku past Asakusa’s Kaminarimon gate and the Imperial Palace to a finish near Tokyo Station. Runners consistently rate it the best-organised marathon in the world — aid stations, toilets and crowd control are all handled with a precision no other Major matches. Entry is dominated by a heavily oversubscribed lottery held the previous summer.",
+      "summary": "The most orderly Major: immaculate organisation, deep crowds and a flat, fast city course."
+    },
+    "pl": {
+      "description": "Tokio startuje przy Budynku Rządu Metropolitalnego w Shinjuku i prowadzi obok bramy Kaminarimon w Asakusie oraz Pałacu Cesarskiego do mety w okolicy Dworca Tokijskiego. Biegacze regularnie oceniają go jako najlepiej zorganizowany maraton świata — punkty odżywcze, toalety i obsługa tłumu działają z precyzją, której nie dorównuje żaden inny Major. Wejście odbywa się głównie przez wielokrotnie przewyższone losowanie latem roku poprzedniego.",
+      "summary": "Najbardziej poukładany Major: wzorowa organizacja, gęsty doping i płaska, szybka trasa przez miasto."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 16500,
+      "currency": "JPY",
+      "indicative": true,
+      "label": {
+        "en": "Domestic entry",
+        "pl": "Opłata krajowa"
+      }
+    },
+    {
+      "amount": 25000,
+      "currency": "JPY",
+      "indicative": true,
+      "label": {
+        "en": "Overseas entry",
+        "pl": "Opłata zagraniczna"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Entry information",
+        "pl": "Informacje o zapisach"
+      },
+      "url": "https://www.marathon.tokyo/en/participants/guideline/"
+    }
+  ],
+  "location": {
+    "city": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tokyo Marathon",
+  "registrationUrl": "https://www.marathon.tokyo/en/participants/",
+  "slug": "tokyo-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "tokyo-marathon",
+    "url": "https://www.marathon.tokyo/en/"
+  },
+  "start": {
+    "lat": 35.689444,
+    "lon": 139.691667,
+    "name": "Tokyo Metropolitan Government Building, Shinjuku"
+  },
+  "tags": [
+    "asia",
+    "iconic",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.marathon.tokyo/en/"
+}

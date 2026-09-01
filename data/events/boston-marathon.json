@@ -1,0 +1,80 @@
+{
+  "content": {
+    "en": {
+      "description": "Run every Patriots’ Day since 1897, Boston is a point-to-point course from rural Hopkinton to Boylston Street in the city. The profile is deceptive: a fast downhill opening that wrecks quads, then the Newton hills and Heartbreak Hill after 30 km. Almost all entries require a qualifying time, and in recent years the standard alone has not been enough — a cushion under the qualifier is needed. The date shown is the expected Patriots’ Day; confirm with the B.A.A.",
+      "summary": "The oldest annual marathon in the world — and the one you have to earn with a qualifying time."
+    },
+    "pl": {
+      "description": "Rozgrywany w każdy Dzień Patriotów od 1897 roku Boston to trasa z punktu do punktu: z wiejskiego Hopkinton na Boylston Street w centrum miasta. Profil jest zdradliwy: szybki zbieg na starcie niszczy uda, a po 30. kilometrze czekają wzniesienia Newton i Heartbreak Hill. Niemal wszystkie miejsca wymagają minimum czasowego, a w ostatnich latach samo minimum nie wystarczało — potrzebny jest zapas. Podana data to spodziewany Dzień Patriotów; potwierdź ją u organizatora B.A.A.",
+      "summary": "Najstarszy cyklicznie rozgrywany maraton świata — i jedyny Major, na który trzeba wybiegać minimum."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-04-19",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 250,
+      "currency": "USD",
+      "indicative": true,
+      "label": {
+        "en": "US entry",
+        "pl": "Opłata dla biegaczy z USA"
+      }
+    },
+    {
+      "amount": 285,
+      "currency": "USD",
+      "indicative": true,
+      "label": {
+        "en": "International entry",
+        "pl": "Opłata międzynarodowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Boston_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Hopkinton to Boston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "Massachusetts"
+  },
+  "manual": false,
+  "name": "Boston Marathon",
+  "registrationUrl": "https://www.baa.org/races/boston-marathon/qualify/",
+  "slug": "boston-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "boston-marathon",
+    "url": "https://www.baa.org/races/boston-marathon/"
+  },
+  "start": {
+    "lat": 42.228611,
+    "lon": -71.522778,
+    "name": "Main Street, Hopkinton"
+  },
+  "tags": [
+    "historic",
+    "north-america",
+    "qualifier-only",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.baa.org/races/boston-marathon/"
+}

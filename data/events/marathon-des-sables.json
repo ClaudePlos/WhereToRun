@@ -1,0 +1,72 @@
+{
+  "content": {
+    "en": {
+      "description": "The Marathon des Sables is the archetypal self-supported stage race: runners carry all their food and equipment for the week, with only water rations and a communal bivouac tent provided. One stage is a non-stop long leg of 80–90 km. Sand dunes, dry riverbeds and rocky jebels are covered in daytime temperatures that regularly pass 45 °C. Dates move between spring and winter editions, so verify the exact window with the organiser.",
+      "summary": "Six stages, ~250 km across the Sahara, carrying your own food and sleeping bag in 45 °C heat."
+    },
+    "pl": {
+      "description": "Marathon des Sables to wzorcowy bieg etapowy w formule samowystarczalnej: zawodnicy niosą całe jedzenie i wyposażenie na cały tydzień, a organizator zapewnia jedynie racje wody i wspólny namiot w biwaku. Jeden z etapów to długi, nieprzerwany odcinek 80–90 km. Wydmy, wyschnięte koryta rzek i skaliste dżebele pokonuje się w temperaturach regularnie przekraczających 45 °C. Terminy przesuwają się między edycją wiosenną a zimową, więc potwierdź dokładne okno u organizatora.",
+      "summary": "Sześć etapów, ~250 km przez Saharę, z własnym jedzeniem i śpiworem na plecach, w 45 °C."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-04-10",
+  "dateStatus": "estimated",
+  "distances": [
+    "~250 km / 6 stages"
+  ],
+  "endDate": "2027-04-20",
+  "featured": true,
+  "fees": [
+    {
+      "amount": 5400,
+      "currency": "EUR",
+      "indicative": true,
+      "label": {
+        "en": "Entry incl. logistics and flights from Europe",
+        "pl": "Pakiet z logistyką i lotami z Europy"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Marathon_des_Sables"
+    }
+  ],
+  "location": {
+    "city": "Ouarzazate, Sahara",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Marathon des Sables",
+  "registrationUrl": null,
+  "slug": "marathon-des-sables",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "marathon-des-sables",
+    "url": "https://marathondessables.com/en/"
+  },
+  "start": {
+    "lat": 30.919722,
+    "lon": -6.893333,
+    "name": "Sahara bivouac near Ouarzazate (varies yearly)"
+  },
+  "tags": [
+    "africa",
+    "desert",
+    "extreme",
+    "self-supported",
+    "stage",
+    "ultra"
+  ],
+  "type": "stage",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://marathondessables.com/en/"
+}

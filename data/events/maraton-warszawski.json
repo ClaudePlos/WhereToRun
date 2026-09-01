@@ -1,0 +1,69 @@
+{
+  "content": {
+    "en": {
+      "description": "The Warsaw Marathon is the largest race of its kind in Poland, drawing well over 10,000 runners through the city centre, Praga on the right bank of the Vistula, and back past the Palace of Culture. The course is flat with a handful of bridge ramps, and late September usually delivers good running temperatures. Verify the exact date and start location with the organiser, as both have shifted between editions.",
+      "summary": "Poland’s biggest marathon: a September loop through central Warsaw and across the Vistula."
+    },
+    "pl": {
+      "description": "Maraton Warszawski to największy bieg tej rangi w Polsce — na trasę przez centrum, prawobrzeżną Pragę i z powrotem obok Pałacu Kultury wyrusza grubo ponad 10 000 biegaczy. Trasa jest płaska, z kilkoma podjazdami na mosty, a koniec września zwykle daje dobre warunki do biegania. Dokładną datę i miejsce startu potwierdź u organizatora — obie rzeczy zmieniały się między edycjami.",
+      "summary": "Największy maraton w Polsce: wrześniowa pętla przez centrum Warszawy i przez Wisłę."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-09-27",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [
+    {
+      "amount": 220,
+      "currency": "PLN",
+      "indicative": true,
+      "label": {
+        "en": "Standard entry",
+        "pl": "Opłata standardowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia (PL)",
+        "pl": "Wikipedia"
+      },
+      "url": "https://pl.wikipedia.org/wiki/Maraton_Warszawski"
+    }
+  ],
+  "location": {
+    "city": "Warszawa",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Maraton Warszawski",
+  "registrationUrl": null,
+  "slug": "maraton-warszawski",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "maraton-warszawski",
+    "url": "https://maratonwarszawski.com/"
+  },
+  "start": {
+    "lat": 52.231944,
+    "lon": 21.005833,
+    "name": "Plac Defilad"
+  },
+  "tags": [
+    "europe",
+    "poland",
+    "road"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://maratonwarszawski.com/"
+}

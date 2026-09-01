@@ -1,0 +1,79 @@
+{
+  "content": {
+    "en": {
+      "description": "London goes from Blackheath through Greenwich, over Tower Bridge and along the Embankment to a finish on The Mall. It raises more money for charity than any other single-day sporting event on earth, and the costume-and-crowd atmosphere is unmatched. The 2027 edition is a one-off two-day format across Saturday 24 and Sunday 25 April, taking the field to roughly 100,000 runners.",
+      "summary": "The world’s greatest fundraising race — and in 2027 it runs across two days for the first time."
+    },
+    "pl": {
+      "description": "Londyn prowadzi z Blackheath przez Greenwich, przez Tower Bridge i wzdłuż Embankment do mety na The Mall. Zbiera na cele charytatywne więcej niż jakiekolwiek inne jednodniowe wydarzenie sportowe na świecie, a atmosfera przebrań i dopingu nie ma sobie równych. Edycja 2027 to jednorazowy format dwudniowy w sobotę 24 i niedzielę 25 kwietnia, co podnosi limit do około 100 000 biegaczy.",
+      "summary": "Największy charytatywny bieg świata — a w 2027 roku po raz pierwszy rozegrany przez dwa dni."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": "2027-04-25",
+  "featured": true,
+  "fees": [
+    {
+      "amount": 79.99,
+      "currency": "GBP",
+      "indicative": true,
+      "label": {
+        "en": "UK ballot entry",
+        "pl": "Opłata z losowania (UK)"
+      }
+    },
+    {
+      "amount": 185,
+      "currency": "GBP",
+      "indicative": true,
+      "label": {
+        "en": "International ballot entry",
+        "pl": "Opłata z losowania (międzynarodowa)"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/London_Marathon"
+    }
+  ],
+  "location": {
+    "city": "London",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "TCS London Marathon",
+  "registrationUrl": null,
+  "slug": "london-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "london-marathon",
+    "url": "https://www.londonmarathonevents.co.uk/london-marathon"
+  },
+  "start": {
+    "lat": 51.4695,
+    "lon": 0.0088,
+    "name": "Blackheath, Greenwich"
+  },
+  "tags": [
+    "charity",
+    "europe",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.londonmarathonevents.co.uk/london-marathon"
+}

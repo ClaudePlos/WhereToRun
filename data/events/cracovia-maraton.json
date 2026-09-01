@@ -1,0 +1,70 @@
+{
+  "content": {
+    "en": {
+      "description": "Cracovia Maraton runs past Wawel Castle, through the Kazimierz quarter and around the Old Town, with a finish traditionally on the Main Market Square. April weather is variable but usually cool enough for a fast time, and the historic backdrop makes it one of the most photogenic marathons in Central Europe. Confirm the date, which moves within the first half of April.",
+      "summary": "A spring marathon through one of Europe’s best-preserved medieval city centres."
+    },
+    "pl": {
+      "description": "Cracovia Maraton prowadzi obok Wawelu, przez Kazimierz i wokół Starego Miasta, a meta tradycyjnie znajduje się na Rynku Głównym. Kwietniowa pogoda bywa zmienna, ale zwykle jest wystarczająco chłodno na dobry czas, a historyczna sceneria czyni z niego jeden z najbardziej fotogenicznych maratonów Europy Środkowej. Potwierdź termin — bieg przesuwa się w obrębie pierwszej połowy kwietnia.",
+      "summary": "Wiosenny maraton przez jedno z najlepiej zachowanych średniowiecznych centrów Europy."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-04-11",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [
+    {
+      "amount": 200,
+      "currency": "PLN",
+      "indicative": true,
+      "label": {
+        "en": "Standard entry",
+        "pl": "Opłata standardowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia (PL)",
+        "pl": "Wikipedia"
+      },
+      "url": "https://pl.wikipedia.org/wiki/Cracovia_Maraton"
+    }
+  ],
+  "location": {
+    "city": "Kraków",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Cracovia Maraton",
+  "registrationUrl": null,
+  "slug": "cracovia-maraton",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "cracovia-maraton",
+    "url": "https://www.cracoviamaraton.pl/"
+  },
+  "start": {
+    "lat": 50.06465,
+    "lon": 19.944979,
+    "name": "Rynek Główny / Aleje Trzech Wieszczów"
+  },
+  "tags": [
+    "europe",
+    "poland",
+    "road",
+    "scenic"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.cracoviamaraton.pl/"
+}

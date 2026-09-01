@@ -1,0 +1,100 @@
+---
+import Base from '../layouts/Base.astro';
+import { useTranslations } from '../lib/i18n.js';
+import { allEvents, collectionMeta } from '../lib/events.js';
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const sources = collectionMeta?.sources ?? {};
+const bySource = allEvents.reduce((acc, event) => {
+  acc[event.source.id] = (acc[event.source.id] ?? 0) + 1;
+  return acc;
+}, {});
+
+const copy = {
+  en: {
+    intro: 'WhereToRun is a static, bilingual guide to running events worth travelling for. Every entry carries the date, the location, the entry fee where it is published, links to the organiser, and an OpenStreetMap map with the start line marked.',
+    howTitle: 'How it stays up to date',
+    how: 'A GitHub Actions workflow runs three times a day (06:00, 13:00 and 20:00 UTC). It queries the data sources below, normalises what it finds, validates it against a schema, and commits new or changed entries straight into this repository. The commit triggers a rebuild and the site redeploys itself — no server and no database involved.',
+    sourcesTitle: 'Where the data comes from',
+    accuracyTitle: 'On accuracy',
+    accuracy: 'Dates marked with a tilde are estimated from the usual pattern of an event rather than confirmed by the organiser. Fees shown with ≈ are indicative: currencies, tiers and deadlines change constantly, so always confirm on the organiser’s own site before you plan a trip.',
+    contributeTitle: 'Corrections and additions',
+    contribute: 'Every event is one JSON file in data/events. Fix a fact or add a race with a pull request; set "manual": true on an entry and the automated collector will never overwrite it.',
+  },
+  pl: {
+    intro: 'WhereToRun to statyczny, dwujęzyczny przewodnik po biegach, dla których warto wsiąść w samolot. Każdy wpis zawiera termin, lokalizację, opłatę startową (jeśli jest opublikowana), linki do organizatora oraz mapę OpenStreetMap z zaznaczonym miejscem startu.',
+    howTitle: 'Jak to się aktualizuje',
+    how: 'Workflow GitHub Actions uruchamia się trzy razy dziennie (06:00, 13:00 i 20:00 UTC). Odpytuje źródła wymienione niżej, normalizuje dane, sprawdza je względem schematu i commituje nowe lub zmienione wpisy prosto do tego repozytorium. Commit uruchamia przebudowę i strona wdraża się sama — bez serwera i bez bazy danych.',
+    sourcesTitle: 'Skąd pochodzą dane',
+    accuracyTitle: 'O dokładności danych',
+    accuracy: 'Daty oznaczone tyldą są szacowane na podstawie typowego terminu biegu, a nie potwierdzone przez organizatora. Opłaty z symbolem ≈ są orientacyjne: waluty, progi cenowe i terminy zmieniają się nieustannie, więc przed zaplanowaniem wyjazdu zawsze sprawdź je na stronie organizatora.',
+    contributeTitle: 'Poprawki i nowe biegi',
+    contribute: 'Każdy bieg to jeden plik JSON w katalogu data/events. Popraw fakt albo dodaj bieg przez pull request; ustaw "manual": true, a automat nigdy nie nadpisze takiego wpisu.',
+  },
+}[lang];
+
+const sourceInfo = {
+  curated: {
+    en: 'Hand-written entries for the world’s best-known races, verified against organiser websites.',
+    pl: 'Ręcznie pisane wpisy o najbardziej znanych biegach świata, weryfikowane na stronach organizatorów.',
+    url: 'https://github.com/ClaudePlos/WhereToRun/tree/main/scripts/sources',
+  },
+  runsignup: {
+    en: 'RunSignup’s open REST API — dates, coordinates, entry fees and registration links, mostly North America.',
+    pl: 'Otwarte API REST RunSignup — terminy, współrzędne, opłaty startowe i linki do zapisów, głównie Ameryka Północna.',
+    url: 'https://runsignup.com/API',
+  },
+  wikidata: {
+    en: 'Wikidata SPARQL — notable races worldwide with coordinates, official sites and Wikipedia articles.',
+    pl: 'Wikidata SPARQL — znane biegi z całego świata ze współrzędnymi, stronami oficjalnymi i artykułami Wikipedii.',
+    url: 'https://query.wikidata.org/',
+  },
+  'ai-discovery': {
+    en: 'Optional: Claude with web search proposes races the open APIs miss. Runs only when an API key is configured.',
+    pl: 'Opcjonalnie: Claude z wyszukiwaniem w sieci proponuje biegi, których nie mają otwarte API. Działa tylko z kluczem API.',
+    url: 'https://docs.claude.com/en/docs/build-with-claude/tool-use/web-search-tool',
+  },
+};
+---
+
+<Base lang={lang} path="/about/" title={t('about.title')} description={copy.intro}>
+  <article class="wrap page">
+    <h1>{t('about.title')}</h1>
+    <p class="lede">{copy.intro}</p>
+
+    <h2>{copy.howTitle}</h2>
+    <p>{copy.how}</p>
+
+    <h2>{copy.sourcesTitle}</h2>
+    <ul class="sources">
+      {Object.entries(sourceInfo).map(([id, info]) => (
+        <li>
+          <a href={info.url} rel="noopener"><strong>{id}</strong></a>
+          {bySource[id] ? <span class="badge">{bySource[id]}</span> : null}
+          {sources[id]?.error ? <span class="badge">⚠</span> : null}
+          <p>{info[lang]}</p>
+        </li>
+      ))}
+    </ul>
+
+    <h2>{copy.accuracyTitle}</h2>
+    <p>{copy.accuracy}</p>
+
+    <h2>{copy.contributeTitle}</h2>
+    <p>{copy.contribute}</p>
+  </article>
+</Base>
+
+<style>
+  .page { padding: 2.5rem 0; max-width: 760px; }
+  .lede { font-size: 1.1rem; color: var(--muted); }
+  h2 { margin-top: 2.4rem; }
+  .sources { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 1rem; }
+  .sources li {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 1rem 1.1rem;
+  }
+  .sources li p { margin: 0.4rem 0 0; font-size: 0.94rem; color: var(--muted); }
+  .sources .badge { margin-left: 0.5rem; }
+</style>

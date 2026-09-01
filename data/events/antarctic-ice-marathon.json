@@ -1,0 +1,71 @@
+{
+  "content": {
+    "en": {
+      "description": "Held at Union Glacier, a few hundred kilometres from the South Pole, this is the only marathon run on the Antarctic mainland interior. Runners fly in from Punta Arenas on a chartered aircraft, sleep in a polar camp and race in temperatures around −20 °C with katabatic wind. The field is capped at around 60 people and the price reflects the flights and camp logistics, not the race itself.",
+      "summary": "The southernmost marathon on the planet, run at 80° South on snow and ice."
+    },
+    "pl": {
+      "description": "Bieg odbywa się na lodowcu Union, kilkaset kilometrów od bieguna południowego, i jest jedynym maratonem rozgrywanym w głębi kontynentu antarktycznego. Zawodnicy lecą czarterem z Punta Arenas, śpią w obozie polarnym i ścigają się w temperaturze około −20 °C przy wietrze katabatycznym. Limit to około 60 osób, a cena wynika z lotów i logistyki obozu, nie z samych zawodów.",
+      "summary": "Najbardziej wysunięty na południe maraton świata, biegany na 80° szerokości południowej po śniegu i lodzie."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 24500,
+      "currency": "EUR",
+      "indicative": true,
+      "label": {
+        "en": "Entry incl. flights from Punta Arenas and camp logistics",
+        "pl": "Pakiet z lotami z Punta Arenas i logistyką obozu"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Schedule and prices",
+        "pl": "Terminarz i ceny"
+      },
+      "url": "https://icemarathon.com/schedule-and-prices"
+    }
+  ],
+  "location": {
+    "city": "Union Glacier",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Antarctic Ice Marathon",
+  "registrationUrl": null,
+  "slug": "antarctic-ice-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "antarctic-ice-marathon",
+    "url": "https://www.icemarathon.com/"
+  },
+  "start": {
+    "lat": -79.766667,
+    "lon": -83.266667,
+    "name": "Union Glacier Camp"
+  },
+  "tags": [
+    "antarctica",
+    "bucket-list",
+    "cold",
+    "extreme"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.icemarathon.com/"
+}

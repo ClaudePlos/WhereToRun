@@ -1,0 +1,72 @@
+{
+  "content": {
+    "en": {
+      "description": "Tromsø sits 350 km north of the Arctic Circle, and in late June the sun simply does not set. The marathon starts in the evening so that runners cross the Tromsø Bridge and the island coastline in bright night light, with the Lyngen Alps across the water. Cool temperatures near 10 °C make it a surprisingly comfortable race despite the unusual hour.",
+      "summary": "A marathon started at 20:30 inside the Arctic Circle, run in full daylight at midnight."
+    },
+    "pl": {
+      "description": "Tromsø leży 350 km na północ od koła podbiegunowego, a pod koniec czerwca słońce po prostu nie zachodzi. Maraton startuje wieczorem, dzięki czemu most Tromsø i wybrzeże wyspy pokonuje się w jasnym nocnym świetle, z widokiem na Alpy Lyngen po drugiej stronie fiordu. Chłodne, około 10-stopniowe warunki sprawiają, że mimo nietypowej pory biegnie się zaskakująco komfortowo.",
+      "summary": "Maraton ze startem o 20:30 za kołem podbiegunowym, biegany w pełnym świetle o północy."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-06-19",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [
+    {
+      "amount": 950,
+      "currency": "NOK",
+      "indicative": true,
+      "label": {
+        "en": "Marathon entry",
+        "pl": "Opłata za maraton"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Midnight_Sun_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Tromsø",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Midnight Sun Marathon",
+  "registrationUrl": null,
+  "slug": "midnight-sun-marathon-tromso",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "midnight-sun-marathon-tromso",
+    "url": "https://msm.no/en/"
+  },
+  "start": {
+    "lat": 69.649167,
+    "lon": 18.955833,
+    "name": "Tromsø city centre"
+  },
+  "tags": [
+    "arctic",
+    "europe",
+    "night-race",
+    "scenic"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://msm.no/en/"
+}

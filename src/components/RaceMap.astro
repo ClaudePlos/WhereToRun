@@ -1,0 +1,91 @@
+---
+/**
+ * Leaflet map on OpenStreetMap tiles. Used both for the single start marker on an
+ * event page and for the world overview on the listing pages.
+ */
+const { points = [], zoom = 13, height = '380px', attribution } = Astro.props;
+const config = { points, zoom, fit: points.length > 1 };
+---
+
+<div class="race-map" style={`height:${height}`} data-race-map>
+  <script type="application/json" set:html={JSON.stringify(config)}></script>
+</div>
+{attribution && <p class="map-note muted">{attribution}</p>}
+
+<style>
+  .race-map {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface-2);
+    overflow: hidden;
+  }
+  .map-note { font-size: 0.8rem; margin-top: 0.5rem; }
+</style>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  const pin = L.divIcon({
+    className: 'race-pin',
+    html: '<span class="race-pin-dot"></span>',
+    iconSize: [18, 18],
+    iconAnchor: [9, 9],
+    popupAnchor: [0, -10],
+  });
+
+  function escapeHtml(value) {
+    return String(value ?? '').replace(/[&<>"']/g, (char) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    })[char]);
+  }
+
+  function popupHtml(point) {
+    const title = escapeHtml(point.title);
+    const heading = point.href ? `<a href="${escapeHtml(point.href)}">${title}</a>` : title;
+    const sub = point.subtitle ? `<div class="race-popup-sub">${escapeHtml(point.subtitle)}</div>` : '';
+    return `<div class="race-popup"><strong>${heading}</strong>${sub}</div>`;
+  }
+
+  function initMap(container) {
+    const payload = container.querySelector('script[type="application/json"]');
+    if (!payload) return;
+    const { points, zoom, fit } = JSON.parse(payload.textContent);
+    if (!points.length) return;
+
+    const map = L.map(container, { scrollWheelZoom: false }).setView([points[0].lat, points[0].lon], zoom);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+
+    const markers = points.map((point) =>
+      L.marker([point.lat, point.lon], { icon: pin, title: point.title })
+        .addTo(map)
+        .bindPopup(popupHtml(point)),
+    );
+
+    if (fit) {
+      map.fitBounds(L.featureGroup(markers).getBounds(), { padding: [40, 40], maxZoom: 6 });
+    }
+    // The container is hidden until Leaflet measures it correctly after layout.
+    requestAnimationFrame(() => map.invalidateSize());
+  }
+
+  document.querySelectorAll('[data-race-map]').forEach(initMap);
+</script>
+
+<style is:global>
+  .race-pin-dot {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 3px solid var(--surface);
+    box-shadow: 0 1px 6px rgb(0 0 0 / 0.35);
+  }
+  .race-popup { font-size: 0.9rem; }
+  .race-popup-sub { color: var(--muted); margin-top: 0.15rem; }
+</style>

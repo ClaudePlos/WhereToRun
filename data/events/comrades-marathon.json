@@ -1,0 +1,71 @@
+{
+  "content": {
+    "en": {
+      "description": "Comrades is the world’s largest and oldest ultramarathon, run since 1921 between Durban and Pietermaritzburg. The direction alternates each year — the “up run” climbs about 800 m net, the “down run” punishes the quads instead. A hard 12-hour cut-off is enforced by a gunshot at the finish line, and roughly 20,000 runners take the start. The 2027 race is the centenary edition.",
+      "summary": "“The Ultimate Human Race”: ~89 km between Durban and Pietermaritzburg, with a 12-hour cut-off. 2027 is the centenary edition."
+    },
+    "pl": {
+      "description": "Comrades to największy i najstarszy ultramaraton świata, rozgrywany od 1921 roku między Durbanem a Pietermaritzburgiem. Kierunek zmienia się co roku — „up run” oznacza około 800 m przewyższenia netto, „down run” niszczy za to mięśnie czworogłowe. Twardy limit 12 godzin egzekwowany jest wystrzałem na mecie, a na starcie staje około 20 000 biegaczy. Bieg w 2027 roku to edycja stulecia.",
+      "summary": "„Najtrudniejszy bieg świata”: ~89 km między Durbanem a Pietermaritzburgiem, limit 12 godzin. 2027 to edycja stulecia."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2027-06-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "~89 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 250,
+      "currency": "USD",
+      "indicative": true,
+      "label": {
+        "en": "International entry",
+        "pl": "Opłata międzynarodowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "2027 centenary edition",
+        "pl": "Edycja stulecia 2027"
+      },
+      "url": "https://comrades.com/blogs/the-greatest-story-ever-run-comrades-marathon-launches-2027-centenary-edition"
+    }
+  ],
+  "location": {
+    "city": "Pietermaritzburg / Durban",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Comrades Marathon",
+  "registrationUrl": "https://enter.comrades.com/comrades-2027",
+  "slug": "comrades-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:41:03.216Z",
+    "id": "curated",
+    "ref": "comrades-marathon",
+    "url": "https://comrades.com/"
+  },
+  "start": {
+    "lat": -29.600556,
+    "lon": 30.379444,
+    "name": "Pietermaritzburg City Hall (direction alternates yearly)"
+  },
+  "tags": [
+    "africa",
+    "bucket-list",
+    "historic",
+    "road",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T18:41:03.208Z",
+  "website": "https://comrades.com/"
+}

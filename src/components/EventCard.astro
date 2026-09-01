@@ -1,0 +1,66 @@
+---
+import { localizedPath, useTranslations } from '../lib/i18n.js';
+import { formatDateRange, formatMoney, countryName, cheapestFee, eventText } from '../lib/events.js';
+
+const { event, lang } = Astro.props;
+const t = useTranslations(lang);
+const text = eventText(event, lang);
+const fee = cheapestFee(event);
+const country = countryName(event.location.countryCode, lang, event.location.country);
+const href = localizedPath(lang, `/events/${event.slug}/`);
+const searchKey = `${event.name} ${event.location.city} ${country} ${event.tags.join(' ')}`.toLowerCase();
+---
+
+<article
+  class="card"
+  data-event
+  data-country={event.location.countryCode}
+  data-type={event.type}
+  data-tags={event.tags.join(' ')}
+  data-search={searchKey}
+>
+  <a class="card-link" href={href}>
+    <div class="card-head">
+      <time datetime={event.date}>{formatDateRange(event.date, event.endDate, lang)}</time>
+      {event.dateStatus === 'estimated' && <span class="badge">~</span>}
+    </div>
+    <h3>{event.name}</h3>
+    <p class="place">{event.location.city}, {country}</p>
+    <p class="summary">{text.summary}</p>
+  </a>
+  <div class="card-foot">
+    <span class="badge accent">{t(`type.${event.type}`)}</span>
+    {event.distances.slice(0, 2).map((distance) => <span class="badge">{distance}</span>)}
+    {fee && (
+      <span class="badge">
+        {fee.indicative ? '≈ ' : ''}{formatMoney(fee.amount, fee.currency, lang)}
+      </span>
+    )}
+  </div>
+</article>
+
+<style>
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 0.9rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.15rem 1.25rem 1rem;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .card:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .card[hidden] { display: none; }
+  .card-link { text-decoration: none; color: inherit; display: block; }
+  .card-head {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.82rem; color: var(--accent); font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .card h3 { font-size: 1.15rem; margin: 0.45rem 0 0.2rem; }
+  .place { margin: 0 0 0.5rem; color: var(--muted); font-size: 0.9rem; }
+  .summary { margin: 0; font-size: 0.94rem; }
+  .card-foot { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+</style>

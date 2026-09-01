@@ -1,0 +1,78 @@
+name: Collect running events
+
+# Three times a day. Each run queries every source, merges what changed into
+# data/events and — only if something actually changed — commits and redeploys.
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '0 13 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: 'Comma-separated source ids (blank = all)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Collect without writing files'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-events
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Collect events
+        run: |
+          node scripts/collect.mjs \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.sources && format('--sources={0}', inputs.sources) || '' }}
+        env:
+          # Optional. Without it the AI discovery source is skipped and the run
+          # still collects from RunSignup, Wikidata and the curated list.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Validate collected data
+        run: npm run validate
+
+      - name: Commit changes
+        id: commit
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "No data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: refresh running events ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

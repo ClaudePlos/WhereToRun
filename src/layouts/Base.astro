@@ -1,0 +1,141 @@
+---
+import { useTranslations, localizedPath, DEFAULT_LANG } from '../lib/i18n.js';
+import { collectionMeta } from '../lib/events.js';
+
+const { lang = DEFAULT_LANG, title, description, path = '/' } = Astro.props;
+const t = useTranslations(lang);
+const other = lang === 'en' ? 'pl' : 'en';
+const pageTitle = title ? `${title} · ${t('site.title')}` : `${t('site.title')} — ${t('site.tagline')}`;
+const lastRun = collectionMeta?.lastRun
+  ? new Intl.DateTimeFormat(lang === 'pl' ? 'pl-PL' : 'en-GB', { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' })
+      .format(new Date(collectionMeta.lastRun))
+  : null;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description ?? t('site.description')} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description ?? t('site.description')} />
+    <meta property="og:type" content="website" />
+    <link rel="alternate" hreflang={other} href={localizedPath(other, path)} />
+    <link rel="alternate" hreflang={lang} href={localizedPath(lang, path)} />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8F%83%3C/text%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href={localizedPath(lang, '/')}>
+          <span class="brand-mark">◎</span>
+          <span>{t('site.title')}</span>
+        </a>
+        <nav>
+          <a href={localizedPath(lang, '/')}>{t('nav.events')}</a>
+          <a href={localizedPath(lang, '/about/')}>{t('nav.about')}</a>
+          <a class="lang" href={localizedPath(other, path)} hreflang={other}>{t('nav.language')}</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main"><slot /></main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>{t('footer.auto')}</p>
+        {lastRun && <p class="muted">{t('footer.updated')}: {lastRun} UTC</p>}
+        <p class="muted">
+          {t('map.attribution')} ·
+          <a href="https://github.com/ClaudePlos/WhereToRun">{t('footer.source')}</a>
+        </p>
+      </div>
+    </footer>
+
+    <style is:global>
+      :root {
+        color-scheme: light dark;
+        --bg: #fbfaf8;
+        --surface: #ffffff;
+        --surface-2: #f2efea;
+        --text: #1b1a18;
+        --muted: #6b6760;
+        --border: #e2ddd5;
+        --accent: #b8451f;
+        --accent-soft: #fbeae3;
+        --radius: 14px;
+        --wrap: 1120px;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #16161a;
+          --surface: #1e1e23;
+          --surface-2: #26262c;
+          --text: #f0eee9;
+          --muted: #a29d95;
+          --border: #33333b;
+          --accent: #ff7a4d;
+          --accent-soft: #3a241c;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-text-size-adjust: 100%;
+      }
+      a { color: var(--accent); }
+      h1, h2, h3 { line-height: 1.2; letter-spacing: -0.02em; margin: 0 0 0.5em; }
+      h1 { font-size: clamp(1.9rem, 1.2rem + 2.4vw, 3rem); }
+      h2 { font-size: clamp(1.3rem, 1.05rem + 0.9vw, 1.8rem); }
+      p { margin: 0 0 1em; }
+      .wrap { width: min(100% - 2.5rem, var(--wrap)); margin-inline: auto; }
+      .muted { color: var(--muted); }
+      .skip {
+        position: absolute; left: -9999px; top: 0; background: var(--accent);
+        color: #fff; padding: 0.6rem 1rem; z-index: 10;
+      }
+      .skip:focus { left: 0; }
+
+      .site-header {
+        border-bottom: 1px solid var(--border);
+        background: color-mix(in srgb, var(--surface) 85%, transparent);
+        position: sticky; top: 0; z-index: 5; backdrop-filter: blur(8px);
+      }
+      .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.9rem 0; }
+      .brand { display: flex; align-items: center; gap: 0.5rem; font-weight: 700; font-size: 1.1rem; color: var(--text); text-decoration: none; }
+      .brand-mark { color: var(--accent); font-size: 1.3rem; }
+      .site-header nav { display: flex; gap: 1.1rem; align-items: center; font-size: 0.95rem; }
+      .site-header nav a { color: var(--muted); text-decoration: none; }
+      .site-header nav a:hover { color: var(--text); }
+      .site-header nav a.lang {
+        border: 1px solid var(--border); border-radius: 999px; padding: 0.25rem 0.75rem; color: var(--text);
+      }
+
+      .site-footer {
+        margin-top: 4rem; padding: 2rem 0 3rem;
+        border-top: 1px solid var(--border); background: var(--surface);
+        font-size: 0.9rem;
+      }
+      .site-footer p { margin: 0 0 0.35rem; }
+
+      .badge {
+        display: inline-flex; align-items: center; gap: 0.3rem;
+        background: var(--surface-2); border: 1px solid var(--border); border-radius: 999px;
+        padding: 0.15rem 0.6rem; font-size: 0.78rem; color: var(--muted); white-space: nowrap;
+      }
+      .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+
+      .leaflet-container { border-radius: var(--radius); font: inherit; }
+      .leaflet-container a { color: var(--accent); }
+    </style>
+  </body>
+</html>

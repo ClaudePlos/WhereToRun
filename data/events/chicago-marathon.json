@@ -1,0 +1,79 @@
+{
+  "content": {
+    "en": {
+      "description": "Chicago runs a single flat loop out of Grant Park and back, threading 29 city neighbourhoods with near-continuous spectator support. It is the classic first Major for a personal best: the course is fast, the October weather is usually cool, and the finish returns to the lakefront park where the day began. Entry is by lottery, time qualification, charity or tour package.",
+      "summary": "A flat loop through 29 neighbourhoods with famously loud crowds — over 200,000 people applied for 2026."
+    },
+    "pl": {
+      "description": "Chicago to jedna płaska pętla z Grant Park i z powrotem, przecinająca 29 dzielnic miasta z niemal nieprzerwanym dopingiem. To klasyczny pierwszy Major na życiówkę: trasa jest szybka, październikowa pogoda zwykle chłodna, a meta wraca do parku nad jeziorem, gdzie zaczyna się bieg. Wejście przez losowanie, minimum czasowe, cele charytatywne lub pakiet turystyczny.",
+      "summary": "Płaska pętla przez 29 dzielnic i legendarny doping — na 2026 rok wpłynęło ponad 200 000 zgłoszeń."
+    }
+  },
+  "createdAt": "2026-09-01T18:35:20.529Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": true,
+  "fees": [
+    {
+      "amount": 260,
+      "currency": "USD",
+      "indicative": true,
+      "label": {
+        "en": "US resident entry",
+        "pl": "Opłata dla mieszkańców USA"
+      }
+    },
+    {
+      "amount": 295,
+      "currency": "USD",
+      "indicative": true,
+      "label": {
+        "en": "International entry",
+        "pl": "Opłata międzynarodowa"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Wikipedia",
+        "pl": "Wikipedia"
+      },
+      "url": "https://en.wikipedia.org/wiki/Chicago_Marathon"
+    }
+  ],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "Illinois"
+  },
+  "manual": false,
+  "name": "Bank of America Chicago Marathon",
+  "registrationUrl": "https://www.chicagomarathon.com/runners/frequently-asked-application-questions/",
+  "slug": "chicago-marathon",
+  "source": {
+    "fetchedAt": "2026-09-01T18:35:24.809Z",
+    "id": "curated",
+    "ref": "chicago-marathon",
+    "url": "https://www.chicagomarathon.com/"
+  },
+  "start": {
+    "lat": 41.874722,
+    "lon": -87.620833,
+    "name": "Grant Park"
+  },
+  "tags": [
+    "fast-course",
+    "north-america",
+    "road",
+    "world-marathon-major"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T18:35:24.777Z",
+  "website": "https://www.chicagomarathon.com/"
+}
