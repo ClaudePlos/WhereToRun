@@ -2,11 +2,13 @@ name: Collect running events
 
 # Three times a day. Each run queries every source, merges what changed into
 # data/events and — only if something actually changed — commits and redeploys.
+# The odd minutes are deliberate: GitHub queues every cron scheduled on the hour
+# at once, so runs on :00 are the ones most often delayed or dropped entirely.
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 20 * * *'
+    - cron: '23 6 * * *'
+    - cron: '13 13 * * *'
+    - cron: '13 20 * * *'
   workflow_dispatch:
     inputs:
       sources:
