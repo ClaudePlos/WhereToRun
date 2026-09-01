@@ -50,13 +50,25 @@ export const ENDPOINTS = [
     id: 'runraceusa',
     status: 'candidate',
     note: 'Open CC BY 4.0 dump of US races',
-    url: 'https://runraceusa.com/api/races.json',
+    url: 'https://runraceusa.com/data/upcoming.json',
   },
   {
     id: 'runraceusa-index',
     status: 'candidate',
-    note: 'Landing page — read it for the real JSON URL if races.json 404s',
+    note: 'Landing page — read it for the real JSON URL if the dump moves',
     url: 'https://runraceusa.com/api',
+  },
+  {
+    id: 'nominatim',
+    status: 'candidate',
+    note: 'Geocoder — DUV gives city and country but no coordinates',
+    url: 'https://nominatim.openstreetmap.org/search?format=json&limit=1&city=S%C3%A3o+Paulo&country=Brazil',
+  },
+  {
+    id: 'wikipedia-pl',
+    status: 'candidate',
+    note: 'Polish summaries for the PL side of the portal',
+    url: 'https://pl.wikipedia.org/api/rest_v1/page/summary/Maraton_Bosto%C5%84ski',
   },
   {
     id: 'ultrasignup',
