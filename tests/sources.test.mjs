@@ -9,6 +9,11 @@ import {
   isInteresting as isUltraSignupInteresting,
 } from '../scripts/sources/ultrasignup.mjs';
 import { findRecords } from '../scripts/probe-sources.mjs';
+import {
+  parseRaces as parseRunRaceUsa,
+  startPrecision,
+  isInteresting as isRunRaceUsaInteresting,
+} from '../scripts/sources/runraceusa.mjs';
 
 const today = new Date('2027-01-01T00:00:00Z');
 
@@ -242,7 +247,7 @@ test('ultrasignup reads M/D/YYYY dates and string coordinates', () => {
   const [race] = parseUltraSignup(ultrasignupPayload, { today });
   assert.equal(race.date, '2027-09-04');
   assert.equal(race.endDate, '2027-09-06');
-  assert.deepEqual(race.start, { lat: 43.2842, lon: -96.884, name: null });
+  assert.deepEqual(race.start, { lat: 43.2842, lon: -96.884, name: null, precision: 'exact' });
   assert.equal(race.location.countryCode, 'US');
   assert.equal(race.registrationUrl, 'https://ultrasignup.com/register.aspx?did=64538');
 });
@@ -269,4 +274,74 @@ test('probe picks the record array over a short metadata array', () => {
   const found = findRecords({ sources: ['a', 'b'], races: [{ name: 'X' }, { name: 'Y' }] });
   assert.equal(found.path, '$.races');
   assert.equal(found.rows.length, 2);
+});
+
+// --- RunRaceUSA ----------------------------------------------------------
+// Shape taken from a live probe of https://runraceusa.com/data/upcoming.json.
+
+const runRaceUsaPayload = {
+  window_days: 365,
+  sources: ['runsignup', 'raceroster'],
+  races: [
+    {
+      name: 'Prairie Ultra 50K',
+      date: '2027-05-15',
+      city: 'Dallas Center',
+      state: 'IA',
+      lat: 41.6853,
+      lng: -93.9659,
+      d: ['50K', '25K'],
+      url: 'https://raceroster.com/events/2027/1/prairie-ultra',
+      geo: 'city',
+      s: 'prairie-ultra-50k-ia',
+    },
+    {
+      name: 'Harbour Marathon',
+      date: '2027-06-01',
+      city: 'Portland',
+      state: 'ME',
+      lat: 43.6591,
+      lng: -70.2568,
+      d: ['Marathon'],
+      url: 'https://example.org/harbour',
+      geo: 'venue',
+      s: 'harbour-marathon-me',
+    },
+    {
+      name: 'Village Fun Run 5K',
+      date: '2027-06-02',
+      city: 'Nowhere',
+      state: 'KS',
+      lat: 39.0,
+      lng: -98.0,
+      d: ['5K'],
+      geo: 'city',
+      s: 'village-fun-run-ks',
+    },
+  ],
+};
+
+test('runraceusa keeps long races and drops the 5Ks that dominate the dump', () => {
+  const races = parseRunRaceUsa(runRaceUsaPayload, { today });
+  assert.deepEqual(races.map((race) => race.name), ['Prairie Ultra 50K', 'Harbour Marathon']);
+});
+
+test('runraceusa marks town-level coordinates as approximate', () => {
+  const [ultra, marathon] = parseRunRaceUsa(runRaceUsaPayload, { today });
+  assert.equal(ultra.start.precision, 'city');
+  assert.equal(marathon.start.precision, 'exact');
+});
+
+test('startPrecision only trusts "city" to mean a geocoded town', () => {
+  assert.equal(startPrecision('city'), 'city');
+  assert.equal(startPrecision('venue'), 'exact');
+  assert.equal(startPrecision(undefined), 'exact');
+});
+
+test('an empty distance list is not evidence of a long race', () => {
+  const empty = { labels: [], km: [], timedHours: 0 };
+  assert.equal(isRunRaceUsaInteresting('Some 5K', empty), false);
+  assert.equal(isRunRaceUsaInteresting('Desert Ultra', empty), true);
+  // A half marathon must not match on the word "marathon".
+  assert.equal(isRunRaceUsaInteresting('City Half-Marathon', empty), false);
 });

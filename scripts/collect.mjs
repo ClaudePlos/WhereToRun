@@ -16,12 +16,13 @@ import * as curated from './sources/curated.mjs';
 import * as runsignup from './sources/runsignup.mjs';
 import * as wikidata from './sources/wikidata.mjs';
 import * as ultrasignup from './sources/ultrasignup.mjs';
+import * as runraceusa from './sources/runraceusa.mjs';
 import * as aiDiscovery from './sources/ai-discovery.mjs';
 import { mergeEvent, normalizeEvent, isSameEvent } from './lib/normalize.mjs';
 import { validateEvent } from './lib/schema.mjs';
 import { readEvents, writeEvent, sortKeys, ROOT, EVENTS_DIR } from './lib/store.mjs';
 
-const ALL_SOURCES = [curated, runsignup, ultrasignup, wikidata, aiDiscovery];
+const ALL_SOURCES = [curated, runsignup, ultrasignup, runraceusa, wikidata, aiDiscovery];
 
 function parseArgs(argv) {
   const args = { dryRun: false, sources: null, maxNew: 25, quiet: false };

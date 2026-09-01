@@ -78,9 +78,10 @@ const updated = new Intl.DateTimeFormat(lang === 'pl' ? 'pl-PL' : 'en-GB', { dat
     <section>
       <h2>{t('event.start')}</h2>
       {event.start.name && <p>{event.start.name}</p>}
+      {event.start.precision === 'city' && <p class="note">{t('event.start.approximate')}</p>}
       <RaceMap
         points={[{ lat: event.start.lat, lon: event.start.lon, title: event.name, subtitle: event.start.name ?? undefined }]}
-        zoom={13}
+        zoom={event.start.precision === 'city' ? 11 : 13}
         height="420px"
         attribution={t('map.attribution')}
       />
