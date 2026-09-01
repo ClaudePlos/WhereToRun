@@ -1,0 +1,33 @@
+name: Probe data sources
+
+# Manual only. Prints what each upstream endpoint actually returns — status,
+# content type and payload shape — so a broken or reshaped source can be
+# diagnosed without guessing, and new candidate sources can be evaluated
+# before any parser is written for them.
+on:
+  workflow_dispatch:
+    inputs:
+      endpoints:
+        description: 'Space-separated endpoint ids (blank = all)'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Probe endpoints
+        # Passed through the environment rather than interpolated into the
+        # command, so the input cannot inject shell.
+        env:
+          ENDPOINTS: ${{ inputs.endpoints }}
+        run: node scripts/probe-sources.mjs $ENDPOINTS
