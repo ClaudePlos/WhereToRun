@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "McCormick 24 is a ultramarathon. Location: Gig Harbor, United States. Date: Saturday, 12 September 2026. Distances: 24 h, 12 HR DAY, 12 HR NIGHT, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Gig Harbor, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "McCormick 24 to ultramaraton. Lokalizacja: Gig Harbor, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 24 h, 12 HR DAY, 12 HR NIGHT, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Gig Harbor, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 HR DAY",
+    "12 HR NIGHT",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gig Harbor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "McCormick 24",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65344",
+  "slug": "mccormick-24-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "20003",
+    "url": "https://ultrasignup.com/register.aspx?did=65344"
+  },
+  "start": {
+    "lat": 47.3514,
+    "lon": -122.619,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.trailtherapyrunning.com/"
+}

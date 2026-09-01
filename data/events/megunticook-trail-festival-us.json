@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Megunticook Trail Festival is a ultramarathon. Location: Camden, United States. Date: Saturday, 12 September 2026. Distances: 50 km, Halfast 20k, Wicked Tough 10k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Camden, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Megunticook Trail Festival to ultramaraton. Lokalizacja: Camden, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, Halfast 20k, Wicked Tough 10k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Camden, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Halfast 20k",
+    "Wicked Tough 10k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Camden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Megunticook Trail Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63520",
+  "slug": "megunticook-trail-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "12420",
+    "url": "https://ultrasignup.com/register.aspx?did=63520"
+  },
+  "start": {
+    "lat": 44.231,
+    "lon": -69.0487,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.megunticooktrailfestival.com/"
+}

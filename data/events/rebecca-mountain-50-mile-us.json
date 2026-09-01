@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rebecca Mountain 50 Mile is a ultramarathon. Location: Sylacauga, United States. Date: Saturday, 12 September 2026. Distances: 80.5 km, 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sylacauga, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Rebecca Mountain 50 Mile to ultramaraton. Lokalizacja: Sylacauga, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 80.5 km, 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sylacauga, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sylacauga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Rebecca Mountain 50 Mile",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63745",
+  "slug": "rebecca-mountain-50-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "7860",
+    "url": "https://ultrasignup.com/register.aspx?did=63745"
+  },
+  "start": {
+    "lat": 33.2053,
+    "lon": -86.1933,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.pinhotitrailseries.com/rebecca-mountain-50k"
+}

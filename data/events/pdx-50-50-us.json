@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "PDX 50-50 is a ultramarathon. Location: Portland, United States. Date: Saturday, 12 September 2026. Distances: 85.3 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Portland, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "PDX 50-50 to ultramaraton. Lokalizacja: Portland, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 85.3 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Portland, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "85.3 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Portland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "PDX 50-50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67321",
+  "slug": "pdx-50-50-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "16022",
+    "url": "https://ultrasignup.com/register.aspx?did=67321"
+  },
+  "start": {
+    "lat": 45.4986,
+    "lon": -122.655,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://sites.google.com/view/runpacifica/home"
+}

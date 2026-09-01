@@ -10,15 +10,11 @@
     }
   },
   "createdAt": "2026-09-01T19:51:22.922Z",
-  "date": "2026-09-12",
+  "date": "2026-09-11",
   "dateStatus": "confirmed",
   "distances": [
-    "24 h",
-    "80.5 km",
-    "12 h",
-    "42.2 km",
-    "6 h",
-    "10K Saturday"
+    "160.9 km",
+    "48 h"
   ],
   "endDate": "2026-09-13",
   "featured": false,
@@ -35,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65422",
   "slug": "kingwood-ultras-us",
   "source": {
-    "fetchedAt": "2026-09-01T19:51:30.536Z",
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
     "id": "ultrasignup",
     "ref": "20029",
     "url": "https://ultrasignup.com/register.aspx?did=65422"
@@ -51,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-01T19:51:22.922Z",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
   "website": "http://spirit-trips.com/"
 }

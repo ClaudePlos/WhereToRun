@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Virgil Crest Ultras is a ultramarathon. Location: Cortland, United States. Date: Saturday, 12 September 2026. Distances: 160.9 km, 100 Mile - Relay, 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cortland, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Virgil Crest Ultras to ultramaraton. Lokalizacja: Cortland, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 160.9 km, 100 Mile - Relay, 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cortland, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 Mile - Relay",
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cortland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Virgil Crest Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65234",
+  "slug": "virgil-crest-ultras-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "13654",
+    "url": "https://ultrasignup.com/register.aspx?did=65234"
+  },
+  "start": {
+    "lat": 42.5166,
+    "lon": -76.146,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.happilyrunning.com/virgilcrest"
+}

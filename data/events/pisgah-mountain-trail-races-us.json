@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pisgah Mountain Trail Races is a ultramarathon. Location: Chesterfiled, United States. Date: Sunday, 13 September 2026. Distances: 50 km, 23 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chesterfiled, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Pisgah Mountain Trail Races to ultramaraton. Lokalizacja: Chesterfiled, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 50 km, 23 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chesterfiled, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "23 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chesterfiled",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Pisgah Mountain Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66388",
+  "slug": "pisgah-mountain-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "1948",
+    "url": "https://ultrasignup.com/register.aspx?did=66388"
+  },
+  "start": {
+    "lat": 42.8864,
+    "lon": -72.4692,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "http://www.runpisgah.com"
+}

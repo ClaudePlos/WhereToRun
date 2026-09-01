@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Three Corner Rock PCT Trail Races is a ultramarathon. Location: Carson, United States. Date: Saturday, 12 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Carson, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Three Corner Rock PCT Trail Races to ultramaraton. Lokalizacja: Carson, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Carson, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Carson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Three Corner Rock PCT Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66779",
+  "slug": "three-corner-rock-pct-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "8372",
+    "url": "https://ultrasignup.com/register.aspx?did=66779"
+  },
+  "start": {
+    "lat": 45.81,
+    "lon": -121.943,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "http://columbiagorgerunningclub.com/"
+}

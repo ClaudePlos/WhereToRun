@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ARAVAIPA's OC Trail Runners Group Run is a trail race. Location: Newport Coast, United States. Date: Saturday, 12 September 2026. Distances: Group Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Newport Coast, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "ARAVAIPA's OC Trail Runners Group Run to bieg trailowy. Lokalizacja: Newport Coast, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: Group Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Newport Coast, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Group Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newport Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "ARAVAIPA's OC Trail Runners Group Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68159",
+  "slug": "aravaipa-s-oc-trail-runners-group-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "18473",
+    "url": "https://ultrasignup.com/register.aspx?did=68159"
+  },
+  "start": {
+    "lat": 33.6052,
+    "lon": -117.804,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.facebook.com/groups/theoctr"
+}

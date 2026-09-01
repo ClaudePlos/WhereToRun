@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sole Survivor Backyard Ultra is a road race. Location: Richland, United States. Date: Saturday, 12 September 2026. Distances: Sole Survivor. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Richland, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Sole Survivor Backyard Ultra to bieg uliczny. Lokalizacja: Richland, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: Sole Survivor. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Richland, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Sole Survivor"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Sole Survivor Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64760",
+  "slug": "sole-survivor-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "10410",
+    "url": "https://ultrasignup.com/register.aspx?did=64760"
+  },
+  "start": {
+    "lat": 46.2575,
+    "lon": -119.287,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://sites.google.com/view/ntrew/home"
+}

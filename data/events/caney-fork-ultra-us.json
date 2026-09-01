@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Caney Fork Ultra is a ultramarathon. Location: Sparta, United States. Date: Saturday, 12 September 2026. Distances: 80.5 km, 25K Run, 25K Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sparta, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Caney Fork Ultra to ultramaraton. Lokalizacja: Sparta, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 80.5 km, 25K Run, 25K Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sparta, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "25K Run",
+    "25K Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sparta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Caney Fork Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65022",
+  "slug": "caney-fork-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "10248",
+    "url": "https://ultrasignup.com/register.aspx?did=65022"
+  },
+  "start": {
+    "lat": 35.8743,
+    "lon": -85.2771,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "http://www.caneyforkultra.com"
+}

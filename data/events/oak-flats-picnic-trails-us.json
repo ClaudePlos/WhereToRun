@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Oak Flats Picnic Trails is a ultramarathon. Location: Tijeres, United States. Date: Saturday, 12 September 2026. Distances: 8 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tijeres, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Oak Flats Picnic Trails to ultramaraton. Lokalizacja: Tijeres, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tijeres, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tijeres",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Oak Flats Picnic Trails",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64968",
+  "slug": "oak-flats-picnic-trails-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "17583",
+    "url": "https://ultrasignup.com/register.aspx?did=64968"
+  },
+  "start": {
+    "lat": 34.9963,
+    "lon": -106.323,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://curiouslifepov.wordpress.com/oak-flats-picnic-trails-fat-ass/"
+}

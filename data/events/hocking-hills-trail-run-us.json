@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hocking Hills Trail Run is a ultramarathon. Location: Logan, United States. Date: Saturday, 12 September 2026. Distances: 50 km, 32.2 km, 16.1 km, 8 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Logan, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Hocking Hills Trail Run to ultramaraton. Lokalizacja: Logan, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, 32.2 km, 16.1 km, 8 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Logan, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "8 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Logan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Hocking Hills Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65254",
+  "slug": "hocking-hills-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "19975",
+    "url": "https://ultrasignup.com/register.aspx?did=65254"
+  },
+  "start": {
+    "lat": 39.4354,
+    "lon": -82.5409,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.seotrevents.com/hockinghills"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Boulder Field 100 is a ultramarathon. Location: Jim Thorpe, United States. Date: Saturday, 12 September 2026. Distances: 100 km, 50 km, 29 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jim Thorpe, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Boulder Field 100 to ultramaraton. Lokalizacja: Jim Thorpe, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 100 km, 50 km, 29 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jim Thorpe, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km",
+    "29 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jim Thorpe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Boulder Field 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63942",
+  "slug": "boulder-field-100-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "5518",
+    "url": "https://ultrasignup.com/register.aspx?did=63942"
+  },
+  "start": {
+    "lat": 41.0285,
+    "lon": -75.6879,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.uberendurancesports.com/boulderfield.html"
+}

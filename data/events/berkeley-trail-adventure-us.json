@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Berkeley Trail Adventure is a ultramarathon. Location: Berkeley, United States. Date: Saturday, 12 September 2026. Distances: 50 km, 35 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Berkeley, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Berkeley Trail Adventure to ultramaraton. Lokalizacja: Berkeley, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, 35 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Berkeley, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "35 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Berkeley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Berkeley Trail Adventure",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64917",
+  "slug": "berkeley-trail-adventure-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "3521",
+    "url": "https://ultrasignup.com/register.aspx?did=64917"
+  },
+  "start": {
+    "lat": 37.8964,
+    "lon": -122.253,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "http://www.insidetrail.com/calendar/berkeley-trail-adventure-run/"
+}

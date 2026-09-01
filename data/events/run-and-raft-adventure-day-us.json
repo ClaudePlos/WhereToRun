@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run and Raft Adventure Day is a road race. Location: Lotus, United States. Date: Saturday, 12 September 2026. Distances: 9, 12 Run and Raft. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lotus, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Run and Raft Adventure Day to bieg uliczny. Lokalizacja: Lotus, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 9, 12 Run and Raft. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lotus, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "9",
+    "12 Run and Raft"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lotus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Run and Raft Adventure Day",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67965",
+  "slug": "run-and-raft-adventure-day-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "19835",
+    "url": "https://ultrasignup.com/register.aspx?did=67965"
+  },
+  "start": {
+    "lat": 38.7735,
+    "lon": -121.035,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://allwedoisrun.com/"
+}

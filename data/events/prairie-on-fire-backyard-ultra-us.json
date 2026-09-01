@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Prairie On Fire Backyard Ultra is a road race. Location: Noblesville, United States. Date: Saturday, 12 September 2026. Distances: Prairie On Fire Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Noblesville, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Prairie On Fire Backyard Ultra to bieg uliczny. Lokalizacja: Noblesville, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: Prairie On Fire Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Noblesville, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Prairie On Fire Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Noblesville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Prairie On Fire Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65206",
+  "slug": "prairie-on-fire-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "15611",
+    "url": "https://ultrasignup.com/register.aspx?did=65206"
+  },
+  "start": {
+    "lat": 40.1286,
+    "lon": -85.968,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "http://meshtc.com"
+}

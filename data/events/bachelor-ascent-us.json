@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bachelor Ascent is a ultramarathon. Location: Bend, United States. Date: Saturday, 12 September 2026. Distances: 50 km, 28 km, 16 km, 5K Ascent. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bend, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Bachelor Ascent to ultramaraton. Lokalizacja: Bend, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, 28 km, 16 km, 5K Ascent. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bend, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "28 km",
+    "16 km",
+    "5K Ascent"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Bachelor Ascent",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63877",
+  "slug": "bachelor-ascent-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "19624",
+    "url": "https://ultrasignup.com/register.aspx?did=63877"
+  },
+  "start": {
+    "lat": 44.0026,
+    "lon": -121.678,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.daybreakracing.com/bachelor-ascent"
+}

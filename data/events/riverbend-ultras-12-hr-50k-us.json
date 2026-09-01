@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Riverbend Ultras 12 HR/50K is a ultramarathon. Location: Jupiter, United States. Date: Saturday, 12 September 2026. Distances: Fun Run, 50 km, 12-Hour. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jupiter, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Riverbend Ultras 12 HR/50K to ultramaraton. Lokalizacja: Jupiter, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: Fun Run, 50 km, 12-Hour. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jupiter, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Fun Run",
+    "50 km",
+    "12-Hour"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jupiter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Riverbend Ultras 12 HR/50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65308",
+  "slug": "riverbend-ultras-12-hr-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "15651",
+    "url": "https://ultrasignup.com/register.aspx?did=65308"
+  },
+  "start": {
+    "lat": 26.9267,
+    "lon": -80.1757,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.facebook.com/groups/437511828355801"
+}

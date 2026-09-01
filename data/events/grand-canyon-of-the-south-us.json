@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Canyon of the South is a ultramarathon. Location: Breaks, United States. Date: Saturday, 12 September 2026. Distances: 50 km, Double 10K, Morning 10K, Sunset 10K. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Breaks, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Grand Canyon of the South to ultramaraton. Lokalizacja: Breaks, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 50 km, Double 10K, Morning 10K, Sunset 10K. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Breaks, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Double 10K",
+    "Morning 10K",
+    "Sunset 10K"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Breaks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Grand Canyon of the South",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67320",
+  "slug": "grand-canyon-of-the-south-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "20566",
+    "url": "https://ultrasignup.com/register.aspx?did=67320"
+  },
+  "start": {
+    "lat": 37.2863,
+    "lon": -82.2935,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.swvarunning.com/grandcanyonofthesouthultras"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Mendocino Running Festival is a ultramarathon. Location: Mendocino, United States. Date: Saturday, 12 September 2026. Distances: 1, 2 Marathon, 12 h, 10 km, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mendocino, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Mendocino Running Festival to ultramaraton. Lokalizacja: Mendocino, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 1, 2 Marathon, 12 h, 10 km, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mendocino, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1",
+    "2 Marathon",
+    "12 h",
+    "10 km",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mendocino",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mendocino Running Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63197",
+  "slug": "mendocino-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "5572",
+    "url": "https://ultrasignup.com/register.aspx?did=63197"
+  },
+  "start": {
+    "lat": 39.3311,
+    "lon": -123.735,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.facebook.com/groups/216464188820170/"
+}

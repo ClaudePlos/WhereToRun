@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mogollon Monster 100 is a ultramarathon. Location: Pine, United States. Date: 12 September 2026 – 13 September 2026. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pine, United States, 12 September 2026 – 13 September 2026"
+    },
+    "pl": {
+      "description": "Mogollon Monster 100 to ultramaraton. Lokalizacja: Pine, Stany Zjednoczone. Termin: 12 września 2026 – 13 września 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pine, Stany Zjednoczone, 12 września 2026 – 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42 km"
+  ],
+  "endDate": "2026-09-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pine",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Mogollon Monster 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63380",
+  "slug": "mogollon-monster-100-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "3056",
+    "url": "https://ultrasignup.com/register.aspx?did=63380"
+  },
+  "start": {
+    "lat": 34.3738,
+    "lon": -111.444,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.aravaiparunning.com/mogollon-monster-2/"
+}

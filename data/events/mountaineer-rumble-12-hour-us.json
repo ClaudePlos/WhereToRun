@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountaineer Rumble 12 Hour is a ultramarathon. Location: Clover, United States. Date: Saturday, 12 September 2026. Distances: 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Clover, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Mountaineer Rumble 12 Hour to ultramaraton. Lokalizacja: Clover, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Clover, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Mountaineer Rumble 12 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64924",
+  "slug": "mountaineer-rumble-12-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "10478",
+    "url": "https://ultrasignup.com/register.aspx?did=64924"
+  },
+  "start": {
+    "lat": 35.1494,
+    "lon": -81.3447,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://www.facebook.com/Mountaineer-Rumble-420009962132503/"
+}

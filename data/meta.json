@@ -1,9 +1,9 @@
 {
   "added": 25,
   "dryRun": false,
-  "eventCount": 40,
-  "lastRun": "2026-09-01T19:51:22.922Z",
-  "skipped": 1586,
+  "eventCount": 65,
+  "lastRun": "2026-09-01T22:35:48.497Z",
+  "skipped": 1554,
   "sources": {
     "ai-discovery": {
       "error": null,
@@ -23,13 +23,13 @@
     },
     "ultrasignup": {
       "error": null,
-      "fetched": 290
+      "fetched": 289
     },
     "wikidata": {
       "error": "Wikidata SPARQL returned 504 Gateway Timeout",
       "fetched": 0
     }
   },
-  "unchanged": 8,
-  "updated": 19
+  "unchanged": 53,
+  "updated": 5
 }

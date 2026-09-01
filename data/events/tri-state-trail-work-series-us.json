@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Tri-State Trail Work Series is a trail race. Location: Emmaus, United States. Date: Saturday, 12 September 2026. Distances: Lehigh Valley Trail Work, Northern NJ Trail Work, Catskills Trail Work, Emmaus Trail Work. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Emmaus, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Tri-State Trail Work Series to bieg trailowy. Lokalizacja: Emmaus, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: Lehigh Valley Trail Work, Northern NJ Trail Work, Catskills Trail Work, Emmaus Trail Work. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Emmaus, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-01T22:35:48.497Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Lehigh Valley Trail Work",
+    "Northern NJ Trail Work",
+    "Catskills Trail Work",
+    "Emmaus Trail Work"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Emmaus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Tri-State Trail Work Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65718",
+  "slug": "tri-state-trail-work-series-us",
+  "source": {
+    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "id": "ultrasignup",
+    "ref": "20100",
+    "url": "https://ultrasignup.com/register.aspx?did=65718"
+  },
+  "start": {
+    "lat": 40.6416,
+    "lon": -75.3803,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "website": "https://therunningkind.net/"
+}
