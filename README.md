@@ -59,8 +59,9 @@ sources still fill in fields the winner left empty).
 
 ### Repository setup
 
-1. **Settings → Pages → Source: GitHub Actions.** The deploy workflow derives the site URL
-   and base path from there, so nothing is hard-coded.
+1. **Pages** is enabled by the deploy workflow itself on its first run
+   (`actions/configure-pages` with `enablement: true`), and the site URL and base path are
+   read back from it, so nothing is hard-coded. Check it under **Settings → Pages** afterwards.
 2. *(Optional)* **Settings → Secrets and variables → Actions → New repository secret:**
    `ANTHROPIC_API_KEY` to enable AI discovery. Everything else works without it.
 3. **Settings → Actions → General → Workflow permissions: Read and write**, so the scheduled
@@ -134,8 +135,9 @@ priorytecie i tak uzupełniają pola, których zwycięzca nie wypełnił).
 
 ### Konfiguracja repozytorium
 
-1. **Settings → Pages → Source: GitHub Actions.** Workflow wdrożeniowy sam pobiera stamtąd
-   adres strony i ścieżkę bazową — nic nie jest zapisane na sztywno.
+1. **Pages** włącza się samo przy pierwszym uruchomieniu workflow wdrożeniowego
+   (`actions/configure-pages` z `enablement: true`), a adres strony i ścieżka bazowa są z niego
+   odczytywane — nic nie jest zapisane na sztywno. Po fakcie sprawdź **Settings → Pages**.
 2. *(Opcjonalnie)* **Settings → Secrets and variables → Actions → New repository secret:**
    `ANTHROPIC_API_KEY`, żeby włączyć źródło AI. Reszta działa bez klucza.
 3. **Settings → Actions → General → Workflow permissions: Read and write**, żeby automat
