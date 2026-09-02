@@ -81,6 +81,18 @@ export const ENDPOINTS = [
     url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=11`,
   },
   {
+    id: 'duv-country-ger',
+    status: 'candidate',
+    note: 'Per-country query — does it stay under the 4000 cap and reach December?',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=GER`,
+  },
+  {
+    id: 'duv-country-pol',
+    status: 'candidate',
+    note: 'Same for Poland, and a check that the country filter takes IOC codes',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=POL`,
+  },
+  {
     id: 'duv-from',
     status: 'candidate',
     note: 'Does a from/to date window work? (we only want future races)',
