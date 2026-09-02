@@ -47,6 +47,18 @@ export const ENDPOINTS = [
     url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=2`,
   },
   {
+    id: 'duv-event-a',
+    status: 'candidate',
+    note: 'Candidate per-event page, to link DUV races without guessing',
+    url: 'https://statistik.d-u-v.org/eventdetail.php?eventid=128022',
+  },
+  {
+    id: 'duv-event-b',
+    status: 'candidate',
+    note: 'Second candidate per-event page',
+    url: 'https://statistik.d-u-v.org/getresultevent.php?event=128022',
+  },
+  {
     id: 'duv-from',
     status: 'candidate',
     note: 'Does a from/to date window work? (we only want future races)',
@@ -221,6 +233,8 @@ async function probe(endpoint, fetchImpl) {
     for (const [key, value] of Object.entries(first).slice(0, 30)) {
       console.log(`      ${key}: ${describe(value, 1)}`);
     }
+    const raw = JSON.stringify(first);
+    console.log(`    raw: ${raw.length > 1500 ? `${raw.slice(0, 1500)}…` : raw}`);
   }
   return { id: endpoint.id, ok: true, rows: found.rows.length };
 }
