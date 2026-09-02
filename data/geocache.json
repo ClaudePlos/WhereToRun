@@ -1,4 +1,10 @@
 {
+  "EE|alutaguse": {
+    "at": "2026-09-02T17:10:51.476Z",
+    "lat": 59.1508089,
+    "lon": 27.481186,
+    "name": "Alutaguse vald, Ida-Viru maakond, Eesti"
+  },
   "HR|zagreb": {
     "at": "2026-09-02T11:28:34.543Z",
     "lat": 45.8130967,
@@ -43,6 +49,42 @@
     "lat": 51.8271274,
     "lon": -10.1718452,
     "name": "Waterville, Kenmare Municipal District, County Kerry, Munster, V23 FW71, Éire / Ireland"
+  },
+  "JP|dakeonsen, nihonmatsu, fukushima pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|happo, yamamoto district, akita pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|kawaba, gunma pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|kawaba.vill,gunma pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|mizukami, kumamoto pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|sendai, miyagi pref.": {
+    "at": "2026-09-02T17:10:51.476Z"
+  },
+  "LT|vilnius": {
+    "at": "2026-09-02T17:10:51.476Z",
+    "lat": 54.6870458,
+    "lon": 25.2829111,
+    "name": "Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva"
+  },
+  "LV|jekabpils": {
+    "at": "2026-09-02T17:10:51.476Z",
+    "lat": 56.4958638,
+    "lon": 25.8687747,
+    "name": "Jēkabpils, Jēkabpils novads, LV-5201, Latvija"
+  },
+  "RS|belgrade": {
+    "at": "2026-09-02T17:10:51.476Z",
+    "lat": 44.8178131,
+    "lon": 20.4568974,
+    "name": "Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија"
   },
   "SI|ljubljana": {
     "at": "2026-09-02T11:28:34.543Z",

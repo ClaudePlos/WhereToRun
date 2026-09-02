@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hill to Hollow 100km is a road race. Location: Fabius, United States. Date: Saturday, 19 September 2026. Distances: 100km Solo, 100km Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fabius, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Hill to Hollow 100km to bieg uliczny. Lokalizacja: Fabius, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 100km Solo, 100km Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fabius, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100km Solo",
+    "100km Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fabius",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Hill to Hollow 100km",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63907",
+  "slug": "hill-to-hollow-100km-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "19361",
+    "url": "https://ultrasignup.com/register.aspx?did=63907"
+  },
+  "start": {
+    "lat": 42.8322,
+    "lon": -75.9216,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.facebook.com/events/4099551613637316"
+}

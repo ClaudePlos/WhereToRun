@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "WILD Wahatoya Runs is a ultramarathon. Location: La Veta, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 1, 2 Marathon, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — La Veta, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "WILD Wahatoya Runs to ultramaraton. Lokalizacja: La Veta, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 1, 2 Marathon, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — La Veta, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "La Veta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "WILD Wahatoya Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65439",
+  "slug": "wild-wahatoya-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "18611",
+    "url": "https://ultrasignup.com/register.aspx?did=65439"
+  },
+  "start": {
+    "lat": 37.3797,
+    "lon": -105.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.trailtrashadventures.com/races/event-one-gzzml"
+}

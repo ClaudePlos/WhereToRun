@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Rockin' Rockwoods 53K and 1/2 Marathon is a ultramarathon. Location: Wildwood, United States. Date: Saturday, 26 September 2026. Distances: 53 km, 1, 2 Marathon, 13.1 Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wildwood, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Rockin' Rockwoods 53K and 1/2 Marathon to ultramaraton. Lokalizacja: Wildwood, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 53 km, 1, 2 Marathon, 13.1 Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wildwood, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km",
+    "1",
+    "2 Marathon",
+    "13.1 Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wildwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Rockin' Rockwoods 53K and 1/2 Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66037",
+  "slug": "rockin-rockwoods-53k-and-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "4897",
+    "url": "https://ultrasignup.com/register.aspx?did=66037"
+  },
+  "start": {
+    "lat": 38.5275,
+    "lon": -90.686,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.terraintrailrunners.com/rockin-rockwoods-trail-races.html"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Laps For Love Backyard Ultra is a road race. Location: Wichita, United States. Date: Saturday, 5 September 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wichita, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Laps For Love Backyard Ultra to bieg uliczny. Lokalizacja: Wichita, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wichita, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wichita",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Laps For Love Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64257",
+  "slug": "laps-for-love-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "19719",
+    "url": "https://ultrasignup.com/register.aspx?did=64257"
+  },
+  "start": {
+    "lat": 37.7199,
+    "lon": -97.4143,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.facebook.com/share/17zPEbHmEV/"
+}

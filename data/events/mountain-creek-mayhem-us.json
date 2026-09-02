@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Creek Mayhem is a ultramarathon. Location: Gardners, United States. Date: Saturday, 19 September 2026. Distances: 50 km, 32.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Gardners, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Mountain Creek Mayhem to ultramaraton. Lokalizacja: Gardners, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 50 km, 32.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Gardners, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gardners",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Mountain Creek Mayhem",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65681",
+  "slug": "mountain-creek-mayhem-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "18953",
+    "url": "https://ultrasignup.com/register.aspx?did=65681"
+  },
+  "start": {
+    "lat": 40.033,
+    "lon": -77.3045,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://meatballrunners.com/races/mountain-creek-mayhem/"
+}

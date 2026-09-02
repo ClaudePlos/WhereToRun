@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "FlatRock is a ultramarathon. Location: Independence, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 25 km, 12 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Independence, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "FlatRock to ultramaraton. Lokalizacja: Independence, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 25 km, 12 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Independence, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Independence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "FlatRock",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64113",
+  "slug": "flatrock-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "72",
+    "url": "https://ultrasignup.com/register.aspx?did=64113"
+  },
+  "start": {
+    "lat": 37.2791,
+    "lon": -95.7871,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://ultrasignup.com/register.aspx?did=120291"
+}

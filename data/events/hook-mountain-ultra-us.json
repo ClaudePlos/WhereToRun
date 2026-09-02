@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hook Mountain Ultra is a ultramarathon. Location: Upper Nyack, United States. Date: Saturday, 19 September 2026. Distances: 80.5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Upper Nyack, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Hook Mountain Ultra to ultramaraton. Lokalizacja: Upper Nyack, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 80.5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Upper Nyack, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Upper Nyack",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Hook Mountain Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64184",
+  "slug": "hook-mountain-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "18942",
+    "url": "https://ultrasignup.com/register.aspx?did=64184"
+  },
+  "start": {
+    "lat": 41.1432,
+    "lon": -73.9159,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "http://www.singletrackexplorers.com/"
+}

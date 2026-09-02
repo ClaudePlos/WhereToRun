@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hindsight Ultra Trail Runs is a ultramarathon. Location: Dixon, United States. Date: Saturday, 26 September 2026. Distances: 160.9 km, 100 km, 50 km, 25 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dixon, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Hindsight Ultra Trail Runs to ultramaraton. Lokalizacja: Dixon, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 160.9 km, 100 km, 50 km, 25 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dixon, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "25 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dixon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Hindsight Ultra Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65114",
+  "slug": "hindsight-ultra-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "15473",
+    "url": "https://ultrasignup.com/register.aspx?did=65114"
+  },
+  "start": {
+    "lat": 41.8636,
+    "lon": -89.4788,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.facebook.com/Hindsight-Ultra-Trail-Runs-104089019056527"
+}

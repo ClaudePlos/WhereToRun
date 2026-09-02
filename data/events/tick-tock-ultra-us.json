@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tick Tock Ultra is a ultramarathon. Location: Lakeland, United States. Date: Saturday, 26 September 2026. Distances: 12 h, 12HR 5 Person Relay, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakeland, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Tick Tock Ultra to ultramaraton. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 12 h, 12HR 5 Person Relay, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakeland, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12HR 5 Person Relay",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Tick Tock Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63990",
+  "slug": "tick-tock-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "4653",
+    "url": "https://ultrasignup.com/register.aspx?did=63990"
+  },
+  "start": {
+    "lat": 28.0188,
+    "lon": -81.9502,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://fb.me/e/2Fmm4JuL9"
+}

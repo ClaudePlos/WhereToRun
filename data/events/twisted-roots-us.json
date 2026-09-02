@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Twisted Roots is a road race. Location: Sherwood, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sherwood, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Twisted Roots to bieg uliczny. Lokalizacja: Sherwood, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sherwood, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sherwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Twisted Roots",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63824",
+  "slug": "twisted-roots-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "18737",
+    "url": "https://ultrasignup.com/register.aspx?did=63824"
+  },
+  "start": {
+    "lat": 44.1646,
+    "lon": -88.2841,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://tydish.org/"
+}

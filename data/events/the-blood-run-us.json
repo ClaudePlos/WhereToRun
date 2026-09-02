@@ -10,11 +10,12 @@
     }
   },
   "createdAt": "2026-09-01T19:51:22.922Z",
-  "date": "2026-09-06",
+  "date": "2026-09-05",
   "dateStatus": "confirmed",
   "distances": [
-    "6 h",
-    "3 h"
+    "24 h",
+    "24 Hour 4 Person Relay",
+    "12 h"
   ],
   "endDate": "2026-09-06",
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64538",
   "slug": "the-blood-run-us",
   "source": {
-    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
     "id": "ultrasignup",
     "ref": "8097",
     "url": "https://ultrasignup.com/register.aspx?did=64538"
@@ -47,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
   "website": "https://www.facebook.com/Thebloodrun/"
 }

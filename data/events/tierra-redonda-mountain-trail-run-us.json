@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Tierra Redonda Mountain Trail Run is a ultramarathon. Location: Bradley, United States. Date: Saturday, 19 September 2026. Distances: 48 h, 24 h, 25 km, 12km Trail Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bradley, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Tierra Redonda Mountain Trail Run to ultramaraton. Lokalizacja: Bradley, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 48 h, 24 h, 25 km, 12km Trail Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bradley, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 h",
+    "24 h",
+    "25 km",
+    "12km Trail Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bradley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Tierra Redonda Mountain Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64265",
+  "slug": "tierra-redonda-mountain-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "14983",
+    "url": "https://ultrasignup.com/register.aspx?did=64265"
+  },
+  "start": {
+    "lat": 35.7812,
+    "lon": -120.982,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "http://www.allwedoisrun.com/"
+}

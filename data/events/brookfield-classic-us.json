@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Brookfield Classic is a ultramarathon. Location: Brookfield, United States. Date: Saturday, 19 September 2026. Distances: 50 km, 15 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brookfield, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Brookfield Classic to ultramaraton. Lokalizacja: Brookfield, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 50 km, 15 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brookfield, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "15 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brookfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Brookfield Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63410",
+  "slug": "brookfield-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "16779",
+    "url": "https://ultrasignup.com/register.aspx?did=63410"
+  },
+  "start": {
+    "lat": 42.7653,
+    "lon": -75.3806,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.co-movement.com/brookfieldclassic"
+}

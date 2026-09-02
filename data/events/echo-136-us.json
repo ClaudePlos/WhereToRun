@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Echo 136 is a ultramarathon. Location: Whitewater, United States. Date: Friday, 25 September 2026. Distances: 218.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Whitewater, United States, Friday, 25 September 2026"
+    },
+    "pl": {
+      "description": "Echo 136 to ultramaraton. Lokalizacja: Whitewater, Stany Zjednoczone. Termin: piątek, 25 września 2026. Dystanse: 218.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Whitewater, Stany Zjednoczone, piątek, 25 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "218.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Whitewater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Echo 136",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64133",
+  "slug": "echo-136-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "19692",
+    "url": "https://ultrasignup.com/register.aspx?did=64133"
+  },
+  "start": {
+    "lat": 42.7788,
+    "lon": -88.6927,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://tydish.org/"
+}

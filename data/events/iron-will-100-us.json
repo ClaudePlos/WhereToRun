@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Iron Will 100 is a ultramarathon. Location: Junction City, United States. Date: Saturday, 19 September 2026. Distances: 160.9 km, 80.5 km, 50 km, 36 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Junction City, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Iron Will 100 to ultramaraton. Lokalizacja: Junction City, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 160.9 km, 80.5 km, 50 km, 36 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Junction City, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "50 km",
+    "36 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Junction City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Iron Will 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63277",
+  "slug": "iron-will-100-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "14786",
+    "url": "https://ultrasignup.com/register.aspx?did=63277"
+  },
+  "start": {
+    "lat": 39.077,
+    "lon": -96.8857,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.facebook.com/groups/1216653145494476/?ref=share_group_link&exp=8ce3"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Porkies Wilderness Races is a ultramarathon. Location: Ironwood, United States. Date: Saturday, 19 September 2026. Distances: 80.5 km, Heavy Half Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ironwood, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Porkies Wilderness Races to ultramaraton. Lokalizacja: Ironwood, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 80.5 km, Heavy Half Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ironwood, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "Heavy Half Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ironwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Porkies Wilderness Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65702",
+  "slug": "porkies-wilderness-races-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "20097",
+    "url": "https://ultrasignup.com/register.aspx?did=65702"
+  },
+  "start": {
+    "lat": 46.7073,
+    "lon": -89.9754,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.porkiestrailrace.com/"
+}

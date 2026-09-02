@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Hungerford Trail Races is a ultramarathon. Location: Big Rapids, United States. Date: Saturday, 26 September 2026. Distances: 80.5 km, 45 km, 24.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Big Rapids, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "The Hungerford Trail Races to ultramaraton. Lokalizacja: Big Rapids, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 80.5 km, 45 km, 24.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Big Rapids, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "45 km",
+    "24.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "The Hungerford Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64684",
+  "slug": "the-hungerford-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "4212",
+    "url": "https://ultrasignup.com/register.aspx?did=64684"
+  },
+  "start": {
+    "lat": 43.6869,
+    "lon": -85.5261,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://sites.google.com/view/thehungerfordtrailraces?usp=sharing"
+}

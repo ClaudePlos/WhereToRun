@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Standing Boy Trail Festival is a ultramarathon. Location: Columbus, United States. Date: Sunday, 20 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Columbus, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Standing Boy Trail Festival to ultramaraton. Lokalizacja: Columbus, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Columbus, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Standing Boy Trail Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64200",
+  "slug": "standing-boy-trail-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "15885",
+    "url": "https://ultrasignup.com/register.aspx?did=64200"
+  },
+  "start": {
+    "lat": 32.5829,
+    "lon": -85.0251,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "http://www.revolutionrunning.net"
+}

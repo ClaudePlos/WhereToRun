@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cat's Tail Trail Marathon is a trail race. Location: Shandaken, United States. Date: Saturday, 26 September 2026. Distances: 41.8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Shandaken, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Cat's Tail Trail Marathon to bieg trailowy. Lokalizacja: Shandaken, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 41.8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Shandaken, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "41.8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shandaken",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Cat's Tail Trail Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64233",
+  "slug": "cat-s-tail-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "4846",
+    "url": "https://ultrasignup.com/register.aspx?did=64233"
+  },
+  "start": {
+    "lat": 42.0948,
+    "lon": -74.3913,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://catstailmarathon.com"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "YOTE is a ultramarathon. Location: Laurelville, United States. Date: Saturday, 19 September 2026. Distances: 50 km, 25 km, 10 km, YOUTH 10K. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Laurelville, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "YOTE to ultramaraton. Lokalizacja: Laurelville, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 50 km, 25 km, 10 km, YOUTH 10K. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Laurelville, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km",
+    "YOUTH 10K"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Laurelville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "YOTE",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64349",
+  "slug": "yote-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "17305",
+    "url": "https://ultrasignup.com/register.aspx?did=64349"
+  },
+  "start": {
+    "lat": 39.3851,
+    "lon": -82.7472,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://dontjustrun.com/events"
+}

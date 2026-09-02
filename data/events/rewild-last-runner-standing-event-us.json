@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rewild: Last Runner Standing Event is a road race. Location: Huntersville, United States. Date: Saturday, 19 September 2026. Distances: Last Runner Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntersville, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Rewild: Last Runner Standing Event to bieg uliczny. Lokalizacja: Huntersville, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: Last Runner Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntersville, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T17:10:51.476Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Runner Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Rewild: Last Runner Standing Event",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67538",
+  "slug": "rewild-last-runner-standing-event-us",
+  "source": {
+    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "id": "ultrasignup",
+    "ref": "16047",
+    "url": "https://ultrasignup.com/register.aspx?did=67538"
+  },
+  "start": {
+    "lat": 35.4154,
+    "lon": -80.9201,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "website": "https://www.humanpoweredmovement.com/rewild.html"
+}
