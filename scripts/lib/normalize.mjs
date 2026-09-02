@@ -3,14 +3,15 @@ import { LANGS } from './schema.mjs';
 /**
  * Higher wins when two sources describe the same race. RunSignup outranks
  * UltraSignup because it is the only source carrying entry fees; UltraSignup
- * outranks RunRaceUSA, whose coordinates are often only the host town, which in
- * turn outranks Wikidata, whose dates are rolled forward from a past edition.
+ * outranks RunRaceUSA and DUV, whose coordinates are only the host town, which in
+ * turn outrank Wikidata, whose dates are rolled forward from a past edition.
  */
 export const SOURCE_PRECEDENCE = {
   curated: 100,
   runsignup: 50,
   ultrasignup: 45,
   runraceusa: 42,
+  duv: 41,
   wikidata: 40,
   unknown: 0,
 };

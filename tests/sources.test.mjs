@@ -9,6 +9,9 @@ import {
   isInteresting as isUltraSignupInteresting,
 } from '../scripts/sources/ultrasignup.mjs';
 import { findRecords } from '../scripts/probe-sources.mjs';
+import { parseRaces as parseDuv, findFirstUpcomingPage } from '../scripts/sources/duv.mjs';
+import { alpha2 } from '../scripts/lib/countries.mjs';
+import { createGeocoder } from '../scripts/lib/geocode.mjs';
 import {
   parseRaces as parseRunRaceUsa,
   startPrecision,
@@ -344,4 +347,155 @@ test('an empty distance list is not evidence of a long race', () => {
   assert.equal(isRunRaceUsaInteresting('Desert Ultra', empty), true);
   // A half marathon must not match on the word "marathon".
   assert.equal(isRunRaceUsaInteresting('City Half-Marathon', empty), false);
+});
+
+// --- DUV -----------------------------------------------------------------
+// Field names, IOC country codes and the zeroed end-date sentinel are all taken
+// from live probe output.
+
+const duvRows = [
+  {
+    EventID: '128022',
+    EventName: 'BAU Binnenalsterultra',
+    City: 'Hamburg',
+    Country: 'GER',
+    Length: '51.2km',
+    Duration: '',
+    Startdate: '2027-01-01',
+    Enddate: '0000-00-00 00:00:00',
+    IAULabel: 'N',
+  },
+  {
+    EventID: '128959',
+    EventName: 'Ultramaraton non stop 6 horas Cancún',
+    City: 'Cancun',
+    Country: 'MEX',
+    Length: null,
+    Duration: '6h',
+    Startdate: '2027-01-31',
+    Enddate: '0000-00-00 00:00:00',
+    IAULabel: 'B',
+  },
+  {
+    EventID: '1',
+    EventName: 'Last Season Classic',
+    City: 'Praha',
+    Country: 'CZE',
+    Length: '100km',
+    Startdate: '2020-05-05',
+    Enddate: '0000-00-00 00:00:00',
+  },
+  {
+    EventID: '2',
+    EventName: 'Nowhere Ultra',
+    City: 'Somewhere',
+    Country: 'ZZZ',
+    Length: '50km',
+    Startdate: '2027-03-03',
+    Enddate: '0000-00-00 00:00:00',
+  },
+];
+
+test('duv maps IOC country codes, not just ISO ones', () => {
+  assert.equal(alpha2('GER'), 'DE');
+  assert.equal(alpha2('SUI'), 'CH');
+  assert.equal(alpha2('NED'), 'NL');
+  assert.equal(alpha2('DEU'), 'DE');
+  assert.equal(alpha2('BRA'), 'BR');
+  assert.equal(alpha2('ZZZ'), null);
+});
+
+test('duv keeps future ultras and drops past ones and unknown countries', () => {
+  const races = parseDuv(duvRows, { today });
+  assert.deepEqual(
+    races.map((race) => race.name),
+    ['BAU Binnenalsterultra', 'Ultramaraton non stop 6 horas Cancún'],
+  );
+  assert.equal(races[0].location.countryCode, 'DE');
+  assert.equal(races[0].location.country, 'Germany');
+});
+
+test('duv reads a distance from Length and a time limit from Duration', () => {
+  const [hamburg, cancun] = parseDuv(duvRows, { today });
+  assert.deepEqual(hamburg.distances, ['51.2 km']);
+  assert.deepEqual(cancun.distances, ['6 h']);
+});
+
+test('duv treats the zeroed end date as absent and tags IAU-labelled races', () => {
+  const [hamburg, cancun] = parseDuv(duvRows, { today });
+  assert.equal(hamburg.endDate, null);
+  assert.ok(!hamburg.tags.includes('iau-label'));
+  assert.ok(cancun.tags.includes('iau-label'));
+  assert.equal(cancun.source.url, 'https://statistik.d-u-v.org/getresultevent.php?event=128959');
+});
+
+test('duv finds the first page holding a future race by binary search', async () => {
+  // Four pages of two records each, all of 2027; today is 2027-01-01 in these
+  // tests, so page 1 already qualifies.
+  const pages = {
+    1: [{ Startdate: '2026-01-01' }, { Startdate: '2026-06-01' }],
+    2: [{ Startdate: '2026-07-01' }, { Startdate: '2026-12-31' }],
+    3: [{ Startdate: '2027-02-01' }, { Startdate: '2027-03-01' }],
+    4: [{ Startdate: '2027-04-01' }, { Startdate: '2027-05-01' }],
+  };
+  const read = async (page) => pages[page];
+  assert.equal(await findFirstUpcomingPage(read, 4, '2027-01-15'), 3);
+  assert.equal(await findFirstUpcomingPage(read, 4, '2026-01-01'), 1);
+  assert.equal(await findFirstUpcomingPage(read, 4, '2029-01-01'), 4);
+});
+
+// --- Geocoder ------------------------------------------------------------
+
+test('geocoder serves a cached town without touching the network', async () => {
+  const cache = { 'DE|hamburg': { lat: 53.55, lon: 10.0, name: 'Hamburg', at: '2026-09-01T00:00:00Z' } };
+  const geocoder = createGeocoder({
+    cache,
+    fetchImpl: () => { throw new Error('should not be called'); },
+    now: new Date('2026-09-02T00:00:00Z'),
+  });
+  assert.deepEqual(await geocoder.lookup('Hamburg', 'DE', 'Germany'), {
+    lat: 53.55, lon: 10.0, name: 'Hamburg',
+  });
+  assert.equal(geocoder.stats.hits, 1);
+});
+
+test('geocoder stops at its per-run cap so a big calendar cannot hammer Nominatim', async () => {
+  const cache = {};
+  let calls = 0;
+  const geocoder = createGeocoder({
+    cache,
+    maxLookups: 2,
+    minIntervalMs: 0,
+    now: new Date('2026-09-02T00:00:00Z'),
+    fetchImpl: async () => {
+      calls += 1;
+      return new Response(JSON.stringify([{ lat: '1.5', lon: '2.5', display_name: 'Somewhere' }]), {
+        status: 200, headers: { 'content-type': 'application/json' },
+      });
+    },
+  });
+  assert.ok(await geocoder.lookup('A', 'PL', 'Poland'));
+  assert.ok(await geocoder.lookup('B', 'PL', 'Poland'));
+  assert.equal(await geocoder.lookup('C', 'PL', 'Poland'), null);
+  assert.equal(calls, 2);
+  assert.equal(geocoder.stats.capped, 1);
+});
+
+test('geocoder remembers a miss but not a network error', async () => {
+  const now = new Date('2026-09-02T00:00:00Z');
+  const cache = {};
+  const empty = createGeocoder({
+    cache, now, minIntervalMs: 0,
+    fetchImpl: async () => new Response('[]', { status: 200, headers: { 'content-type': 'application/json' } }),
+  });
+  assert.equal(await empty.lookup('Nowhere', 'PL', 'Poland'), null);
+  assert.ok('PL|nowhere' in cache, 'a genuine miss is remembered');
+
+  const failing = createGeocoder({
+    cache, now, minIntervalMs: 0,
+    log: { warn() {} },
+    fetchImpl: async () => new Response('nope', { status: 503, statusText: 'Service Unavailable' }),
+  });
+  assert.equal(await failing.lookup('Elsewhere', 'PL', 'Poland'), null);
+  assert.ok(!('PL|elsewhere' in cache), 'a network failure is not cached as a miss');
 });
