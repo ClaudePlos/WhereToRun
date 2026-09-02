@@ -17,20 +17,23 @@ import * as runsignup from './sources/runsignup.mjs';
 import * as wikidata from './sources/wikidata.mjs';
 import * as ultrasignup from './sources/ultrasignup.mjs';
 import * as runraceusa from './sources/runraceusa.mjs';
+import * as duv from './sources/duv.mjs';
 import * as aiDiscovery from './sources/ai-discovery.mjs';
 import { mergeEvent, normalizeEvent, isSameEvent } from './lib/normalize.mjs';
 import { validateEvent } from './lib/schema.mjs';
-import { readEvents, writeEvent, sortKeys, ROOT, EVENTS_DIR } from './lib/store.mjs';
+import { readEvents, writeEvent, sortKeys, readGeocache, writeGeocache, ROOT, EVENTS_DIR } from './lib/store.mjs';
+import { createGeocoder } from './lib/geocode.mjs';
 
-const ALL_SOURCES = [curated, runsignup, ultrasignup, runraceusa, wikidata, aiDiscovery];
+const ALL_SOURCES = [curated, runsignup, ultrasignup, runraceusa, duv, wikidata, aiDiscovery];
 
 function parseArgs(argv) {
-  const args = { dryRun: false, sources: null, maxNew: 25, quiet: false };
+  const args = { dryRun: false, sources: null, maxNew: 25, quiet: false, maxGeocode: 10 };
   for (const arg of argv) {
     if (arg === '--dry-run') args.dryRun = true;
     else if (arg === '--quiet') args.quiet = true;
     else if (arg.startsWith('--sources=')) args.sources = arg.slice(10).split(',').filter(Boolean);
     else if (arg.startsWith('--max-new=')) args.maxNew = Number(arg.slice(10));
+    else if (arg.startsWith('--max-geocode=')) args.maxGeocode = Number(arg.slice(14));
   }
   return args;
 }
@@ -46,10 +49,15 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
   const stats = { added: 0, updated: 0, unchanged: 0, skipped: 0, sources: {} };
   let newThisRun = 0;
 
+  // Shared by every source that needs coordinates for a place name. The cache is
+  // written back once at the end, so a crashed run still costs at most one pass.
+  const geocache = await readGeocache();
+  const geocoder = createGeocoder({ cache: geocache, now, maxLookups: args.maxGeocode, log });
+
   for (const source of enabled) {
     let candidates = [];
     try {
-      candidates = await source.fetchEvents({ today: now, known });
+      candidates = await source.fetchEvents({ today: now, known, geocoder });
       stats.sources[source.id] = { fetched: candidates.length, error: null };
     } catch (error) {
       stats.sources[source.id] = { fetched: 0, error: String(error.message ?? error) };
@@ -91,8 +99,11 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
     }
   }
 
+  if (!args.dryRun && geocoder.stats.lookups > 0) await writeGeocache(geocache);
+
   const meta = {
     lastRun: now.toISOString(),
+    geocoding: geocoder.stats,
     eventCount: (await readEvents()).length,
     dryRun: args.dryRun,
     ...stats,

@@ -41,7 +41,17 @@ Collect events by hand:
 npm run collect                      # all sources
 npm run collect:dry                  # no files written
 node scripts/collect.mjs --sources=runsignup --max-new=10
+node scripts/collect.mjs --sources=duv --max-geocode=3   # cap Nominatim lookups
 ```
+
+### Geocoding
+
+DUV publishes a town and a country but no coordinates. Towns are resolved through
+[Nominatim](https://nominatim.openstreetmap.org/) and cached in `data/geocache.json`, which is
+committed: each town is looked up once ever, never once per run. Nominatim's usage policy is
+enforced in code — one request a second, an identifying User-Agent, and a hard cap per run
+(`--max-geocode`, default 10), so the world calendar fills in over days instead of hammering a
+donated service. Geocoded pins are town-level and marked `precision: "city"` in the UI.
 
 ### Data sources
 
@@ -51,13 +61,14 @@ node scripts/collect.mjs --sources=runsignup --max-new=10
 | `runsignup` | no | [RunSignup's open REST API](https://runsignup.com/API): dates, coordinates, entry fees and registration links. Mostly North America. |
 | `ultrasignup` | no | The calendar behind [UltraSignup](https://ultrasignup.com/), where most US trail and ultra races register. Exact start coordinates, no fees. |
 | `runraceusa` | no | [RunRaceUSA's](https://runraceusa.com/api) nightly CC BY 4.0 dump, itself aggregating six registration platforms. Coordinates are often only the host town, and are flagged as such. |
+| `duv` | no | The [DUV worldwide ultramarathon calendar](https://statistik.d-u-v.org/) — the only source here with genuinely global reach. Publishes no coordinates, so host towns are geocoded once each and cached. A worldwide query is capped at 4000 records, so countries are read on a rotation. |
 | `wikidata` | no | [Wikidata SPARQL](https://query.wikidata.org/): notable races worldwide with coordinates, official sites and Wikipedia articles. Next-edition dates are estimated from the last known edition. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude with the web search tool proposes races the open APIs miss. Skipped silently when the key is absent. |
 
 There is no single global race API — Ahotu and AIMS have no public one — so the collector
 combines several and merges the results by source precedence
-(`curated` > `runsignup` > `ultrasignup` > `runraceusa` > `wikidata` > `ai-discovery` for
-conflicts; lower-precedence sources still fill in fields the winner left empty). RunSignup
+(`curated` > `runsignup` > `ultrasignup` > `runraceusa` > `duv` > `wikidata` > `ai-discovery`
+for conflicts; lower-precedence sources still fill in fields the winner left empty). RunSignup
 ranks highest of the automated sources because it is the only one carrying entry fees.
 
 Sources are picked by probing them first, not by trusting documentation:
@@ -133,7 +144,17 @@ Ręczne zebranie danych:
 npm run collect                      # wszystkie źródła
 npm run collect:dry                  # bez zapisu plików
 node scripts/collect.mjs --sources=runsignup --max-new=10
+node scripts/collect.mjs --sources=duv --max-geocode=3   # cap Nominatim lookups
 ```
+
+### Geocoding
+
+DUV publishes a town and a country but no coordinates. Towns are resolved through
+[Nominatim](https://nominatim.openstreetmap.org/) and cached in `data/geocache.json`, which is
+committed: each town is looked up once ever, never once per run. Nominatim's usage policy is
+enforced in code — one request a second, an identifying User-Agent, and a hard cap per run
+(`--max-geocode`, default 10), so the world calendar fills in over days instead of hammering a
+donated service. Geocoded pins are town-level and marked `precision: "city"` in the UI.
 
 ### Źródła danych
 
@@ -143,13 +164,14 @@ node scripts/collect.mjs --sources=runsignup --max-new=10
 | `runsignup` | nie | [Otwarte API REST RunSignup](https://runsignup.com/API): terminy, współrzędne, opłaty startowe i linki do zapisów. Głównie Ameryka Północna. |
 | `ultrasignup` | nie | Kalendarz [UltraSignup](https://ultrasignup.com/), gdzie zapisuje się większość amerykańskich biegów trailowych i ultra. Dokładne współrzędne startu, bez opłat. |
 | `runraceusa` | nie | Codzienny zrzut [RunRaceUSA](https://runraceusa.com/api) na licencji CC BY 4.0, sam agregujący sześć platform zapisowych. Współrzędne to często tylko miejscowość — i tak są oznaczane. |
+| `duv` | nie | [Światowy kalendarz ultramaratonów DUV](https://statistik.d-u-v.org/) — jedyne źródło o naprawdę globalnym zasięgu. Nie podaje współrzędnych, więc miejscowości są geokodowane raz i zapisywane w cache'u. Zapytanie globalne jest ucięte na 4000 rekordach, więc kraje odpytywane są rotacyjnie. |
 | `wikidata` | nie | [Wikidata SPARQL](https://query.wikidata.org/): znane biegi z całego świata ze współrzędnymi, stronami oficjalnymi i artykułami Wikipedii. Data kolejnej edycji jest szacowana na podstawie ostatniej znanej. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude z wyszukiwaniem w sieci proponuje biegi, których nie mają otwarte API. Bez klucza źródło jest po prostu pomijane. |
 
 Nie istnieje jedno globalne API z biegami — Ahotu ani AIMS nie udostępniają publicznego —
 więc kolektor łączy kilka źródeł i scala wyniki według priorytetu
-(przy konflikcie `curated` > `runsignup` > `ultrasignup` > `runraceusa` > `wikidata` >
-`ai-discovery`; źródła o niższym priorytecie i tak uzupełniają pola, których zwycięzca nie
+(przy konflikcie `curated` > `runsignup` > `ultrasignup` > `runraceusa` > `duv` >
+`wikidata` > `ai-discovery`; źródła o niższym priorytecie i tak uzupełniają pola, których zwycięzca nie
 wypełnił). RunSignup stoi najwyżej wśród źródeł automatycznych, bo jako jedyne niesie opłaty
 startowe.
 
