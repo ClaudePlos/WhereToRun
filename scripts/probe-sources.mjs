@@ -51,12 +51,16 @@ export const ENDPOINTS = [
     status: 'candidate',
     note: 'Candidate per-event page, to link DUV races without guessing',
     url: 'https://statistik.d-u-v.org/eventdetail.php?eventid=128022',
+    // Event 128022 is "BAU Binnenalsterultra"; both candidates answer 200 with
+    // the site's generic title, so only the body says which one is the race.
+    expect: 'Binnenalster',
   },
   {
     id: 'duv-event-b',
     status: 'candidate',
     note: 'Second candidate per-event page',
     url: 'https://statistik.d-u-v.org/getresultevent.php?event=128022',
+    expect: 'Binnenalster',
   },
   {
     id: 'duv-from',
@@ -75,6 +79,22 @@ export const ENDPOINTS = [
     status: 'live',
     note: 'Collector reports fetched:0 with no error — see what the API returns',
     url: 'https://runsignup.com/rest/races?format=json&results_per_page=3&start_date=today&events=T&race_headings=F&race_links=F&include_event_days=F&only_partner_races=F&sort=date+ASC',
+  },
+  {
+    id: 'runsignup-isodate',
+    status: 'live',
+    note: 'Hypothesis: start_date=today is ignored, an explicit ISO date is not',
+    url: `https://runsignup.com/rest/races?format=json&results_per_page=3&start_date=${
+      new Date().toISOString().slice(0, 10)
+    }&events=T&sort=date+ASC`,
+  },
+  {
+    id: 'runsignup-window',
+    status: 'live',
+    note: 'Same, with an explicit end date closing the window',
+    url: `https://runsignup.com/rest/races?format=json&results_per_page=3&start_date=${
+      new Date().toISOString().slice(0, 10)
+    }&end_date=${YEAR + 1}-12-31&events=T&sort=date+ASC`,
   },
   {
     id: 'runraceusa',
@@ -187,6 +207,11 @@ async function probe(endpoint, fetchImpl) {
   const type = response.headers.get('content-type') ?? 'unknown';
   const body = await response.text();
   console.log(`    HTTP ${response.status} ${response.statusText} · ${type} · ${body.length} bytes · ${Date.now() - started}ms`);
+
+  if (endpoint.expect) {
+    const found = body.toLowerCase().includes(endpoint.expect.toLowerCase());
+    console.log(`    expect "${endpoint.expect}": ${found ? 'FOUND' : 'NOT FOUND'}`);
+  }
 
   if (!response.ok) {
     console.log(`    body: ${body.slice(0, 200).replace(/\s+/g, ' ')}`);
