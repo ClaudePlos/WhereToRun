@@ -63,6 +63,24 @@ export const ENDPOINTS = [
     expect: 'Binnenalster',
   },
   {
+    id: 'duv-p9',
+    status: 'candidate',
+    note: 'How far into the year does the paged listing actually reach?',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=9`,
+  },
+  {
+    id: 'duv-p10',
+    status: 'candidate',
+    note: 'Last page implied by HitCnt 4000 / PageSize 400',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=10`,
+  },
+  {
+    id: 'duv-p11',
+    status: 'candidate',
+    note: 'Is 4000 a real total or a cap?',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=11`,
+  },
+  {
     id: 'duv-from',
     status: 'candidate',
     note: 'Does a from/to date window work? (we only want future races)',
@@ -260,6 +278,18 @@ async function probe(endpoint, fetchImpl) {
     }
     const raw = JSON.stringify(first);
     console.log(`    raw: ${raw.length > 1500 ? `${raw.slice(0, 1500)}…` : raw}`);
+
+    // For a paged, date-ordered calendar, the last record on the page says how
+    // far the page reaches — which the first record cannot.
+    const last = found.rows[found.rows.length - 1];
+    if (found.rows.length > 1 && last && typeof last === 'object') {
+      const summary = Object.entries(last)
+        .filter(([, value]) => value === null || typeof value !== 'object')
+        .slice(0, 12)
+        .map(([key, value]) => `${key}=${value}`)
+        .join(' ');
+      console.log(`    last record: ${summary}`);
+    }
   }
   return { id: endpoint.id, ok: true, rows: found.rows.length };
 }
