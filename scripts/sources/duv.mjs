@@ -11,11 +11,13 @@
  *
  * 1. No coordinates. Records carry a town and a country, so each new town is
  *    geocoded once and cached; the pin is the town, marked precision "city".
- * 2. No date filter. A from/to window makes the endpoint emit a PHP warning
- *    instead of JSON, and the month parameter is ignored, so the calendar is
- *    always returned from January in date order, 400 records to a page. Rather
- *    than walk months of past races, the first page holding a future race is
- *    found by binary search over the page index.
+ * 2. No usable date filter, and a hard result cap. A from/to window makes the
+ *    endpoint emit a PHP warning instead of JSON, the month parameter is
+ *    ignored, and a worldwide year query stops at 4000 records — which for 2026
+ *    runs out in May. Every race such a query can reach is therefore already in
+ *    the past. Asking country by country keeps each listing well under the cap
+ *    and reaches December, so the source walks a rotating slice of countries per
+ *    run and covers the world over a few days.
  */
 
 import { alpha2, englishName } from '../lib/countries.mjs';
@@ -45,33 +47,40 @@ export function raceDistances(length, duration) {
   return parseDistances(duration);
 }
 
-export function buildUrl({ year, page = 1 }) {
+/**
+ * Countries with an ultra calendar worth reading, as IOC codes because that is
+ * what DUV's country filter takes. Order is stable so the rotation below is
+ * predictable; the list is not exhaustive and can grow.
+ */
+export const COUNTRIES = [
+  'GER', 'FRA', 'ITA', 'ESP', 'GBR', 'POL', 'CZE', 'AUT', 'SUI', 'NED',
+  'BEL', 'SWE', 'NOR', 'DEN', 'FIN', 'POR', 'GRE', 'HUN', 'ROU', 'SVK',
+  'SLO', 'CRO', 'IRL', 'UKR', 'TUR', 'ISL', 'EST', 'LAT', 'LTU', 'BUL',
+  'SRB', 'JPN', 'KOR', 'CHN', 'HKG', 'TPE', 'THA', 'MAS', 'IND', 'NEP',
+  'AUS', 'NZL', 'RSA', 'KEN', 'MAR', 'BRA', 'ARG', 'CHI', 'MEX', 'CAN',
+];
+
+/**
+ * Which countries this run looks at. Derived from the clock rather than stored,
+ * so nothing has to be committed to keep the rotation moving: the three daily
+ * runs each take a different slice and the whole list is covered in a few days.
+ */
+export function selectCountries(today, count, countries = COUNTRIES) {
+  const slot = Math.floor(today.getTime() / (8 * 3600 * 1000));
+  const start = (slot * count) % countries.length;
+  return Array.from({ length: Math.min(count, countries.length) },
+    (unused, i) => countries[(start + i) % countries.length]);
+}
+
+export function buildUrl({ year, country = 'all', page = 1 }) {
   const params = new URLSearchParams({
     plain: '1',
     year: String(year),
     dist: 'all',
-    country: 'all',
+    country,
     page: String(page),
   });
   return `${ENDPOINT}?${params}`;
-}
-
-/**
- * Pages are ordered by date, so the first page containing a race on or after
- * `today` can be found without downloading the ones before it. Returns 1 when
- * every page is in the future, and maxPage when they are all past.
- */
-export async function findFirstUpcomingPage(readPage, maxPage, todayISO) {
-  let low = 1;
-  let high = maxPage;
-  while (low < high) {
-    const middle = Math.floor((low + high) / 2);
-    const dates = (await readPage(middle)).map((row) => parseDate(row.Startdate)).filter(Boolean);
-    const last = dates.length > 0 ? dates[dates.length - 1] : null;
-    if (last !== null && last < todayISO) low = middle + 1;
-    else high = middle;
-  }
-  return low;
 }
 
 export function parseRaces(rows, { today = new Date() } = {}) {
@@ -132,7 +141,7 @@ export async function fetchEvents({
   fetchImpl = fetch,
   today = new Date(),
   geocoder = null,
-  pagesToRead = 2,
+  countriesPerRun = 6,
   log = console,
 } = {}) {
   const headers = {
@@ -140,38 +149,40 @@ export async function fetchEvents({
     'User-Agent': 'WhereToRun/0.1 (+https://github.com/ClaudePlos/WhereToRun)',
   };
 
-  async function readPage(year, page) {
-    const response = await fetchImpl(buildUrl({ year, page }), { headers });
+  async function readPage(year, country, page) {
+    const response = await fetchImpl(buildUrl({ year, country, page }), { headers });
     if (!response.ok) throw new Error(`DUV returned ${response.status} ${response.statusText}`);
     const json = await response.json();
     return { rows: json?.Races ?? [], maxPage: Number(json?.Pagination?.MaxPage ?? 1) };
   }
 
   const year = today.getUTCFullYear();
-  const first = await readPage(year, 1);
-  const cache = new Map([[1, first.rows]]);
-
-  const startPage = await findFirstUpcomingPage(
-    async (page) => {
-      if (!cache.has(page)) cache.set(page, (await readPage(year, page)).rows);
-      return cache.get(page);
-    },
-    Math.max(1, first.maxPage),
-    today.toISOString().slice(0, 10),
-  );
-
+  const countries = selectCountries(today, countriesPerRun);
   const rows = [];
-  for (let page = startPage; page < startPage + pagesToRead && page <= first.maxPage; page += 1) {
-    rows.push(...(cache.get(page) ?? (await readPage(year, page)).rows));
-  }
-  // Late in the season the remaining pages are thin, so top up from next year.
-  if (rows.length < 100) {
-    const next = await readPage(year + 1, 1);
-    rows.push(...next.rows);
+
+  for (const country of countries) {
+    try {
+      const first = await readPage(year, country, 1);
+      rows.push(...first.rows);
+      // Listings run January-first, so the season's remaining races sit on the
+      // last page; for a big country that is not page one.
+      for (let page = first.maxPage; page > 1 && page > first.maxPage - 2; page -= 1) {
+        rows.push(...(await readPage(year, country, page)).rows);
+      }
+      // Next season opens before this one ends, and by autumn it is most of
+      // what is left to enter.
+      rows.push(...(await readPage(year + 1, country, 1)).rows);
+    } catch (error) {
+      // One unreachable country must not cost the whole run.
+      log.warn?.(`! duv ${country}: ${error.message ?? error}`);
+    }
   }
 
   const candidates = parseRaces(rows, { today });
-  if (!geocoder) return [];
+  if (!geocoder) {
+    log.warn?.('  duv: no geocoder supplied, skipping (records carry no coordinates)');
+    return [];
+  }
 
   const located = [];
   for (const event of candidates) {
@@ -190,7 +201,8 @@ export async function fetchEvents({
   }
 
   log.info?.(
-    `  duv: ${candidates.length} upcoming races, ${located.length} with coordinates`,
+    `  duv: ${countries.join(', ')} → ${candidates.length} upcoming races, ` +
+    `${located.length} with coordinates`,
   );
   return located;
 }

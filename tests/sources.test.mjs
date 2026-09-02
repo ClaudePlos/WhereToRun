@@ -9,7 +9,7 @@ import {
   isInteresting as isUltraSignupInteresting,
 } from '../scripts/sources/ultrasignup.mjs';
 import { findRecords } from '../scripts/probe-sources.mjs';
-import { parseRaces as parseDuv, findFirstUpcomingPage } from '../scripts/sources/duv.mjs';
+import { parseRaces as parseDuv, selectCountries, buildUrl as duvUrl, COUNTRIES } from '../scripts/sources/duv.mjs';
 import { alpha2 } from '../scripts/lib/countries.mjs';
 import { createGeocoder } from '../scripts/lib/geocode.mjs';
 import {
@@ -429,19 +429,29 @@ test('duv treats the zeroed end date as absent and tags IAU-labelled races', () 
   assert.equal(cancun.source.url, 'https://statistik.d-u-v.org/getresultevent.php?event=128959');
 });
 
-test('duv finds the first page holding a future race by binary search', async () => {
-  // Four pages of two records each, all of 2027; today is 2027-01-01 in these
-  // tests, so page 1 already qualifies.
-  const pages = {
-    1: [{ Startdate: '2026-01-01' }, { Startdate: '2026-06-01' }],
-    2: [{ Startdate: '2026-07-01' }, { Startdate: '2026-12-31' }],
-    3: [{ Startdate: '2027-02-01' }, { Startdate: '2027-03-01' }],
-    4: [{ Startdate: '2027-04-01' }, { Startdate: '2027-05-01' }],
-  };
-  const read = async (page) => pages[page];
-  assert.equal(await findFirstUpcomingPage(read, 4, '2027-01-15'), 3);
-  assert.equal(await findFirstUpcomingPage(read, 4, '2026-01-01'), 1);
-  assert.equal(await findFirstUpcomingPage(read, 4, '2029-01-01'), 4);
+test('duv asks country by country, because a worldwide query is capped at 4000', () => {
+  // A worldwide 2026 query runs out in May, so every race it can reach is past.
+  assert.ok(duvUrl({ year: 2026, country: 'POL' }).includes('country=POL'));
+  assert.ok(duvUrl({ year: 2026, country: 'POL' }).includes('year=2026'));
+});
+
+test('duv rotates through countries so three daily runs cover different ground', () => {
+  const morning = selectCountries(new Date('2026-09-02T09:00:00Z'), 6);
+  const evening = selectCountries(new Date('2026-09-02T17:00:00Z'), 6);
+  assert.equal(morning.length, 6);
+  assert.notDeepEqual(morning, evening);
+  assert.ok(morning.every((code) => COUNTRIES.includes(code)));
+  // The same moment always picks the same slice, so a re-run is not random.
+  assert.deepEqual(morning, selectCountries(new Date('2026-09-02T09:30:00Z'), 6));
+});
+
+test('duv rotation eventually covers every country', () => {
+  const seen = new Set();
+  for (let slot = 0; slot < COUNTRIES.length; slot += 1) {
+    const at = new Date(Date.UTC(2026, 8, 2) + slot * 8 * 3600 * 1000);
+    for (const code of selectCountries(at, 6)) seen.add(code);
+  }
+  assert.equal(seen.size, COUNTRIES.length);
 });
 
 // --- Geocoder ------------------------------------------------------------

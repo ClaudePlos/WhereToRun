@@ -61,7 +61,7 @@ donated service. Geocoded pins are town-level and marked `precision: "city"` in 
 | `runsignup` | no | [RunSignup's open REST API](https://runsignup.com/API): dates, coordinates, entry fees and registration links. Mostly North America. |
 | `ultrasignup` | no | The calendar behind [UltraSignup](https://ultrasignup.com/), where most US trail and ultra races register. Exact start coordinates, no fees. |
 | `runraceusa` | no | [RunRaceUSA's](https://runraceusa.com/api) nightly CC BY 4.0 dump, itself aggregating six registration platforms. Coordinates are often only the host town, and are flagged as such. |
-| `duv` | no | The [DUV worldwide ultramarathon calendar](https://statistik.d-u-v.org/) — the only source here with genuinely global reach. Publishes no coordinates, so host towns are geocoded once each and cached. |
+| `duv` | no | The [DUV worldwide ultramarathon calendar](https://statistik.d-u-v.org/) — the only source here with genuinely global reach. Publishes no coordinates, so host towns are geocoded once each and cached. A worldwide query is capped at 4000 records, so countries are read on a rotation. |
 | `wikidata` | no | [Wikidata SPARQL](https://query.wikidata.org/): notable races worldwide with coordinates, official sites and Wikipedia articles. Next-edition dates are estimated from the last known edition. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude with the web search tool proposes races the open APIs miss. Skipped silently when the key is absent. |
 
@@ -164,7 +164,7 @@ donated service. Geocoded pins are town-level and marked `precision: "city"` in 
 | `runsignup` | nie | [Otwarte API REST RunSignup](https://runsignup.com/API): terminy, współrzędne, opłaty startowe i linki do zapisów. Głównie Ameryka Północna. |
 | `ultrasignup` | nie | Kalendarz [UltraSignup](https://ultrasignup.com/), gdzie zapisuje się większość amerykańskich biegów trailowych i ultra. Dokładne współrzędne startu, bez opłat. |
 | `runraceusa` | nie | Codzienny zrzut [RunRaceUSA](https://runraceusa.com/api) na licencji CC BY 4.0, sam agregujący sześć platform zapisowych. Współrzędne to często tylko miejscowość — i tak są oznaczane. |
-| `duv` | nie | [Światowy kalendarz ultramaratonów DUV](https://statistik.d-u-v.org/) — jedyne źródło o naprawdę globalnym zasięgu. Nie podaje współrzędnych, więc miejscowości są geokodowane raz i zapisywane w cache'u. |
+| `duv` | nie | [Światowy kalendarz ultramaratonów DUV](https://statistik.d-u-v.org/) — jedyne źródło o naprawdę globalnym zasięgu. Nie podaje współrzędnych, więc miejscowości są geokodowane raz i zapisywane w cache'u. Zapytanie globalne jest ucięte na 4000 rekordach, więc kraje odpytywane są rotacyjnie. |
 | `wikidata` | nie | [Wikidata SPARQL](https://query.wikidata.org/): znane biegi z całego świata ze współrzędnymi, stronami oficjalnymi i artykułami Wikipedii. Data kolejnej edycji jest szacowana na podstawie ostatniej znanej. |
 | `ai-discovery` | `ANTHROPIC_API_KEY` | Claude z wyszukiwaniem w sieci proponuje biegi, których nie mają otwarte API. Bez klucza źródło jest po prostu pomijane. |
 
