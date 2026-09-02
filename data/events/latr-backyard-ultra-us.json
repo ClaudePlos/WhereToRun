@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "LATR Backyard Ultra is a road race. Location: Indianola, United States. Date: 26 September 2026 – 27 September 2026. Distances: LATR Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Indianola, United States, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "LATR Backyard Ultra to bieg uliczny. Lokalizacja: Indianola, Stany Zjednoczone. Termin: 26 września 2026 – 27 września 2026. Dystanse: LATR Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Indianola, Stany Zjednoczone, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "LATR Backyard Ultra"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Indianola",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "LATR Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63937",
+  "slug": "latr-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "19180",
+    "url": "https://ultrasignup.com/register.aspx?did=63937"
+  },
+  "start": {
+    "lat": 41.2904,
+    "lon": -93.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.facebook.com/profile.php?id=61577908782247"
+}

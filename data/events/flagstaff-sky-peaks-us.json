@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Flagstaff Sky Peaks is a ultramarathon. Location: Flagstaff, United States. Date: 26 September 2026 – 27 September 2026. Distances: 80.5 km, 50 km, 12 h, 26 km, 6 h, 11 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Flagstaff, United States, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Flagstaff Sky Peaks to ultramaraton. Lokalizacja: Flagstaff, Stany Zjednoczone. Termin: 26 września 2026 – 27 września 2026. Dystanse: 80.5 km, 50 km, 12 h, 26 km, 6 h, 11 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Flagstaff, Stany Zjednoczone, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "12 h",
+    "26 km",
+    "6 h",
+    "11 km",
+    "5 km"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flagstaff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Flagstaff Sky Peaks",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64873",
+  "slug": "flagstaff-sky-peaks-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "3303",
+    "url": "https://ultrasignup.com/register.aspx?did=64873"
+  },
+  "start": {
+    "lat": 35.3304,
+    "lon": -111.709,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.aravaiparunning.com/skypeaksweekend/"
+}

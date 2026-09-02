@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Parallel of Latitude Endurance Race is a road race. Location: Dryden, United States. Date: Saturday, 26 September 2026. Distances: 8hrs Solo, 8hrs Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dryden, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Parallel of Latitude Endurance Race to bieg uliczny. Lokalizacja: Dryden, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 8hrs Solo, 8hrs Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dryden, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8hrs Solo",
+    "8hrs Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dryden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Parallel of Latitude Endurance Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64182",
+  "slug": "parallel-of-latitude-endurance-race-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "17351",
+    "url": "https://ultrasignup.com/register.aspx?did=64182"
+  },
+  "start": {
+    "lat": 42.4627,
+    "lon": -76.2783,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://fingerlakesrunners.org/race/parallel-of-latitude-2026/"
+}

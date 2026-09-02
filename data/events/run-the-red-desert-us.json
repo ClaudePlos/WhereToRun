@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run the Red Desert is a ultramarathon. Location: South Pass City, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — South Pass City, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Run the Red Desert to ultramaraton. Lokalizacja: South Pass City, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — South Pass City, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Pass City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WY"
+  },
+  "manual": false,
+  "name": "Run the Red Desert",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65155",
+  "slug": "run-the-red-desert-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "6351",
+    "url": "https://ultrasignup.com/register.aspx?did=65155"
+  },
+  "start": {
+    "lat": 42.4682,
+    "lon": -108.803,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://runthereddesert.com"
+}

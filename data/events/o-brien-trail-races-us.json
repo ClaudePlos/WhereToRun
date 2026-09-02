@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "O'Brien Trail Races is a ultramarathon. Location: Marine on St Croix, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marine on St Croix, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "O'Brien Trail Races to ultramaraton. Lokalizacja: Marine on St Croix, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marine on St Croix, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marine on St Croix",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "O'Brien Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63971",
+  "slug": "o-brien-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "9247",
+    "url": "https://ultrasignup.com/register.aspx?did=63971"
+  },
+  "start": {
+    "lat": 45.2232,
+    "lon": -92.7679,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.facebook.com/OBrien-Trail-Races-672491109754712/"
+}

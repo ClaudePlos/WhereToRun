@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Run4Water Ultra Festival is a ultramarathon. Location: Lebanon, United States. Date: Saturday, 26 September 2026. Distances: 24H - Fri 6pm Start, 12 h, 6 h, 5K - 9am Start, 3H - 8am Start, 3H - 12pm Start, 84 Minutes for 84 D. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lebanon, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Run4Water Ultra Festival to ultramaraton. Lokalizacja: Lebanon, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 24H - Fri 6pm Start, 12 h, 6 h, 5K - 9am Start, 3H - 8am Start, 3H - 12pm Start, 84 Minutes for 84 D. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lebanon, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24H - Fri 6pm Start",
+    "12 h",
+    "6 h",
+    "5K - 9am Start",
+    "3H - 8am Start",
+    "3H - 12pm Start",
+    "84 Minutes for 84 D"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lebanon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Run4Water Ultra Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66624",
+  "slug": "run4water-ultra-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "6440",
+    "url": "https://ultrasignup.com/register.aspx?did=66624"
+  },
+  "start": {
+    "lat": 36.2007,
+    "lon": -86.321,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "http://www.run4water.net"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Laurel Highlands Ultra - Fall Classic is a ultramarathon. Location: Somerset, United States. Date: Saturday, 26 September 2026. Distances: 80.5 km, 50 Mile Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Somerset, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Laurel Highlands Ultra - Fall Classic to ultramaraton. Lokalizacja: Somerset, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 80.5 km, 50 Mile Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Somerset, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 Mile Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Somerset",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Laurel Highlands Ultra - Fall Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65569",
+  "slug": "laurel-highlands-ultra-fall-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "17465",
+    "url": "https://ultrasignup.com/register.aspx?did=65569"
+  },
+  "start": {
+    "lat": 40.1175,
+    "lon": -79.1771,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.redpointproductions.com/"
+}

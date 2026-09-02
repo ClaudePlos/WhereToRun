@@ -5,6 +5,12 @@
     "lon": 27.481186,
     "name": "Alutaguse vald, Ida-Viru maakond, Eesti"
   },
+  "EE|saaremaa": {
+    "at": "2026-09-02T22:37:18.569Z",
+    "lat": 57.8012863,
+    "lon": 27.1396807,
+    "name": "Saaremaa küla, Võru vald, Võru maakond, 65240, Eesti"
+  },
   "HR|zagreb": {
     "at": "2026-09-02T11:28:34.543Z",
     "lat": 45.8130967,
@@ -50,11 +56,17 @@
     "lon": -10.1718452,
     "name": "Waterville, Kenmare Municipal District, County Kerry, Munster, V23 FW71, Éire / Ireland"
   },
+  "JP|chitose city, hokkaido": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
   "JP|dakeonsen, nihonmatsu, fukushima pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
   "JP|happo, yamamoto district, akita pref.": {
     "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|hiratsuka, kanagawa pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
   },
   "JP|kawaba, gunma pref.": {
     "at": "2026-09-02T17:10:51.476Z"
@@ -62,8 +74,35 @@
   "JP|kawaba.vill,gunma pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
+  "JP|kobe, hyogo pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|koriyama, fukushima pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|kumihamacho, kyoto pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|kyotango, kyoto pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
   "JP|mizukami, kumamoto pref.": {
     "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|myoko, niigata pref.": {
+    "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|nagano": {
+    "at": "2026-09-02T22:37:18.569Z",
+    "lat": 36.6485851,
+    "lon": 138.1947664,
+    "name": "長野市, 長野県, 日本"
+  },
+  "JP|osaka city": {
+    "at": "2026-09-02T22:37:18.569Z",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "name": "大阪市, 大阪府, 日本"
   },
   "JP|sendai, miyagi pref.": {
     "at": "2026-09-02T17:10:51.476Z"

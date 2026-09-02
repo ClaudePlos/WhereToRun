@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Miami 100 is a ultramarathon. Location: Miami, United States. Date: Saturday, 26 September 2026. Distances: Miami 130 Challenge, 160.9 km, Ride the Wave 50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Miami, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Miami 100 to ultramaraton. Lokalizacja: Miami, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: Miami 130 Challenge, 160.9 km, Ride the Wave 50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Miami, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Miami 130 Challenge",
+    "160.9 km",
+    "Ride the Wave 50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Miami",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Miami 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63511",
+  "slug": "miami-100-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "9265",
+    "url": "https://ultrasignup.com/register.aspx?did=63511"
+  },
+  "start": {
+    "lat": 25.6108,
+    "lon": -80.3466,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "http://www.miami100ultra.com"
+}

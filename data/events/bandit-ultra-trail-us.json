@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Bandit Ultra Trail is a ultramarathon. Location: Los Angeles (Simi Valley), United States. Date: Saturday, 26 September 2026. Distances: 50 km, 30 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Los Angeles (Simi Valley), United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Bandit Ultra Trail to ultramaraton. Lokalizacja: Los Angeles (Simi Valley), Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 30 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Los Angeles (Simi Valley), Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles (Simi Valley)",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Bandit Ultra Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64838",
+  "slug": "bandit-ultra-trail-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "5884",
+    "url": "https://ultrasignup.com/register.aspx?did=64838"
+  },
+  "start": {
+    "lat": 34.2668,
+    "lon": -118.649,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.banditultratrail.com/"
+}

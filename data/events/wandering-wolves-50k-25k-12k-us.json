@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Wandering Wolves 50k/25k/12k is a ultramarathon. Location: Kansas City, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 25 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kansas City, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Wandering Wolves 50k/25k/12k to ultramaraton. Lokalizacja: Kansas City, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 25 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kansas City, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kansas City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Wandering Wolves 50k/25k/12k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67493",
+  "slug": "wandering-wolves-50k-25k-12k-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "15608",
+    "url": "https://ultrasignup.com/register.aspx?did=67493"
+  },
+  "start": {
+    "lat": 39.1713,
+    "lon": -94.7857,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.wycowolfpack.com/wanderingwolves/"
+}

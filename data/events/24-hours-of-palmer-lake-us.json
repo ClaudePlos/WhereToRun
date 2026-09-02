@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "24 Hours of Palmer Lake is a ultramarathon. Location: Palmer Lake, United States. Date: Saturday, 26 September 2026. Distances: 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palmer Lake, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "24 Hours of Palmer Lake to ultramaraton. Lokalizacja: Palmer Lake, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palmer Lake, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palmer Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "24 Hours of Palmer Lake",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63782",
+  "slug": "24-hours-of-palmer-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "4338",
+    "url": "https://ultrasignup.com/register.aspx?did=63782"
+  },
+  "start": {
+    "lat": 39.1243,
+    "lon": -104.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.palmerlakeendurancerun.com/"
+}

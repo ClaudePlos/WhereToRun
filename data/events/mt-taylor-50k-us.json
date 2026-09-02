@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mt. Taylor 50k is a ultramarathon. Location: Grants, United States. Date: Saturday, 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Grants, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mt. Taylor 50k to ultramaraton. Lokalizacja: Grants, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Grants, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grants",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Mt. Taylor 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65002",
+  "slug": "mt-taylor-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "3027",
+    "url": "https://ultrasignup.com/register.aspx?did=65002"
+  },
+  "start": {
+    "lat": 35.2632,
+    "lon": -107.629,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "http://mttaylor50k.com/"
+}

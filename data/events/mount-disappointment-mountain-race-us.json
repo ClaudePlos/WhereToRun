@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount Disappointment Mountain Race is a ultramarathon. Location: Mt. Wilson, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mt. Wilson, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mount Disappointment Mountain Race to ultramaraton. Lokalizacja: Mt. Wilson, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mt. Wilson, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mt. Wilson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mount Disappointment Mountain Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64483",
+  "slug": "mount-disappointment-mountain-race-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "19761",
+    "url": "https://ultrasignup.com/register.aspx?did=64483"
+  },
+  "start": {
+    "lat": 34.2238,
+    "lon": -118.062,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://mountdisappointmentrace.com"
+}

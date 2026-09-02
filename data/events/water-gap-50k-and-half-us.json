@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Water Gap 50k and Half is a ultramarathon. Location: Milford, United States. Date: Saturday, 26 September 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Milford, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Water Gap 50k and Half to ultramaraton. Lokalizacja: Milford, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Milford, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Milford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Water Gap 50k and Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65328",
+  "slug": "water-gap-50k-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "5119",
+    "url": "https://ultrasignup.com/register.aspx?did=65328"
+  },
+  "start": {
+    "lat": 41.0293,
+    "lon": -75.053,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "http://www.happilyrunning.com/WaterGap"
+}

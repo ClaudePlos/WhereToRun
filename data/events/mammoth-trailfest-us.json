@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mammoth Trailfest is a ultramarathon. Location: Mammoth Lakes, United States. Date: 26 September 2026 – 27 September 2026. Distances: 50 km, Kids Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mammoth Lakes, United States, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Mammoth Trailfest to ultramaraton. Lokalizacja: Mammoth Lakes, Stany Zjednoczone. Termin: 26 września 2026 – 27 września 2026. Dystanse: 50 km, Kids Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mammoth Lakes, Stany Zjednoczone, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Kids Run"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mammoth Lakes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mammoth Trailfest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63618",
+  "slug": "mammoth-trailfest-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "14240",
+    "url": "https://ultrasignup.com/register.aspx?did=63618"
+  },
+  "start": {
+    "lat": 37.6507,
+    "lon": -118.986,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.mammothtrailfest.com"
+}

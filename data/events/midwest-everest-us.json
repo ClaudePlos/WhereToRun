@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Midwest Everest is a ultramarathon. Location: Belmont, United States. Date: Saturday, 26 September 2026. Distances: 160.9 km, Summer Everest Challenge, 80.5 km, Sunset 10K, Sunrise 20K Combo, Sunrise 20K, Sunset 1. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Belmont, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Midwest Everest to ultramaraton. Lokalizacja: Belmont, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 160.9 km, Summer Everest Challenge, 80.5 km, Sunset 10K, Sunrise 20K Combo, Sunrise 20K, Sunset 1. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Belmont, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "Summer Everest Challenge",
+    "80.5 km",
+    "Sunset 10K",
+    "Sunrise 20K Combo",
+    "Sunrise 20K",
+    "Sunset 1"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belmont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Midwest Everest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63446",
+  "slug": "midwest-everest-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "12220",
+    "url": "https://ultrasignup.com/register.aspx?did=63446"
+  },
+  "start": {
+    "lat": 43.0547,
+    "lon": -85.5014,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://westmichiganwhiskeyrollers.com/midwest-everest"
+}

@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultrapalooza is a ultramarathon. Location: Osawatomie, United States. Date: 26 September 2026 – 27 September 2026. Distances: 160.9 km, 100 km, 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Osawatomie, United States, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Ultrapalooza to ultramaraton. Lokalizacja: Osawatomie, Stany Zjednoczone. Termin: 26 września 2026 – 27 września 2026. Dystanse: 160.9 km, 100 km, 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Osawatomie, Stany Zjednoczone, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Osawatomie",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Ultrapalooza",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64647",
+  "slug": "ultrapalooza-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "14858",
+    "url": "https://ultrasignup.com/register.aspx?did=64647"
+  },
+  "start": {
+    "lat": 38.4922,
+    "lon": -94.9596,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.facebook.com/midwestenduranceraceco"
+}

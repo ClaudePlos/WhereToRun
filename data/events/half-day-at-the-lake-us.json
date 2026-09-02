@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Half Day at the Lake is a road race. Location: Evanston, United States. Date: Saturday, 26 September 2026. Distances: 12 Hour Race, 6 Hour Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Evanston, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Half Day at the Lake to bieg uliczny. Lokalizacja: Evanston, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 12 Hour Race, 6 Hour Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Evanston, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 Hour Race",
+    "6 Hour Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Evanston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Half Day at the Lake",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65721",
+  "slug": "half-day-at-the-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "17519",
+    "url": "https://ultrasignup.com/register.aspx?did=65721"
+  },
+  "start": {
+    "lat": 42.0388,
+    "lon": -87.6701,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.runningisfunsometimes.com/hafl-day-at-the-lake"
+}

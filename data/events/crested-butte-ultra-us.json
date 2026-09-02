@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Crested Butte Ultra is a ultramarathon. Location: Crested Butte, United States. Date: Saturday, 26 September 2026. Distances: 80.5 km, 55 km, 35 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Crested Butte, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Crested Butte Ultra to ultramaraton. Lokalizacja: Crested Butte, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 80.5 km, 55 km, 35 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Crested Butte, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "55 km",
+    "35 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Crested Butte",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Crested Butte Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63623",
+  "slug": "crested-butte-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "6317",
+    "url": "https://ultrasignup.com/register.aspx?did=63623"
+  },
+  "start": {
+    "lat": 38.8986,
+    "lon": -106.965,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.madmooseevents.com/crested-butte-ultra"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Babbitts Backyard Ultra is a road race. Location: Flagstaff, United States. Date: Saturday, 26 September 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Flagstaff, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Babbitts Backyard Ultra to bieg uliczny. Lokalizacja: Flagstaff, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Flagstaff, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flagstaff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Babbitts Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63501",
+  "slug": "babbitts-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "13112",
+    "url": "https://ultrasignup.com/register.aspx?did=63501"
+  },
+  "start": {
+    "lat": 35.5907,
+    "lon": -111.537,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.facebook.com/groups/babbittsbackyardultra"
+}

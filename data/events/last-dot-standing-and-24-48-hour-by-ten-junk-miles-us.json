@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Dot Standing and 24/48 Hour by Ten Junk Miles is a ultramarathon. Location: Beleville, United States. Date: 18 September 2026 – 20 September 2026. Distances: 48 h, 24hrs (Fri Start), Last Person Standing (Friday Start). Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Beleville, United States, 18 September 2026 – 20 September 2026"
+    },
+    "pl": {
+      "description": "Last Dot Standing and 24/48 Hour by Ten Junk Miles to ultramaraton. Lokalizacja: Beleville, Stany Zjednoczone. Termin: 18 września 2026 – 20 września 2026. Dystanse: 48 h, 24hrs (Fri Start), Last Person Standing (Friday Start). Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Beleville, Stany Zjednoczone, 18 września 2026 – 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T22:37:18.569Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24hrs (Sat Start)",
+    "8 Hour (Sat PM)",
+    "8 Hour (Sat AM)"
+  ],
+  "endDate": "2026-09-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beleville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Last Dot Standing and 24/48 Hour by Ten Junk Miles",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63337",
+  "slug": "last-dot-standing-and-24-48-hour-by-ten-junk-miles-us",
+  "source": {
+    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "id": "ultrasignup",
+    "ref": "12682",
+    "url": "https://ultrasignup.com/register.aspx?did=63337"
+  },
+  "start": {
+    "lat": 42.8606,
+    "lon": -89.5333,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "website": "https://www.tenjunkmilesracing.com"
+}
