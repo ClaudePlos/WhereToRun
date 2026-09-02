@@ -41,10 +41,28 @@ export const ENDPOINTS = [
     }&dist=all&country=all&plain=1`,
   },
   {
-    id: 'duv-alt',
+    id: 'duv-page2',
     status: 'candidate',
-    note: 'DUV calendar, alternate query shape',
-    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&cups=all`,
+    note: 'Does a page parameter advance past the first 400 records?',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR}&dist=all&country=all&page=2`,
+  },
+  {
+    id: 'duv-from',
+    status: 'candidate',
+    note: 'Does a from/to date window work? (we only want future races)',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&from=${YEAR}-10-01&to=${YEAR}-12-31&dist=all&country=all`,
+  },
+  {
+    id: 'duv-nextyear',
+    status: 'candidate',
+    note: 'Next season, to confirm the year parameter is honoured',
+    url: `https://statistik.d-u-v.org/json/mcalendar.php?plain=1&year=${YEAR + 1}&dist=all&country=all`,
+  },
+  {
+    id: 'runsignup-diagnose',
+    status: 'live',
+    note: 'Collector reports fetched:0 with no error — see what the API returns',
+    url: 'https://runsignup.com/rest/races?format=json&results_per_page=3&start_date=today&events=T&race_headings=F&race_links=F&include_event_days=F&only_partner_races=F&sort=date+ASC',
   },
   {
     id: 'runraceusa',
@@ -183,6 +201,14 @@ async function probe(endpoint, fetchImpl) {
   }
 
   console.log(`    top level: ${describe(json)}`);
+  // Wrapper fields carry the pagination and hit counts needed to page through a
+  // calendar, so print them rather than only the records.
+  if (json && typeof json === 'object' && !Array.isArray(json)) {
+    for (const [key, value] of Object.entries(json)) {
+      if (Array.isArray(value)) continue;
+      console.log(`      ${key} = ${describe(value, 1)}`);
+    }
+  }
   const found = findRecords(json);
   if (!found) {
     console.log('    no record array found');
