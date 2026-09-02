@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Pemberton 24 is a road race. Location: Salisbury, United States. Date: Friday, 18 September 2026. Distances: 24Hr Solo, 4 Person Team. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Salisbury, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "The Pemberton 24 to bieg uliczny. Lokalizacja: Salisbury, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: 24Hr Solo, 4 Person Team. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Salisbury, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24Hr Solo",
+    "4 Person Team"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salisbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "The Pemberton 24",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64692",
+  "slug": "the-pemberton-24-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "11049",
+    "url": "https://ultrasignup.com/register.aspx?did=64692"
+  },
+  "start": {
+    "lat": 38.3607,
+    "lon": -75.5994,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.facebook.com/events/749359295475178/"
+}

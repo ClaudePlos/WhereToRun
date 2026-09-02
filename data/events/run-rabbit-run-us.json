@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Rabbit Run is a road race. Location: Steamboat Springs, United States. Date: 18 September 2026 – 19 September 2026. Distances: 100 Mile Hares, 100 Mile Tortoises. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Steamboat Springs, United States, 18 September 2026 – 19 September 2026"
+    },
+    "pl": {
+      "description": "Run Rabbit Run to bieg uliczny. Lokalizacja: Steamboat Springs, Stany Zjednoczone. Termin: 18 września 2026 – 19 września 2026. Dystanse: 100 Mile Hares, 100 Mile Tortoises. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Steamboat Springs, Stany Zjednoczone, 18 września 2026 – 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km"
+  ],
+  "endDate": "2026-09-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Steamboat Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Run Rabbit Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63809",
+  "slug": "run-rabbit-run-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "65",
+    "url": "https://ultrasignup.com/register.aspx?did=63809"
+  },
+  "start": {
+    "lat": 40.4574,
+    "lon": -106.806,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://runrabbitrunsteamboat.com/"
+}

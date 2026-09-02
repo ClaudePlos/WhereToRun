@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Georgia Jewel is a ultramarathon. Location: Dalton, United States. Date: 18 September 2026 – 19 September 2026. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dalton, United States, 18 September 2026 – 19 September 2026"
+    },
+    "pl": {
+      "description": "The Georgia Jewel to ultramaraton. Lokalizacja: Dalton, Stany Zjednoczone. Termin: 18 września 2026 – 19 września 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dalton, Stany Zjednoczone, 18 września 2026 – 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "56.3 km",
+    "29 km"
+  ],
+  "endDate": "2026-09-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dalton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "The Georgia Jewel",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64562",
+  "slug": "the-georgia-jewel-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "2839",
+    "url": "https://ultrasignup.com/register.aspx?did=64562"
+  },
+  "start": {
+    "lat": 34.7075,
+    "lon": -85.0045,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.georgiajewel.com"
+}

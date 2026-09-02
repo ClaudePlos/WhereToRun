@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "The Dirt Circuit is a ultramarathon. Location: Morristown, United States. Date: Saturday, 19 September 2026. Distances: 24 h, 24HR 6 Person, 12 h, 12HR 6 Person, 6 h, 6hr Ruck, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Morristown, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "The Dirt Circuit to ultramaraton. Lokalizacja: Morristown, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 24 h, 24HR 6 Person, 12 h, 12HR 6 Person, 6 h, 6hr Ruck, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Morristown, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "24HR 6 Person",
+    "12 h",
+    "12HR 6 Person",
+    "6 h",
+    "6hr Ruck",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Morristown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "The Dirt Circuit",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64429",
+  "slug": "the-dirt-circuit-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "3868",
+    "url": "https://ultrasignup.com/register.aspx?did=64429"
+  },
+  "start": {
+    "lat": 36.2102,
+    "lon": -83.4031,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.runeastcoastadventures.com/home"
+}

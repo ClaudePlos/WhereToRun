@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Jordan River Marathon is a road race. Location: South Jordan, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Jordan, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Jordan River Marathon to bieg uliczny. Lokalizacja: South Jordan, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Jordan, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Jordan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Jordan River Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63359",
+  "slug": "jordan-river-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "10453",
+    "url": "https://ultrasignup.com/register.aspx?did=63359"
+  },
+  "start": {
+    "lat": 40.5525,
+    "lon": -111.914,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.happytrailsrace.com/jordan-river-marathon"
+}

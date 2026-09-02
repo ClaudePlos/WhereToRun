@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "IMTUF 100 - Idaho Mountain Trail Ultra Festival is a ultramarathon. Location: McCall, United States. Date: 19 September 2026 – 20 September 2026. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — McCall, United States, 19 September 2026 – 20 September 2026"
+    },
+    "pl": {
+      "description": "IMTUF 100 - Idaho Mountain Trail Ultra Festival to ultramaraton. Lokalizacja: McCall, Stany Zjednoczone. Termin: 19 września 2026 – 20 września 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — McCall, Stany Zjednoczone, 19 września 2026 – 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-09-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McCall",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "IMTUF 100 - Idaho Mountain Trail Ultra Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64725",
+  "slug": "imtuf-100-idaho-mountain-trail-ultra-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "3035",
+    "url": "https://ultrasignup.com/register.aspx?did=64725"
+  },
+  "start": {
+    "lat": 44.8358,
+    "lon": -116.024,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "http://imtuf100.com/"
+}

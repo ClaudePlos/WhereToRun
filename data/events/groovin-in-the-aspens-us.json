@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Groovin in the Aspens is a ultramarathon. Location: Flagstaff, United States. Date: Sunday, 13 September 2026. Distances: 50 km, 30 km, 20 km, 10 km, 6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Flagstaff, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Groovin in the Aspens to ultramaraton. Lokalizacja: Flagstaff, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 50 km, 30 km, 20 km, 10 km, 6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Flagstaff, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "20 km",
+    "10 km",
+    "6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flagstaff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Groovin in the Aspens",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65303",
+  "slug": "groovin-in-the-aspens-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "18788",
+    "url": "https://ultrasignup.com/register.aspx?did=65303"
+  },
+  "start": {
+    "lat": 35.2497,
+    "lon": -111.687,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://groovinintheaspens.com/"
+}

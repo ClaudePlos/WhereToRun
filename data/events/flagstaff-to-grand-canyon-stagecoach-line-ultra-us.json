@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Flagstaff to Grand Canyon Stagecoach Line Ultra is a trail race. Location: Flagstaff, United States. Date: Saturday, 19 September 2026. Distances: 100M - 2 Person MTB, 100M - 8 Person Relay, 100M - 4 Person Relay, 100M - 2 Person Relay, 100M Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Flagstaff, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Flagstaff to Grand Canyon Stagecoach Line Ultra to bieg trailowy. Lokalizacja: Flagstaff, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 100M - 2 Person MTB, 100M - 8 Person Relay, 100M - 4 Person Relay, 100M - 2 Person Relay, 100M Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Flagstaff, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100M - 2 Person MTB",
+    "100M - 8 Person Relay",
+    "100M - 4 Person Relay",
+    "100M - 2 Person Relay",
+    "100M Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flagstaff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Flagstaff to Grand Canyon Stagecoach Line Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64661",
+  "slug": "flagstaff-to-grand-canyon-stagecoach-line-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "3962",
+    "url": "https://ultrasignup.com/register.aspx?did=64661"
+  },
+  "start": {
+    "lat": 35.2845,
+    "lon": -111.724,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://runazt.org/flagstaff-to-grand-canyon-stagecoach-line-100/"
+}

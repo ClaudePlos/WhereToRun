@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hurricane Hundred K is a ultramarathon. Location: Hurricane, United States. Date: Saturday, 19 September 2026. Distances: 100 km, 100k Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hurricane, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Hurricane Hundred K to ultramaraton. Lokalizacja: Hurricane, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 100 km, 100k Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hurricane, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "100k Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hurricane",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Hurricane Hundred K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64256",
+  "slug": "hurricane-hundred-k-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "14656",
+    "url": "https://ultrasignup.com/register.aspx?did=64256"
+  },
+  "start": {
+    "lat": 38.4326,
+    "lon": -82.0201,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.meeksmountaintrails.org/hurricanehundred"
+}

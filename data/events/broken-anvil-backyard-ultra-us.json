@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Broken Anvil Backyard Ultra is a road race. Location: West Point, United States. Date: Saturday, 19 September 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — West Point, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Broken Anvil Backyard Ultra to bieg uliczny. Lokalizacja: West Point, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — West Point, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Broken Anvil Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63356",
+  "slug": "broken-anvil-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "13685",
+    "url": "https://ultrasignup.com/register.aspx?did=63356"
+  },
+  "start": {
+    "lat": 40.7167,
+    "lon": -91.4502,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://backyardultra.com/races/broken-anvil-backyard-ultra/"
+}

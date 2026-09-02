@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last One Standing at Bradley California is a road race. Location: Bradley, United States. Date: Friday, 18 September 2026. Distances: Last One Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bradley, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Last One Standing at Bradley California to bieg uliczny. Lokalizacja: Bradley, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: Last One Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bradley, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last One Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bradley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Last One Standing at Bradley California",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64263",
+  "slug": "last-one-standing-at-bradley-california-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "19257",
+    "url": "https://ultrasignup.com/register.aspx?did=64263"
+  },
+  "start": {
+    "lat": 35.7842,
+    "lon": -120.985,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://allwedoisrun.com/"
+}

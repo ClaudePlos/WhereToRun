@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Macedonia Trail Race is a ultramarathon. Location: Kent, United States. Date: Sunday, 13 September 2026. Distances: 50 km, 25 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kent, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Macedonia Trail Race to ultramaraton. Lokalizacja: Kent, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 50 km, 25 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kent, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kent",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Macedonia Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64749",
+  "slug": "macedonia-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "9213",
+    "url": "https://ultrasignup.com/register.aspx?did=64749"
+  },
+  "start": {
+    "lat": 41.768,
+    "lon": -73.4947,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.steependurance.com/macedonia-trail-race.html"
+}

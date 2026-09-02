@@ -1,0 +1,59 @@
+{
+  "HR|zagreb": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 45.8130967,
+    "lon": 15.9772795,
+    "name": "Grad Zagreb, Hrvatska"
+  },
+  "IE|bray": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 53.2014604,
+    "lon": -6.1105049,
+    "name": "Bray, County Wicklow, Leinster, Éire / Ireland"
+  },
+  "IE|dublin": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "name": "Dublin, County Dublin, Leinster, Éire / Ireland"
+  },
+  "IE|dunlewey": {
+    "at": "2026-09-02T11:28:34.543Z"
+  },
+  "IE|killarney": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 52.0595746,
+    "lon": -9.505322,
+    "name": "Killarney, Killarney Municipal District, County Kerry, Munster, Éire / Ireland"
+  },
+  "IE|sneem": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 51.8381992,
+    "lon": -9.8995313,
+    "name": "Sneem, County Kerry, Munster, Éire / Ireland"
+  },
+  "IE|stone cross": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 52.222366,
+    "lon": -6.35848,
+    "name": "Hoar Stone Cross, St. Helen's ED, The Borough District of Wexford, County Wexford, Leinster, Éire / Ireland"
+  },
+  "IE|waterville": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 51.8271274,
+    "lon": -10.1718452,
+    "name": "Waterville, Kenmare Municipal District, County Kerry, Munster, V23 FW71, Éire / Ireland"
+  },
+  "SI|ljubljana": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 46.0500268,
+    "lon": 14.5069289,
+    "name": "Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+  },
+  "SI|markovci": {
+    "at": "2026-09-02T11:28:34.543Z",
+    "lat": 46.3947708,
+    "lon": 15.9298496,
+    "name": "Markovci, 2281, Slovenija"
+  }
+}

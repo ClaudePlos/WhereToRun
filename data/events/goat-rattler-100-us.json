@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Goat Rattler 100 is a road race. Location: North Ogden, United States. Date: 18 September 2026 – 19 September 2026. Distances: GR100. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — North Ogden, United States, 18 September 2026 – 19 September 2026"
+    },
+    "pl": {
+      "description": "Goat Rattler 100 to bieg uliczny. Lokalizacja: North Ogden, Stany Zjednoczone. Termin: 18 września 2026 – 19 września 2026. Dystanse: GR100. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — North Ogden, Stany Zjednoczone, 18 września 2026 – 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "GR100"
+  ],
+  "endDate": "2026-09-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Ogden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Goat Rattler 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63510",
+  "slug": "goat-rattler-100-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "18250",
+    "url": "https://ultrasignup.com/register.aspx?did=63510"
+  },
+  "start": {
+    "lat": 41.3152,
+    "lon": -111.951,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://enjoythejourneyevents.com/goat-rattler-100"
+}

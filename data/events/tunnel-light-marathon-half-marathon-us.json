@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tunnel Light Marathon & Half Marathon is a road race. Location: North Bend, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km, Tunnel Light Half Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — North Bend, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Tunnel Light Marathon & Half Marathon to bieg uliczny. Lokalizacja: North Bend, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km, Tunnel Light Half Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — North Bend, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Tunnel Light Half Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Tunnel Light Marathon & Half Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64268",
+  "slug": "tunnel-light-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "15748",
+    "url": "https://ultrasignup.com/register.aspx?did=64268"
+  },
+  "start": {
+    "lat": 47.3915,
+    "lon": -121.392,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.tunnelmarathon.com/"
+}

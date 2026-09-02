@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Crowell Hilaka Trail Run is a ultramarathon. Location: Richfield, United States. Date: Sunday, 13 September 2026. Distances: 50 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Richfield, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Crowell Hilaka Trail Run to ultramaraton. Lokalizacja: Richfield, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 50 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Richfield, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Crowell Hilaka Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65892",
+  "slug": "crowell-hilaka-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "9379",
+    "url": "https://ultrasignup.com/register.aspx?did=65892"
+  },
+  "start": {
+    "lat": 41.2492,
+    "lon": -81.675,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.fastgirlsrunningcompany.com"
+}

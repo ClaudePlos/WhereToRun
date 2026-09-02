@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Morgan Hill Trail Races is a trail race. Location: Fabius, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 21.1 km, Half Marathon Hike. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Fabius, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Morgan Hill Trail Races to bieg trailowy. Lokalizacja: Fabius, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 21.1 km, Half Marathon Hike. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Fabius, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-02T11:28:34.543Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "Half Marathon Hike"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fabius",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Morgan Hill Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63357",
+  "slug": "morgan-hill-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-02T11:28:41.842Z",
+    "id": "ultrasignup",
+    "ref": "10589",
+    "url": "https://ultrasignup.com/register.aspx?did=63357"
+  },
+  "start": {
+    "lat": 42.795,
+    "lon": -76.0093,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-02T11:28:34.543Z",
+  "website": "https://www.facebook.com/SaltCityTrailRunning/"
+}
