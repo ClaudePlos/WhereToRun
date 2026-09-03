@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "MuleSkinner Endurance Races is a ultramarathon. Location: Upper Black Eddy, United States. Date: Saturday, 10 October 2026. Distances: 80.5 km, 50 km, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Upper Black Eddy, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "MuleSkinner Endurance Races to ultramaraton. Lokalizacja: Upper Black Eddy, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 80.5 km, 50 km, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Upper Black Eddy, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Upper Black Eddy",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "MuleSkinner Endurance Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67080",
+  "slug": "muleskinner-endurance-races-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "10767",
+    "url": "https://ultrasignup.com/register.aspx?did=67080"
+  },
+  "start": {
+    "lat": 40.5059,
+    "lon": -75.0732,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "http://spirit-trips.com/muleskinner/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Duff Dog Backyard Ultra is a road race. Location: Luverne, United States. Date: Saturday, 10 October 2026. Distances: Last runner standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Luverne, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Duff Dog Backyard Ultra to bieg uliczny. Lokalizacja: Luverne, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: Last runner standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Luverne, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last runner standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Luverne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Duff Dog Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63718",
+  "slug": "duff-dog-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "14219",
+    "url": "https://ultrasignup.com/register.aspx?did=63718"
+  },
+  "start": {
+    "lat": 43.6555,
+    "lon": -96.2025,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/Duff-Dog-Backyard-Ultra-Race-104842775289124"
+}

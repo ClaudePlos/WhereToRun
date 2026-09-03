@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Canal Corridor Endurance Run is a ultramarathon. Location: Akron, United States. Date: Saturday, 10 October 2026. Distances: 160.9 km, 50 Mile (Front Half), 50 Mile (Back Half, Night). Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Akron, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Canal Corridor Endurance Run to ultramaraton. Lokalizacja: Akron, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 160.9 km, 50 Mile (Front Half), 50 Mile (Back Half, Night). Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Akron, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "50 Mile (Front Half)",
+    "50 Mile (Back Half",
+    "Night)"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Akron",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Canal Corridor Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64528",
+  "slug": "canal-corridor-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "6001",
+    "url": "https://ultrasignup.com/register.aspx?did=64528"
+  },
+  "start": {
+    "lat": 41.0704,
+    "lon": -81.527,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.seotrevents.com/canalcorridor"
+}

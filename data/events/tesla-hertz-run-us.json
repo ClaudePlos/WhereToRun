@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Tesla Hertz Run is a ultramarathon. Location: Rocky Point, United States. Date: 9 October 2026 – 12 October 2026. Distances: 241.4 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rocky Point, United States, 9 October 2026 – 12 October 2026"
+    },
+    "pl": {
+      "description": "Tesla Hertz Run to ultramaraton. Lokalizacja: Rocky Point, Stany Zjednoczone. Termin: 9 października 2026 – 12 października 2026. Dystanse: 241.4 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rocky Point, Stany Zjednoczone, 9 października 2026 – 12 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50K (DAY)",
+    "50K (NIGHT)",
+    "Night Time 10miler"
+  ],
+  "endDate": "2026-10-12",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rocky Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Tesla Hertz Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64848",
+  "slug": "tesla-hertz-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "3834",
+    "url": "https://ultrasignup.com/register.aspx?did=64848"
+  },
+  "start": {
+    "lat": 40.9444,
+    "lon": -72.9531,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.happilyrunning.com/races/teslahertz"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lion King Backyard Ultra is a road race. Location: Rolla, United States. Date: Saturday, 10 October 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rolla, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Lion King Backyard Ultra to bieg uliczny. Lokalizacja: Rolla, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rolla, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rolla",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Lion King Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63808",
+  "slug": "lion-king-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "17498",
+    "url": "https://ultrasignup.com/register.aspx?did=63808"
+  },
+  "start": {
+    "lat": 37.9485,
+    "lon": -91.7715,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/share/179jnPMbvL/?mibextid=wwXIfr"
+}

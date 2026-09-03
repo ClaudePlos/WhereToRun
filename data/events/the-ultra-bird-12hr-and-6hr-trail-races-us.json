@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "The Ultra Bird 12hr and 6hr Trail Races is a ultramarathon. Location: West Olive, United States. Date: Saturday, 10 October 2026. Distances: 12 h, 12HR Ruck, 10 km, 6 h, Ruck 6HR, 5K Sat, Ruck 3HR. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — West Olive, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Ultra Bird 12hr and 6hr Trail Races to ultramaraton. Lokalizacja: West Olive, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 12 h, 12HR Ruck, 10 km, 6 h, Ruck 6HR, 5K Sat, Ruck 3HR. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — West Olive, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12HR Ruck",
+    "10 km",
+    "6 h",
+    "Ruck 6HR",
+    "5K Sat",
+    "Ruck 3HR"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Olive",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "The Ultra Bird 12hr and 6hr Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65186",
+  "slug": "the-ultra-bird-12hr-and-6hr-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "9304",
+    "url": "https://ultrasignup.com/register.aspx?did=65186"
+  },
+  "start": {
+    "lat": 42.9172,
+    "lon": -86.149,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://egressendurance.org/"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Arrowhead Endurance Run is a ultramarathon. Location: Johnston City, United States. Date: 10 October 2026 – 11 October 2026. Distances: 24 h, 24 Hour Relay, 12 h, 12 hour - NIGHT TIME, 6 h, 3 Hour Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Johnston City, United States, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Arrowhead Endurance Run to ultramaraton. Lokalizacja: Johnston City, Stany Zjednoczone. Termin: 10 października 2026 – 11 października 2026. Dystanse: 24 h, 24 Hour Relay, 12 h, 12 hour - NIGHT TIME, 6 h, 3 Hour Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Johnston City, Stany Zjednoczone, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "24 Hour Relay",
+    "12 h",
+    "12 hour - NIGHT TIME",
+    "6 h",
+    "3 Hour Race"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Johnston City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Arrowhead Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63721",
+  "slug": "arrowhead-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "10518",
+    "url": "https://ultrasignup.com/register.aspx?did=63721"
+  },
+  "start": {
+    "lat": 37.828,
+    "lon": -88.9106,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/Arrowhead-Endurance-Run-829031684140131/"
+}

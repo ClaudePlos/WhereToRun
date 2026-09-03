@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cloudland Canyon Campout is a trail race. Location: Rising Fawn, United States. Date: 9 October 2026 – 11 October 2026. Distances: Group Runs Only, Tent Camping, RV Site (Electric Hookup). Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Rising Fawn, United States, 9 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Cloudland Canyon Campout to bieg trailowy. Lokalizacja: Rising Fawn, Stany Zjednoczone. Termin: 9 października 2026 – 11 października 2026. Dystanse: Group Runs Only, Tent Camping, RV Site (Electric Hookup). Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Rising Fawn, Stany Zjednoczone, 9 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Group Runs Only",
+    "Tent Camping",
+    "RV Site (Electric Hookup)"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rising Fawn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Cloudland Canyon Campout",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68150",
+  "slug": "cloudland-canyon-campout-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "20841",
+    "url": "https://ultrasignup.com/register.aspx?did=68150"
+  },
+  "start": {
+    "lat": 34.8938,
+    "lon": -85.4053,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.wanderingrunner.com"
+}

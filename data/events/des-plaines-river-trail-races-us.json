@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Des Plaines River Trail Races is a ultramarathon. Location: Lake County, United States. Date: Saturday, 10 October 2026. Distances: 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake County, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Des Plaines River Trail Races to ultramaraton. Lokalizacja: Lake County, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake County, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake County",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Des Plaines River Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64622",
+  "slug": "des-plaines-river-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "2319",
+    "url": "https://ultrasignup.com/register.aspx?did=64622"
+  },
+  "start": {
+    "lat": 42.2142,
+    "lon": -87.9319,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://desplainesrivertrailraces.com"
+}

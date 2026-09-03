@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "4th Annual Del Rio Marathon is a road race. Location: Del Rio, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Del Rio, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "4th Annual Del Rio Marathon to bieg uliczny. Lokalizacja: Del Rio, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Del Rio, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Del Rio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "4th Annual Del Rio Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63958",
+  "slug": "4th-annual-del-rio-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "18383",
+    "url": "https://ultrasignup.com/register.aspx?did=63958"
+  },
+  "start": {
+    "lat": 29.3591,
+    "lon": -100.897,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "http://www.facebook.com/delriomarathon"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ruth Anderson Memorial Endurance Run is a road race. Location: San Francisco, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, Ultradistance. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Francisco, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Ruth Anderson Memorial Endurance Run to bieg uliczny. Lokalizacja: San Francisco, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, Ultradistance. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Francisco, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Ultradistance"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Ruth Anderson Memorial Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67087",
+  "slug": "ruth-anderson-memorial-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "334",
+    "url": "https://ultrasignup.com/register.aspx?did=67087"
+  },
+  "start": {
+    "lat": 37.7279,
+    "lon": -122.494,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "http://www.run100s.com/ra.htm"
+}

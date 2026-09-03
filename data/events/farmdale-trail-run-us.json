@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Farmdale Trail Run is a ultramarathon. Location: East Peoria, United States. Date: 10 October 2026 – 11 October 2026. Distances: 160.9 km, 80.5 km, 48.3 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — East Peoria, United States, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Farmdale Trail Run to ultramaraton. Lokalizacja: East Peoria, Stany Zjednoczone. Termin: 10 października 2026 – 11 października 2026. Dystanse: 160.9 km, 80.5 km, 48.3 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — East Peoria, Stany Zjednoczone, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "48.3 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "East Peoria",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Farmdale Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65707",
+  "slug": "farmdale-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "2003",
+    "url": "https://ultrasignup.com/register.aspx?did=65707"
+  },
+  "start": {
+    "lat": 40.6717,
+    "lon": -89.5018,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://noonecaresyourunultras.com/farmdale-2023"
+}

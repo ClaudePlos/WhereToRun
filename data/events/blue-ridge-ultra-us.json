@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Blue Ridge Ultra is a ultramarathon. Location: Blue Ridge, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 30 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Blue Ridge, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Blue Ridge Ultra to ultramaraton. Lokalizacja: Blue Ridge, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 30 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Blue Ridge, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Blue Ridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Blue Ridge Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64311",
+  "slug": "blue-ridge-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "10610",
+    "url": "https://ultrasignup.com/register.aspx?did=64311"
+  },
+  "start": {
+    "lat": 34.7836,
+    "lon": -84.259,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.warriorraces.com/blueridgeultra"
+}

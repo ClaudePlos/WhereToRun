@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cape Fear 24 Hour is a ultramarathon. Location: Lillington, United States. Date: Saturday, 10 October 2026. Distances: 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lillington, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Cape Fear 24 Hour to ultramaraton. Lokalizacja: Lillington, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lillington, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lillington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Cape Fear 24 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64658",
+  "slug": "cape-fear-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "8622",
+    "url": "https://ultrasignup.com/register.aspx?did=64658"
+  },
+  "start": {
+    "lat": 35.4028,
+    "lon": -78.8131,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/groups/capefear24hour/"
+}

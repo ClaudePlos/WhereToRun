@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Export Trail Running Festival is a ultramarathon. Location: Export, United States. Date: Saturday, 3 October 2026. Distances: 21.1 km, 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Export, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Export Trail Running Festival to ultramaraton. Lokalizacja: Export, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 21.1 km, 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Export, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Export",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Export Trail Running Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63583",
+  "slug": "export-trail-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "18185",
+    "url": "https://ultrasignup.com/register.aspx?did=63583"
+  },
+  "start": {
+    "lat": 40.4181,
+    "lon": -79.6255,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.darren-miller.com/events/"
+}

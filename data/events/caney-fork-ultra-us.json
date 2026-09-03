@@ -32,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65022",
   "slug": "caney-fork-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
     "id": "ultrasignup",
     "ref": "10248",
     "url": "https://ultrasignup.com/register.aspx?did=65022"
@@ -48,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-01T22:35:48.497Z",
-  "website": "http://www.caneyforkultra.com"
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://hardwinadventures.com/"
 }

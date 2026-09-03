@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Devils Race Track Backyard Ultra is a road race. Location: Huntsville, United States. Date: Saturday, 10 October 2026. Distances: Last Runner Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Devils Race Track Backyard Ultra to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: Last Runner Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Runner Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "The Devils Race Track Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65274",
+  "slug": "the-devils-race-track-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "15078",
+    "url": "https://ultrasignup.com/register.aspx?did=65274"
+  },
+  "start": {
+    "lat": 34.8076,
+    "lon": -86.5899,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/groups/1388849208227357"
+}

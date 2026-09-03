@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Euchre Bar Massacre is a ultramarathon. Location: Foresthill, United States. Date: Saturday, 10 October 2026. Distances: 80.5 km, 40.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Foresthill, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Euchre Bar Massacre to ultramaraton. Lokalizacja: Foresthill, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 80.5 km, 40.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Foresthill, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "40.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Foresthill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Euchre Bar Massacre",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66614",
+  "slug": "euchre-bar-massacre-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "3943",
+    "url": "https://ultrasignup.com/register.aspx?did=66614"
+  },
+  "start": {
+    "lat": 39.1438,
+    "lon": -120.755,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/groups/euchrebarmassacre/"
+}

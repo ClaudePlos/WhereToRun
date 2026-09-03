@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Heartland is a ultramarathon. Location: Cassoday, United States. Date: 9 October 2026 – 11 October 2026. Distances: Heartland 100 4 Person Relay, 201.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cassoday, United States, 9 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Heartland to ultramaraton. Lokalizacja: Cassoday, Stany Zjednoczone. Termin: 9 października 2026 – 11 października 2026. Dystanse: Heartland 100 4 Person Relay, 201.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cassoday, Stany Zjednoczone, 9 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "Teter Rock 100K",
+    "80.5 km",
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cassoday",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Heartland",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64437",
+  "slug": "heartland-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "411",
+    "url": "https://ultrasignup.com/register.aspx?did=64437"
+  },
+  "start": {
+    "lat": 38.0328,
+    "lon": -96.6392,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "http://www.ksultrarunners.org/"
+}

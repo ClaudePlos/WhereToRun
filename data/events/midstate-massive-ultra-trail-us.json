@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Midstate Massive Ultra Trail is a ultramarathon. Location: New Ipswitch, United States. Date: 10 October 2026 – 11 October 2026. Distances: 160.9 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — New Ipswitch, United States, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Midstate Massive Ultra Trail to ultramaraton. Lokalizacja: New Ipswitch, Stany Zjednoczone. Termin: 10 października 2026 – 11 października 2026. Dystanse: 160.9 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — New Ipswitch, Stany Zjednoczone, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Ipswitch",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Midstate Massive Ultra Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63696",
+  "slug": "midstate-massive-ultra-trail-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "10336",
+    "url": "https://ultrasignup.com/register.aspx?did=63696"
+  },
+  "start": {
+    "lat": 42.7748,
+    "lon": -71.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.newenglandraceevents.com/midstate-massive-ultra-trail"
+}

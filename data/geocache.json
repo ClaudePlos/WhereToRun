@@ -14,11 +14,26 @@
   "BR|barra do chui-rs": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|blumenau, sc": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|cajamar, sp": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|florianopolis, sc": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|garopaba, sc": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
   "BR|macae, rj": {
     "at": "2026-09-03T17:03:15.961Z",
     "lat": -22.4974178,
     "lon": -42.1016832,
     "name": "Fazenda Da Esperança Macaé RJ, Professor Souza, Casimiro de Abreu, Rio de Janeiro, Região Sudeste, 28860-000, Brasil"
+  },
+  "BR|mangaratiba, rj": {
+    "at": "2026-09-03T22:37:31.083Z"
   },
   "BR|morro da garca, mg": {
     "at": "2026-09-03T17:03:15.961Z"
@@ -26,11 +41,32 @@
   "BR|paraopeba, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|paraty, rj": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|paulo lopes, sc": {
+    "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|pontal do paraná": {
+    "at": "2026-09-03T22:37:31.083Z",
+    "lat": -25.574765,
+    "lon": -48.3614806,
+    "name": "Pontal do Paraná, Paraná, Região Sul, 83255-000, Brasil"
+  },
   "BR|praia grande, sp": {
     "at": "2026-09-03T17:03:15.961Z"
   },
   "BR|santo andré, sp": {
     "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|sao lourenco": {
+    "at": "2026-09-03T22:37:31.083Z",
+    "lat": -22.116389,
+    "lon": -45.054167,
+    "name": "São Lourenço, Minas Gerais, Região Sudeste, 37470-000, Brasil"
+  },
+  "BR|sao lourenco (mg)": {
+    "at": "2026-09-03T22:37:31.083Z"
   },
   "BR|timon, ma": {
     "at": "2026-09-03T17:03:15.961Z"

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Martin House Miler is a ultramarathon. Location: Fort Worth, United States. Date: 9 October 2026 – 11 October 2026. Distances: 48 h, 48hr Relay, 1 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fort Worth, United States, 9 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Martin House Miler to ultramaraton. Lokalizacja: Fort Worth, Stany Zjednoczone. Termin: 9 października 2026 – 11 października 2026. Dystanse: 48 h, 48hr Relay, 1 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fort Worth, Stany Zjednoczone, 9 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "3 h",
+    "6 h"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Worth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Martin House Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66407",
+  "slug": "martin-house-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "20297",
+    "url": "https://ultrasignup.com/register.aspx?did=66407"
+  },
+  "start": {
+    "lat": 32.7637,
+    "lon": -97.3101,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.riseracingco.com/martin-house-miler"
+}

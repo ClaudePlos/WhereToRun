@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Yahou is a ultramarathon. Location: Anniston, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 16.1 km, 8.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Anniston, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Lake Yahou to ultramaraton. Lokalizacja: Anniston, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 16.1 km, 8.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Anniston, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T22:37:31.083Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "16.1 km",
+    "8.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anniston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Lake Yahou",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65571",
+  "slug": "lake-yahou-us",
+  "source": {
+    "fetchedAt": "2026-09-03T22:37:39.052Z",
+    "id": "ultrasignup",
+    "ref": "15414",
+    "url": "https://ultrasignup.com/register.aspx?did=65571"
+  },
+  "start": {
+    "lat": 33.6852,
+    "lon": -85.8005,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T22:37:31.083Z",
+  "website": "https://www.facebook.com/dirtysolestrailraces"
+}
