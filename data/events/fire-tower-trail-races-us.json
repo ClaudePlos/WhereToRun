@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Fire Tower Trail Races is a ultramarathon. Location: Hinckley, United States. Date: Saturday, 3 October 2026. Distances: 100 km, 50 km, 35 km, 11 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hinckley, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Fire Tower Trail Races to ultramaraton. Lokalizacja: Hinckley, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 100 km, 50 km, 35 km, 11 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hinckley, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km",
+    "35 km",
+    "11 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hinckley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Fire Tower Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63547",
+  "slug": "fire-tower-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "12445",
+    "url": "https://ultrasignup.com/register.aspx?did=63547"
+  },
+  "start": {
+    "lat": 45.9592,
+    "lon": -92.6048,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://firetowertrailraces.com"
+}

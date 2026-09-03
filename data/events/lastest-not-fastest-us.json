@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lastest Not Fastest is a road race. Location: North Bonneville, United States. Date: Saturday, 3 October 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — North Bonneville, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Lastest Not Fastest to bieg uliczny. Lokalizacja: North Bonneville, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — North Bonneville, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Bonneville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Lastest Not Fastest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64153",
+  "slug": "lastest-not-fastest-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "10298",
+    "url": "https://ultrasignup.com/register.aspx?did=64153"
+  },
+  "start": {
+    "lat": 45.631,
+    "lon": -121.971,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://gobeyondracing.com/races/lastest-not-fastest"
+}

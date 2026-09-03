@@ -1,0 +1,59 @@
+{
+  "content": {
+    "en": {
+      "description": "Chernisky Ghost Town Trail-a-thon is a trail race. Location: Ebensburg, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, Youth Marathon, Bike Event, 24.1 km, Youth 15 Miler, AWD 5K, Youth 5k, 5 km, Firefighter. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ebensburg, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Chernisky Ghost Town Trail-a-thon to bieg trailowy. Lokalizacja: Ebensburg, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, Youth Marathon, Bike Event, 24.1 km, Youth 15 Miler, AWD 5K, Youth 5k, 5 km, Firefighter. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ebensburg, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Youth Marathon",
+    "Bike Event",
+    "24.1 km",
+    "Youth 15 Miler",
+    "AWD 5K",
+    "Youth 5k",
+    "5 km",
+    "Firefighter"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ebensburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Chernisky Ghost Town Trail-a-thon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67555",
+  "slug": "chernisky-ghost-town-trail-a-thon-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "13778",
+    "url": "https://ultrasignup.com/register.aspx?did=67555"
+  },
+  "start": {
+    "lat": 40.5714,
+    "lon": -78.8381,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "http://www.cambriaconservationrecreation.com/trail-events/"
+}

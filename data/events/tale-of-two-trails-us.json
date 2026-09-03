@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Tale of Two Trails is a ultramarathon. Location: Shawnee, United States. Date: Saturday, 3 October 2026. Distances: 80.5 km, 64.4 km, 32.2 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Shawnee, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Tale of Two Trails to ultramaraton. Lokalizacja: Shawnee, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 80.5 km, 64.4 km, 32.2 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Shawnee, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "64.4 km",
+    "32.2 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shawnee",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Tale of Two Trails",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64797",
+  "slug": "tale-of-two-trails-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "15957",
+    "url": "https://ultrasignup.com/register.aspx?did=64797"
+  },
+  "start": {
+    "lat": 38.9814,
+    "lon": -94.8087,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "http://teamsparklekc.com"
+}

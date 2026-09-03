@@ -10,11 +10,10 @@
     }
   },
   "createdAt": "2026-09-02T11:28:34.543Z",
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "dateStatus": "confirmed",
   "distances": [
-    "100 Mile Hares",
-    "100 Mile Tortoises"
+    "80.5 km"
   ],
   "endDate": "2026-09-19",
   "featured": false,
@@ -31,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63809",
   "slug": "run-rabbit-run-us",
   "source": {
-    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
     "id": "ultrasignup",
     "ref": "65",
     "url": "https://ultrasignup.com/register.aspx?did=63809"
@@ -43,10 +42,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "ultra",
     "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
   "website": "https://runrabbitrunsteamboat.com/"
 }

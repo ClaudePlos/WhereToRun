@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Trailtoberfest 3 Hour/6 Hour is a ultramarathon. Location: Helena, United States. Date: Saturday, 3 October 2026. Distances: 3 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Helena, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Trailtoberfest 3 Hour/6 Hour to ultramaraton. Lokalizacja: Helena, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 3 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Helena, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "3 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Helena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Trailtoberfest 3 Hour/6 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68232",
+  "slug": "trailtoberfest-3-hour-6-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "20860",
+    "url": "https://ultrasignup.com/register.aspx?did=68232"
+  },
+  "start": {
+    "lat": 33.2069,
+    "lon": -87.007,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.facebook.com/zombietrailraces/"
+}

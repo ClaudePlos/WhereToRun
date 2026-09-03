@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Virginia ANVIL Ultra Triathlon is a road race. Location: Spotsylvania, United States. Date: 8 October 2026 – 10 October 2026. Distances: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Spotsylvania, United States, 8 October 2026 – 10 October 2026"
+    },
+    "pl": {
+      "description": "Virginia ANVIL Ultra Triathlon to bieg uliczny. Lokalizacja: Spotsylvania, Stany Zjednoczone. Termin: 8 października 2026 – 10 października 2026. Dystanse: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Spotsylvania, Stany Zjednoczone, 8 października 2026 – 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ANVIL Half Triathlon",
+    "Triple Relay",
+    "Triple ANVIL Triathlon",
+    "Double ANVIL Triathlon",
+    "Double Relay"
+  ],
+  "endDate": "2026-10-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spotsylvania",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Virginia ANVIL Ultra Triathlon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63508",
+  "slug": "virginia-anvil-ultra-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "19516",
+    "url": "https://ultrasignup.com/register.aspx?did=63508"
+  },
+  "start": {
+    "lat": 38.1112,
+    "lon": -77.8346,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://anvil-ultratri.com/"
+}

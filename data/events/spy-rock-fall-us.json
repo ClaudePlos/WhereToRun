@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Spy Rock-Fall is a ultramarathon. Location: Ozark, United States. Date: Saturday, 3 October 2026. Distances: 50 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ozark, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Spy Rock-Fall to ultramaraton. Lokalizacja: Ozark, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 50 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ozark, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ozark",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Spy Rock-Fall",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68322",
+  "slug": "spy-rock-fall-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "19789",
+    "url": "https://ultrasignup.com/register.aspx?did=68322"
+  },
+  "start": {
+    "lat": 35.6775,
+    "lon": -93.7731,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.facebook.com/groups/911642641206134"
+}

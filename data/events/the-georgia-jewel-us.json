@@ -10,10 +10,12 @@
     }
   },
   "createdAt": "2026-09-02T11:28:34.543Z",
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km"
+    "80.5 km",
+    "56.3 km",
+    "29 km"
   ],
   "endDate": "2026-09-19",
   "featured": false,
@@ -30,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64562",
   "slug": "the-georgia-jewel-us",
   "source": {
-    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
     "id": "ultrasignup",
     "ref": "2839",
     "url": "https://ultrasignup.com/register.aspx?did=64562"
@@ -46,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
   "website": "https://www.georgiajewel.com"
 }

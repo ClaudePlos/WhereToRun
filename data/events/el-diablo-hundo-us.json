@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "El Diablo Hundo is a ultramarathon. Location: Doyline, United States. Date: 3 October 2026 – 4 October 2026. Distances: 80.5 km, 160.9 km, 100 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Doyline, United States, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "El Diablo Hundo to ultramaraton. Lokalizacja: Doyline, Stany Zjednoczone. Termin: 3 października 2026 – 4 października 2026. Dystanse: 80.5 km, 160.9 km, 100 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Doyline, Stany Zjednoczone, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "160.9 km",
+    "100 km",
+    "25 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Doyline",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "El Diablo Hundo",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64555",
+  "slug": "el-diablo-hundo-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "17687",
+    "url": "https://ultrasignup.com/register.aspx?did=64555"
+  },
+  "start": {
+    "lat": 32.5357,
+    "lon": -93.411,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.facebook.com/groups/252134567555520"
+}

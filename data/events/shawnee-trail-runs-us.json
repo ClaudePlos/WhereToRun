@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Shawnee Trail Runs is a ultramarathon. Location: West Portsmouth, United States. Date: Saturday, 3 October 2026. Distances: 80.5 km, 50 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — West Portsmouth, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Shawnee Trail Runs to ultramaraton. Lokalizacja: West Portsmouth, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 80.5 km, 50 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — West Portsmouth, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Portsmouth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Shawnee Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64733",
+  "slug": "shawnee-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "8594",
+    "url": "https://ultrasignup.com/register.aspx?did=64733"
+  },
+  "start": {
+    "lat": 38.7398,
+    "lon": -83.2036,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.shawneetrailrun.com/"
+}

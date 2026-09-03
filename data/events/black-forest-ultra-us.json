@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Forest Ultra is a ultramarathon. Location: North Bend, United States. Date: Sunday, 4 October 2026. Distances: 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — North Bend, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Black Forest Ultra to ultramaraton. Lokalizacja: North Bend, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — North Bend, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Black Forest Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64154",
+  "slug": "black-forest-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "11096",
+    "url": "https://ultrasignup.com/register.aspx?did=64154"
+  },
+  "start": {
+    "lat": 41.3622,
+    "lon": -77.6227,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://blackforestultra.com/"
+}

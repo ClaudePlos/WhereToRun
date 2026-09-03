@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Flag City Backyard Ultra is a road race. Location: Findlay, United States. Date: Saturday, 3 October 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Findlay, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Flag City Backyard Ultra to bieg uliczny. Lokalizacja: Findlay, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Findlay, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Findlay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Flag City Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64809",
+  "slug": "flag-city-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "15602",
+    "url": "https://ultrasignup.com/register.aspx?did=64809"
+  },
+  "start": {
+    "lat": 41.0198,
+    "lon": -83.5599,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://flagcityultra.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Blues Cruise is a ultramarathon. Location: Reading, United States. Date: Sunday, 4 October 2026. Distances: 50 km, Blues Cruise Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Reading, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Blues Cruise to ultramaraton. Lokalizacja: Reading, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 50 km, Blues Cruise Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Reading, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Blues Cruise Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Reading",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Blues Cruise",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64886",
+  "slug": "blues-cruise-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "77",
+    "url": "https://ultrasignup.com/register.aspx?did=64886"
+  },
+  "start": {
+    "lat": 40.3871,
+    "lon": -76.0421,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "http://www.pagodapacers.com"
+}

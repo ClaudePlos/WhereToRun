@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Moscow Mountain Madness is a ultramarathon. Location: Moscow, United States. Date: Sunday, 4 October 2026. Distances: 50 km, 1, 2 Marathon, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moscow, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Moscow Mountain Madness to ultramaraton. Lokalizacja: Moscow, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 50 km, 1, 2 Marathon, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moscow, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moscow",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Moscow Mountain Madness",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67588",
+  "slug": "moscow-mountain-madness-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "3935",
+    "url": "https://ultrasignup.com/register.aspx?did=67588"
+  },
+  "start": {
+    "lat": 46.8089,
+    "lon": -116.976,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.palouseroadrunners.org/moscow-mountain-madness/"
+}

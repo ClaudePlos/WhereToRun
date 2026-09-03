@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pine Creek Challenge is a ultramarathon. Location: Wellsboro, United States. Date: Saturday, 12 September 2026. Distances: 160.9 km, 100 km, 80.5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wellsboro, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Pine Creek Challenge to ultramaraton. Lokalizacja: Wellsboro, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 160.9 km, 100 km, 80.5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wellsboro, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wellsboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Pine Creek Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64594",
+  "slug": "pine-creek-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "2656",
+    "url": "https://ultrasignup.com/register.aspx?did=64594"
+  },
+  "start": {
+    "lat": 41.7512,
+    "lon": -77.4239,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "http://www.pinecreekchallenge.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "NipMuck Trail Marathon is a trail race. Location: Ashford, United States. Date: Sunday, 4 October 2026. Distances: 42.2 km, Marathon Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ashford, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "NipMuck Trail Marathon to bieg trailowy. Lokalizacja: Ashford, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 42.2 km, Marathon Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ashford, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T17:03:15.961Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Marathon Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ashford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "NipMuck Trail Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64188",
+  "slug": "nipmuck-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-03T17:03:22.961Z",
+    "id": "ultrasignup",
+    "ref": "2642",
+    "url": "https://ultrasignup.com/register.aspx?did=64188"
+  },
+  "start": {
+    "lat": 41.8795,
+    "lon": -72.1959,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-03T17:03:15.961Z",
+  "website": "https://www.shenipsitstriders.org/club_races/nipmuckmarathon.html"
+}

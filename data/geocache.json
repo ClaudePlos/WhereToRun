@@ -8,6 +8,36 @@
   "AU|yellagonga regional park, wa": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "BR|barra do chui, rs": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|barra do chui-rs": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|macae, rj": {
+    "at": "2026-09-03T17:03:15.961Z",
+    "lat": -22.4974178,
+    "lon": -42.1016832,
+    "name": "Fazenda Da Esperança Macaé RJ, Professor Souza, Casimiro de Abreu, Rio de Janeiro, Região Sudeste, 28860-000, Brasil"
+  },
+  "BR|morro da garca, mg": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|paraopeba, mg": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|praia grande, sp": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|santo andré, sp": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|timon, ma": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|tres marias, mg": {
+    "at": "2026-09-03T17:03:15.961Z"
+  },
   "EE|alutaguse": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 59.1508089,
@@ -154,6 +184,12 @@
     "lat": 56.4958638,
     "lon": 25.8687747,
     "name": "Jēkabpils, Jēkabpils novads, LV-5201, Latvija"
+  },
+  "MA|zagora": {
+    "at": "2026-09-03T17:03:15.961Z",
+    "lat": 30.3279053,
+    "lon": -5.8369957,
+    "name": "Zagora ⵣⴰⴳⵓⵔⴰ زاكورة, Pachalik de Zagora باشوية زاكورة, Province de Zagora ⵍⵉⵇⵍⵉⵎ ⵏ ⵣⴰⴳⵓⵔⴰ إقليم زاكورة, Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت, 49500, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
   "RS|belgrade": {
     "at": "2026-09-02T17:10:51.476Z",
