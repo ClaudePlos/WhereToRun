@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bear Chase is a ultramarathon. Location: Lakewood, United States. Date: 3 October 2026 – 4 October 2026. Distances: 100 km, 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakewood, United States, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "The Bear Chase to ultramaraton. Lokalizacja: Lakewood, Stany Zjednoczone. Termin: 3 października 2026 – 4 października 2026. Dystanse: 100 km, 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakewood, Stany Zjednoczone, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "The Bear Chase",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63926",
+  "slug": "the-bear-chase-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "2454",
+    "url": "https://ultrasignup.com/register.aspx?did=63926"
+  },
+  "start": {
+    "lat": 39.6509,
+    "lon": -105.142,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.bearchaserace.com/"
+}

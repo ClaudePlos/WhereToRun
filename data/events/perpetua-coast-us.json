@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Perpetua Coast is a ultramarathon. Location: Yachats, United States. Date: 3 October 2026 – 4 October 2026. Distances: 50 km, 32.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Yachats, United States, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Perpetua Coast to ultramaraton. Lokalizacja: Yachats, Stany Zjednoczone. Termin: 3 października 2026 – 4 października 2026. Dystanse: 50 km, 32.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Yachats, Stany Zjednoczone, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yachats",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Perpetua Coast",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64143",
+  "slug": "perpetua-coast-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "4459",
+    "url": "https://ultrasignup.com/register.aspx?did=64143"
+  },
+  "start": {
+    "lat": 44.3208,
+    "lon": -124.107,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.daybreakracing.com/perpetua-coast"
+}

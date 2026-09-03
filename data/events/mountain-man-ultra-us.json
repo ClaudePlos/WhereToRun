@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Man Ultra is a ultramarathon. Location: Waterville, United States. Date: Saturday, 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Waterville, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mountain Man Ultra to ultramaraton. Lokalizacja: Waterville, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Waterville, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waterville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Mountain Man Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66583",
+  "slug": "mountain-man-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "20356",
+    "url": "https://ultrasignup.com/register.aspx?did=66583"
+  },
+  "start": {
+    "lat": 41.3601,
+    "lon": -77.3531,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.ultrasignup.com"
+}

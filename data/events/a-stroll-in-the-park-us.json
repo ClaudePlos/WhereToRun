@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A Stroll in the Park is a ultramarathon. Location: Canton, United States. Date: Saturday, 3 October 2026. Distances: 12 h, 8 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Canton, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "A Stroll in the Park to ultramaraton. Lokalizacja: Canton, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 12 h, 8 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Canton, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "A Stroll in the Park",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65978",
+  "slug": "a-stroll-in-the-park-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "2620",
+    "url": "https://ultrasignup.com/register.aspx?did=65978"
+  },
+  "start": {
+    "lat": 34.2328,
+    "lon": -84.5031,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://ultrasignup.com"
+}

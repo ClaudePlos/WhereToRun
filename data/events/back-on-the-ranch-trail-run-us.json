@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Back On The Ranch Trail Run is a ultramarathon. Location: Los Olivos, United States. Date: 2 October 2026 – 4 October 2026. Distances: 48 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Los Olivos, United States, 2 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Back On The Ranch Trail Run to ultramaraton. Lokalizacja: Los Olivos, Stany Zjednoczone. Termin: 2 października 2026 – 4 października 2026. Dystanse: 48 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Los Olivos, Stany Zjednoczone, 2 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h",
+    "3 h",
+    "Non-Runner"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Olivos",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Back On The Ranch Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63683",
+  "slug": "back-on-the-ranch-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "8927",
+    "url": "https://ultrasignup.com/register.aspx?did=63683"
+  },
+  "start": {
+    "lat": 34.6978,
+    "lon": -120.151,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.allwedoisrun.com"
+}

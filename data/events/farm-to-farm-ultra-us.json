@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Farm to Farm Ultra is a ultramarathon. Location: Freeport, United States. Date: Sunday, 27 September 2026. Distances: 80.5 km, 48.3 km, 30 Miler - 2, 3P Relay, 10 Miler - 2P Relay, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Freeport, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Farm to Farm Ultra to ultramaraton. Lokalizacja: Freeport, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 80.5 km, 48.3 km, 30 Miler - 2, 3P Relay, 10 Miler - 2P Relay, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Freeport, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "48.3 km",
+    "30 Miler - 2",
+    "3P Relay",
+    "10 Miler - 2P Relay",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freeport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Farm to Farm Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64742",
+  "slug": "farm-to-farm-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "2987",
+    "url": "https://ultrasignup.com/register.aspx?did=64742"
+  },
+  "start": {
+    "lat": 43.829,
+    "lon": -70.0742,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://docs.google.com/document/d/1lOMw6McVAAWQcfkzyEJb92xILjSUjauHT4mwizsliKk/edit?usp=sharing"
+}

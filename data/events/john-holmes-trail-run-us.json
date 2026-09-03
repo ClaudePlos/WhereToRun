@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "John Holmes Trail Run is a ultramarathon. Location: Brooksville, United States. Date: Saturday, 3 October 2026. Distances: 50 km, 25.7 km, 14.5 km, Spectator Fee. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brooksville, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "John Holmes Trail Run to ultramaraton. Lokalizacja: Brooksville, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 50 km, 25.7 km, 14.5 km, Spectator Fee. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brooksville, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25.7 km",
+    "14.5 km",
+    "Spectator Fee"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooksville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "John Holmes Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66426",
+  "slug": "john-holmes-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "1983",
+    "url": "https://ultrasignup.com/register.aspx?did=66426"
+  },
+  "start": {
+    "lat": 28.5938,
+    "lon": -82.2958,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.johnholmestrailrun.com/"
+}

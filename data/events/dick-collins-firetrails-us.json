@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Dick Collins Firetrails is a ultramarathon. Location: Castro Valley, United States. Date: Saturday, 26 September 2026. Distances: 100 km, Pacers - 100k, Pacers - 50 mile, 80.5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Castro Valley, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Dick Collins Firetrails to ultramaraton. Lokalizacja: Castro Valley, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 100 km, Pacers - 100k, Pacers - 50 mile, 80.5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Castro Valley, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "Pacers - 100k",
+    "Pacers - 50 mile",
+    "80.5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castro Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Dick Collins Firetrails",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64027",
+  "slug": "dick-collins-firetrails-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "7862",
+    "url": "https://ultrasignup.com/register.aspx?did=64027"
+  },
+  "start": {
+    "lat": 37.7105,
+    "lon": -122.055,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://firetrailsultra.com"
+}

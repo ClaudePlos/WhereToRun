@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Yuba Gold is a road race. Location: Nevada City, United States. Date: 1 October 2026 – 31 October 2026. Distances: 50K (Original P2P Course). Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Nevada City, United States, 1 October 2026 – 31 October 2026"
+    },
+    "pl": {
+      "description": "Yuba Gold to bieg uliczny. Lokalizacja: Nevada City, Stany Zjednoczone. Termin: 1 października 2026 – 31 października 2026. Dystanse: 50K (Original P2P Course). Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Nevada City, Stany Zjednoczone, 1 października 2026 – 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50K (Original P2P Course)"
+  ],
+  "endDate": "2026-10-31",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nevada City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Yuba Gold",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66231",
+  "slug": "yuba-gold-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "19501",
+    "url": "https://ultrasignup.com/register.aspx?did=66231"
+  },
+  "start": {
+    "lat": 39.3417,
+    "lon": -120.972,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://skybreakerracing.com/events/"
+}

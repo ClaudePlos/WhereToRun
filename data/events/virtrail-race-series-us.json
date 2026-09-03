@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Virtrail Race Series is a trail race. Location: Cache Valley, United States. Date: Wednesday, 30 September 2026. Distances: 32 Miles Run for Time, 32 Miles Hike for Time, 32 Miles Hike to Complete. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Cache Valley, United States, Wednesday, 30 September 2026"
+    },
+    "pl": {
+      "description": "Virtrail Race Series to bieg trailowy. Lokalizacja: Cache Valley, Stany Zjednoczone. Termin: środa, 30 września 2026. Dystanse: 32 Miles Run for Time, 32 Miles Hike for Time, 32 Miles Hike to Complete. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Cache Valley, Stany Zjednoczone, środa, 30 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "32 Miles Run for Time",
+    "32 Miles Hike for Time",
+    "32 Miles Hike to Complete"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cache Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Virtrail Race Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67047",
+  "slug": "virtrail-race-series-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "20482",
+    "url": "https://ultrasignup.com/register.aspx?did=67047"
+  },
+  "start": {
+    "lat": 41.7689,
+    "lon": -111.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://www.distancegeek.com/virtrail-race-series"
+}

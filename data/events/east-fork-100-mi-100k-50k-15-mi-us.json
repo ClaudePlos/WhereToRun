@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "East Fork 100 mi/100K/50K/15 mi is a ultramarathon. Location: Bethel, United States. Date: Saturday, 12 September 2026. Distances: 160.9 km, 100 km, 50 km, 24.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bethel, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "East Fork 100 mi/100K/50K/15 mi to ultramaraton. Lokalizacja: Bethel, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 160.9 km, 100 km, 50 km, 24.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bethel, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "24.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bethel",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "East Fork 100 mi/100K/50K/15 mi",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64381",
+  "slug": "east-fork-100-mi-100k-50k-15-mi-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "16130",
+    "url": "https://ultrasignup.com/register.aspx?did=64381"
+  },
+  "start": {
+    "lat": 39.0174,
+    "lon": -84.1338,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.empowerultras.com"
+}

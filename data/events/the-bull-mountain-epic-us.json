@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bull Mountain Epic is a ultramarathon. Location: Dahlonega, United States. Date: Saturday, 3 October 2026. Distances: 50 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dahlonega, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "The Bull Mountain Epic to ultramaraton. Lokalizacja: Dahlonega, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 50 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dahlonega, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dahlonega",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "The Bull Mountain Epic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66044",
+  "slug": "the-bull-mountain-epic-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "6629",
+    "url": "https://ultrasignup.com/register.aspx?did=66044"
+  },
+  "start": {
+    "lat": 34.5828,
+    "lon": -84.1443,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "http://www.dumassevents.com"
+}

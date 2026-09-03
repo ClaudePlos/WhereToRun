@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Baker Lake 50k is a ultramarathon. Location: Baker Lake, United States. Date: Saturday, 3 October 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Baker Lake, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Baker Lake 50k to ultramaraton. Lokalizacja: Baker Lake, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Baker Lake, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Baker Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Baker Lake 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64905",
+  "slug": "baker-lake-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "75",
+    "url": "https://ultrasignup.com/register.aspx?did=64905"
+  },
+  "start": {
+    "lat": 48.6535,
+    "lon": -121.694,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://www.nwenduranceevents.com/baker50k"
+}

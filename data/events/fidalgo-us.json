@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Fidalgo is a road race. Location: Anacortes, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, Half-Marathon, 8 km, Kids Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Anacortes, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Fidalgo to bieg uliczny. Lokalizacja: Anacortes, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, Half-Marathon, 8 km, Kids Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Anacortes, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Half-Marathon",
+    "8 km",
+    "Kids Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anacortes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Fidalgo",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63656",
+  "slug": "fidalgo-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "19561",
+    "url": "https://ultrasignup.com/register.aspx?did=63656"
+  },
+  "start": {
+    "lat": 48.4178,
+    "lon": -122.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://www.evergreentrailruns.com/fidalgo-trail-run/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Granite Mountain Grind is a ultramarathon. Location: Prescott, United States. Date: Saturday, 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Prescott, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Granite Mountain Grind to ultramaraton. Lokalizacja: Prescott, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Prescott, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Prescott",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Granite Mountain Grind",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66531",
+  "slug": "granite-mountain-grind-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "20342",
+    "url": "https://ultrasignup.com/register.aspx?did=66531"
+  },
+  "start": {
+    "lat": 34.7331,
+    "lon": -112.569,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://www.dirtygoatadventures.us/granite-mtn-grind"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "DC Peaks 100 is a ultramarathon. Location: North Salt Lake, United States. Date: Friday, 2 October 2026. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — North Salt Lake, United States, Friday, 2 October 2026"
+    },
+    "pl": {
+      "description": "DC Peaks 100 to ultramaraton. Lokalizacja: North Salt Lake, Stany Zjednoczone. Termin: piątek, 2 października 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — North Salt Lake, Stany Zjednoczone, piątek, 2 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Salt Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "DC Peaks 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65376",
+  "slug": "dc-peaks-100-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "20018",
+    "url": "https://ultrasignup.com/register.aspx?did=65376"
+  },
+  "start": {
+    "lat": 40.8486,
+    "lon": -111.907,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://dcpeaks50.com/"
+}

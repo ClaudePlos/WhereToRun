@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Women Run - Womens Trail Running Summit is a trail race. Location: Chattanooga, United States. Date: Sunday, 27 September 2026. Distances: Membership. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Chattanooga, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Wild Women Run - Womens Trail Running Summit to bieg trailowy. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: Membership. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Chattanooga, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Membership"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Wild Women Run - Womens Trail Running Summit",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68113",
+  "slug": "wild-women-run-womens-trail-running-summit-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "19395",
+    "url": "https://ultrasignup.com/register.aspx?did=68113"
+  },
+  "start": {
+    "lat": 35.0101,
+    "lon": -85.3646,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://wildtrails.org/"
+}

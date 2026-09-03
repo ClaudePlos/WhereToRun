@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Yankee Springs Fall Festival is a ultramarathon. Location: Middleville, United States. Date: Saturday, 3 October 2026. Distances: 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Middleville, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Yankee Springs Fall Festival to ultramaraton. Lokalizacja: Middleville, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Middleville, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Middleville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Yankee Springs Fall Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65701",
+  "slug": "yankee-springs-fall-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "5933",
+    "url": "https://ultrasignup.com/register.aspx?did=65701"
+  },
+  "start": {
+    "lat": 42.613,
+    "lon": -85.4907,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://switchbackendurance.com/races/"
+}

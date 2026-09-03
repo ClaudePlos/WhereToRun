@@ -1,4 +1,13 @@
 {
+  "AU|bickley, wa": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "AU|shepparton, vic": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "AU|yellagonga regional park, wa": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
   "EE|alutaguse": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 59.1508089,
@@ -55,6 +64,33 @@
     "lat": 51.8271274,
     "lon": -10.1718452,
     "name": "Waterville, Kenmare Municipal District, County Kerry, Munster, V23 FW71, Éire / Ireland"
+  },
+  "IN|bangalore south": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|banglore": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|jaisalmer": {
+    "at": "2026-09-03T11:24:47.198Z",
+    "lat": 26.9116615,
+    "lon": 70.9124888,
+    "name": "Jaisalmer, Jaisalmer Tehsil, Jaisalmer, Rajasthan, 345001, India"
+  },
+  "IN|khardung village, ladakh": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|kyagar, nubra valley": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|mitganahalli": {
+    "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|new delhi": {
+    "at": "2026-09-03T11:24:47.198Z",
+    "lat": 28.6138954,
+    "lon": 77.2090057,
+    "name": "New Delhi, Delhi, India"
   },
   "JP|chitose city, hokkaido": {
     "at": "2026-09-02T22:37:18.569Z"

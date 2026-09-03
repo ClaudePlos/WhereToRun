@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Barn Challenge is a ultramarathon. Location: Lykens, United States. Date: 2 October 2026 – 3 October 2026. Distances: 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lykens, United States, 2 October 2026 – 3 October 2026"
+    },
+    "pl": {
+      "description": "Red Barn Challenge to ultramaraton. Lokalizacja: Lykens, Stany Zjednoczone. Termin: 2 października 2026 – 3 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lykens, Stany Zjednoczone, 2 października 2026 – 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-03T11:24:47.198Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2026-10-03",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lykens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Red Barn Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64896",
+  "slug": "red-barn-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "id": "ultrasignup",
+    "ref": "13038",
+    "url": "https://ultrasignup.com/register.aspx?did=64896"
+  },
+  "start": {
+    "lat": 40.5669,
+    "lon": -76.7298,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "website": "https://www.facebook.com/redbarnchallenge"
+}
