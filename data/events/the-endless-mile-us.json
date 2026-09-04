@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Endless Mile is a ultramarathon. Location: Alabaster, United States. Date: 22 October 2026 – 25 October 2026. Distances: 72 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Alabaster, United States, 22 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "The Endless Mile to ultramaraton. Lokalizacja: Alabaster, Stany Zjednoczone. Termin: 22 października 2026 – 25 października 2026. Dystanse: 72 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Alabaster, Stany Zjednoczone, 22 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alabaster",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "The Endless Mile",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64138",
+  "slug": "the-endless-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "5916",
+    "url": "https://ultrasignup.com/register.aspx?did=64138"
+  },
+  "start": {
+    "lat": 33.186,
+    "lon": -86.829,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "http://www.southeasterntrailruns.com"
+}

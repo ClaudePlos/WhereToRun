@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mystery Mountain Marathon & 12-Miler is a trail race. Location: Chatsworth, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 19.3 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Chatsworth, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Mystery Mountain Marathon & 12-Miler to bieg trailowy. Lokalizacja: Chatsworth, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 19.3 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Chatsworth, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "19.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chatsworth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Mystery Mountain Marathon & 12-Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64385",
+  "slug": "mystery-mountain-marathon-12-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "2465",
+    "url": "https://ultrasignup.com/register.aspx?did=64385"
+  },
+  "start": {
+    "lat": 34.7585,
+    "lon": -84.707,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.getguts.com/race/mystery-mountain"
+}

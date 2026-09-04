@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Viewpoint Endurance Challenge is a ultramarathon. Location: Whittier, United States. Date: Saturday, 17 October 2026. Distances: 24 h, 12 h, 6 h, 6 Hour Ruck, 3 Hr Ruck, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Whittier, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Viewpoint Endurance Challenge to ultramaraton. Lokalizacja: Whittier, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 24 h, 12 h, 6 h, 6 Hour Ruck, 3 Hr Ruck, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Whittier, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h",
+    "6 Hour Ruck",
+    "3 Hr Ruck",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Whittier",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Viewpoint Endurance Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63902",
+  "slug": "viewpoint-endurance-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "19629",
+    "url": "https://ultrasignup.com/register.aspx?did=63902"
+  },
+  "start": {
+    "lat": 35.4255,
+    "lon": -83.3388,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.facebook.com/share/17Sfub2hPD/?mibextid=wwXIfr"
+}

@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Tussey mOUnTaiNBACK 50 Mile Relay and Ultra is a ultramarathon. Location: Boalsburg, United States. Date: Saturday, 24 October 2026. Distances: 8 Per Relay, 7 Per Relay, 6 Per Relay, 5 Per Relay, 4 Per Relay, 3 Per Relay, 2 Per Relay, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Boalsburg, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Tussey mOUnTaiNBACK 50 Mile Relay and Ultra to ultramaraton. Lokalizacja: Boalsburg, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 8 Per Relay, 7 Per Relay, 6 Per Relay, 5 Per Relay, 4 Per Relay, 3 Per Relay, 2 Per Relay, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Boalsburg, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 Per Relay",
+    "7 Per Relay",
+    "6 Per Relay",
+    "5 Per Relay",
+    "4 Per Relay",
+    "3 Per Relay",
+    "2 Per Relay",
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boalsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Tussey mOUnTaiNBACK 50 Mile Relay and Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65827",
+  "slug": "tussey-mountainback-50-mile-relay-and-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "301",
+    "url": "https://ultrasignup.com/register.aspx?did=65827"
+  },
+  "start": {
+    "lat": 40.7694,
+    "lon": -77.7552,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "http://www.tusseymountainback50.com/"
+}

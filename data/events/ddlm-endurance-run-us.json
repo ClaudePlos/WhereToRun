@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "DDLM Endurance Run is a ultramarathon. Location: South Beach, United States. Date: 23 October 2026 – 25 October 2026. Distances: 48 h, 48-Hour Team Relay, 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — South Beach, United States, 23 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "DDLM Endurance Run to ultramaraton. Lokalizacja: South Beach, Stany Zjednoczone. Termin: 23 października 2026 – 25 października 2026. Dystanse: 48 h, 48-Hour Team Relay, 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — South Beach, Stany Zjednoczone, 23 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24-Hour Team Relay",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "DDLM Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68553",
+  "slug": "ddlm-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "9284",
+    "url": "https://ultrasignup.com/register.aspx?did=68553"
+  },
+  "start": {
+    "lat": 44.6028,
+    "lon": -124.063,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://ardoradventures.com/events/dia-de-los-muertos/"
+}

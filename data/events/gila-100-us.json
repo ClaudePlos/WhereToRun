@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Gila 100 is a ultramarathon. Location: Silver City, United States. Date: 17 October 2026 – 18 October 2026. Distances: 160.9 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Silver City, United States, 17 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Gila 100 to ultramaraton. Lokalizacja: Silver City, Stany Zjednoczone. Termin: 17 października 2026 – 18 października 2026. Dystanse: 160.9 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Silver City, Stany Zjednoczone, 17 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silver City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Gila 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64384",
+  "slug": "gila-100-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "17513",
+    "url": "https://ultrasignup.com/register.aspx?did=64384"
+  },
+  "start": {
+    "lat": 32.7865,
+    "lon": -108.157,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://gilaadventureruns.com"
+}

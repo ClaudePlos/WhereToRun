@@ -281,6 +281,12 @@
     "lon": -5.8369957,
     "name": "Zagora ⵣⴰⴳⵓⵔⴰ زاكورة, Pachalik de Zagora باشوية زاكورة, Province de Zagora ⵍⵉⵇⵍⵉⵎ ⵏ ⵣⴰⴳⵓⵔⴰ إقليم زاكورة, Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت, 49500, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
+  "NO|bergen": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 60.3943055,
+    "lon": 5.3259192,
+    "name": "Bergen, Vestland, Norge"
+  },
   "NO|drammen": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 59.6964936,
@@ -293,11 +299,23 @@
     "lon": 15.7844219,
     "name": "Fauske, Nordland, Norge"
   },
+  "NO|gjerdrum": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 60.0787767,
+    "lon": 11.0206123,
+    "name": "Gjerdrum, Akershus, 2022, Norge"
+  },
   "NO|hemsedal": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 60.9282437,
     "lon": 8.3834869,
     "name": "Hemsedal, Buskerud, 3560, Norge"
+  },
+  "NO|hommelvik": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 63.4113975,
+    "lon": 10.795811,
+    "name": "Hommelvik, Malvik, Trøndelag, 7550, Norge"
   },
   "NO|hvittingfoss": {
     "at": "2026-09-04T16:52:44.278Z",
@@ -317,6 +335,12 @@
     "lon": 10.5086474,
     "name": "Nærsnes, Asker, Akershus, 3478, Norge"
   },
+  "NO|nesbyen": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 60.5468243,
+    "lon": 9.0283417,
+    "name": "Nesbyen, Buskerud, 3540, Norge"
+  },
   "NO|oslo": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 59.9133301,
@@ -326,11 +350,47 @@
   "NO|saksumdal": {
     "at": "2026-09-04T16:52:44.278Z"
   },
+  "NO|stavanger": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "name": "Stavanger, Rogaland, Norge"
+  },
+  "NO|svelvik": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 59.6135205,
+    "lon": 10.4091066,
+    "name": "Svelvik, Drammen, 3060, Norge"
+  },
+  "NO|tromsø": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 69.6516345,
+    "lon": 18.9558585,
+    "name": "Tromsø, Troms, Norge"
+  },
   "NO|trondheim": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 63.4304475,
     "lon": 10.3952118,
     "name": "Trondheim, Trøndelag, Norge"
+  },
+  "NO|trondsvangan": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 62.140961,
+    "lon": 10.6686928,
+    "name": "Tronsvangene, Alvdal, Innlandet, Norge"
+  },
+  "NO|årnes": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 60.122332,
+    "lon": 11.4701491,
+    "name": "Årnes, Nes, Akershus, 2150, Norge"
+  },
+  "NO|åsnes": {
+    "at": "2026-09-04T22:20:28.980Z",
+    "lat": 60.6812274,
+    "lon": 12.1868826,
+    "name": "Åsnes, Innlandet, Norge"
   },
   "NO|øye": {
     "at": "2026-09-04T16:52:44.278Z",

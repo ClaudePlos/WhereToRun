@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bohemian Alps 50K is a ultramarathon. Location: Brainard, United States. Date: Saturday, 24 October 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brainard, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Bohemian Alps 50K to ultramaraton. Lokalizacja: Brainard, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brainard, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brainard",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Bohemian Alps 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64932",
+  "slug": "bohemian-alps-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "63",
+    "url": "https://ultrasignup.com/register.aspx?did=64932"
+  },
+  "start": {
+    "lat": 41.1889,
+    "lon": -97.0017,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "http://dalenielsen68626.tripod.com/"
+}

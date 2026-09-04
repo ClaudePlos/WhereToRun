@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hare Mountain 100 is a ultramarathon. Location: Hagarville, United States. Date: 23 October 2026 – 24 October 2026. Distances: 10 km, No Frills Hare Mountain 100 Option, 160.9 km, 80.5 km, 50 km, 25 km, White Rock Ascent. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hagarville, United States, 23 October 2026 – 24 October 2026"
+    },
+    "pl": {
+      "description": "Hare Mountain 100 to ultramaraton. Lokalizacja: Hagarville, Stany Zjednoczone. Termin: 23 października 2026 – 24 października 2026. Dystanse: 10 km, No Frills Hare Mountain 100 Option, 160.9 km, 80.5 km, 50 km, 25 km, White Rock Ascent. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hagarville, Stany Zjednoczone, 23 października 2026 – 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "No Frills Hare Mountain 100 Option",
+    "160.9 km"
+  ],
+  "endDate": "2026-10-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hagarville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Hare Mountain 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63905",
+  "slug": "hare-mountain-100-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "16340",
+    "url": "https://ultrasignup.com/register.aspx?did=63905"
+  },
+  "start": {
+    "lat": 35.6765,
+    "lon": -93.2557,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.haremountain100.com/"
+}

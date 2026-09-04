@@ -10,16 +10,11 @@
     }
   },
   "createdAt": "2026-09-03T22:37:31.083Z",
-  "date": "2026-10-10",
+  "date": "2026-10-09",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km",
-    "100 km",
-    "Teter Rock 100K",
-    "80.5 km",
-    "42.2 km",
-    "1",
-    "2 Marathon"
+    "Heartland 100 4 Person Relay",
+    "201.2 km"
   ],
   "endDate": "2026-10-11",
   "featured": false,
@@ -36,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64437",
   "slug": "heartland-us",
   "source": {
-    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
     "id": "ultrasignup",
     "ref": "411",
     "url": "https://ultrasignup.com/register.aspx?did=64437"
@@ -52,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
   "website": "http://www.ksultrarunners.org/"
 }

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "GOATZ Trail Runs is a ultramarathon. Location: Omaha, United States. Date: Sunday, 18 October 2026. Distances: 80.5 km, 50 km, 33.8 km, 16.9 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Omaha, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "GOATZ Trail Runs to ultramaraton. Lokalizacja: Omaha, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 80.5 km, 50 km, 33.8 km, 16.9 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Omaha, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "33.8 km",
+    "16.9 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Omaha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "GOATZ Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65443",
+  "slug": "goatz-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "3297",
+    "url": "https://ultrasignup.com/register.aspx?did=65443"
+  },
+  "start": {
+    "lat": 41.3386,
+    "lon": -96.0457,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.goatz.org/goatztrailruns"
+}

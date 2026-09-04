@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Livingston Oval Marathon / Half-Marathon / Last Person Standing is a road race. Location: Livingston, United States. Date: Saturday, 17 October 2026. Distances: 42.2 km, Last Person Standing, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Livingston, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Livingston Oval Marathon / Half-Marathon / Last Person Standing to bieg uliczny. Lokalizacja: Livingston, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 42.2 km, Last Person Standing, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Livingston, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "Last Person Standing",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Livingston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Livingston Oval Marathon / Half-Marathon / Last Person Standing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67699",
+  "slug": "livingston-oval-marathon-half-marathon-last-person-standing-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "20694",
+    "url": "https://ultrasignup.com/register.aspx?did=67699"
+  },
+  "start": {
+    "lat": 40.7825,
+    "lon": -74.3186,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.livingstonovalultra.com/marathon"
+}

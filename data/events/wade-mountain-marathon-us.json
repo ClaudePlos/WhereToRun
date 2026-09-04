@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Wade Mountain Marathon is a trail race. Location: Huntsville, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Huntsville, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Wade Mountain Marathon to bieg trailowy. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Huntsville, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Wade Mountain Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64954",
+  "slug": "wade-mountain-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "5669",
+    "url": "https://ultrasignup.com/register.aspx?did=64954"
+  },
+  "start": {
+    "lat": 34.8075,
+    "lon": -86.5898,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://runninglane.com"
+}

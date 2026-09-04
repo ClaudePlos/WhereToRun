@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Wasatch Yard is a road race. Location: Park City, United States. Date: Friday, 23 October 2026. Distances: Backyard ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Park City, United States, Friday, 23 October 2026"
+    },
+    "pl": {
+      "description": "The Wasatch Yard to bieg uliczny. Lokalizacja: Park City, Stany Zjednoczone. Termin: piątek, 23 października 2026. Dystanse: Backyard ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Park City, Stany Zjednoczone, piątek, 23 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Park City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "The Wasatch Yard",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66563",
+  "slug": "the-wasatch-yard-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "19625",
+    "url": "https://ultrasignup.com/register.aspx?did=66563"
+  },
+  "start": {
+    "lat": 40.6792,
+    "lon": -111.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://wasatchyard.com/"
+}

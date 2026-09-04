@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Commodore 24 Hour Challenge is a road race. Location: Panama City, United States. Date: Friday, 23 October 2026. Distances: 48 mile SOLO, 48 Mile 2 Person Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Panama City, United States, Friday, 23 October 2026"
+    },
+    "pl": {
+      "description": "Commodore 24 Hour Challenge to bieg uliczny. Lokalizacja: Panama City, Stany Zjednoczone. Termin: piątek, 23 października 2026. Dystanse: 48 mile SOLO, 48 Mile 2 Person Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Panama City, Stany Zjednoczone, piątek, 23 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 mile SOLO",
+    "48 Mile 2 Person Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Panama City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Commodore 24 Hour Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65355",
+  "slug": "commodore-24-hour-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "18854",
+    "url": "https://ultrasignup.com/register.aspx?did=65355"
+  },
+  "start": {
+    "lat": 30.1853,
+    "lon": -85.7288,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.runrotorhead30a.com/commodore-24-hr-challenge"
+}

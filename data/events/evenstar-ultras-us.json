@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Evenstar Ultras is a ultramarathon. Location: Bentonville, United States. Date: Saturday, 17 October 2026. Distances: 24 h, 12 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bentonville, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Evenstar Ultras to ultramaraton. Lokalizacja: Bentonville, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 24 h, 12 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bentonville, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bentonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Evenstar Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66609",
+  "slug": "evenstar-ultras-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "20362",
+    "url": "https://ultrasignup.com/register.aspx?did=66609"
+  },
+  "start": {
+    "lat": 38.8631,
+    "lon": -78.3065,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.ioutsideevents.com/"
+}

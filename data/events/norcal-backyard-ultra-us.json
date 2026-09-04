@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "NorCal Backyard Ultra is a road race. Location: Granite Bay, United States. Date: 23 October 2026 – 24 October 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Granite Bay, United States, 23 October 2026 – 24 October 2026"
+    },
+    "pl": {
+      "description": "NorCal Backyard Ultra to bieg uliczny. Lokalizacja: Granite Bay, Stany Zjednoczone. Termin: 23 października 2026 – 24 października 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Granite Bay, Stany Zjednoczone, 23 października 2026 – 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T22:20:28.980Z",
+  "date": "2026-10-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": "2026-10-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Granite Bay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "NorCal Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64125",
+  "slug": "norcal-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "id": "ultrasignup",
+    "ref": "16873",
+    "url": "https://ultrasignup.com/register.aspx?did=64125"
+  },
+  "start": {
+    "lat": 38.7216,
+    "lon": -121.168,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "website": "https://www.badluckrunclub.com/the-backyard"
+}
