@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Last Wolf is a ultramarathon. Location: Kings Mountain, United States. Date: Saturday, 10 October 2026. Distances: Last Man Standing, 50 km, 25 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kings Mountain, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Last Wolf to ultramaraton. Lokalizacja: Kings Mountain, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: Last Man Standing, 50 km, 25 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kings Mountain, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Man Standing",
+    "50 km",
+    "25 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kings Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "The Last Wolf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63536",
+  "slug": "the-last-wolf-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "16260",
+    "url": "https://ultrasignup.com/register.aspx?did=63536"
+  },
+  "start": {
+    "lat": 35.2402,
+    "lon": -81.2696,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.dirtywolfracing.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Duluth Races is a ultramarathon. Location: Duluth, United States. Date: 17 October 2026 – 18 October 2026. Distances: 100 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Duluth, United States, 17 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Wild Duluth Races to ultramaraton. Lokalizacja: Duluth, Stany Zjednoczone. Termin: 17 października 2026 – 18 października 2026. Dystanse: 100 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Duluth, Stany Zjednoczone, 17 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Wild Duluth Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64610",
+  "slug": "wild-duluth-races-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "1836",
+    "url": "https://ultrasignup.com/register.aspx?did=64610"
+  },
+  "start": {
+    "lat": 46.7785,
+    "lon": -92.1022,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.wildduluthraces.com"
+}

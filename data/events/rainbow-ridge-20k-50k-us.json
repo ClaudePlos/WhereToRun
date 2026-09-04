@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Rainbow Ridge 20k/50k is a ultramarathon. Location: Rainbow, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 20 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rainbow, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Rainbow Ridge 20k/50k to ultramaraton. Lokalizacja: Rainbow, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 20 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rainbow, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "20 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rainbow",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Rainbow Ridge 20k/50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65939",
+  "slug": "rainbow-ridge-20k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "18828",
+    "url": "https://ultrasignup.com/register.aspx?did=65939"
+  },
+  "start": {
+    "lat": 44.1696,
+    "lon": -122.226,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.facebook.com/share/1ajNTvoKVX/?mibextid=wwXIfr"
+}

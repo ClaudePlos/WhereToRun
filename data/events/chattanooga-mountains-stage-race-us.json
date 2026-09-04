@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chattanooga Mountains Stage Race is a trail race. Location: Chattanooga, United States. Date: 16 October 2026 – 18 October 2026. Distances: 60M Stage Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Chattanooga, United States, 16 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Chattanooga Mountains Stage Race to bieg trailowy. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: 16 października 2026 – 18 października 2026. Dystanse: 60M Stage Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Chattanooga, Stany Zjednoczone, 16 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "60M Stage Race"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Chattanooga Mountains Stage Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64885",
+  "slug": "chattanooga-mountains-stage-race-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "2483",
+    "url": "https://ultrasignup.com/register.aspx?did=64885"
+  },
+  "start": {
+    "lat": 35.022,
+    "lon": -85.4092,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://wildtrails.org/chattanooga-mountains-stage-race/"
+}

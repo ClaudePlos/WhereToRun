@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Caveman Challenge at Waterloo Lake is a ultramarathon. Location: Denison, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 42.2 km, 21.1 km, 10 km, 5 km, Fun run, lake walk. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Denison, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Caveman Challenge at Waterloo Lake to ultramaraton. Lokalizacja: Denison, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 42.2 km, 21.1 km, 10 km, 5 km, Fun run, lake walk. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Denison, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "Fun run",
+    "lake walk"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Denison",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Caveman Challenge at Waterloo Lake",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66043",
+  "slug": "caveman-challenge-at-waterloo-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "17556",
+    "url": "https://ultrasignup.com/register.aspx?did=66043"
+  },
+  "start": {
+    "lat": 33.7456,
+    "lon": -96.5698,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://cavemanendurance.com/"
+}

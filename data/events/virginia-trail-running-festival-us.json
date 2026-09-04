@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Virginia Trail Running Festival is a ultramarathon. Location: Max  Meadows, United States. Date: Saturday, 10 October 2026. Distances: 160.9 km, 25 km, 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Max  Meadows, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Virginia Trail Running Festival to ultramaraton. Lokalizacja: Max  Meadows, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 160.9 km, 25 km, 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Max  Meadows, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "25 km",
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Max  Meadows",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Virginia Trail Running Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63670",
+  "slug": "virginia-trail-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "17633",
+    "url": "https://ultrasignup.com/register.aspx?did=63670"
+  },
+  "start": {
+    "lat": 36.8904,
+    "lon": -80.8352,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "http://www.runbumtours.com"
+}

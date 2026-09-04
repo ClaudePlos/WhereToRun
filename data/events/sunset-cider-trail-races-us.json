@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunset & Cider Trail Races is a ultramarathon. Location: Auburn, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 20.9 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Auburn, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Sunset & Cider Trail Races to ultramaraton. Lokalizacja: Auburn, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 20.9 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Auburn, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "20.9 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Auburn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sunset & Cider Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63524",
+  "slug": "sunset-cider-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "16665",
+    "url": "https://ultrasignup.com/register.aspx?did=63524"
+  },
+  "start": {
+    "lat": 38.8918,
+    "lon": -121.068,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://badluckrunclub.com/sunset-cider-trail-races/"
+}

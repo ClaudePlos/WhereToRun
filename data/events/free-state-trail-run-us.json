@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Free State Trail Run is a ultramarathon. Location: Meriden, United States. Date: Sunday, 11 October 2026. Distances: 64.4 km, 42.2 km, 1, 2 Marathon, 4 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Meriden, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Free State Trail Run to ultramaraton. Lokalizacja: Meriden, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 64.4 km, 42.2 km, 1, 2 Marathon, 4 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Meriden, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "64.4 km",
+    "42.2 km",
+    "1",
+    "2 Marathon",
+    "4 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Meriden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Free State Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65838",
+  "slug": "free-state-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "1442",
+    "url": "https://ultrasignup.com/register.aspx?did=65838"
+  },
+  "start": {
+    "lat": 39.1576,
+    "lon": -95.4677,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.facebook.com/Free-State-Trail-Run-316372511794750/"
+}

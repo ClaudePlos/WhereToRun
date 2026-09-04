@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mohawk Mountain Race is a trail race. Location: Cornwall, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Cornwall, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Mohawk Mountain Race to bieg trailowy. Lokalizacja: Cornwall, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Cornwall, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cornwall",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Mohawk Mountain Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64750",
+  "slug": "mohawk-mountain-race-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "9232",
+    "url": "https://ultrasignup.com/register.aspx?did=64750"
+  },
+  "start": {
+    "lat": 41.8389,
+    "lon": -73.3159,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.steependurance.com/mohawk-mountain-race.html"
+}

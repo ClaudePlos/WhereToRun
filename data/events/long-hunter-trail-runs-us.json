@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Long Hunter Trail Runs is a ultramarathon. Location: Hermitage, United States. Date: Saturday, 10 October 2026. Distances: 50 km, 42.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hermitage, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Long Hunter Trail Runs to ultramaraton. Lokalizacja: Hermitage, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 km, 42.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hermitage, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hermitage",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Long Hunter Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65800",
+  "slug": "long-hunter-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "14106",
+    "url": "https://ultrasignup.com/register.aspx?did=65800"
+  },
+  "start": {
+    "lat": 36.0926,
+    "lon": -86.5559,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.greentunnelevents.com/longhuntertrailruns"
+}

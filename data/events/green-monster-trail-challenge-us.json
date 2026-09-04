@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Green Monster Trail Challenge is a ultramarathon. Location: Wellsboro, United States. Date: Sunday, 11 October 2026. Distances: 50 km, 25 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wellsboro, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Green Monster Trail Challenge to ultramaraton. Lokalizacja: Wellsboro, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 50 km, 25 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wellsboro, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wellsboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Green Monster Trail Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65476",
+  "slug": "green-monster-trail-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "3331",
+    "url": "https://ultrasignup.com/register.aspx?did=65476"
+  },
+  "start": {
+    "lat": 41.7764,
+    "lon": -77.4002,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://sites.google.com/site/greenmonstertrailchallengepa/"
+}

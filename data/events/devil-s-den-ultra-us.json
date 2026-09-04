@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Devil's Den Ultra is a ultramarathon. Location: Bradford, United States. Date: 10 October 2026 – 11 October 2026. Distances: 30-Hour, 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bradford, United States, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Devil's Den Ultra to ultramaraton. Lokalizacja: Bradford, Stany Zjednoczone. Termin: 10 października 2026 – 11 października 2026. Dystanse: 30-Hour, 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bradford, Stany Zjednoczone, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "30-Hour",
+    "12 h"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bradford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "Devil's Den Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64704",
+  "slug": "devil-s-den-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "11058",
+    "url": "https://ultrasignup.com/register.aspx?did=64704"
+  },
+  "start": {
+    "lat": 44.0321,
+    "lon": -72.1604,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://racemozey.com/"
+}

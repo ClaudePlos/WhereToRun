@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Rough & Not Ready Women's Trail Weekend is a trail race. Location: Gatewood, United States. Date: Thursday, 15 October 2026. Distances: THE ROUGH AND NOT READY WOMENS TRAIL RUNNING WEEKE. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Gatewood, United States, Thursday, 15 October 2026"
+    },
+    "pl": {
+      "description": "The Rough & Not Ready Women's Trail Weekend to bieg trailowy. Lokalizacja: Gatewood, Stany Zjednoczone. Termin: czwartek, 15 października 2026. Dystanse: THE ROUGH AND NOT READY WOMENS TRAIL RUNNING WEEKE. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Gatewood, Stany Zjednoczone, czwartek, 15 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "THE ROUGH AND NOT READY WOMENS TRAIL RUNNING WEEKE"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gatewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "The Rough & Not Ready Women's Trail Weekend",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68441",
+  "slug": "the-rough-not-ready-women-s-trail-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "20919",
+    "url": "https://ultrasignup.com/register.aspx?did=68441"
+  },
+  "start": {
+    "lat": 36.5715,
+    "lon": -91.0266,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.fourchecreekretreat.com"
+}

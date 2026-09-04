@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Golden 6 Hour is a ultramarathon. Location: Cle Elum, United States. Date: Saturday, 10 October 2026. Distances: 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cle Elum, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Golden 6 Hour to ultramaraton. Lokalizacja: Cle Elum, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cle Elum, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cle Elum",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "The Golden 6 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65909",
+  "slug": "the-golden-6-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "11040",
+    "url": "https://ultrasignup.com/register.aspx?did=65909"
+  },
+  "start": {
+    "lat": 47.3354,
+    "lon": -120.579,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "http://wallatrails.com/events/golden-6-hour/"
+}

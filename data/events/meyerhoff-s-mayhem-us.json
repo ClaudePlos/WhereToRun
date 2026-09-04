@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Meyerhoff's Mayhem is a road race. Location: Cedar Falls, United States. Date: Friday, 16 October 2026. Distances: 48-hour Individual, 48-hour Team Relay (2-4 people). Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cedar Falls, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Meyerhoff's Mayhem to bieg uliczny. Lokalizacja: Cedar Falls, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 48-hour Individual, 48-hour Team Relay (2-4 people). Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cedar Falls, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48-hour Individual",
+    "48-hour Team Relay (2-4 people)"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Meyerhoff's Mayhem",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65342",
+  "slug": "meyerhoff-s-mayhem-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "16743",
+    "url": "https://ultrasignup.com/register.aspx?did=65342"
+  },
+  "start": {
+    "lat": 42.5553,
+    "lon": -92.4311,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.facebook.com/profile.php?id=100094688354629"
+}

@@ -1,4 +1,40 @@
 {
+  "AT|bad hofgastein": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 47.1601973,
+    "lon": 13.0951577,
+    "name": "Bad Hofgastein, Hundsdorf, Bad Hofgastein, Salzburg, 5630, Österreich"
+  },
+  "AT|berg im attergau": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 47.9487893,
+    "lon": 13.4847963,
+    "name": "Berg im Attergau, Bezirk Vöcklabruck, Oberösterreich, Österreich"
+  },
+  "AT|kirchdorf": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 47.3622721,
+    "lon": 15.3322954,
+    "name": "Kirchdorf, Pernegg an der Mur, Bezirk Bruck-Mürzzuschlag, Steiermark, 8132, Österreich"
+  },
+  "AT|kirchdorf in tirol": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 47.5586658,
+    "lon": 12.4489994,
+    "name": "Kirchdorf in Tirol, Bezirk Kitzbühel, Tirol, Österreich"
+  },
+  "AT|mayrhofen": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 47.1672188,
+    "lon": 11.8638664,
+    "name": "Mayrhofen, Bezirk Schwaz, Tirol, Österreich"
+  },
+  "AT|tulln  an der donau": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 48.3311702,
+    "lon": 16.05179,
+    "name": "Tulln an der Donau, Bezirk Tulln, Niederösterreich, Österreich"
+  },
   "AU|bickley, wa": {
     "at": "2026-09-03T11:24:47.198Z"
   },
@@ -73,6 +109,24 @@
   },
   "BR|tres marias, mg": {
     "at": "2026-09-03T17:03:15.961Z"
+  },
+  "CZ|holesov, moravia": {
+    "at": "2026-09-04T11:30:01.450Z"
+  },
+  "CZ|plasy": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 49.9341107,
+    "lon": 13.3889549,
+    "name": "Plasy, okres Plzeň-sever, Plzeňský kraj, Jihozápad, 331 01, Česko"
+  },
+  "CZ|plzeň": {
+    "at": "2026-09-04T11:30:01.450Z",
+    "lat": 49.7477415,
+    "lon": 13.3775249,
+    "name": "Plzeň, okres Plzeň-město, Plzeňský kraj, Jihozápad, Česko"
+  },
+  "CZ|zlin city": {
+    "at": "2026-09-04T11:30:01.450Z"
   },
   "EE|alutaguse": {
     "at": "2026-09-02T17:10:51.476Z",

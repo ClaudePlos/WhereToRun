@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Land of Light 100k is a road race. Location: Norway, United States. Date: Sunday, 11 October 2026. Distances: 100K solo, 100k duo. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Norway, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "The Land of Light 100k to bieg uliczny. Lokalizacja: Norway, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 100K solo, 100k duo. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Norway, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100K solo",
+    "100k duo"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Norway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "The Land of Light 100k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66396",
+  "slug": "the-land-of-light-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "15551",
+    "url": "https://ultrasignup.com/register.aspx?did=66396"
+  },
+  "start": {
+    "lat": 44.2598,
+    "lon": -70.3746,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.tstomorrow.com/landtotrust"
+}

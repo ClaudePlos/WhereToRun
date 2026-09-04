@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "That's No Moon Trail Races is a ultramarathon. Location: Silverado, United States. Date: Saturday, 10 October 2026. Distances: 80.5 km, 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Silverado, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "That's No Moon Trail Races to ultramaraton. Lokalizacja: Silverado, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 80.5 km, 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Silverado, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silverado",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "That's No Moon Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64524",
+  "slug": "that-s-no-moon-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "10855",
+    "url": "https://ultrasignup.com/register.aspx?did=64524"
+  },
+  "start": {
+    "lat": 33.7649,
+    "lon": -117.678,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.aravaiparunning.com/thats-no-moon/"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Break the Bank is a road race. Location: Duluth, United States. Date: Saturday, 10 October 2026. Distances: 50M Solo, 50M 2 Per Relay, 50M 5 Per Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Duluth, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Break the Bank to bieg uliczny. Lokalizacja: Duluth, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50M Solo, 50M 2 Per Relay, 50M 5 Per Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Duluth, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50M Solo",
+    "50M 2 Per Relay",
+    "50M 5 Per Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Break the Bank",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63720",
+  "slug": "break-the-bank-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "18583",
+    "url": "https://ultrasignup.com/register.aspx?did=63720"
+  },
+  "start": {
+    "lat": 46.3953,
+    "lon": -92.7512,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.ultrasignup.com/"
+}

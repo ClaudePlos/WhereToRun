@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pony Express Trail Run is a ultramarathon. Location: West of Faust, United States. Date: Friday, 16 October 2026. Distances: 160.9 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — West of Faust, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Pony Express Trail Run to ultramaraton. Lokalizacja: West of Faust, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 160.9 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — West of Faust, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West of Faust",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Pony Express Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64194",
+  "slug": "pony-express-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "1798",
+    "url": "https://ultrasignup.com/register.aspx?did=64194"
+  },
+  "start": {
+    "lat": 40.1195,
+    "lon": -112.578,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "http://www.PonyExpress100.org/"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop: 50-Mile Challenge - New England is a road race. Location: Wrentham, United States. Date: Saturday, 10 October 2026. Distances: 50 Mile Challenge, 40 Mile Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wrentham, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Next Loop: 50-Mile Challenge - New England to bieg uliczny. Lokalizacja: Wrentham, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 50 Mile Challenge, 40 Mile Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wrentham, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T11:30:01.450Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 Mile Challenge",
+    "40 Mile Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wrentham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "The Next Loop: 50-Mile Challenge - New England",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68566",
+  "slug": "the-next-loop-50-mile-challenge-new-england-us",
+  "source": {
+    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "id": "ultrasignup",
+    "ref": "19941",
+    "url": "https://ultrasignup.com/register.aspx?did=68566"
+  },
+  "start": {
+    "lat": 42.0557,
+    "lon": -71.3404,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "website": "https://www.everfurther.net/40-50-mile-challenge-ne"
+}
