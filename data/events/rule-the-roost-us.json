@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Rule the Roost is a ultramarathon. Location: Chillicothe, United States. Date: Saturday, 17 October 2026. Distances: 12 h, 12 hour Relay, 7 km, YOUTH 7k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chillicothe, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Rule the Roost to ultramaraton. Lokalizacja: Chillicothe, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 12 h, 12 hour Relay, 7 km, YOUTH 7k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chillicothe, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12 hour Relay",
+    "7 km",
+    "YOUTH 7k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chillicothe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Rule the Roost",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65305",
+  "slug": "rule-the-roost-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "17306",
+    "url": "https://ultrasignup.com/register.aspx?did=65305"
+  },
+  "start": {
+    "lat": 39.3273,
+    "lon": -83.0657,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "http://dontjustrun.com/events"
+}

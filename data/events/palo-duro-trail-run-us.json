@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Palo Duro Trail Run is a ultramarathon. Location: Palo Duro Canyon, United States. Date: Saturday, 17 October 2026. Distances: 80.5 km, 50 Mile Pacer, 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palo Duro Canyon, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Palo Duro Trail Run to ultramaraton. Lokalizacja: Palo Duro Canyon, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 80.5 km, 50 Mile Pacer, 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palo Duro Canyon, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 Mile Pacer",
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palo Duro Canyon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Palo Duro Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65433",
+  "slug": "palo-duro-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "1989",
+    "url": "https://ultrasignup.com/register.aspx?did=65433"
+  },
+  "start": {
+    "lat": 34.9787,
+    "lon": -101.679,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "http://www.palodurotrailrun.com/"
+}

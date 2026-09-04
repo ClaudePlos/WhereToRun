@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Pats 24 Hour Race is a road race. Location: South Bend, United States. Date: Saturday, 17 October 2026. Distances: St. Pats 24 Hour, St. Pats 12 Hour, 6-hour. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Bend, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "St. Pats 24 Hour Race to bieg uliczny. Lokalizacja: South Bend, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: St. Pats 24 Hour, St. Pats 12 Hour, 6-hour. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Bend, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "St. Pats 24 Hour",
+    "St. Pats 12 Hour",
+    "6-hour"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "St. Pats 24 Hour Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63789",
+  "slug": "st-pats-24-hour-race-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "2941",
+    "url": "https://ultrasignup.com/register.aspx?did=63789"
+  },
+  "start": {
+    "lat": 41.7552,
+    "lon": -86.2656,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "http://www.facebook.com/stpats24hour/?ref=page_internal"
+}

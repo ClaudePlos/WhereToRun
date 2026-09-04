@@ -10,10 +10,15 @@
     }
   },
   "createdAt": "2026-09-03T22:37:31.083Z",
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
-    "241.4 km"
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50K (DAY)",
+    "50K (NIGHT)",
+    "Night Time 10miler"
   ],
   "endDate": "2026-10-12",
   "featured": false,
@@ -30,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64848",
   "slug": "tesla-hertz-run-us",
   "source": {
-    "fetchedAt": "2026-09-04T11:30:07.987Z",
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
     "id": "ultrasignup",
     "ref": "3834",
     "url": "https://ultrasignup.com/register.aspx?did=64848"
@@ -46,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T11:30:01.450Z",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
   "website": "https://www.happilyrunning.com/races/teslahertz"
 }

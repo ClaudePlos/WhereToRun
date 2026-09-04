@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Clear Creek Ultra is a ultramarathon. Location: Crystal Springs, United States. Date: Saturday, 17 October 2026. Distances: 10 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Crystal Springs, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Clear Creek Ultra to ultramaraton. Lokalizacja: Crystal Springs, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 10 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Crystal Springs, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Crystal Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Clear Creek Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66139",
+  "slug": "clear-creek-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "14009",
+    "url": "https://ultrasignup.com/register.aspx?did=66139"
+  },
+  "start": {
+    "lat": 32.0137,
+    "lon": -90.3726,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://www.mutsrunning.org/"
+}

@@ -281,6 +281,63 @@
     "lon": -5.8369957,
     "name": "Zagora ⵣⴰⴳⵓⵔⴰ زاكورة, Pachalik de Zagora باشوية زاكورة, Province de Zagora ⵍⵉⵇⵍⵉⵎ ⵏ ⵣⴰⴳⵓⵔⴰ إقليم زاكورة, Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت, 49500, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
+  "NO|drammen": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 59.6964936,
+    "lon": 10.175642,
+    "name": "Drammen, Norge"
+  },
+  "NO|fauske": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 67.2367153,
+    "lon": 15.7844219,
+    "name": "Fauske, Nordland, Norge"
+  },
+  "NO|hemsedal": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 60.9282437,
+    "lon": 8.3834869,
+    "name": "Hemsedal, Buskerud, 3560, Norge"
+  },
+  "NO|hvittingfoss": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 59.4857217,
+    "lon": 10.0117366,
+    "name": "Hvittingfoss, Kongsberg, 3647, Norge"
+  },
+  "NO|kristiansand": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 58.0856276,
+    "lon": 7.931858,
+    "name": "Kristiansand, Agder, Norge"
+  },
+  "NO|naersnes": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 59.7594466,
+    "lon": 10.5086474,
+    "name": "Nærsnes, Asker, Akershus, 3478, Norge"
+  },
+  "NO|oslo": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "name": "Oslo, Norge"
+  },
+  "NO|saksumdal": {
+    "at": "2026-09-04T16:52:44.278Z"
+  },
+  "NO|trondheim": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 63.4304475,
+    "lon": 10.3952118,
+    "name": "Trondheim, Trøndelag, Norge"
+  },
+  "NO|øye": {
+    "at": "2026-09-04T16:52:44.278Z",
+    "lat": 58.2844813,
+    "lon": 6.9059424,
+    "name": "Øye, Kvinesdal, Agder, 4484, Norge"
+  },
   "RS|belgrade": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 44.8178131,

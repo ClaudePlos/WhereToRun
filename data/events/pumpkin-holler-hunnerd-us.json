@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Pumpkin Holler Hunnerd is a ultramarathon. Location: Tahlequah, United States. Date: Saturday, 17 October 2026. Distances: 160.9 km, 100 km, 50 km, 25 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tahlequah, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Pumpkin Holler Hunnerd to ultramaraton. Lokalizacja: Tahlequah, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 160.9 km, 100 km, 50 km, 25 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tahlequah, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "25 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tahlequah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Pumpkin Holler Hunnerd",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63995",
+  "slug": "pumpkin-holler-hunnerd-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "2946",
+    "url": "https://ultrasignup.com/register.aspx?did=63995"
+  },
+  "start": {
+    "lat": 36.0338,
+    "lon": -94.9151,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://www.ph100.run/"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Piedmont 8 Hour is a ultramarathon. Location: Powhatan, United States. Date: Saturday, 17 October 2026. Distances: 8 h, 8 Hours 4 Person Relay, 8 Hour Hiker, Parent Loop. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Powhatan, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Piedmont 8 Hour to ultramaraton. Lokalizacja: Powhatan, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 8 h, 8 Hours 4 Person Relay, 8 Hour Hiker, Parent Loop. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Powhatan, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "8 Hours 4 Person Relay",
+    "8 Hour Hiker",
+    "Parent Loop"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Powhatan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Piedmont 8 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65541",
+  "slug": "piedmont-8-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "5699",
+    "url": "https://ultrasignup.com/register.aspx?did=65541"
+  },
+  "start": {
+    "lat": 37.6782,
+    "lon": -77.9259,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://virginiaadventures.com/"
+}

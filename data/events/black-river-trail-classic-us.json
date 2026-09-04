@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Black River Trail Classic is a ultramarathon. Location: Millston, United States. Date: Saturday, 17 October 2026. Distances: 85 km, 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Millston, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Black River Trail Classic to ultramaraton. Lokalizacja: Millston, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 85 km, 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Millston, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "85 km",
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Millston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Black River Trail Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66251",
+  "slug": "black-river-trail-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "8629",
+    "url": "https://ultrasignup.com/register.aspx?did=66251"
+  },
+  "start": {
+    "lat": 44.2222,
+    "lon": -90.5613,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://nurun.co/brtc"
+}

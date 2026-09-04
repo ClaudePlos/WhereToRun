@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Osprey Ambler is a ultramarathon. Location: Sultan, United States. Date: Saturday, 17 October 2026. Distances: 42.2 km, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sultan, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Osprey Ambler to ultramaraton. Lokalizacja: Sultan, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 42.2 km, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sultan, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sultan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Osprey Ambler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67867",
+  "slug": "osprey-ambler-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "14210",
+    "url": "https://ultrasignup.com/register.aspx?did=67867"
+  },
+  "start": {
+    "lat": 47.869,
+    "lon": -121.822,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://www.svtra.com"
+}

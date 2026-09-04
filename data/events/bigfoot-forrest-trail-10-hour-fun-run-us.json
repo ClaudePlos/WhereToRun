@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bigfoot Forrest Trail 10 Hour Fun Run is a ultramarathon. Location: CAPE GIRARDEAU, United States. Date: Saturday, 17 October 2026. Distances: 10 h, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — CAPE GIRARDEAU, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Bigfoot Forrest Trail 10 Hour Fun Run to ultramaraton. Lokalizacja: CAPE GIRARDEAU, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 10 h, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — CAPE GIRARDEAU, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-04T16:52:44.278Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 h",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "CAPE GIRARDEAU",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Bigfoot Forrest Trail 10 Hour Fun Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67846",
+  "slug": "bigfoot-forrest-trail-10-hour-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "id": "ultrasignup",
+    "ref": "14394",
+    "url": "https://ultrasignup.com/register.aspx?did=67846"
+  },
+  "start": {
+    "lat": 37.3059,
+    "lon": -89.5181,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "website": "https://www.facebook.com/Bigfoot-Forrest-Trail-50K-100199749083083"
+}
