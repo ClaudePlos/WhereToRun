@@ -11,7 +11,7 @@
  * drops anything it cannot read rather than guessing.
  */
 
-import { parseDistances, isNotableDistance } from '../lib/distances.mjs';
+import { parseDistances, isNotableDistance, isMultisport } from '../lib/distances.mjs';
 
 export const id = 'ultrasignup';
 
@@ -81,8 +81,10 @@ export function parseEvents(json, { today = new Date() } = {}) {
     if (!isInteresting(distances, row.DistanceCategories)) continue;
 
     const endDate = parseDate(row.EventDateEnd);
+    const multisport = isMultisport(row.EventName, row.Distances);
     const isUltra = distances.km.some((value) => value > 42.5) || distances.timedHours >= 6;
     const isTrail = /trail|mountain|ridge|canyon|peak|forest/i.test(row.EventName);
+    const type = multisport ? 'triathlon' : isUltra ? 'ultra' : isTrail ? 'trail' : 'road';
     const eventDateId = row.EventDateId ?? row.EventId;
 
     out.push({
@@ -90,9 +92,9 @@ export function parseEvents(json, { today = new Date() } = {}) {
       date,
       endDate: endDate && endDate > date ? endDate : null,
       dateStatus: 'confirmed',
-      type: isUltra ? 'ultra' : isTrail ? 'trail' : 'road',
+      type,
       distances: distances.labels,
-      tags: ['ultrasignup', isUltra ? 'ultra' : isTrail ? 'trail' : 'road'],
+      tags: ['ultrasignup', type],
       location: {
         city,
         region: state,

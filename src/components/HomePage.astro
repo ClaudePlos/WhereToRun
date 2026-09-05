@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import EventCard from './EventCard.astro';
+import EventFilters from './EventFilters.astro';
 import RaceMap from './RaceMap.astro';
 import { useTranslations, localizedPath, eventUnits, eventCountLabel } from '../lib/i18n.js';
 import {
@@ -52,43 +53,12 @@ const points = upcoming.map((event) => ({
   <section class="wrap section" id="events">
     <h2>{t('home.upcoming')}</h2>
 
-    <form class="filters" data-filters onsubmit="return false">
-      <label>
-        <span>{t('filter.search')}</span>
-        <input type="search" name="q" placeholder={t('filter.searchPlaceholder')} autocomplete="off" />
-      </label>
-      <label>
-        <span>{t('filter.country')}</span>
-        <select name="country">
-          <option value="">{t('filter.all')}</option>
-          {countries.map((country) => <option value={country.code}>{country.name}</option>)}
-        </select>
-      </label>
-      <label>
-        <span>{t('filter.type')}</span>
-        <select name="type">
-          <option value="">{t('filter.all')}</option>
-          {['road', 'trail', 'ultra', 'stage', 'obstacle', 'track', 'other'].map((type) => (
-            <option value={type}>{t(`type.${type}`)}</option>
-          ))}
-        </select>
-      </label>
-      <label>
-        <span>{t('filter.tag')}</span>
-        <select name="tag">
-          <option value="">{t('filter.all')}</option>
-          {tags.map((tag) => <option value={tag}>{tag}</option>)}
-        </select>
-      </label>
-      <button type="button" data-reset>{t('filter.reset')}</button>
-    </form>
-
-    <p
-      class="muted"
-      data-count
-      data-locale={lang === 'pl' ? 'pl-PL' : 'en-GB'}
-      data-units={JSON.stringify(eventUnits[lang] ?? eventUnits.en)}
-    >{eventCountLabel(lang, upcoming.length)}</p>
+    <EventFilters
+      lang={lang}
+      count={eventCountLabel(lang, upcoming.length)}
+      countries={countries}
+      tags={tags}
+    />
 
     <div class="grid" data-event-grid>
       {upcoming.map((event) => <EventCard event={event} lang={lang} />)}
@@ -126,17 +96,6 @@ const points = upcoming.map((event) => ({
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1rem;
   }
-  .filters {
-    display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: end;
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 1rem; margin-bottom: 1rem;
-  }
-  .filters label { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.8rem; color: var(--muted); }
-  .filters input, .filters select {
-    font: inherit; font-size: 0.92rem; padding: 0.45rem 0.6rem; min-width: 11rem;
-    border: 1px solid var(--border); border-radius: 8px;
-    background: var(--bg); color: var(--text);
-  }
   .filters button {
     font: inherit; font-size: 0.88rem; padding: 0.5rem 0.9rem; cursor: pointer;
     border: 1px solid var(--border); border-radius: 8px; background: var(--surface-2); color: var(--text);
@@ -151,42 +110,4 @@ const points = upcoming.map((event) => ({
   .past-list li { display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0.4rem 0; border-bottom: 1px solid var(--border); font-size: 0.92rem; }
 </style>
 
-<script>
-  const form = document.querySelector('[data-filters]');
-  if (form) {
-    const cards = [...document.querySelectorAll('[data-event-grid] [data-event]')];
-    const countLabel = document.querySelector('[data-count]');
-    const empty = document.querySelector('[data-empty]');
-    const units = JSON.parse(countLabel?.dataset.units ?? '{"other":"events"}');
-    const plural = new Intl.PluralRules(countLabel?.dataset.locale ?? 'en-GB');
-    const countText = (n) => `${n} ${units[plural.select(n)] ?? units.other}`;
 
-    const apply = () => {
-      const data = new FormData(form);
-      const query = String(data.get('q') ?? '').trim().toLowerCase();
-      const country = data.get('country');
-      const type = data.get('type');
-      const tag = data.get('tag');
-      let visible = 0;
-
-      for (const card of cards) {
-        const match =
-          (!query || card.dataset.search.includes(query)) &&
-          (!country || card.dataset.country === country) &&
-          (!type || card.dataset.type === type) &&
-          (!tag || card.dataset.tags.split(' ').includes(tag));
-        card.hidden = !match;
-        if (match) visible += 1;
-      }
-
-      if (countLabel) countLabel.textContent = countText(visible);
-      if (empty) empty.hidden = visible !== 0;
-    };
-
-    form.addEventListener('input', apply);
-    form.querySelector('[data-reset]')?.addEventListener('click', () => {
-      form.reset();
-      apply();
-    });
-  }
-</script>

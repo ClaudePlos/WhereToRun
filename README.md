@@ -40,7 +40,7 @@ Collect events by hand:
 ```bash
 npm run collect                      # all sources
 npm run collect:dry                  # no files written
-node scripts/collect.mjs --sources=runsignup --max-new=10
+node scripts/collect.mjs --sources=runsignup --max-new=10   # per source, not per run
 node scripts/collect.mjs --sources=duv --max-geocode=3   # cap Nominatim lookups
 ```
 
@@ -96,6 +96,12 @@ The collector runs at 06:23, 13:13 and 20:13 UTC — deliberately off the hour, 
 queues every cron scheduled on :00 together and those runs are the ones most often delayed.
 It can also be triggered by hand from the Actions tab (with optional source filter and dry-run).
 
+### Country pages
+
+`/poland/` (and `/pl/poland/`) lists just that country, using the same cards, filters and
+map as the world listing. `src/components/CountryPage.astro` is generic — adding another
+country is a two-line page file per language plus a nav entry.
+
 ### Adding or fixing an event
 
 Each event is one JSON file in `data/events/<slug>.json`. Edit it, or add a new one, and open
@@ -143,7 +149,7 @@ Ręczne zebranie danych:
 ```bash
 npm run collect                      # wszystkie źródła
 npm run collect:dry                  # bez zapisu plików
-node scripts/collect.mjs --sources=runsignup --max-new=10
+node scripts/collect.mjs --sources=runsignup --max-new=10   # per source, not per run
 node scripts/collect.mjs --sources=duv --max-geocode=3   # cap Nominatim lookups
 ```
 
@@ -199,6 +205,12 @@ wiedzieć, czy endpoint padł, czy tylko zmienił nazwy pól.
 Kolektor uruchamia się o 06:23, 13:13 i 20:13 UTC — celowo nie o pełnych godzinach, bo GitHub
 kolejkuje wszystkie zadania cron ustawione na :00 naraz i to one najczęściej się opóźniają.
 Można go też odpalić ręcznie z zakładki Actions (z opcjonalnym wyborem źródeł i trybem dry-run).
+
+### Strony krajowe
+
+`/poland/` (i `/pl/poland/`) pokazuje wyłącznie jeden kraj, korzystając z tych samych kart,
+filtrów i mapy co lista światowa. `src/components/CountryPage.astro` jest generyczny — dodanie
+kolejnego kraju to dwulinijkowy plik strony na język plus wpis w nawigacji.
 
 ### Dodawanie i poprawianie biegów
 

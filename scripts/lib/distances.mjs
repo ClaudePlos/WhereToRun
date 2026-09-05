@@ -77,3 +77,14 @@ export function isNotableDistance({ km, timedHours }) {
   if (timedHours >= 6) return true;
   return km.some((value) => value >= 41);
 }
+
+/**
+ * Multisport events turn up in running calendars because they register on the
+ * same platforms — UltraSignup lists the ANVIL ultra-triathlons, for instance.
+ * They are worth keeping, but calling a triathlon a road race is simply wrong,
+ * so they get their own type rather than being filed under running.
+ */
+export function isMultisport(...text) {
+  return /triathlon|duathlon|aquathlon|aquabike|swimrun|ironman|\banvil\b/i
+    .test(text.filter(Boolean).join(' '));
+}

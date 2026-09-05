@@ -1,0 +1,102 @@
+---
+/**
+ * One country's events: the same listing as the home page, narrowed to a single
+ * country and zoomed to it. Built generically so adding a second country later
+ * is a page file rather than a component.
+ */
+import Base from '../layouts/Base.astro';
+import EventCard from './EventCard.astro';
+import EventFilters from './EventFilters.astro';
+import RaceMap from './RaceMap.astro';
+import { useTranslations, localizedPath, eventCountLabel } from '../lib/i18n.js';
+import {
+  allEvents, upcomingEvents, pastEvents,
+  tagOptions, countryName, formatDateRange,
+} from '../lib/events.js';
+
+const { lang, countryCode, path, zoom = 5 } = Astro.props;
+const t = useTranslations(lang);
+
+const inCountry = (event) => event.location.countryCode === countryCode;
+const upcoming = upcomingEvents(allEvents).filter(inCountry);
+const past = pastEvents(allEvents).filter(inCountry);
+const tags = tagOptions(upcoming);
+const name = countryName(countryCode, lang);
+
+const points = upcoming.map((event) => ({
+  lat: event.start.lat,
+  lon: event.start.lon,
+  title: event.name,
+  subtitle: `${formatDateRange(event.date, event.endDate, lang)} · ${event.location.city}`,
+  href: localizedPath(lang, `/events/${event.slug}/`),
+}));
+---
+
+<Base lang={lang} path={path} title={name} description={t('country.description').replace('{country}', name)}>
+  <section class="hero">
+    <div class="wrap">
+      <h1>{t('country.title').replace('{country}', name)}</h1>
+      <p class="lede">{t('country.description').replace('{country}', name)}</p>
+      <p class="muted">{eventCountLabel(lang, upcoming.length)}</p>
+    </div>
+  </section>
+
+  {points.length > 0 && (
+    <section class="wrap section">
+      {/* RaceMap fits the bounds itself when there is more than one point. */}
+      <RaceMap points={points} zoom={zoom} height="420px" attribution={t('map.attribution')} />
+    </section>
+  )}
+
+  <section class="wrap section" id="events">
+    <h2>{t('home.upcoming')}</h2>
+
+    {upcoming.length > 0 ? (
+      <>
+        <EventFilters lang={lang} count={eventCountLabel(lang, upcoming.length)} tags={tags} />
+        <div class="grid" data-event-grid>
+          {upcoming.map((event) => <EventCard event={event} lang={lang} />)}
+        </div>
+        <p class="empty" data-empty hidden>{t('home.empty')}</p>
+      </>
+    ) : (
+      <p class="empty">{t('country.none').replace('{country}', name)}</p>
+    )}
+  </section>
+
+  {past.length > 0 && (
+    <section class="wrap section">
+      <details>
+        <summary><h2>{t('home.past')}</h2></summary>
+        <ul class="past-list">
+          {past.map((event) => (
+            <li>
+              <a href={localizedPath(lang, `/events/${event.slug}/`)}>{event.name}</a>
+              <span class="muted">
+                {formatDateRange(event.date, event.endDate, lang)} · {event.location.city}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </details>
+    </section>
+  )}
+</Base>
+
+<style>
+  .hero { padding: 3.5rem 0 1.5rem; }
+  .hero h1 { max-width: 20ch; }
+  .lede { font-size: 1.05rem; color: var(--muted); max-width: 62ch; }
+  .section { margin-top: 3rem; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .empty {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 1.5rem; color: var(--muted);
+  }
+  .past-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+  .past-list span { display: block; font-size: 0.88rem; }
+</style>
