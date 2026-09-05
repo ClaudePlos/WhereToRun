@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Minocqua \"No Frills\" Marathon is a road race. Location: Minocqua, United States. Date: Sunday, 6 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minocqua, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Minocqua \"No Frills\" Marathon to bieg uliczny. Lokalizacja: Minocqua, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minocqua, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minocqua",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Minocqua \"No Frills\" Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Minocqua/NoFrillsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "minocqua-no-frills-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "minocqua-no-frills-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Minocqua/NoFrillsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.87,
+    "lon": -89.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/WI/Minocqua/NoFrillsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

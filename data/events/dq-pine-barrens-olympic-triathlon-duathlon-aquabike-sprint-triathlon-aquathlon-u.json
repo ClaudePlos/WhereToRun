@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "DQ Pine Barrens Olympic Triathlon, Duathlon, & Aquabike; Sprint Triathlon & Aquathlon *# is a triathlon. Location: Shamong, United States. Date: Saturday, 12 September 2026. Distances: u50k, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Shamong, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "DQ Pine Barrens Olympic Triathlon, Duathlon, & Aquabike; Sprint Triathlon & Aquathlon *# to triatlon. Lokalizacja: Shamong, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: u50k, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Shamong, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shamong",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "DQ Pine Barrens Olympic Triathlon, Duathlon, & Aquabike; Sprint Triathlon & Aquathlon *#",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dq-pine-barrens-olympic-triathlon-duathlon-aquabike-sprint-triathlon-aquathlon-u",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "dq-pine-barrens-olympic-triathlon-duathlon-aquabike-sprint-triathlon",
+    "url": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.86,
+    "lon": -74.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

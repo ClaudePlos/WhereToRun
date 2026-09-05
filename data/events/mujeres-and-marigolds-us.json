@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Mujeres and Marigolds is a ultramarathon. Location: Smithville, United States. Date: Saturday, 24 October 2026. Distances: 100 km, 100k Relay, 50 km, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Smithville, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Mujeres and Marigolds to ultramaraton. Lokalizacja: Smithville, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 100 km, 100k Relay, 50 km, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Smithville, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "100k Relay",
+    "50 km",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Smithville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Mujeres and Marigolds",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64442",
+  "slug": "mujeres-and-marigolds-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.124Z",
+    "id": "ultrasignup",
+    "ref": "19756",
+    "url": "https://ultrasignup.com/register.aspx?did=64442"
+  },
+  "start": {
+    "lat": 30.0429,
+    "lon": -97.1256,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://www.riseracingco.com/mujeres-marigolds"
+}

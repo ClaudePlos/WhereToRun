@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Blood Sugar Rumbler is a road race. Location: Helena, United States. Date: Saturday, 12 September 2026. Distances: u50m, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Helena, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Blood Sugar Rumbler to bieg uliczny. Lokalizacja: Helena, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: u50m, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Helena, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Helena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Blood Sugar Rumbler",
+  "registrationUrl": "https://runsignup.com/Race/MT/Helena/BloodSugarRumbler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "blood-sugar-rumbler-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "blood-sugar-rumbler-mt",
+    "url": "https://runsignup.com/Race/MT/Helena/BloodSugarRumbler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.61,
+    "lon": -112.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/MT/Helena/BloodSugarRumbler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

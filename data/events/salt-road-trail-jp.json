@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Salt Road Trail is a ultramarathon. Location: Nagano, Japan. Date: 31 October 2026 – 1 November 2026. Distances: 79 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nagano, Japan, 31 October 2026 – 1 November 2026"
+    },
+    "pl": {
+      "description": "Salt Road Trail to ultramaraton. Lokalizacja: Nagano, Japonia. Termin: 31 października 2026 – 1 listopada 2026. Dystanse: 79 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nagano, Japonia, 31 października 2026 – 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "79 km"
+  ],
+  "endDate": "2026-11-01",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nagano",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Salt Road Trail",
+  "registrationUrl": null,
+  "slug": "salt-road-trail-jp",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:33.694Z",
+    "id": "duv",
+    "ref": "132444",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132444"
+  },
+  "start": {
+    "lat": 36.648585,
+    "lon": 138.194766,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": null
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "5K for FCA 2026 is a road race. Location: Chattanooga, United States. Date: Monday, 7 September 2026. Distances: 5 km, 1.6 km, other, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Chattanooga, United States, Monday, 7 September 2026"
+    },
+    "pl": {
+      "description": "5K for FCA 2026 to bieg uliczny. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: poniedziałek, 7 września 2026. Dystanse: 5 km, 1.6 km, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Chattanooga, Stany Zjednoczone, poniedziałek, 7 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "1.6 km",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "5K for FCA 2026",
+  "registrationUrl": "https://raceroster.com/events/2026/116873/5k-for-fca-2026",
+  "slug": "5k-for-fca-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "5k-for-fca-2026-tn",
+    "url": "https://raceroster.com/events/2026/116873/5k-for-fca-2026"
+  },
+  "start": {
+    "lat": 35.0456,
+    "lon": -85.3097,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://raceroster.com/events/2026/116873/5k-for-fca-2026"
+}

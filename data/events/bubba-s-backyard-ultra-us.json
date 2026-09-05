@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bubba's Backyard Ultra is a road race. Location: Center Conway, United States. Date: Saturday, 3 October 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Center Conway, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Bubba's Backyard Ultra to bieg uliczny. Lokalizacja: Center Conway, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Center Conway, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Center Conway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Bubba's Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65984",
+  "slug": "bubba-s-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.124Z",
+    "id": "ultrasignup",
+    "ref": "10776",
+    "url": "https://ultrasignup.com/register.aspx?did=65984"
+  },
+  "start": {
+    "lat": 43.9692,
+    "lon": -71.0926,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://whitemountainski.co/pages/bubbas-backyard-ultra"
+}

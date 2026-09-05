@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bear Brook Trail Races is a trail race. Location: Allenstown, United States. Date: Saturday, 12 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Allenstown, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Bear Brook Trail Races to bieg trailowy. Lokalizacja: Allenstown, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Allenstown, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Allenstown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Bear Brook Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3419",
+  "slug": "bear-brook-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "bear-brook-trail-races-nh",
+    "url": "https://ultrasignup.com/register.aspx?eid=3419"
+  },
+  "start": {
+    "lat": 43.16,
+    "lon": -71.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3419"
+}

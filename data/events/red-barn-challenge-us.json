@@ -10,10 +10,11 @@
     }
   },
   "createdAt": "2026-09-03T11:24:47.198Z",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "dateStatus": "confirmed",
   "distances": [
-    "24 h"
+    "12 h",
+    "6 h"
   ],
   "endDate": "2026-10-03",
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64896",
   "slug": "red-barn-challenge-us",
   "source": {
-    "fetchedAt": "2026-09-05T16:05:58.254Z",
+    "fetchedAt": "2026-09-05T22:03:20.124Z",
     "id": "ultrasignup",
     "ref": "13038",
     "url": "https://ultrasignup.com/register.aspx?did=64896"
@@ -46,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
   "website": "https://www.facebook.com/redbarnchallenge"
 }

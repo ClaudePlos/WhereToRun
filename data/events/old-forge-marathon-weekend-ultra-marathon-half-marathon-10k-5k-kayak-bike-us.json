@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Old Forge Marathon Weekend - Ultra, Marathon, Half Marathon, 10K, 5K, Kayak, Bike is a ultramarathon. Location: Old Forge, United States. Date: Thursday, 10 September 2026. Distances: u50m, u50k, other, 5 km, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Old Forge, United States, Thursday, 10 September 2026"
+    },
+    "pl": {
+      "description": "Old Forge Marathon Weekend - Ultra, Marathon, Half Marathon, 10K, 5K, Kayak, Bike to ultramaraton. Lokalizacja: Old Forge, Stany Zjednoczone. Termin: czwartek, 10 września 2026. Dystanse: u50m, u50k, other, 5 km, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Old Forge, Stany Zjednoczone, czwartek, 10 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other",
+    "5 km",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Old Forge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Old Forge Marathon Weekend - Ultra, Marathon, Half Marathon, 10K, 5K, Kayak, Bike",
+  "registrationUrl": "https://runsignup.com/Race/NY/OldForge/OldForgeHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "old-forge-marathon-weekend-ultra-marathon-half-marathon-10k-5k-kayak-bike-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "old-forge-marathon-weekend-ultra-marathon-half-marathon-10k-5k-kayak",
+    "url": "https://runsignup.com/Race/NY/OldForge/OldForgeHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.74,
+    "lon": -74.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/NY/OldForge/OldForgeHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

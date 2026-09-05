@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "OSJ Ontake 50km is a ultramarathon. Location: Nagano, Japan. Date: Wednesday, 23 September 2026. Distances: 54 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nagano, Japan, Wednesday, 23 September 2026"
+    },
+    "pl": {
+      "description": "OSJ Ontake 50km to ultramaraton. Lokalizacja: Nagano, Japonia. Termin: środa, 23 września 2026. Dystanse: 54 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nagano, Japonia, środa, 23 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "54 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nagano",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "OSJ Ontake 50km",
+  "registrationUrl": null,
+  "slug": "osj-ontake-50km-jp",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:33.693Z",
+    "id": "duv",
+    "ref": "133001",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133001"
+  },
+  "start": {
+    "lat": 36.648585,
+    "lon": 138.194766,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": null
+}

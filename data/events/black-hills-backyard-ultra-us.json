@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Hills Backyard Ultra is a ultramarathon. Location: Spearfish, United States. Date: Saturday, 12 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Spearfish, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Black Hills Backyard Ultra to ultramaraton. Lokalizacja: Spearfish, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Spearfish, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spearfish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Black Hills Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20200",
+  "slug": "black-hills-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "black-hills-backyard-ultra-sd",
+    "url": "https://ultrasignup.com/register.aspx?eid=20200"
+  },
+  "start": {
+    "lat": 44.42,
+    "lon": -103.95,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20200"
+}

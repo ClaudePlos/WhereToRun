@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Belgrade Ultra Sri Chinmoy 24 Hour Race is a ultramarathon. Location: Belgrade, Serbia. Date: 3 October 2026 – 4 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Belgrade, Serbia, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Belgrade Ultra Sri Chinmoy 24 Hour Race to ultramaraton. Lokalizacja: Belgrade, Serbia. Termin: 3 października 2026 – 4 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Belgrade, Serbia, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "region": null
+  },
+  "manual": false,
+  "name": "Belgrade Ultra Sri Chinmoy 24 Hour Race",
+  "registrationUrl": null,
+  "slug": "belgrade-ultra-sri-chinmoy-24-hour-race-rs",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:33.692Z",
+    "id": "duv",
+    "ref": "133813",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133813"
+  },
+  "start": {
+    "lat": 44.817813,
+    "lon": 20.456897,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": null
+}

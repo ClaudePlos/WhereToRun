@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kyoto Grand Traverse is a ultramarathon. Location: Osaka City, Japan. Date: Friday, 18 September 2026. Distances: 59 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Osaka City, Japan, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Kyoto Grand Traverse to ultramaraton. Lokalizacja: Osaka City, Japonia. Termin: piątek, 18 września 2026. Dystanse: 59 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Osaka City, Japonia, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "59 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Osaka City",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kyoto Grand Traverse",
+  "registrationUrl": null,
+  "slug": "kyoto-grand-traverse-jp",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:33.693Z",
+    "id": "duv",
+    "ref": "133035",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133035"
+  },
+  "start": {
+    "lat": 34.693757,
+    "lon": 135.501454,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": null
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Mighty Mo Run is a road race. Location: Sioux City, United States. Date: Friday, 11 September 2026. Distances: 10 km, 21.1 km, 5 km, other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sioux City, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "Mighty Mo Run to bieg uliczny. Lokalizacja: Sioux City, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: 10 km, 21.1 km, 5 km, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sioux City, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "5 km",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sioux City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Mighty Mo Run",
+  "registrationUrl": "https://runsignup.com/Race/IA/SiouxCity/MightyMoRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mighty-mo-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "mighty-mo-run-ia",
+    "url": "https://runsignup.com/Race/IA/SiouxCity/MightyMoRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.5,
+    "lon": -96.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/IA/SiouxCity/MightyMoRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

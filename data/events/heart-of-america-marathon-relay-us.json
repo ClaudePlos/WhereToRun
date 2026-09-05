@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Heart of America Marathon & Relay is a road race. Location: Columbia, United States. Date: Monday, 7 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Columbia, United States, Monday, 7 September 2026"
+    },
+    "pl": {
+      "description": "Heart of America Marathon & Relay to bieg uliczny. Lokalizacja: Columbia, Stany Zjednoczone. Termin: poniedziałek, 7 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Columbia, Stany Zjednoczone, poniedziałek, 7 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Heart of America Marathon & Relay",
+  "registrationUrl": "https://runsignup.com/Race/MO/Columbia/heartofamericamarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "heart-of-america-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "heart-of-america-marathon-relay-mo",
+    "url": "https://runsignup.com/Race/MO/Columbia/heartofamericamarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.94,
+    "lon": -92.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/MO/Columbia/heartofamericamarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

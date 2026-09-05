@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hobo Trail Runs 10k-25k-50k is a trail race. Location: Rockford, United States. Date: Friday, 11 September 2026. Distances: u50m, ultra, 10 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Rockford, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "Hobo Trail Runs 10k-25k-50k to bieg trailowy. Lokalizacja: Rockford, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: u50m, ultra, 10 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Rockford, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "ultra",
+    "10 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Hobo Trail Runs 10k-25k-50k",
+  "registrationUrl": "https://runsignup.com/Race/IL/Rockford/RockCutHoboTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hobo-trail-runs-10k-25k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "hobo-trail-runs-10k-25k-50k-il",
+    "url": "https://runsignup.com/Race/IL/Rockford/RockCutHoboTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.22,
+    "lon": -88.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/IL/Rockford/RockCutHoboTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

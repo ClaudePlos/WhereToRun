@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "28th Annual Katy 5K Presented by Michelob ULTRA is a ultramarathon. Location: Dallas, United States. Date: Thursday, 10 September 2026. Distances: 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dallas, United States, Thursday, 10 September 2026"
+    },
+    "pl": {
+      "description": "28th Annual Katy 5K Presented by Michelob ULTRA to ultramaraton. Lokalizacja: Dallas, Stany Zjednoczone. Termin: czwartek, 10 września 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dallas, Stany Zjednoczone, czwartek, 10 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "28th Annual Katy 5K Presented by Michelob ULTRA",
+  "registrationUrl": "https://raceroster.com/events/2026/112103/28th-annual-katy-5k-presented-by-michelob-ultra",
+  "slug": "28th-annual-katy-5k-presented-by-michelob-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "28th-annual-katy-5k-presented-by-michelob-ultra-tx",
+    "url": "https://raceroster.com/events/2026/112103/28th-annual-katy-5k-presented-by-michelob-ultra"
+  },
+  "start": {
+    "lat": 32.7813,
+    "lon": -96.8019,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://raceroster.com/events/2026/112103/28th-annual-katy-5k-presented-by-michelob-ultra"
+}

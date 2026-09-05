@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Not A Sprint Ultra Races is a ultramarathon. Location: Forest City, United States. Date: Sunday, 6 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Forest City, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Not A Sprint Ultra Races to ultramaraton. Lokalizacja: Forest City, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Forest City, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Forest City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Not A Sprint Ultra Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15099",
+  "slug": "not-a-sprint-ultra-races-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "not-a-sprint-ultra-races-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=15099"
+  },
+  "start": {
+    "lat": 35.33,
+    "lon": -81.87,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15099"
+}

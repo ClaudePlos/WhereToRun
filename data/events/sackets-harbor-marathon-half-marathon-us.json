@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Sackets Harbor Marathon & Half Marathon is a road race. Location: Sackets Harbor, United States. Date: Sunday, 6 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sackets Harbor, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Sackets Harbor Marathon & Half Marathon to bieg uliczny. Lokalizacja: Sackets Harbor, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sackets Harbor, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sackets Harbor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Sackets Harbor Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sackets-harbor-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "sackets-harbor-marathon-half-marathon-ny",
+    "url": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.94,
+    "lon": -76.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

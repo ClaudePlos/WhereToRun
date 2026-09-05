@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dead Last Ultra is a road race. Location: Sutton, United States. Date: Saturday, 24 October 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sutton, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Dead Last Ultra to bieg uliczny. Lokalizacja: Sutton, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sutton, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sutton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Dead Last Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67293",
+  "slug": "dead-last-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.124Z",
+    "id": "ultrasignup",
+    "ref": "20556",
+    "url": "https://ultrasignup.com/register.aspx?did=67293"
+  },
+  "start": {
+    "lat": 42.15,
+    "lon": -71.7633,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "http://www.Deadlastultra.com"
+}

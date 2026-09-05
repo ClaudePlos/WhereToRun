@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Smith Mountain Lake Ultra Triathlon is a triathlon. Location: Huddleston, United States. Date: Friday, 11 September 2026. Distances: u100p, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Huddleston, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "Smith Mountain Lake Ultra Triathlon to triatlon. Lokalizacja: Huddleston, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: u100p, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Huddleston, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huddleston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Smith Mountain Lake Ultra Triathlon",
+  "registrationUrl": "https://runsignup.com/Race/VA/Huddleston/UltraTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "smith-mountain-lake-ultra-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "smith-mountain-lake-ultra-triathlon-va",
+    "url": "https://runsignup.com/Race/VA/Huddleston/UltraTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.14,
+    "lon": -79.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/VA/Huddleston/UltraTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

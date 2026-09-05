@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn & Ales 5K, 10K, and 1/2 Marathon is a road race. Location: Scarborough, United States. Date: Saturday, 12 September 2026. Distances: 5 km, 10 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Scarborough, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Autumn & Ales 5K, 10K, and 1/2 Marathon to bieg uliczny. Lokalizacja: Scarborough, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 5 km, 10 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Scarborough, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Scarborough",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Autumn & Ales 5K, 10K, and 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ME/Scarborough/AutumnandAles5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "autumn-ales-5k-10k-and-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "autumn-ales-5k-10k-and-1-2-marathon-me",
+    "url": "https://runsignup.com/Race/ME/Scarborough/AutumnandAles5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.58,
+    "lon": -70.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/ME/Scarborough/AutumnandAles5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

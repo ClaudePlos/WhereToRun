@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rocket City Kids Marathon is a road race. Location: Huntsville, United States. Date: Sunday, 6 September 2026. Distances: 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Rocket City Kids Marathon to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Rocket City Kids Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/RocketCityKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rocket-city-kids-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "rocket-city-kids-marathon-al",
+    "url": "https://runsignup.com/Race/AL/Huntsville/RocketCityKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.73,
+    "lon": -86.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/AL/Huntsville/RocketCityKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Show Me Your Free State Marathon and Ultra is a road race. Location: St. Joseph, United States. Date: Saturday, 24 October 2026. Distances: 100-Mile, 50-Mile, 50-KM, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — St. Joseph, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Show Me Your Free State Marathon and Ultra to bieg uliczny. Lokalizacja: St. Joseph, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 100-Mile, 50-Mile, 50-KM, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — St. Joseph, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100-Mile",
+    "50-Mile",
+    "50-KM",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Joseph",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Show Me Your Free State Marathon and Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63830",
+  "slug": "show-me-your-free-state-marathon-and-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.124Z",
+    "id": "ultrasignup",
+    "ref": "19613",
+    "url": "https://ultrasignup.com/register.aspx?did=63830"
+  },
+  "start": {
+    "lat": 39.77,
+    "lon": -94.9009,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://showmeyourfreestate.org/"
+}

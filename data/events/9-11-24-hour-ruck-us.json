@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "9/11 24 Hour Ruck is a road race. Location: Fall River, United States. Date: Friday, 11 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fall River, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "9/11 24 Hour Ruck to bieg uliczny. Lokalizacja: Fall River, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fall River, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T22:03:13.980Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fall River",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "9/11 24 Hour Ruck",
+  "registrationUrl": "https://runsignup.com/Race/MA/FallRiver/24HourRuck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "9-11-24-hour-ruck-us",
+  "source": {
+    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "id": "runraceusa",
+    "ref": "9-11-24-hour-ruck-ma",
+    "url": "https://runsignup.com/Race/MA/FallRiver/24HourRuck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.69,
+    "lon": -71.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "website": "https://runsignup.com/Race/MA/FallRiver/24HourRuck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
