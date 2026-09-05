@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Hill Country Triple Trail Run is a trail race. Location: Burnet, United States. Date: Saturday, 5 September 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Burnet, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Hill Country Triple Trail Run to bieg trailowy. Lokalizacja: Burnet, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Burnet, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burnet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Hill Country Triple Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/TX/Burnet/HillCountryTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hill-country-triple-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "hill-country-triple-trail-run-tx",
+    "url": "https://runsignup.com/Race/TX/Burnet/HillCountryTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.7766,
+    "lon": -98.2642,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/TX/Burnet/HillCountryTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "LABOR DAY TRAIL CHALLENGE 5K · 10K · Half · Marathon is a trail race. Location: Cedar Creek, United States. Date: Saturday, 5 September 2026. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Cedar Creek, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "LABOR DAY TRAIL CHALLENGE 5K · 10K · Half · Marathon to bieg trailowy. Lokalizacja: Cedar Creek, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Cedar Creek, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "LABOR DAY TRAIL CHALLENGE 5K · 10K · Half · Marathon",
+  "registrationUrl": "http://www.active.com/cedar-creek-tx/running/distance-running/labor-day-trail-challenge-5k-10k-half-marathon-2026",
+  "slug": "labor-day-trail-challenge-5k-10k-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "labor-day-trail-challenge-5k-10k-half-marathon-tx",
+    "url": "http://www.active.com/cedar-creek-tx/running/distance-running/labor-day-trail-challenge-5k-10k-half-marathon-2026"
+  },
+  "start": {
+    "lat": 30.14,
+    "lon": -97.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "http://www.active.com/cedar-creek-tx/running/distance-running/labor-day-trail-challenge-5k-10k-half-marathon-2026"
+}

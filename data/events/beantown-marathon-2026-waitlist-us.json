@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Beantown Marathon 2026 - Waitlist is a road race. Location: Hingham, United States. Date: Sunday, 6 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hingham, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Beantown Marathon 2026 - Waitlist to bieg uliczny. Lokalizacja: Hingham, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hingham, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Beantown Marathon 2026 - Waitlist",
+  "registrationUrl": "https://raceroster.com/events/2026/130609/beantown-marathon-2026-waitlist",
+  "slug": "beantown-marathon-2026-waitlist-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "beantown-marathon-2026-waitlist-ma",
+    "url": "https://raceroster.com/events/2026/130609/beantown-marathon-2026-waitlist"
+  },
+  "start": {
+    "lat": 42.22,
+    "lon": -70.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://raceroster.com/events/2026/130609/beantown-marathon-2026-waitlist"
+}

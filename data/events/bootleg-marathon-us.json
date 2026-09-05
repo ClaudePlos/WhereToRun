@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bootleg Marathon is a road race. Location: Oak Ridge, United States. Date: Sunday, 6 September 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oak Ridge, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Bootleg Marathon to bieg uliczny. Lokalizacja: Oak Ridge, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oak Ridge, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oak Ridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Bootleg Marathon",
+  "registrationUrl": "https://runsignup.com/Race/TN/OakRidge/BootlegMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bootleg-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "bootleg-marathon-tn",
+    "url": "https://runsignup.com/Race/TN/OakRidge/BootlegMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.11,
+    "lon": -84.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/TN/OakRidge/BootlegMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

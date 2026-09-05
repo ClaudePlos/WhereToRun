@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-01T22:35:48.497Z",
-  "date": "2026-09-13",
+  "date": "2026-09-12",
   "dateStatus": "confirmed",
   "distances": [
-    "42 km"
+    "160.9 km"
   ],
   "endDate": "2026-09-13",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63380",
   "slug": "mogollon-monster-100-us",
   "source": {
-    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
     "id": "ultrasignup",
     "ref": "3056",
     "url": "https://ultrasignup.com/register.aspx?did=63380"
@@ -42,10 +42,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "ultra",
     "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
   "website": "https://www.aravaiparunning.com/mogollon-monster-2/"
 }

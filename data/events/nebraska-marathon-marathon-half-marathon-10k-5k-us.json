@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Nebraska Marathon - Marathon, Half Marathon, 10K & 5K is a road race. Location: Papillion, United States. Date: Saturday, 5 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Papillion, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Nebraska Marathon - Marathon, Half Marathon, 10K & 5K to bieg uliczny. Lokalizacja: Papillion, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Papillion, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Papillion",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Nebraska Marathon - Marathon, Half Marathon, 10K & 5K",
+  "registrationUrl": "https://runsignup.com/Race/NE/Papillion/NebraskaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "nebraska-marathon-marathon-half-marathon-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "nebraska-marathon-marathon-half-marathon-10k-5k-ne",
+    "url": "https://runsignup.com/Race/NE/Papillion/NebraskaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.15,
+    "lon": -96.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/NE/Papillion/NebraskaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

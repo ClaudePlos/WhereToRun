@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Bull of the Woods Trail Races is a trail race. Location: Taos Ski Valley, United States. Date: Saturday, 5 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Taos Ski Valley, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Bull of the Woods Trail Races to bieg trailowy. Lokalizacja: Taos Ski Valley, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Taos Ski Valley, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Taos Ski Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Bull of the Woods Trail Races",
+  "registrationUrl": "https://runsignup.com/Race/NM/TaosSkiValley/BullOfTheWoodsTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bull-of-the-woods-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "bull-of-the-woods-trail-races-nm",
+    "url": "https://runsignup.com/Race/NM/TaosSkiValley/BullOfTheWoodsTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.6,
+    "lon": -105.45,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/NM/TaosSkiValley/BullOfTheWoodsTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Fun Days 5k Fun Run/Walk 2026 is a road race. Location: Marathon, United States. Date: Saturday, 5 September 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Marathon, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Marathon Fun Days 5k Fun Run/Walk 2026 to bieg uliczny. Lokalizacja: Marathon, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Marathon, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marathon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Marathon Fun Days 5k Fun Run/Walk 2026",
+  "registrationUrl": "https://runsignup.com/Race/WI/Marathon/5kFunRunVeteranSuicideAwareness?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "marathon-fun-days-5k-fun-run-walk-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "marathon-fun-days-5k-fun-run-walk-2026-wi",
+    "url": "https://runsignup.com/Race/WI/Marathon/5kFunRunVeteranSuicideAwareness?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.93,
+    "lon": -89.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/WI/Marathon/5kFunRunVeteranSuicideAwareness?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

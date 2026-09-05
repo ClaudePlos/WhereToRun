@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Noble Canyon 50K/15K is a trail race. Location: Pine Valley, United States. Date: Saturday, 5 September 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pine Valley, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Noble Canyon 50K/15K to bieg trailowy. Lokalizacja: Pine Valley, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pine Valley, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pine Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Noble Canyon 50K/15K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=388",
+  "slug": "noble-canyon-50k-15k-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "noble-canyon-50k-15k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=388"
+  },
+  "start": {
+    "lat": 32.84,
+    "lon": -116.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=388"
+}

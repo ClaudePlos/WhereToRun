@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Front Range Ultra Dayze is a ultramarathon. Location: Loveland, United States. Date: Saturday, 5 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Loveland, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Front Range Ultra Dayze to ultramaraton. Lokalizacja: Loveland, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Loveland, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Loveland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Front Range Ultra Dayze",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17139",
+  "slug": "front-range-ultra-dayze-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "front-range-ultra-dayze-loveland-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=17139"
+  },
+  "start": {
+    "lat": 40.39,
+    "lon": -105.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17139"
+}

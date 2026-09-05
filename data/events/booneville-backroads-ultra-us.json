@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Booneville Backroads Ultra is a ultramarathon. Location: Booneville, United States. Date: Saturday, 5 September 2026. Distances: u100m, u100k, u50k, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Booneville, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Booneville Backroads Ultra to ultramaraton. Lokalizacja: Booneville, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: u100m, u100k, u50k, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Booneville, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50k",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Booneville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Booneville Backroads Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5042",
+  "slug": "booneville-backroads-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "booneville-backroads-ultra-ia",
+    "url": "https://ultrasignup.com/register.aspx?eid=5042"
+  },
+  "start": {
+    "lat": 41.48,
+    "lon": -93.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5042"
+}

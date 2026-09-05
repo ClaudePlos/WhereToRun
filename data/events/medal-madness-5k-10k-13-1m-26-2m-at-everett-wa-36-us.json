@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Medal Madness 5K, 10K, 13.1M & 26.2M at Everett, WA (36) is a road race. Location: Everett, United States. Date: Saturday, 5 September 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Everett, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Medal Madness 5K, 10K, 13.1M & 26.2M at Everett, WA (36) to bieg uliczny. Lokalizacja: Everett, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Everett, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Everett",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Medal Madness 5K, 10K, 13.1M & 26.2M at Everett, WA (36)",
+  "registrationUrl": "https://runsignup.com/Race/WA/Everett/Langus972024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "medal-madness-5k-10k-13-1m-26-2m-at-everett-wa-36-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "medal-madness-5k-10k-13-1m-26-2m-at-everett-wa-36-wa",
+    "url": "https://runsignup.com/Race/WA/Everett/Langus972024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.86,
+    "lon": -122.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/WA/Everett/Langus972024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

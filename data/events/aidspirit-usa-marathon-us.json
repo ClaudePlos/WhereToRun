@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "AIDSPIRIT USA Marathon is a road race. Location: Harlowton, United States. Date: Sunday, 6 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Harlowton, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "AIDSPIRIT USA Marathon to bieg uliczny. Lokalizacja: Harlowton, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Harlowton, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Harlowton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "AIDSPIRIT USA Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MT/Harlowton/AidspiritMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "aidspirit-usa-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "aidspirit-usa-marathon-mt",
+    "url": "https://runsignup.com/Race/MT/Harlowton/AidspiritMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.45,
+    "lon": -109.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/MT/Harlowton/AidspiritMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

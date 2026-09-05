@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Island View - Endurance Run is a ultramarathon. Location: Goleta, United States. Date: 24 October 2026 – 25 October 2026. Distances: 160.9 km, 100 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Goleta, United States, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "Island View - Endurance Run to ultramaraton. Lokalizacja: Goleta, Stany Zjednoczone. Termin: 24 października 2026 – 25 października 2026. Dystanse: 160.9 km, 100 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Goleta, Stany Zjednoczone, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Goleta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Island View - Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64475",
+  "slug": "island-view-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
+    "id": "ultrasignup",
+    "ref": "19037",
+    "url": "https://ultrasignup.com/register.aspx?did=64475"
+  },
+  "start": {
+    "lat": 34.4713,
+    "lon": -120.116,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://islandviewtrail.run/"
+}

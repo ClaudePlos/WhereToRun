@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 20th ACE Health Foundation Abebe Bikila Marathon & Half -- NEW LOWER PRICES is a road race. Location: Washington, United States. Date: Saturday, 5 September 2026. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Washington, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "2026 20th ACE Health Foundation Abebe Bikila Marathon & Half -- NEW LOWER PRICES to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "2026 20th ACE Health Foundation Abebe Bikila Marathon & Half -- NEW LOWER PRICES",
+  "registrationUrl": "http://www.active.com/washington-dc/running/distance-running-races/20th-ace-health-foundation-abebe-bikila-marathon-and-half-new-lower-prices-2026",
+  "slug": "2026-20th-ace-health-foundation-abebe-bikila-marathon-half-new-lower-prices-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "2026-20th-ace-health-foundation-abebe-bikila-marathon-half-new-lower",
+    "url": "http://www.active.com/washington-dc/running/distance-running-races/20th-ace-health-foundation-abebe-bikila-marathon-and-half-new-lower-prices-2026"
+  },
+  "start": {
+    "lat": 38.91,
+    "lon": -77.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "http://www.active.com/washington-dc/running/distance-running-races/20th-ace-health-foundation-abebe-bikila-marathon-and-half-new-lower-prices-2026"
+}

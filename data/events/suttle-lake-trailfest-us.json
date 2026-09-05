@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Suttle Lake Trailfest is a ultramarathon. Location: Sisters, United States. Date: Saturday, 24 October 2026. Distances: 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sisters, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Suttle Lake Trailfest to ultramaraton. Lokalizacja: Sisters, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sisters, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sisters",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Suttle Lake Trailfest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65371",
+  "slug": "suttle-lake-trailfest-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
+    "id": "ultrasignup",
+    "ref": "18543",
+    "url": "https://ultrasignup.com/register.aspx?did=65371"
+  },
+  "start": {
+    "lat": 44.4183,
+    "lon": -121.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://www.alpinerunning.co/"
+}

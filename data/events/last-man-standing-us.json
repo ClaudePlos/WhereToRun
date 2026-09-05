@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Man Standing is a road race. Location: Lumberton, United States. Date: Saturday, 24 October 2026. Distances: Last Man Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lumberton, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Last Man Standing to bieg uliczny. Lokalizacja: Lumberton, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: Last Man Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lumberton, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Man Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lumberton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Last Man Standing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63993",
+  "slug": "last-man-standing-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
+    "id": "ultrasignup",
+    "ref": "18958",
+    "url": "https://ultrasignup.com/register.aspx?did=63993"
+  },
+  "start": {
+    "lat": 30.2281,
+    "lon": -94.2315,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://www.haireperformance.com/last-man-standing"
+}

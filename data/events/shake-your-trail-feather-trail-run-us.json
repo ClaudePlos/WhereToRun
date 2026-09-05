@@ -10,11 +10,12 @@
     }
   },
   "createdAt": "2026-09-04T11:30:01.450Z",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km",
-    "5 km"
+    "50 km",
+    "25.7 km",
+    "12.9 km"
   ],
   "endDate": "2026-10-17",
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63784",
   "slug": "shake-your-trail-feather-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
     "id": "ultrasignup",
     "ref": "14386",
     "url": "https://ultrasignup.com/register.aspx?did=63784"
@@ -47,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
   "website": "http://www.willenborgwoods.com"
 }

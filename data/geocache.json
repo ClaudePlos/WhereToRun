@@ -224,17 +224,29 @@
     "lon": -14.2084678,
     "name": "Reyðarfjörður, Fjarðabyggð, Austurland, 730, Ísland"
   },
+  "JP|anikoyawatari, kitaakita, akita pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
   "JP|chitose city, hokkaido": {
     "at": "2026-09-02T22:37:18.569Z"
   },
   "JP|dakeonsen, nihonmatsu, fukushima pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
+  "JP|ehim pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|gifu pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
   "JP|happo, yamamoto district, akita pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
   "JP|hiratsuka, kanagawa pref.": {
     "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|ishioka, ibaraki pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
   },
   "JP|kawaba, gunma pref.": {
     "at": "2026-09-02T17:10:51.476Z"
@@ -254,8 +266,17 @@
   "JP|kyotango, kyoto pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|maebashii, gunma": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|minano town, saitama pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
   "JP|mizukami, kumamoto pref.": {
     "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|muraoka, hyogo pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
   },
   "JP|myoko, niigata pref.": {
     "at": "2026-09-02T22:37:18.569Z"
@@ -266,14 +287,23 @@
     "lon": 138.1947664,
     "name": "長野市, 長野県, 日本"
   },
+  "JP|niigata pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
   "JP|osaka city": {
     "at": "2026-09-02T22:37:18.569Z",
     "lat": 34.6937569,
     "lon": 135.5014539,
     "name": "大阪市, 大阪府, 日本"
   },
+  "JP|semboku, akita pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
+  },
   "JP|sendai, miyagi pref.": {
     "at": "2026-09-02T17:10:51.476Z"
+  },
+  "JP|shizuoka pref.": {
+    "at": "2026-09-05T16:05:51.348Z"
   },
   "LT|vilnius": {
     "at": "2026-09-02T17:10:51.476Z",

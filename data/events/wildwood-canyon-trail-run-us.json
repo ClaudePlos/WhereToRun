@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Wildwood Canyon Trail Run is a ultramarathon. Location: Yucaipa, United States. Date: Saturday, 24 October 2026. Distances: 8 h, Wildwood 6K. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Yucaipa, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Wildwood Canyon Trail Run to ultramaraton. Lokalizacja: Yucaipa, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 8 h, Wildwood 6K. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Yucaipa, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "Wildwood 6K"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yucaipa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Wildwood Canyon Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64109",
+  "slug": "wildwood-canyon-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.254Z",
+    "id": "ultrasignup",
+    "ref": "18703",
+    "url": "https://ultrasignup.com/register.aspx?did=64109"
+  },
+  "start": {
+    "lat": 34.0165,
+    "lon": -117.002,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://yucaipaadventurecompany.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sacfit 2026 Summer/Fall Marathon Training Program is a road race. Location: Sacramento, United States. Date: Saturday, 5 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Sacramento, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Sacfit 2026 Summer/Fall Marathon Training Program to bieg uliczny. Lokalizacja: Sacramento, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Sacramento, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sacramento",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sacfit 2026 Summer/Fall Marathon Training Program",
+  "registrationUrl": "https://raceroster.com/events/2026/116945/sacfit-2026-summerfall-marathon-training-program",
+  "slug": "sacfit-2026-summer-fall-marathon-training-program-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "sacfit-2026-summer-fall-marathon-training-program-ca",
+    "url": "https://raceroster.com/events/2026/116945/sacfit-2026-summerfall-marathon-training-program"
+  },
+  "start": {
+    "lat": 38.5816,
+    "lon": -121.4944,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://raceroster.com/events/2026/116945/sacfit-2026-summerfall-marathon-training-program"
+}

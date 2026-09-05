@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cherry Hill Farm Ultra is a ultramarathon. Location: Gorham, United States. Date: Saturday, 5 September 2026. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Gorham, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Cherry Hill Farm Ultra to ultramaraton. Lokalizacja: Gorham, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Gorham, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gorham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Cherry Hill Farm Ultra",
+  "registrationUrl": "https://runsignup.com/Race/ME/Gorham/CherryHillFarmUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cherry-hill-farm-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "cherry-hill-farm-ultra-me",
+    "url": "https://runsignup.com/Race/ME/Gorham/CherryHillFarmUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.68,
+    "lon": -70.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/ME/Gorham/CherryHillFarmUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

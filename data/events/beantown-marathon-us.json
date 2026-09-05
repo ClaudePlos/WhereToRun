@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Beantown Marathon is a road race. Location: Hingham, United States. Date: Sunday, 6 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Hingham, United States, Sunday, 6 September 2026"
+    },
+    "pl": {
+      "description": "Beantown Marathon to bieg uliczny. Lokalizacja: Hingham, Stany Zjednoczone. Termin: niedziela, 6 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Hingham, Stany Zjednoczone, niedziela, 6 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Beantown Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/115748/beantown-marathon",
+  "slug": "beantown-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "beantown-marathon-ma",
+    "url": "https://raceroster.com/events/2026/115748/beantown-marathon"
+  },
+  "start": {
+    "lat": 42.2245,
+    "lon": -70.8911,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://raceroster.com/events/2026/115748/beantown-marathon"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Firefly Trail Festival is a trail race. Location: Fort Wayne, United States. Date: Saturday, 5 September 2026. Distances: 42.2 km, 10 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Fort Wayne, United States, Saturday, 5 September 2026"
+    },
+    "pl": {
+      "description": "Firefly Trail Festival to bieg trailowy. Lokalizacja: Fort Wayne, Stany Zjednoczone. Termin: sobota, 5 września 2026. Dystanse: 42.2 km, 10 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Fort Wayne, Stany Zjednoczone, sobota, 5 września 2026"
+    }
+  },
+  "createdAt": "2026-09-05T16:05:51.348Z",
+  "date": "2026-09-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "10 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Wayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Firefly Trail Festival",
+  "registrationUrl": "https://runsignup.com/Race/IN/FortWayne/FireflySixHourTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "firefly-trail-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "id": "runraceusa",
+    "ref": "firefly-trail-festival-in",
+    "url": "https://runsignup.com/Race/IN/FortWayne/FireflySixHourTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.09,
+    "lon": -85.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "website": "https://runsignup.com/Race/IN/FortWayne/FireflySixHourTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
