@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Kansas Rails-to-Trails is a ultramarathon. Location: Ottawa, United States. Date: Saturday, 24 October 2026. Distances: 160.9 km, 100 km, 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ottawa, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Kansas Rails-to-Trails to ultramaraton. Lokalizacja: Ottawa, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 160.9 km, 100 km, 80.5 km, 50 km, 42.2 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ottawa, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "42.2 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ottawa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Kansas Rails-to-Trails",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66780",
+  "slug": "kansas-rails-to-trails-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "4803",
+    "url": "https://ultrasignup.com/register.aspx?did=66780"
+  },
+  "start": {
+    "lat": 38.5887,
+    "lon": -95.2717,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.facebook.com/share/g/1BCCL1nr6D/?mibextid=wwXIfr"
+}

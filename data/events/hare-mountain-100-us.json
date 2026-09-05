@@ -10,11 +10,13 @@
     }
   },
   "createdAt": "2026-09-04T22:20:28.980Z",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
-    "No Frills Hare Mountain 100 Option",
-    "160.9 km"
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "White Rock Ascent"
   ],
   "endDate": "2026-10-24",
   "featured": false,
@@ -31,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63905",
   "slug": "hare-mountain-100-us",
   "source": {
-    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
     "id": "ultrasignup",
     "ref": "16340",
     "url": "https://ultrasignup.com/register.aspx?did=63905"
@@ -47,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
   "website": "https://www.haremountain100.com/"
 }

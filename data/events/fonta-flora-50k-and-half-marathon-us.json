@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Fonta Flora 50k and Half Marathon is a ultramarathon. Location: Nebo, United States. Date: 24 October 2026 – 25 October 2026. Distances: 50 km, 50K 3 Person Relay, 50k 2 Person Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Nebo, United States, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "Fonta Flora 50k and Half Marathon to ultramaraton. Lokalizacja: Nebo, Stany Zjednoczone. Termin: 24 października 2026 – 25 października 2026. Dystanse: 50 km, 50K 3 Person Relay, 50k 2 Person Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Nebo, Stany Zjednoczone, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "50K 3 Person Relay",
+    "50k 2 Person Relay"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nebo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Fonta Flora 50k and Half Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65397",
+  "slug": "fonta-flora-50k-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "6171",
+    "url": "https://ultrasignup.com/register.aspx?did=65397"
+  },
+  "start": {
+    "lat": 35.755,
+    "lon": -81.8872,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "http://www.tanawhaadventures.com/fontaflora"
+}

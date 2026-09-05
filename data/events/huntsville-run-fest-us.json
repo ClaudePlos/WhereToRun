@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Huntsville Run Fest is a ultramarathon. Location: McMullen Cove, United States. Date: 24 October 2026 – 25 October 2026. Distances: 50 km, 25 km, Sublett Point Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — McMullen Cove, United States, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "Huntsville Run Fest to ultramaraton. Lokalizacja: McMullen Cove, Stany Zjednoczone. Termin: 24 października 2026 – 25 października 2026. Dystanse: 50 km, 25 km, Sublett Point Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — McMullen Cove, Stany Zjednoczone, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "Sublett Point Challenge"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McMullen Cove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Huntsville Run Fest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65862",
+  "slug": "huntsville-run-fest-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "17560",
+    "url": "https://ultrasignup.com/register.aspx?did=65862"
+  },
+  "start": {
+    "lat": 34.7036,
+    "lon": -86.4392,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.facebook.com/people/Go-for-the-Gold-Runfest/61557339388737/?mibextid=LQQJ4d"
+}

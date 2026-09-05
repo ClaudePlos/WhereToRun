@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The New Orleans Ultramarathon and Half is a ultramarathon. Location: New Orleans, United States. Date: Saturday, 24 October 2026. Distances: 80.5 km, 50 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — New Orleans, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "The New Orleans Ultramarathon and Half to ultramaraton. Lokalizacja: New Orleans, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 80.5 km, 50 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — New Orleans, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Orleans",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "The New Orleans Ultramarathon and Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66000",
+  "slug": "the-new-orleans-ultramarathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "10253",
+    "url": "https://ultrasignup.com/register.aspx?did=66000"
+  },
+  "start": {
+    "lat": 29.9574,
+    "lon": -90.0627,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.lazyhoundracing.com/"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn Leaves 50M/50K/30K is a ultramarathon. Location: St. Paul, United States. Date: Saturday, 24 October 2026. Distances: 80.5 km, 50 km, 30 km, Kid's Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St. Paul, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Autumn Leaves 50M/50K/30K to ultramaraton. Lokalizacja: St. Paul, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 80.5 km, 50 km, 30 km, Kid's Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St. Paul, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "30 km",
+    "Kid's Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Paul",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Autumn Leaves 50M/50K/30K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66807",
+  "slug": "autumn-leaves-50m-50k-30k-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "2078",
+    "url": "https://ultrasignup.com/register.aspx?did=66807"
+  },
+  "start": {
+    "lat": 45.2561,
+    "lon": -122.902,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://orrc.net/events/event-list/autumn-leaves/"
+}

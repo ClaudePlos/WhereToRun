@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Patapsco Valley 50K is a ultramarathon. Location: Baltimore, United States. Date: Saturday, 24 October 2026. Distances: 50 km, 50k Virtual, 25 km, 25k Virtual. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Baltimore, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Patapsco Valley 50K to ultramaraton. Lokalizacja: Baltimore, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 50 km, 50k Virtual, 25 km, 25k Virtual. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Baltimore, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "50k Virtual",
+    "25 km",
+    "25k Virtual"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Baltimore",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Patapsco Valley 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64338",
+  "slug": "patapsco-valley-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "4482",
+    "url": "https://ultrasignup.com/register.aspx?did=64338"
+  },
+  "start": {
+    "lat": 39.2277,
+    "lon": -76.7271,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://white-oak-running-company.mailchimpsites.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Rim to River 100 is a ultramarathon. Location: New River Gorge, United States. Date: Saturday, 24 October 2026. Distances: 160.9 km, Pacer Registration. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — New River Gorge, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Rim to River 100 to ultramaraton. Lokalizacja: New River Gorge, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 160.9 km, Pacer Registration. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — New River Gorge, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "Pacer Registration"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New River Gorge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Rim to River 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63950",
+  "slug": "rim-to-river-100-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "12275",
+    "url": "https://ultrasignup.com/register.aspx?did=63950"
+  },
+  "start": {
+    "lat": 37.975,
+    "lon": -81.0974,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "http://www.rimtoriverendurance.com"
+}

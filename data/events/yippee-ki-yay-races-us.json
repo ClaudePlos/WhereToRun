@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Yippee-Ki-Yay Races is a ultramarathon. Location: Council Bluffs, United States. Date: Saturday, 24 October 2026. Distances: 50 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Council Bluffs, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Yippee-Ki-Yay Races to ultramaraton. Lokalizacja: Council Bluffs, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 50 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Council Bluffs, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Council Bluffs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Yippee-Ki-Yay Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64596",
+  "slug": "yippee-ki-yay-races-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "18335",
+    "url": "https://ultrasignup.com/register.aspx?did=64596"
+  },
+  "start": {
+    "lat": 41.2194,
+    "lon": -95.8179,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.happytrailzrunning.com/yippee-ki-yay-50k-half-marathon-5mi-races"
+}

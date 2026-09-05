@@ -10,10 +10,14 @@
     }
   },
   "createdAt": "2026-09-03T11:24:47.198Z",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "dateStatus": "confirmed",
   "distances": [
-    "48 h"
+    "24 h",
+    "12 h",
+    "6 h",
+    "3 h",
+    "Non-Runner"
   ],
   "endDate": "2026-10-04",
   "featured": false,
@@ -30,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63683",
   "slug": "back-on-the-ranch-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
     "id": "ultrasignup",
     "ref": "8927",
     "url": "https://ultrasignup.com/register.aspx?did=63683"
@@ -46,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
   "website": "http://www.allwedoisrun.com"
 }

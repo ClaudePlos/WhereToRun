@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Firewater Ultra is a ultramarathon. Location: Greenback, United States. Date: Saturday, 24 October 2026. Distances: 100 km, 50K - 2 Per Relay, 50K Sunrise, 50K Sunset, 25K Ruck, 25K Run w, the Ruckers. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Greenback, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Firewater Ultra to ultramaraton. Lokalizacja: Greenback, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 100 km, 50K - 2 Per Relay, 50K Sunrise, 50K Sunset, 25K Ruck, 25K Run w, the Ruckers. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Greenback, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50K - 2 Per Relay",
+    "50K Sunrise",
+    "50K Sunset",
+    "25K Ruck",
+    "25K Run w",
+    "the Ruckers"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenback",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Firewater Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65398",
+  "slug": "firewater-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "4895",
+    "url": "https://ultrasignup.com/register.aspx?did=65398"
+  },
+  "start": {
+    "lat": 35.622,
+    "lon": -84.2055,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.facebook.com/pages/Firewater-50k-and-100-Mile-Trail-Race/878874482154672"
+}

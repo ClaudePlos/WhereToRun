@@ -212,6 +212,18 @@
     "lon": 77.2090057,
     "name": "New Delhi, Delhi, India"
   },
+  "IS|reykjavik": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 64.145981,
+    "lon": -21.9422367,
+    "name": "Reykjavíkurborg, Höfuðborgarsvæðið, Ísland"
+  },
+  "IS|reyðarfjörður": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 65.0340671,
+    "lon": -14.2084678,
+    "name": "Reyðarfjörður, Fjarðabyggð, Austurland, 730, Ísland"
+  },
   "JP|chitose city, hokkaido": {
     "at": "2026-09-02T22:37:18.569Z"
   },
@@ -415,5 +427,29 @@
     "lat": 46.3947708,
     "lon": 15.9298496,
     "name": "Markovci, 2281, Slovenija"
+  },
+  "TR|ankara": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 39.9207759,
+    "lon": 32.8540497,
+    "name": "Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, 06420, Türkiye"
+  },
+  "TR|antalya": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 36.8865728,
+    "lon": 30.7030242,
+    "name": "Antalya, Muratpaşa, Antalya, Akdeniz Bölgesi, 07050, Türkiye"
+  },
+  "TR|fethiye": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 36.6221154,
+    "lon": 29.1153384,
+    "name": "Fethiye, Muğla, Ege Bölgesi, Türkiye"
+  },
+  "TR|icmeler": {
+    "at": "2026-09-05T10:43:37.273Z",
+    "lat": 36.8013283,
+    "lon": 28.2313578,
+    "name": "İçmeler, Marmaris, Muğla, Ege Bölgesi, 48720, Türkiye"
   }
 }

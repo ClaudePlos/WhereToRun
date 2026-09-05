@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Canyonlands Ultra is a ultramarathon. Location: Moab, United States. Date: Saturday, 24 October 2026. Distances: 100 km, 80.5 km, 50 km, 42.2 km, 21.1 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moab, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Canyonlands Ultra to ultramaraton. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 100 km, 80.5 km, 50 km, 42.2 km, 21.1 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moab, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "42.2 km",
+    "21.1 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Canyonlands Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63908",
+  "slug": "canyonlands-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "15628",
+    "url": "https://ultrasignup.com/register.aspx?did=63908"
+  },
+  "start": {
+    "lat": 38.4148,
+    "lon": -109.453,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.madmooseevents.com/canyonlands-ultra"
+}

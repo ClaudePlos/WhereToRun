@@ -10,12 +10,12 @@
     }
   },
   "createdAt": "2026-09-02T22:37:18.569Z",
-  "date": "2026-09-19",
+  "date": "2026-09-18",
   "dateStatus": "confirmed",
   "distances": [
-    "24hrs (Sat Start)",
-    "8 Hour (Sat PM)",
-    "8 Hour (Sat AM)"
+    "48 h",
+    "24hrs (Fri Start)",
+    "Last Person Standing (Friday Start)"
   ],
   "endDate": "2026-09-20",
   "featured": false,
@@ -32,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63337",
   "slug": "last-dot-standing-and-24-48-hour-by-ten-junk-miles-us",
   "source": {
-    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
     "id": "ultrasignup",
     "ref": "12682",
     "url": "https://ultrasignup.com/register.aspx?did=63337"
@@ -44,10 +44,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "ultra",
     "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
   "website": "https://www.tenjunkmilesracing.com"
 }

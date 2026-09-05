@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Womp Romp is a ultramarathon. Location: Hingham, United States. Date: Saturday, 24 October 2026. Distances: 16.1 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hingham, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Womp Romp to ultramaraton. Lokalizacja: Hingham, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 16.1 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hingham, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "16.1 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Womp Romp",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64218",
+  "slug": "womp-romp-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "14144",
+    "url": "https://ultrasignup.com/register.aspx?did=64218"
+  },
+  "start": {
+    "lat": 42.1819,
+    "lon": -70.847,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.facebook.com/groups/444960193360390"
+}

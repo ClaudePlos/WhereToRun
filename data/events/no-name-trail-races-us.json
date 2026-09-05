@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "No Name Trail Races is a ultramarathon. Location: Agoura, United States. Date: Saturday, 24 October 2026. Distances: 50 km, Trail Half Marathon, 10k Trail. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Agoura, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "No Name Trail Races to ultramaraton. Lokalizacja: Agoura, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 50 km, Trail Half Marathon, 10k Trail. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Agoura, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Trail Half Marathon",
+    "10k Trail"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Agoura",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "No Name Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=61541",
+  "slug": "no-name-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "4710",
+    "url": "https://ultrasignup.com/register.aspx?did=61541"
+  },
+  "start": {
+    "lat": 34.1543,
+    "lon": -118.734,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.socaltrail.events/no-name-5025"
+}

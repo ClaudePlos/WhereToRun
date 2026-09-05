@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Greensprings 24 is a road race. Location: Williamsburg, United States. Date: Saturday, 24 October 2026. Distances: 24 Hour Endurance Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Williamsburg, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Greensprings 24 to bieg uliczny. Lokalizacja: Williamsburg, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 24 Hour Endurance Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Williamsburg, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 Hour Endurance Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Greensprings 24",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65510",
+  "slug": "greensprings-24-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "16413",
+    "url": "https://ultrasignup.com/register.aspx?did=65510"
+  },
+  "start": {
+    "lat": 37.2432,
+    "lon": -76.7791,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://www.adventureupcoaching.com/general-1"
+}

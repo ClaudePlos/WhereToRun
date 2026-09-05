@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Murray Endurance Run is a ultramarathon. Location: Lake Murray State Park, United States. Date: Saturday, 24 October 2026. Distances: 160.9 km, 100 km, 50 km, 25 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake Murray State Park, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Lake Murray Endurance Run to ultramaraton. Lokalizacja: Lake Murray State Park, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 160.9 km, 100 km, 50 km, 25 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake Murray State Park, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "25 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Murray State Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Lake Murray Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65089",
+  "slug": "lake-murray-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "10740",
+    "url": "https://ultrasignup.com/register.aspx?did=65089"
+  },
+  "start": {
+    "lat": 34.1069,
+    "lon": -97.1095,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "https://blazetrails.com/lake-murray-endurance-run/?utm_source=ultrasignup&utm_medium=web&utm_campaign=website-link"
+}

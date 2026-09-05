@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Carkeek 12 Hour is a ultramarathon. Location: Seattle, United States. Date: Saturday, 24 October 2026. Distances: 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Seattle, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Carkeek 12 Hour to ultramaraton. Lokalizacja: Seattle, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Seattle, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seattle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Carkeek 12 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64457",
+  "slug": "carkeek-12-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "2474",
+    "url": "https://ultrasignup.com/register.aspx?did=64457"
+  },
+  "start": {
+    "lat": 47.7125,
+    "lon": -122.379,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "http://www.endlesstrails.us/carkeek-12-hour.html"
+}

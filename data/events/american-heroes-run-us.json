@@ -10,15 +10,13 @@
     }
   },
   "createdAt": "2026-09-01T19:51:22.922Z",
-  "date": "2026-09-12",
+  "date": "2026-09-11",
   "dateStatus": "confirmed",
   "distances": [
-    "42.2 km",
-    "1",
-    "2 Marathon",
-    "14.7 km",
-    "9 hrs & 11 min",
-    "5 km"
+    "160.9 km",
+    "24 h",
+    "6 hour open start",
+    "Virtual - Any Distance"
   ],
   "endDate": "2026-09-12",
   "featured": false,
@@ -35,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64427",
   "slug": "american-heroes-run-us",
   "source": {
-    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
     "id": "ultrasignup",
     "ref": "3241",
     "url": "https://ultrasignup.com/register.aspx?did=64427"
@@ -47,10 +45,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "ultra",
     "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
   "website": "https://www.facebook.com/americanheroesruncolorado"
 }

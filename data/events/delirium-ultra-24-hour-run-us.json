@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Delirium Ultra 24 Hour Run is a ultramarathon. Location: Beaufort, United States. Date: Saturday, 24 October 2026. Distances: 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Beaufort, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Delirium Ultra 24 Hour Run to ultramaraton. Lokalizacja: Beaufort, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Beaufort, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beaufort",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Delirium Ultra 24 Hour Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64767",
+  "slug": "delirium-ultra-24-hour-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "2936",
+    "url": "https://ultrasignup.com/register.aspx?did=64767"
+  },
+  "start": {
+    "lat": 32.4824,
+    "lon": -80.6469,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "http://deliriumultra.com/"
+}

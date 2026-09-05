@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Gate2Gate Trail Run is a ultramarathon. Location: Alachua, United States. Date: Saturday, 24 October 2026. Distances: 25 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Alachua, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Gate2Gate Trail Run to ultramaraton. Lokalizacja: Alachua, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 25 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Alachua, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-05T10:43:37.273Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "25 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alachua",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Gate2Gate Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64314",
+  "slug": "gate2gate-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "id": "ultrasignup",
+    "ref": "5674",
+    "url": "https://ultrasignup.com/register.aspx?did=64314"
+  },
+  "start": {
+    "lat": 29.7744,
+    "lon": -82.4743,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "website": "http://www.gate2gatetrailrun.com/"
+}
