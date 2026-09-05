@@ -32,6 +32,7 @@ const TYPE_LABELS = {
   road: { en: 'road race', pl: 'bieg uliczny' },
   trail: { en: 'trail race', pl: 'bieg trailowy' },
   ultra: { en: 'ultramarathon', pl: 'ultramaraton' },
+  triathlon: { en: 'triathlon', pl: 'triatlon' },
   stage: { en: 'multi-stage race', pl: 'bieg etapowy' },
   obstacle: { en: 'obstacle race', pl: 'bieg z przeszkodami' },
   track: { en: 'track race', pl: 'bieg na bieżni' },

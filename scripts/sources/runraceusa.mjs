@@ -12,7 +12,7 @@
  * the map.
  */
 
-import { parseDistances, isNotableDistance } from '../lib/distances.mjs';
+import { parseDistances, isNotableDistance, isMultisport } from '../lib/distances.mjs';
 
 export const id = 'runraceusa';
 
@@ -70,10 +70,12 @@ export function parseRaces(json, { today = new Date() } = {}) {
     const distances = parseDistances(Array.isArray(row.d) ? row.d.join(',') : row.d);
     if (!isInteresting(name, distances)) continue;
 
+    const multisport = isMultisport(name, distances.labels.join(' '));
     const isUltra = distances.km.some((value) => value > 42.5)
       || distances.timedHours >= 6
       || /\bultra\b/i.test(name);
     const isTrail = /trail|mountain|ridge|canyon|peak|forest/i.test(name);
+    const type = multisport ? 'triathlon' : isUltra ? 'ultra' : isTrail ? 'trail' : 'road';
     const url = typeof row.url === 'string' && row.url.startsWith('http') ? row.url : null;
 
     out.push({
@@ -81,9 +83,9 @@ export function parseRaces(json, { today = new Date() } = {}) {
       date,
       endDate: null,
       dateStatus: 'confirmed',
-      type: isUltra ? 'ultra' : isTrail ? 'trail' : 'road',
+      type,
       distances: distances.labels,
-      tags: ['runraceusa', isUltra ? 'ultra' : isTrail ? 'trail' : 'road'],
+      tags: ['runraceusa', type],
       location: { city, region: state, country: 'United States', countryCode: 'US' },
       start: { lat, lon, name: null, precision: startPrecision(row.geo) },
       // The dump carries no prices.

@@ -1,6 +1,8 @@
 export const LANGS = ['en', 'pl'];
 
-export const EVENT_TYPES = ['road', 'trail', 'ultra', 'stage', 'obstacle', 'track', 'other'];
+export const EVENT_TYPES = [
+  'road', 'trail', 'ultra', 'triathlon', 'stage', 'obstacle', 'track', 'other',
+];
 
 /**
  * How much the start coordinates can be trusted. Some sources publish the exact

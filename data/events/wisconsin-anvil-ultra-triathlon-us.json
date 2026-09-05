@@ -1,12 +1,12 @@
 {
   "content": {
     "en": {
-      "description": "Wisconsin ANVIL Ultra Triathlon is a road race. Location: Dousman, United States. Date: Wednesday, 9 September 2026. Distances: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Entry fee: check with the organiser. The start location is marked on the map below.",
-      "summary": "Road race — Dousman, United States, Wednesday, 9 September 2026"
+      "description": "Wisconsin ANVIL Ultra Triathlon is a triathlon. Location: Dousman, United States. Date: Wednesday, 9 September 2026. Distances: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Dousman, United States, Wednesday, 9 September 2026"
     },
     "pl": {
-      "description": "Wisconsin ANVIL Ultra Triathlon to bieg uliczny. Lokalizacja: Dousman, Stany Zjednoczone. Termin: środa, 9 września 2026. Dystanse: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
-      "summary": "Bieg uliczny — Dousman, Stany Zjednoczone, środa, 9 września 2026"
+      "description": "Wisconsin ANVIL Ultra Triathlon to triatlon. Lokalizacja: Dousman, Stany Zjednoczone. Termin: środa, 9 września 2026. Dystanse: Triple ANVIL Triathlon, Triple ANVIL Relay - 3 Person Team, Triple ANVIL Relay - 2 Person Team, DO. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Dousman, Stany Zjednoczone, środa, 9 września 2026"
     }
   },
   "createdAt": "2026-09-01T19:51:22.922Z",
@@ -45,10 +45,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "triathlon",
     "ultrasignup"
   ],
-  "type": "road",
+  "type": "triathlon",
   "updatedAt": "2026-09-01T19:51:22.922Z",
   "website": "https://anvil-ultratri.com/"
 }

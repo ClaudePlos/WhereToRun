@@ -1,12 +1,12 @@
 {
   "content": {
     "en": {
-      "description": "Virginia ANVIL Ultra Triathlon is a road race. Location: Spotsylvania, United States. Date: 8 October 2026 – 10 October 2026. Distances: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
-      "summary": "Road race — Spotsylvania, United States, 8 October 2026 – 10 October 2026"
+      "description": "Virginia ANVIL Ultra Triathlon is a triathlon. Location: Spotsylvania, United States. Date: 8 October 2026 – 10 October 2026. Distances: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Spotsylvania, United States, 8 October 2026 – 10 October 2026"
     },
     "pl": {
-      "description": "Virginia ANVIL Ultra Triathlon to bieg uliczny. Lokalizacja: Spotsylvania, Stany Zjednoczone. Termin: 8 października 2026 – 10 października 2026. Dystanse: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
-      "summary": "Bieg uliczny — Spotsylvania, Stany Zjednoczone, 8 października 2026 – 10 października 2026"
+      "description": "Virginia ANVIL Ultra Triathlon to triatlon. Lokalizacja: Spotsylvania, Stany Zjednoczone. Termin: 8 października 2026 – 10 października 2026. Dystanse: ANVIL Half Triathlon, Triple Relay, Triple ANVIL Triathlon, Double ANVIL Triathlon, Double Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Spotsylvania, Stany Zjednoczone, 8 października 2026 – 10 października 2026"
     }
   },
   "createdAt": "2026-09-03T17:03:15.961Z",
@@ -46,10 +46,10 @@
     "precision": "exact"
   },
   "tags": [
-    "road",
+    "triathlon",
     "ultrasignup"
   ],
-  "type": "road",
+  "type": "triathlon",
   "updatedAt": "2026-09-03T17:03:15.961Z",
   "website": "https://anvil-ultratri.com/"
 }

@@ -12,6 +12,8 @@ import { findRecords } from '../scripts/probe-sources.mjs';
 import { parseRaces as parseDuv, selectCountries, buildUrl as duvUrl, COUNTRIES } from '../scripts/sources/duv.mjs';
 import { alpha2 } from '../scripts/lib/countries.mjs';
 import { createGeocoder } from '../scripts/lib/geocode.mjs';
+import { isMultisport } from '../scripts/lib/distances.mjs';
+import { EVENT_TYPES } from '../scripts/lib/schema.mjs';
 import {
   parseRaces as parseRunRaceUsa,
   startPrecision,
@@ -508,4 +510,47 @@ test('geocoder remembers a miss but not a network error', async () => {
   });
   assert.equal(await failing.lookup('Elsewhere', 'PL', 'Poland'), null);
   assert.ok(!('PL|elsewhere' in cache), 'a network failure is not cached as a miss');
+});
+
+// --- Multisport ----------------------------------------------------------
+// Running platforms carry the occasional triathlon: UltraSignup listed the
+// ANVIL ultra-triathlons, and the portal filed them as road races.
+
+test('multisport events are recognised by name or distance text', () => {
+  assert.equal(isMultisport('Virginia Anvil Ultra Triathlon'), true);
+  assert.equal(isMultisport('Some Race', 'Triple ANVIL Relay'), true);
+  assert.equal(isMultisport('Lakeside Duathlon'), true);
+  assert.equal(isMultisport('Hawk Hundred'), false);
+  assert.equal(isMultisport('Mogollon Monster 100'), false);
+});
+
+test('ultrasignup types a triathlon as one, not as a road race', () => {
+  const [race] = parseUltraSignup([{
+    EventId: 9, EventDateId: 9,
+    EventName: 'Virginia Anvil Ultra Triathlon',
+    EventDate: '10/8/2027',
+    Distances: 'Triple ANVIL Triathlon, Double ANVIL Triathlon',
+    DistanceCategories: ' ultra',
+    City: 'Spotsylvania', State: 'VA',
+    Latitude: '38.19', Longitude: '-77.59',
+    Cancelled: false, VirtualEvent: false,
+  }], { today });
+  assert.equal(race.type, 'triathlon');
+  assert.ok(race.tags.includes('triathlon'));
+  assert.ok(!race.tags.includes('road'));
+});
+
+test('runraceusa types a triathlon as one too', () => {
+  const [race] = parseRunRaceUsa({
+    races: [{
+      name: 'Lakeside Ultra Triathlon', date: '2027-07-04',
+      city: 'Madison', state: 'WI', lat: 43.07, lng: -89.4,
+      d: ['140.6'], geo: 'city', s: 'lakeside-tri-wi',
+    }],
+  }, { today });
+  assert.equal(race.type, 'triathlon');
+});
+
+test('triathlon is a valid event type', () => {
+  assert.ok(EVENT_TYPES.includes('triathlon'));
 });

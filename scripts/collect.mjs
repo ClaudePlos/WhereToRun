@@ -47,7 +47,6 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
   const known = stored.map((event) => `${event.name} (${event.date})`);
 
   const stats = { added: 0, updated: 0, unchanged: 0, skipped: 0, sources: {} };
-  let newThisRun = 0;
 
   // Shared by every source that needs coordinates for a place name. The cache is
   // written back once at the end, so a crashed run still costs at most one pass.
@@ -55,6 +54,10 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
   const geocoder = createGeocoder({ cache: geocache, now, maxLookups: args.maxGeocode, log });
 
   for (const source of enabled) {
+    // The budget is per source, not per run. Shared, it was consumed entirely by
+    // whichever source ran first — UltraSignup, in practice — and the sources
+    // after it in the list never added anything at all.
+    let newFromSource = 0;
     let candidates = [];
     try {
       candidates = await source.fetchEvents({ today: now, known, geocoder });
@@ -72,7 +75,7 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
 
       if (!existing) {
         if (new Date(`${normalized.date}T23:59:59Z`) < now) { stats.skipped += 1; continue; }
-        if (newThisRun >= args.maxNew) { stats.skipped += 1; continue; }
+        if (newFromSource >= args.maxNew) { stats.skipped += 1; continue; }
       }
 
       const { event, changed } = mergeEvent(existing, { ...candidate, slug: existing?.slug ?? normalized.slug }, now);
@@ -91,7 +94,7 @@ export async function collect({ argv = [], sources = ALL_SOURCES, now = new Date
         if (!args.quiet) log.info?.(`~ updated ${event.slug} (${source.id})`);
       } else {
         stats.added += 1;
-        newThisRun += 1;
+        newFromSource += 1;
         byslug.set(event.slug, event);
         stored.push(event);
         if (!args.quiet) log.info?.(`+ added   ${event.slug} (${source.id})`);
