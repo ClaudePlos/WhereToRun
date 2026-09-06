@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Flat throughout, with long stretches near the water and a passage through the old town. April on the Baltic is cool, which suits the distance.",
+      "summary": "A spring marathon along the Tricity coast and through historic Gdańsk."
+    },
+    "pl": {
+      "description": "Trasa jest płaska na całej długości, z długimi odcinkami blisko wody i przejściem przez starówkę. Kwiecień nad Bałtykiem jest chłodny, co sprzyja tej odległości.",
+      "summary": "Wiosenny maraton wzdłuż trójmiejskiego wybrzeża i przez historyczny Gdańsk."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-04-18",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gdańsk",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Maraton Gdańsk",
+  "registrationUrl": null,
+  "slug": "maraton-gdansk",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "maraton-gdansk",
+    "url": null
+  },
+  "start": {
+    "lat": 54.352,
+    "lon": 18.6466,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "marathon",
+    "poland",
+    "seaside"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Everyone starts at the same moment worldwide and runs until a catcher car overtakes them, so there is no fixed distance. Poznań is the Polish flagship venue; entry fees go to spinal cord research.",
+      "summary": "The Polish flagship location of the global run with no finish line."
+    },
+    "pl": {
+      "description": "Wszyscy startują w tej samej chwili na całym świecie i biegną, dopóki nie wyprzedzi ich samochód pościgowy — dystans nie jest z góry ustalony. Poznań jest polską lokalizacją flagową, a wpisowe zasila badania nad urazami rdzenia kręgowego.",
+      "summary": "Polska lokalizacja flagowa światowego biegu bez mety."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-05-09",
+  "dateStatus": "estimated",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Poznań",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Wings for Life World Run — Poznań",
+  "registrationUrl": null,
+  "slug": "wings-for-life-poznan",
+  "source": {
+    "fetchedAt": "2026-09-06T20:07:39.258Z",
+    "id": "curated",
+    "ref": "wings-for-life-poznan",
+    "url": "https://www.wingsforlifeworldrun.com/pl"
+  },
+  "start": {
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "charity",
+    "city",
+    "open-ended",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:07:39.178Z",
+  "website": "https://www.wingsforlifeworldrun.com/pl"
+}

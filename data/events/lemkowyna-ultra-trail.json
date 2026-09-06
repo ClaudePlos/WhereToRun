@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn trails through quiet, depopulated valleys in the Low Beskids, with the longest option running well past a hundred kilometres. Known for its atmosphere rather than its crowds.",
+      "summary": "A Beskid Niski ultra through the old Lemko lands, with several distances."
+    },
+    "pl": {
+      "description": "Jesienne szlaki przez ciche, wyludnione doliny Beskidu Niskiego, przy czym najdłuższa opcja przekracza sto kilometrów. Bieg znany raczej z atmosfery niż z tłumów.",
+      "summary": "Ultramaraton po Beskidzie Niskim, przez dawne ziemie łemkowskie, z kilkoma dystansami."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-09-11",
+  "dateStatus": "estimated",
+  "distances": [
+    "150 km",
+    "70 km",
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Krynica-Zdrój",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Łemkowyna Ultra Trail",
+  "registrationUrl": null,
+  "slug": "lemkowyna-ultra-trail",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "lemkowyna-ultra-trail",
+    "url": null
+  },
+  "start": {
+    "lat": 49.4194,
+    "lon": 20.9569,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "mountain",
+    "poland",
+    "trail",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

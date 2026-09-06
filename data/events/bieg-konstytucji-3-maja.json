@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run every year on 3 May, the national holiday, on a flat course in the city centre. The fixed date makes it one of the few Polish races you can plan a season around years ahead.",
+      "summary": "A fast 5 km through central Warsaw, always on Constitution Day."
+    },
+    "pl": {
+      "description": "Rozgrywany co roku 3 maja, w święto narodowe, na płaskiej trasie w centrum miasta. Stała data sprawia, że to jeden z niewielu polskich biegów, wokół których można planować sezon z wieloletnim wyprzedzeniem.",
+      "summary": "Szybkie 5 km przez centrum Warszawy, zawsze w Święto Konstytucji."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-05-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Warszawa",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bieg Konstytucji 3 Maja",
+  "registrationUrl": null,
+  "slug": "bieg-konstytucji-3-maja",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "bieg-konstytucji-3-maja",
+    "url": null
+  },
+  "start": {
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "5k",
+    "city",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

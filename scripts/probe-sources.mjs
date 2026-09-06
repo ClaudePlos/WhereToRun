@@ -138,6 +138,80 @@ export const ENDPOINTS = [
     note: 'Landing page — read it for the real JSON URL if the dump moves',
     url: 'https://runraceusa.com/api',
   },
+  // --- Polish and other-sport candidates -----------------------------------
+  {
+    id: 'pl-festiwalbiegow',
+    status: 'candidate',
+    note: 'DEAD END: the api. host serves an HTML page, no JSON on this path',
+    url: 'https://api.festiwalbiegow.pl/portal/calendar',
+  },
+  {
+    id: 'pl-elektronicznezapisy',
+    status: 'candidate',
+    note: 'DEAD END: server-rendered HTML, no .json links and no /api/ paths',
+    url: 'https://elektronicznezapisy.pl/1/bieg.html',
+  },
+  {
+    id: 'pl-kalendarzbiegowy',
+    status: 'candidate',
+    note: 'HTML, but the site is WordPress — see pl-kalendarzbiegowy-wp',
+    url: 'https://kalendarzbiegowy.pl/',
+  },
+  {
+    id: 'pl-b4sport',
+    status: 'candidate',
+    note: 'DEAD END: HTML only, and /wp-json 404s',
+    url: 'https://b4sportonline.pl/kalendarz/',
+  },
+  {
+    id: 'pl-enduhub',
+    status: 'candidate',
+    note: 'DEAD END: 760 kB of server-rendered HTML, no API surface',
+    url: 'https://enduhub.com/pl/calendars/planowane/',
+  },
+  {
+    id: 'pl-maratonypolskie',
+    status: 'candidate',
+    note: 'DEAD END: XHTML 1.0 page, no API surface',
+    url: 'https://www.maratonypolskie.pl/',
+  },
+  {
+    id: 'pl-festiwalbiegow-json',
+    status: 'candidate',
+    note: 'DEAD END: still HTML with JSON-LD, not a data API',
+    url: 'https://api.festiwalbiegow.pl/portal/calendar',
+    accept: 'application/json',
+  },
+  {
+    id: 'pl-kalendarzbiegowy-wp',
+    status: 'candidate',
+    note: 'LIVE: WordPress REST answers here — the only Polish endpoint that did',
+    url: 'https://kalendarzbiegowy.pl/wp-json/',
+  },
+  {
+    id: 'pl-kb-types',
+    status: 'candidate',
+    note: 'Which post types does the WordPress REST API expose? Races may be one',
+    url: 'https://kalendarzbiegowy.pl/wp-json/wp/v2/types',
+  },
+  {
+    id: 'pl-kb-tribe',
+    status: 'candidate',
+    note: 'DEAD END: rest_no_route — the site does not run that plugin',
+    url: 'https://kalendarzbiegowy.pl/wp-json/tribe/events/v1/events?per_page=3',
+  },
+  {
+    id: 'pl-b4sport-wp',
+    status: 'candidate',
+    note: 'DEAD END: 404, not WordPress',
+    url: 'https://b4sportonline.pl/wp-json/',
+  },
+  {
+    id: 'chess-lichess',
+    status: 'candidate',
+    note: 'WORKS, but records carry no location at all — wrong shape for this portal',
+    url: 'https://lichess.org/api/tournament',
+  },
   {
     id: 'nominatim',
     status: 'candidate',
@@ -224,7 +298,7 @@ async function probe(endpoint, fetchImpl) {
   try {
     response = await fetchImpl(endpoint.url, {
       headers: {
-        Accept: 'application/json, text/html;q=0.8',
+        Accept: endpoint.accept ?? 'application/json, text/html;q=0.8',
         'User-Agent': 'WhereToRun/0.1 (+https://github.com/ClaudePlos/WhereToRun)',
       },
       redirect: 'follow',
@@ -253,9 +327,15 @@ async function probe(endpoint, fetchImpl) {
     // usually enough to find the real endpoint from a documentation page.
     const title = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(body)?.[1]?.trim();
     const candidates = [...body.matchAll(/https?:\/\/[^\s"'<>]+\.(?:json|csv)\b/gi)].map((m) => m[0]);
+    const apiPaths = [...body.matchAll(/["'`](\/?(?:[a-z0-9._-]+\/)*api\/[a-z0-9._\-/]+)["'`]/gi)]
+      .map((m) => m[1])
+      .filter((path) => path.length < 120);
     console.log(`    non-JSON response. title: ${title ?? '(none)'}`);
-    if (candidates.length > 0) console.log(`    data links found: ${[...new Set(candidates)].slice(0, 5).join(', ')}`);
-    else console.log(`    body: ${body.slice(0, 200).replace(/\s+/g, ' ')}`);
+    if (candidates.length > 0) console.log(`    data links: ${[...new Set(candidates)].slice(0, 5).join(', ')}`);
+    if (apiPaths.length > 0) console.log(`    api paths: ${[...new Set(apiPaths)].slice(0, 8).join(', ')}`);
+    if (candidates.length === 0 && apiPaths.length === 0) {
+      console.log(`    body: ${body.slice(0, 200).replace(/\s+/g, ' ')}`);
+    }
     return { id: endpoint.id, ok: false };
   }
 
@@ -308,7 +388,14 @@ async function probe(endpoint, fetchImpl) {
 
 export async function main(argv = [], { fetchImpl = fetch } = {}) {
   const wanted = argv.filter((arg) => !arg.startsWith('-'));
-  const selected = wanted.length > 0 ? ENDPOINTS.filter((e) => wanted.includes(e.id)) : ENDPOINTS;
+  // A bare URL is probed as-is. Checking whether a hand-entered organiser link
+  // actually resolves is a one-off question that should not need a code change.
+  const adHoc = wanted.filter((arg) => /^https?:\/\//i.test(arg))
+    .map((url) => ({ id: new URL(url).hostname, status: 'ad-hoc', url }));
+  const ids = wanted.filter((arg) => !/^https?:\/\//i.test(arg));
+  const selected = adHoc.length > 0
+    ? adHoc
+    : (ids.length > 0 ? ENDPOINTS.filter((e) => ids.includes(e.id)) : ENDPOINTS);
   if (selected.length === 0) {
     console.error(`No endpoint matched. Known ids: ${ENDPOINTS.map((e) => e.id).join(', ')}`);
     process.exitCode = 1;

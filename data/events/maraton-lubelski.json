@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A city marathon on gently rolling terrain, held in September. Smaller and less crowded than the Warsaw or Kraków fields.",
+      "summary": "An early-autumn marathon through Lublin, in eastern Poland."
+    },
+    "pl": {
+      "description": "Miejski maraton na lekko falującym terenie, rozgrywany we wrześniu. Mniejszy i mniej zatłoczony niż stawki w Warszawie czy Krakowie.",
+      "summary": "Wczesnojesienny maraton przez Lublin, we wschodniej Polsce."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-09-19",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lublin",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Maraton Lubelski",
+  "registrationUrl": null,
+  "slug": "maraton-lubelski",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "maraton-lubelski",
+    "url": null
+  },
+  "start": {
+    "lat": 51.2465,
+    "lon": 22.5684,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

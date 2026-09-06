@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "A summer evening start turns the city centre into a night course, which sidesteps the June heat and gives the race its character. Expect a party atmosphere rather than a time trial.",
+      "summary": "Half marathon run after dark through a lit-up Wrocław, in June."
+    },
+    "pl": {
+      "description": "Letni wieczorny start zamienia centrum w nocną trasę, co pozwala uciec od czerwcowego upału i nadaje biegowi charakter. Nastawiaj się raczej na atmosferę święta niż na walkę z czasem.",
+      "summary": "Półmaraton biegnięty po zmroku przez rozświetlony Wrocław, w czerwcu."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-06-19",
+  "dateStatus": "estimated",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wrocław",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Nocny Wrocław Półmaraton",
+  "registrationUrl": null,
+  "slug": "nocny-polmaraton-wroclaw",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "nocny-polmaraton-wroclaw",
+    "url": null
+  },
+  "start": {
+    "lat": 51.1079,
+    "lon": 17.0385,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "half-marathon",
+    "night",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

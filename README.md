@@ -78,8 +78,11 @@ node scripts/probe-sources.mjs             # every endpoint
 node scripts/probe-sources.mjs duv         # just one
 ```
 
-It prints each endpoint's status, payload shape and first record. The same script runs from
-the Actions tab as **Probe data sources** — useful when a collector run reports `fetched: 0`
+It prints each endpoint's status, payload shape and first record, and each entry carries the
+verdict from the last time it was probed — including the dead ends, so nobody repeats the
+search. Polish race calendars were all checked this way in September 2026: ElektroniczneZapisy,
+B4Sport, Enduhub, MaratonyPolskie, KalendarzBiegowy and Portal Biegowy serve HTML only, with no
+JSON API behind them. The same script runs from the Actions tab as **Probe data sources** — useful when a collector run reports `fetched: 0`
 and you need to know whether the endpoint died or just renamed a field.
 
 ### Repository setup
@@ -188,8 +191,11 @@ node scripts/probe-sources.mjs             # wszystkie endpointy
 node scripts/probe-sources.mjs duv         # tylko jeden
 ```
 
-Skrypt wypisuje status, kształt odpowiedzi i pierwszy rekord. To samo uruchamia się z zakładki
-Actions jako **Probe data sources** — przydaje się, gdy kolektor raportuje `fetched: 0` i trzeba
+Skrypt wypisuje status, kształt odpowiedzi i pierwszy rekord, a każdy wpis nosi werdykt z
+ostatniego sprawdzenia — łącznie ze ślepymi uliczkami, żeby nikt nie powtarzał tych samych
+poszukiwań. Polskie kalendarze biegowe zostały tak sprawdzone we wrześniu 2026: Elektroniczne
+Zapisy, B4Sport, Enduhub, MaratonyPolskie, KalendarzBiegowy i Portal Biegowy serwują wyłącznie
+HTML, bez API pod spodem. To samo uruchamia się z zakładki Actions jako **Probe data sources** — przydaje się, gdy kolektor raportuje `fetched: 0` i trzeba
 wiedzieć, czy endpoint padł, czy tylko zmienił nazwy pól.
 
 ### Konfiguracja repozytorium
