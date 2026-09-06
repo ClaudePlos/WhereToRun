@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Fall - Mud Mountain Dam Marathon & Half Marathon is a trail race. Location: Enumclaw, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Enumclaw, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Fall - Mud Mountain Dam Marathon & Half Marathon to bieg trailowy. Lokalizacja: Enumclaw, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Enumclaw, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Enumclaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Fall - Mud Mountain Dam Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fall-mud-mountain-dam-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "fall-mud-mountain-dam-marathon-half-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.27,
+    "lon": -122.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Hills Veterans March and Marathon is a road race. Location: Deadwood, United States. Date: Wednesday, 16 September 2026. Distances: u100m, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Deadwood, United States, Wednesday, 16 September 2026"
+    },
+    "pl": {
+      "description": "Black Hills Veterans March and Marathon to bieg uliczny. Lokalizacja: Deadwood, Stany Zjednoczone. Termin: środa, 16 września 2026. Dystanse: u100m, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Deadwood, Stany Zjednoczone, środa, 16 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Deadwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Black Hills Veterans March and Marathon",
+  "registrationUrl": "https://runsignup.com/Race/SD/Deadwood/BlackHillsVeteransMarchandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "black-hills-veterans-march-and-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "black-hills-veterans-march-and-marathon-sd",
+    "url": "https://runsignup.com/Race/SD/Deadwood/BlackHillsVeteransMarchandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.38,
+    "lon": -103.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/SD/Deadwood/BlackHillsVeteransMarchandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

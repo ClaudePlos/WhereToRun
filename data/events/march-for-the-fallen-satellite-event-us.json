@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "March For The Fallen - Satellite Event is a road race. Location: Cambridge Springs, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cambridge Springs, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "March For The Fallen - Satellite Event to bieg uliczny. Lokalizacja: Cambridge Springs, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cambridge Springs, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cambridge Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "March For The Fallen - Satellite Event",
+  "registrationUrl": "https://runsignup.com/Race/PA/CambridgeSprings/MarchForTheFallenSatelliteEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "march-for-the-fallen-satellite-event-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "march-for-the-fallen-satellite-event-pa",
+    "url": "https://runsignup.com/Race/PA/CambridgeSprings/MarchForTheFallenSatelliteEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.8,
+    "lon": -80.06,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/PA/CambridgeSprings/MarchForTheFallenSatelliteEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

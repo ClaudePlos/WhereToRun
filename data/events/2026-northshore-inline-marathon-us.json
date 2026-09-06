@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 - NorthShore Inline Marathon is a road race. Location: Duluth, United States. Date: Friday, 18 September 2026. Distances: 42.2 km, ultra, 21.1 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Duluth, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "2026 - NorthShore Inline Marathon to bieg uliczny. Lokalizacja: Duluth, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: 42.2 km, ultra, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Duluth, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "ultra",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "2026 - NorthShore Inline Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MN/Duluth/NorthShoreInlineMarathonandSkateFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-northshore-inline-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "2026-northshore-inline-marathon-mn",
+    "url": "https://runsignup.com/Race/MN/Duluth/NorthShoreInlineMarathonandSkateFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.77,
+    "lon": -92.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/MN/Duluth/NorthShoreInlineMarathonandSkateFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

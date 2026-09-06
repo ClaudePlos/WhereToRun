@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chihuahua by UTMB - 100M is a ultramarathon. Location: Batopilas, Mexico. Date: 1 October 2026 – 3 October 2026. Distances: 155 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Batopilas, Mexico, 1 October 2026 – 3 October 2026"
+    },
+    "pl": {
+      "description": "Chihuahua by UTMB - 100M to ultramaraton. Lokalizacja: Batopilas, Meksyk. Termin: 1 października 2026 – 3 października 2026. Dystanse: 155 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Batopilas, Meksyk, 1 października 2026 – 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-10-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "155 km"
+  ],
+  "endDate": "2026-10-03",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Batopilas",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chihuahua by UTMB - 100M",
+  "registrationUrl": null,
+  "slug": "chihuahua-by-utmb-100m-mx",
+  "source": {
+    "fetchedAt": "2026-09-06T16:18:12.930Z",
+    "id": "duv",
+    "ref": "128895",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128895"
+  },
+  "start": {
+    "lat": 27.027105,
+    "lon": -107.739236,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": null
+}

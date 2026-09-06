@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Ruidoso Runfest is a road race. Location: Fort Stanton, United States. Date: Friday, 18 September 2026. Distances: 5 km, other, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Stanton, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Ruidoso Runfest to bieg uliczny. Lokalizacja: Fort Stanton, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: 5 km, other, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Stanton, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Stanton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Ruidoso Runfest",
+  "registrationUrl": "https://raceroster.com/events/2026/94941/ruidoso-runfest",
+  "slug": "ruidoso-runfest-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "ruidoso-runfest-nm",
+    "url": "https://raceroster.com/events/2026/94941/ruidoso-runfest"
+  },
+  "start": {
+    "lat": 33.5,
+    "lon": -105.52,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://raceroster.com/events/2026/94941/ruidoso-runfest"
+}

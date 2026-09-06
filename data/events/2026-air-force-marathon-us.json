@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Air Force Marathon is a road race. Location: Dayton, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Dayton, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "2026 Air Force Marathon to bieg uliczny. Lokalizacja: Dayton, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Dayton, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dayton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "2026 Air Force Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/111482/2026-air-force-marathon",
+  "slug": "2026-air-force-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "2026-air-force-marathon-oh",
+    "url": "https://raceroster.com/events/2026/111482/2026-air-force-marathon"
+  },
+  "start": {
+    "lat": 39.7581,
+    "lon": -84.2001,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://raceroster.com/events/2026/111482/2026-air-force-marathon"
+}

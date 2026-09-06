@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Waco Wild West 100 is a road race. Location: Waco, United States. Date: Sunday, 13 September 2026. Distances: u50m, u100m, u100k, 42.2 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Waco, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Waco Wild West 100 to bieg uliczny. Lokalizacja: Waco, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: u50m, u100m, u100k, 42.2 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Waco, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u100m",
+    "u100k",
+    "42.2 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waco",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Waco Wild West 100",
+  "registrationUrl": "https://runsignup.com/Race/TX/Waco/WacoWildWest100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "waco-wild-west-100-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "waco-wild-west-100-tx",
+    "url": "https://runsignup.com/Race/TX/Waco/WacoWildWest100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.55,
+    "lon": -97.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/TX/Waco/WacoWildWest100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tunnel Light Marathon & Half is a road race. Location: Snoqualmie Pass, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Snoqualmie Pass, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Tunnel Light Marathon & Half to bieg uliczny. Lokalizacja: Snoqualmie Pass, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Snoqualmie Pass, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Snoqualmie Pass",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Tunnel Light Marathon & Half",
+  "registrationUrl": "https://runsignup.com/Race/WA/SnoqualmiePass/TunnelLightMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tunnel-light-marathon-half-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "tunnel-light-marathon-half-wa",
+    "url": "https://runsignup.com/Race/WA/SnoqualmiePass/TunnelLightMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.45,
+    "lon": -121.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/WA/SnoqualmiePass/TunnelLightMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

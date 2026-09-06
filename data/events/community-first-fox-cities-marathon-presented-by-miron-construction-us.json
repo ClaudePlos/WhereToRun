@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Community First Fox Cities Marathon presented by Miron Construction is a road race. Location: Menasha, United States. Date: Friday, 18 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Menasha, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Community First Fox Cities Marathon presented by Miron Construction to bieg uliczny. Lokalizacja: Menasha, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Menasha, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Menasha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Community First Fox Cities Marathon presented by Miron Construction",
+  "registrationUrl": "https://runsignup.com/Race/WI/Menasha/FoxCitiesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "community-first-fox-cities-marathon-presented-by-miron-construction-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "community-first-fox-cities-marathon-presented-by-miron-construction-wi",
+    "url": "https://runsignup.com/Race/WI/Menasha/FoxCitiesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.21,
+    "lon": -88.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/WI/Menasha/FoxCitiesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

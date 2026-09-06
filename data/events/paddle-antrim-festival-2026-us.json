@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Paddle Antrim Festival 2026 is a road race. Location: Elk Rapids, United States. Date: Saturday, 19 September 2026. Distances: other, 42.2 km, u50k, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Elk Rapids, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Paddle Antrim Festival 2026 to bieg uliczny. Lokalizacja: Elk Rapids, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: other, 42.2 km, u50k, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Elk Rapids, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "u50k",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elk Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Paddle Antrim Festival 2026",
+  "registrationUrl": "https://runsignup.com/Race/MI/ElkRapids/PaddleAntrimFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "paddle-antrim-festival-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "paddle-antrim-festival-2026-mi",
+    "url": "https://runsignup.com/Race/MI/ElkRapids/PaddleAntrimFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.9,
+    "lon": -85.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/MI/ElkRapids/PaddleAntrimFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

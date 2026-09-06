@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "SHSH Backyard Ultra 2026 is a ultramarathon. Location: Dover, United States. Date: Friday, 18 September 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dover, United States, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "SHSH Backyard Ultra 2026 to ultramaraton. Lokalizacja: Dover, Stany Zjednoczone. Termin: piątek, 18 września 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dover, Stany Zjednoczone, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DE"
+  },
+  "manual": false,
+  "name": "SHSH Backyard Ultra 2026",
+  "registrationUrl": "https://runsignup.com/Race/DE/Dover/SHSHBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "shsh-backyard-ultra-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "shsh-backyard-ultra-2026-de",
+    "url": "https://runsignup.com/Race/DE/Dover/SHSHBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.16,
+    "lon": -75.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/DE/Dover/SHSHBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

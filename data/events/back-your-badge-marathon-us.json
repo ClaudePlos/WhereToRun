@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Back Your Badge Marathon is a road race. Location: Plainfield, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Plainfield, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Back Your Badge Marathon to bieg uliczny. Lokalizacja: Plainfield, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Plainfield, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Plainfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Back Your Badge Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IN/Plainfield/BackYourBadgeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "back-your-badge-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "back-your-badge-marathon-in",
+    "url": "https://runsignup.com/Race/IN/Plainfield/BackYourBadgeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.69,
+    "lon": -86.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://runsignup.com/Race/IN/Plainfield/BackYourBadgeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultrafondo Tabasco 24 horas is a ultramarathon. Location: Villahermosa, Mexico. Date: Saturday, 26 September 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Villahermosa, Mexico, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Ultrafondo Tabasco 24 horas to ultramaraton. Lokalizacja: Villahermosa, Meksyk. Termin: sobota, 26 września 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Villahermosa, Meksyk, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Villahermosa",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultrafondo Tabasco 24 horas",
+  "registrationUrl": null,
+  "slug": "ultrafondo-tabasco-24-horas-mx",
+  "source": {
+    "fetchedAt": "2026-09-06T16:18:12.930Z",
+    "id": "duv",
+    "ref": "132229",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132229"
+  },
+  "start": {
+    "lat": 17.988466,
+    "lon": -92.936633,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": null
+}

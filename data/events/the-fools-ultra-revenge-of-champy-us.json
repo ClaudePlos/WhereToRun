@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Fools' Ultra: Revenge of Champy is a ultramarathon. Location: Crown Point, United States. Date: Tuesday, 15 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Crown Point, United States, Tuesday, 15 September 2026"
+    },
+    "pl": {
+      "description": "The Fools' Ultra: Revenge of Champy to ultramaraton. Lokalizacja: Crown Point, Stany Zjednoczone. Termin: wtorek, 15 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Crown Point, Stany Zjednoczone, wtorek, 15 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Crown Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "The Fools' Ultra: Revenge of Champy",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18600",
+  "slug": "the-fools-ultra-revenge-of-champy-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "the-fools-ultra-revenge-of-champy-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=18600"
+  },
+  "start": {
+    "lat": 44.03,
+    "lon": -73.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18600"
+}

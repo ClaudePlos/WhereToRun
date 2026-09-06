@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sundance to Spearfish Marathon is a road race. Location: Spearfish, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Spearfish, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Sundance to Spearfish Marathon to bieg uliczny. Lokalizacja: Spearfish, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Spearfish, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spearfish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Sundance to Spearfish Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/112111/sundance-to-spearfish-marathon",
+  "slug": "sundance-to-spearfish-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "id": "runraceusa",
+    "ref": "sundance-to-spearfish-marathon-sd",
+    "url": "https://raceroster.com/events/2026/112111/sundance-to-spearfish-marathon"
+  },
+  "start": {
+    "lat": 44.4946,
+    "lon": -103.865,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": "https://raceroster.com/events/2026/112111/sundance-to-spearfish-marathon"
+}

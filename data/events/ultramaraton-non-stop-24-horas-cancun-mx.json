@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramaraton non stop 24 horas Cancún is a ultramarathon. Location: Cancún, Mexico. Date: 30 January 2027 – 31 January 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Cancún, Mexico, 30 January 2027 – 31 January 2027"
+    },
+    "pl": {
+      "description": "Ultramaraton non stop 24 horas Cancún to ultramaraton. Lokalizacja: Cancún, Meksyk. Termin: 30 stycznia 2027 – 31 stycznia 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Cancún, Meksyk, 30 stycznia 2027 – 31 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-06T16:17:46.960Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-01-31",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cancún",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramaraton non stop 24 horas Cancún",
+  "registrationUrl": null,
+  "slug": "ultramaraton-non-stop-24-horas-cancun-mx",
+  "source": {
+    "fetchedAt": "2026-09-06T16:18:12.930Z",
+    "id": "duv",
+    "ref": "129013",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129013"
+  },
+  "start": {
+    "lat": 21.152747,
+    "lon": -86.842576,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "website": null
+}

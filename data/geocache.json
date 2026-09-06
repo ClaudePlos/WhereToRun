@@ -356,6 +356,51 @@
     "lon": -5.8369957,
     "name": "Zagora ⵣⴰⴳⵓⵔⴰ زاكورة, Pachalik de Zagora باشوية زاكورة, Province de Zagora ⵍⵉⵇⵍⵉⵎ ⵏ ⵣⴰⴳⵓⵔⴰ إقليم زاكورة, Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت, 49500, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
+  "MX|barrancas del cobre": {
+    "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|batopilas": {
+    "at": "2026-09-06T16:17:46.960Z",
+    "lat": 27.0271046,
+    "lon": -107.7392365,
+    "name": "Batopilas, Chihuahua, 33400, México"
+  },
+  "MX|cancun": {
+    "at": "2026-09-06T16:17:46.960Z",
+    "lat": 21.1527467,
+    "lon": -86.8425761,
+    "name": "Cancún, Benito Juárez, Distrito 5, Quintana Roo, México"
+  },
+  "MX|cancún": {
+    "at": "2026-09-06T16:17:46.960Z",
+    "lat": 21.1527467,
+    "lon": -86.8425761,
+    "name": "Cancún, Benito Juárez, Distrito 5, Quintana Roo, México"
+  },
+  "MX|cerocahui": {
+    "at": "2026-09-06T16:17:46.960Z",
+    "lat": 27.2980156,
+    "lon": -108.0553402,
+    "name": "San Francisco Javier de Cerocahui, Urique, Chihuahua, 31149, México"
+  },
+  "MX|rosales, chihuahua": {
+    "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|san pancho, aguascalientes": {
+    "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|tlaltizapán, morelos": {
+    "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|valle de bravo, mexico": {
+    "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|villahermosa": {
+    "at": "2026-09-06T16:17:46.960Z",
+    "lat": 17.9884657,
+    "lon": -92.9366326,
+    "name": "Villahermosa, Centro, Tabasco, México"
+  },
   "NO|bergen": {
     "at": "2026-09-04T22:20:28.980Z",
     "lat": 60.3943055,
