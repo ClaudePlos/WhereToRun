@@ -138,6 +138,49 @@ export const ENDPOINTS = [
     note: 'Landing page — read it for the real JSON URL if the dump moves',
     url: 'https://runraceusa.com/api',
   },
+  // --- Polish and other-sport candidates -----------------------------------
+  {
+    id: 'pl-festiwalbiegow',
+    status: 'candidate',
+    note: 'Portal Biegowy — the one search hit with a real api. subdomain',
+    url: 'https://api.festiwalbiegow.pl/portal/calendar',
+  },
+  {
+    id: 'pl-elektronicznezapisy',
+    status: 'candidate',
+    note: 'Big PL registration platform; read the page for the API its JS calls',
+    url: 'https://elektronicznezapisy.pl/1/bieg.html',
+  },
+  {
+    id: 'pl-kalendarzbiegowy',
+    status: 'candidate',
+    note: 'PL running calendar, all distances',
+    url: 'https://kalendarzbiegowy.pl/',
+  },
+  {
+    id: 'pl-b4sport',
+    status: 'candidate',
+    note: 'PL registration platform calendar',
+    url: 'https://b4sportonline.pl/kalendarz/',
+  },
+  {
+    id: 'pl-enduhub',
+    status: 'candidate',
+    note: 'PL results and calendar database, running plus triathlon',
+    url: 'https://enduhub.com/pl/calendars/planowane/',
+  },
+  {
+    id: 'pl-maratonypolskie',
+    status: 'candidate',
+    note: 'The long-running PL race calendar',
+    url: 'https://www.maratonypolskie.pl/',
+  },
+  {
+    id: 'chess-lichess',
+    status: 'candidate',
+    note: 'Documented open API — but online chess, not events with a start line',
+    url: 'https://lichess.org/api/tournament',
+  },
   {
     id: 'nominatim',
     status: 'candidate',
@@ -253,9 +296,15 @@ async function probe(endpoint, fetchImpl) {
     // usually enough to find the real endpoint from a documentation page.
     const title = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(body)?.[1]?.trim();
     const candidates = [...body.matchAll(/https?:\/\/[^\s"'<>]+\.(?:json|csv)\b/gi)].map((m) => m[0]);
+    const apiPaths = [...body.matchAll(/["'`](\/?(?:[a-z0-9._-]+\/)*api\/[a-z0-9._\-/]+)["'`]/gi)]
+      .map((m) => m[1])
+      .filter((path) => path.length < 120);
     console.log(`    non-JSON response. title: ${title ?? '(none)'}`);
-    if (candidates.length > 0) console.log(`    data links found: ${[...new Set(candidates)].slice(0, 5).join(', ')}`);
-    else console.log(`    body: ${body.slice(0, 200).replace(/\s+/g, ' ')}`);
+    if (candidates.length > 0) console.log(`    data links: ${[...new Set(candidates)].slice(0, 5).join(', ')}`);
+    if (apiPaths.length > 0) console.log(`    api paths: ${[...new Set(apiPaths)].slice(0, 8).join(', ')}`);
+    if (candidates.length === 0 && apiPaths.length === 0) {
+      console.log(`    body: ${body.slice(0, 200).replace(/\s+/g, ' ')}`);
+    }
     return { id: endpoint.id, ok: false };
   }
 
