@@ -176,6 +176,25 @@ export const ENDPOINTS = [
     url: 'https://www.maratonypolskie.pl/',
   },
   {
+    id: 'pl-festiwalbiegow-json',
+    status: 'candidate',
+    note: 'It echoed our Accept header back — ask for JSON only',
+    url: 'https://api.festiwalbiegow.pl/portal/calendar',
+    accept: 'application/json',
+  },
+  {
+    id: 'pl-kalendarzbiegowy-wp',
+    status: 'candidate',
+    note: 'The site is WordPress, which exposes a REST API by default',
+    url: 'https://kalendarzbiegowy.pl/wp-json/',
+  },
+  {
+    id: 'pl-b4sport-wp',
+    status: 'candidate',
+    note: 'Same guess for the other WordPress-looking calendar',
+    url: 'https://b4sportonline.pl/wp-json/',
+  },
+  {
     id: 'chess-lichess',
     status: 'candidate',
     note: 'Documented open API — but online chess, not events with a start line',
@@ -267,7 +286,7 @@ async function probe(endpoint, fetchImpl) {
   try {
     response = await fetchImpl(endpoint.url, {
       headers: {
-        Accept: 'application/json, text/html;q=0.8',
+        Accept: endpoint.accept ?? 'application/json, text/html;q=0.8',
         'User-Agent': 'WhereToRun/0.1 (+https://github.com/ClaudePlos/WhereToRun)',
       },
       redirect: 'follow',
