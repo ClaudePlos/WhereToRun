@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Skagit Flats Marathon, Half & 5k is a road race. Location: Burlington, United States. Date: Sunday, 13 September 2026. Distances: 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Burlington, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Skagit Flats Marathon, Half & 5k to bieg uliczny. Lokalizacja: Burlington, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Burlington, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burlington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Skagit Flats Marathon, Half & 5k",
+  "registrationUrl": "https://runsignup.com/Race/WA/Burlington/SkagitFlatsRunTheValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "skagit-flats-marathon-half-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "skagit-flats-marathon-half-5k-wa",
+    "url": "https://runsignup.com/Race/WA/Burlington/SkagitFlatsRunTheValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.48,
+    "lon": -122.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/WA/Burlington/SkagitFlatsRunTheValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

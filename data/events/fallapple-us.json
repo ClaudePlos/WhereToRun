@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "FallApple is a road race. Location: South Orange, United States. Date: Saturday, 12 September 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Orange, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "FallApple to bieg uliczny. Lokalizacja: South Orange, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Orange, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Orange",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "FallApple",
+  "registrationUrl": "https://runsignup.com/Race/NJ/SouthOrange/FallApple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fallapple-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "fallapple-nj",
+    "url": "https://runsignup.com/Race/NJ/SouthOrange/FallApple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.75,
+    "lon": -74.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/NJ/SouthOrange/FallApple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

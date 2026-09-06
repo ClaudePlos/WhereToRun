@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Chance BQ.2 - Grand Rapids is a road race. Location: Grand Rapids, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Grand Rapids, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Last Chance BQ.2 - Grand Rapids to bieg uliczny. Lokalizacja: Grand Rapids, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Grand Rapids, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Last Chance BQ.2 - Grand Rapids",
+  "registrationUrl": "https://runsignup.com/Race/MI/GrandRapids/LastChanceBQGR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-chance-bq-2-grand-rapids-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "last-chance-bq-2-grand-rapids-mi",
+    "url": "https://runsignup.com/Race/MI/GrandRapids/LastChanceBQGR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.01,
+    "lon": -85.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/MI/GrandRapids/LastChanceBQGR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

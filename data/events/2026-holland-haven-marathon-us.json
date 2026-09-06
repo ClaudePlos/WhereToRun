@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Holland Haven Marathon is a road race. Location: Holland, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Holland, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "2026 Holland Haven Marathon to bieg uliczny. Lokalizacja: Holland, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Holland, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "2026 Holland Haven Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MI/Holland/HollandHavenMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-holland-haven-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "2026-holland-haven-marathon-mi",
+    "url": "https://runsignup.com/Race/MI/Holland/HollandHavenMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.77,
+    "lon": -86.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/MI/Holland/HollandHavenMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

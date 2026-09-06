@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Praias Paran 65km is a ultramarathon. Location: Pontal do Paraná, Brazil. Date: Saturday, 26 September 2026. Distances: 65 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pontal do Paraná, Brazil, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Ultra Praias Paran 65km to ultramaraton. Lokalizacja: Pontal do Paraná, Brazylia. Termin: sobota, 26 września 2026. Dystanse: 65 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pontal do Paraná, Brazylia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "65 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pontal do Paraná",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Praias Paran 65km",
+  "registrationUrl": null,
+  "slug": "ultra-praias-paran-65km-br",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:56.897Z",
+    "id": "duv",
+    "ref": "132661",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132661"
+  },
+  "start": {
+    "lat": -25.574765,
+    "lon": -48.361481,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": null
+}

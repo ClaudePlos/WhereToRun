@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Trash Panda, An Awesomesauce Event presented by Run Chattanooga is a road race. Location: Chattanooga, United States. Date: Saturday, 12 September 2026. Distances: 5 km, 10 km, 21.1 km, other, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chattanooga, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Trash Panda, An Awesomesauce Event presented by Run Chattanooga to bieg uliczny. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 5 km, 10 km, 21.1 km, other, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chattanooga, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "other",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Trash Panda, An Awesomesauce Event presented by Run Chattanooga",
+  "registrationUrl": "https://runsignup.com/Race/TN/Chattanooga/TrashPanda?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "trash-panda-an-awesomesauce-event-presented-by-run-chattanooga-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "trash-panda-an-awesomesauce-event-presented-by-run-chattanooga-tn",
+    "url": "https://runsignup.com/Race/TN/Chattanooga/TrashPanda?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.03,
+    "lon": -85.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/TN/Chattanooga/TrashPanda?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "1000 km Brasil - 50km is a ultramarathon. Location: Sao Lourenco, Brazil. Date: Wednesday, 23 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sao Lourenco, Brazil, Wednesday, 23 September 2026"
+    },
+    "pl": {
+      "description": "1000 km Brasil - 50km to ultramaraton. Lokalizacja: Sao Lourenco, Brazylia. Termin: środa, 23 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sao Lourenco, Brazylia, środa, 23 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sao Lourenco",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "1000 km Brasil - 50km",
+  "registrationUrl": null,
+  "slug": "1000-km-brasil-50km-br",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:56.897Z",
+    "id": "duv",
+    "ref": "123982",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123982"
+  },
+  "start": {
+    "lat": -22.116389,
+    "lon": -45.054167,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": null
+}

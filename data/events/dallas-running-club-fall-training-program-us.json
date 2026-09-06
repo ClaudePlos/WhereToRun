@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Dallas Running Club Fall Training Program is a road race. Location: Dallas, United States. Date: Saturday, 12 September 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dallas, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Dallas Running Club Fall Training Program to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Dallas Running Club Fall Training Program",
+  "registrationUrl": "https://runsignup.com/Race/TX/Dallas/DallasRunningClubFallTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dallas-running-club-fall-training-program-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "dallas-running-club-fall-training-program-tx",
+    "url": "https://runsignup.com/Race/TX/Dallas/DallasRunningClubFallTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.82,
+    "lon": -96.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/TX/Dallas/DallasRunningClubFallTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramaratona BM is a ultramarathon. Location: bertioga, Brazil. Date: Saturday, 17 October 2026. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — bertioga, Brazil, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Ultramaratona BM to ultramaraton. Lokalizacja: bertioga, Brazylia. Termin: sobota, 17 października 2026. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — bertioga, Brazylia, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "bertioga",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramaratona BM",
+  "registrationUrl": null,
+  "slug": "ultramaratona-bm-br",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:56.897Z",
+    "id": "duv",
+    "ref": "132660",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132660"
+  },
+  "start": {
+    "lat": -23.848568,
+    "lon": -46.139586,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": null
+}

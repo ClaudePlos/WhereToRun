@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Trans Sahara Marathon is a ultramarathon. Location: Zagora, Morocco. Date: 19 March 2027 – 26 March 2027. Distances: 150 km, 4Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zagora, Morocco, 19 March 2027 – 26 March 2027"
+    },
+    "pl": {
+      "description": "Trans Sahara Marathon to ultramaraton. Lokalizacja: Zagora, Maroko. Termin: 19 marca 2027 – 26 marca 2027. Dystanse: 150 km, 4Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zagora, Maroko, 19 marca 2027 – 26 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "150 km",
+    "4Etappen"
+  ],
+  "endDate": "2027-03-26",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zagora",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trans Sahara Marathon",
+  "registrationUrl": null,
+  "slug": "trans-sahara-marathon-ma",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:56.897Z",
+    "id": "duv",
+    "ref": "128632",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128632"
+  },
+  "start": {
+    "lat": 30.327905,
+    "lon": -5.836996,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": null
+}

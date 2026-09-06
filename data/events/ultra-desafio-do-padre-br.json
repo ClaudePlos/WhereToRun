@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Desafio Do Padre is a ultramarathon. Location: Caxias do Sul, Brazil. Date: Saturday, 7 November 2026. Distances: 57 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Caxias do Sul, Brazil, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Ultra Desafio Do Padre to ultramaraton. Lokalizacja: Caxias do Sul, Brazylia. Termin: sobota, 7 listopada 2026. Dystanse: 57 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Caxias do Sul, Brazylia, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "57 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Caxias do Sul",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Desafio Do Padre",
+  "registrationUrl": null,
+  "slug": "ultra-desafio-do-padre-br",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:56.898Z",
+    "id": "duv",
+    "ref": "116486",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=116486"
+  },
+  "start": {
+    "lat": -29.168504,
+    "lon": -51.179638,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": null
+}

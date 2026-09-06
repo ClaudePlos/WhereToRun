@@ -50,17 +50,41 @@
   "BR|barra do chui-rs": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|bertioga": {
+    "at": "2026-09-06T11:05:36.029Z",
+    "lat": -23.848568,
+    "lon": -46.139586,
+    "name": "Bertioga, São Paulo, Região Sudeste, Brasil"
+  },
   "BR|blumenau, sc": {
     "at": "2026-09-03T22:37:31.083Z"
   },
+  "BR|brasilia, df": {
+    "at": "2026-09-06T11:05:36.029Z"
+  },
   "BR|cajamar, sp": {
     "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|campos do jardao, sp": {
+    "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|canindé, ce": {
+    "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|caxias do sul": {
+    "at": "2026-09-06T11:05:36.029Z",
+    "lat": -29.1685045,
+    "lon": -51.1796385,
+    "name": "Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil"
   },
   "BR|florianopolis, sc": {
     "at": "2026-09-03T22:37:31.083Z"
   },
   "BR|garopaba, sc": {
     "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|gramado, rs": {
+    "at": "2026-09-06T11:05:36.029Z"
   },
   "BR|macae, rj": {
     "at": "2026-09-03T17:03:15.961Z",
@@ -89,8 +113,17 @@
     "lon": -48.3614806,
     "name": "Pontal do Paraná, Paraná, Região Sul, 83255-000, Brasil"
   },
+  "BR|porto alegre , rio grande do sul": {
+    "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|praia da ponta negra, manaus, am": {
+    "at": "2026-09-06T11:05:36.029Z"
+  },
   "BR|praia grande, sp": {
     "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|salvador ba": {
+    "at": "2026-09-06T11:05:36.029Z"
   },
   "BR|santo andré, sp": {
     "at": "2026-09-03T17:03:15.961Z"
@@ -481,5 +514,8 @@
     "lat": 36.8013283,
     "lon": 28.2313578,
     "name": "İçmeler, Marmaris, Muğla, Ege Bölgesi, 48720, Türkiye"
+  },
+  "ZA|mont-aux-sources": {
+    "at": "2026-09-06T11:05:36.029Z"
   }
 }

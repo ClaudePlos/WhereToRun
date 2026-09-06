@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lock 2 Lock Marathon/Half Marathon/10k is a road race. Location: Williamsport, United States. Date: Saturday, 12 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Williamsport, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Lock 2 Lock Marathon/Half Marathon/10k to bieg uliczny. Lokalizacja: Williamsport, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Williamsport, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamsport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Lock 2 Lock Marathon/Half Marathon/10k",
+  "registrationUrl": "https://runsignup.com/Race/MD/Williamsport/Lock2LockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lock-2-lock-marathon-half-marathon-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "lock-2-lock-marathon-half-marathon-10k-md",
+    "url": "https://runsignup.com/Race/MD/Williamsport/Lock2LockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.59,
+    "lon": -77.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/MD/Williamsport/Lock2LockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

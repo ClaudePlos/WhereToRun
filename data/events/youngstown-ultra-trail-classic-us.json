@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "YOUNGSTOWN ULTRA TRAIL CLASSIC is a ultramarathon. Location: Youngstown, United States. Date: Saturday, 12 September 2026. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Youngstown, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "YOUNGSTOWN ULTRA TRAIL CLASSIC to ultramaraton. Lokalizacja: Youngstown, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Youngstown, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Youngstown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "YOUNGSTOWN ULTRA TRAIL CLASSIC",
+  "registrationUrl": "https://runsignup.com/Race/OH/Youngstown/YoungstownUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "youngstown-ultra-trail-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "youngstown-ultra-trail-classic-oh",
+    "url": "https://runsignup.com/Race/OH/Youngstown/YoungstownUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.1,
+    "lon": -80.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/OH/Youngstown/YoungstownUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

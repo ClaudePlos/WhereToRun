@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Night Moves Trail Races is a trail race. Location: San Felipe, United States. Date: Saturday, 12 September 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Felipe, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Night Moves Trail Races to bieg trailowy. Lokalizacja: San Felipe, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Felipe, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Felipe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Night Moves Trail Races",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanFelipe/NightMovesTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "night-moves-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "night-moves-trail-races-tx",
+    "url": "https://runsignup.com/Race/TX/SanFelipe/NightMovesTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.8,
+    "lon": -96.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/TX/SanFelipe/NightMovesTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

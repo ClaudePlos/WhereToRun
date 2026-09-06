@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Civitas Marathon Relay is a road race. Location: Rock Hill, United States. Date: Saturday, 12 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Rock Hill, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "The Civitas Marathon Relay to bieg uliczny. Lokalizacja: Rock Hill, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Rock Hill, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rock Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "The Civitas Marathon Relay",
+  "registrationUrl": "https://raceroster.com/events/2026/140782/the-civitas-marathon-relay",
+  "slug": "the-civitas-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "the-civitas-marathon-relay-sc",
+    "url": "https://raceroster.com/events/2026/140782/the-civitas-marathon-relay"
+  },
+  "start": {
+    "lat": 34.9926,
+    "lon": -81.1787,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://raceroster.com/events/2026/140782/the-civitas-marathon-relay"
+}

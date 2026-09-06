@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Germantown 50k and 50k Relay (2026) is a road race. Location: Germantown, United States. Date: Saturday, 12 September 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Germantown, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Germantown 50k and 50k Relay (2026) to bieg uliczny. Lokalizacja: Germantown, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Germantown, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Germantown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Germantown 50k and 50k Relay (2026)",
+  "registrationUrl": "https://runsignup.com/Race/OH/Germantown/Germantown50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "germantown-50k-and-50k-relay-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "germantown-50k-and-50k-relay-2026-oh",
+    "url": "https://runsignup.com/Race/OH/Germantown/Germantown50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.62,
+    "lon": -84.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/OH/Germantown/Germantown50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

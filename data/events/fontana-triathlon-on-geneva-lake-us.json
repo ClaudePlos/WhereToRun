@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Fontana Triathlon on Geneva Lake is a triathlon. Location: Fontana, United States. Date: Saturday, 12 September 2026. Distances: u50k, other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Fontana, United States, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Fontana Triathlon on Geneva Lake to triatlon. Lokalizacja: Fontana, Stany Zjednoczone. Termin: sobota, 12 września 2026. Dystanse: u50k, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Fontana, Stany Zjednoczone, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fontana",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Fontana Triathlon on Geneva Lake",
+  "registrationUrl": "https://runsignup.com/Race/WI/Fontana/FontanaTriathlonOnGenevaLake?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fontana-triathlon-on-geneva-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "fontana-triathlon-on-geneva-lake-wi",
+    "url": "https://runsignup.com/Race/WI/Fontana/FontanaTriathlonOnGenevaLake?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.54,
+    "lon": -88.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/WI/Fontana/FontanaTriathlonOnGenevaLake?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Boring Marathon, Half-Boring Half Marathon, Constantly Boring 10K, and Somewhat Boring 5K Race Series is a road race. Location: Boring, United States. Date: Sunday, 13 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boring, United States, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Boring Marathon, Half-Boring Half Marathon, Constantly Boring 10K, and Somewhat Boring 5K Race Series to bieg uliczny. Lokalizacja: Boring, Stany Zjednoczone. Termin: niedziela, 13 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boring, Stany Zjednoczone, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T11:05:36.029Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boring",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Boring Marathon, Half-Boring Half Marathon, Constantly Boring 10K, and Somewhat Boring 5K Race Series",
+  "registrationUrl": "https://runsignup.com/Race/OR/Boring/BoringMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "boring-marathon-half-boring-half-marathon-constantly-boring-10k-and-somewhat-bor",
+  "source": {
+    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "id": "runraceusa",
+    "ref": "boring-marathon-half-boring-half-marathon-constantly-boring-10k-and",
+    "url": "https://runsignup.com/Race/OR/Boring/BoringMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.43,
+    "lon": -122.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "website": "https://runsignup.com/Race/OR/Boring/BoringMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
