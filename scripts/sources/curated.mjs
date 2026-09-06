@@ -403,8 +403,11 @@ const EVENTS = [
   },
   {
     slug: 'polmaraton-warszawski',
+    // Link verified by fetching it: the page identifies this race.
+    website: 'https://polmaratonwarszawski.com/',
     name: 'Półmaraton Warszawski',
-    date: '2027-03-28',
+    // The organiser's own front page says the next edition runs in April.
+    date: '2027-04-11',
     dateStatus: 'estimated',
     type: 'road',
     distances: ['21.1 km'],
@@ -417,12 +420,12 @@ const EVENTS = [
     fees: [],
     content: {
       en: {
-        summary: 'Poland\'s largest half marathon, run through the centre of Warsaw in late March.',
-        description: 'A flat, fast loop through the city centre and across the Vistula, held on a Sunday in late March. It is the biggest half marathon in the country and a common season opener before the spring marathons.',
+        summary: 'Poland\'s largest half marathon, run through the centre of Warsaw in April.',
+        description: 'A flat, fast loop through the city centre and across the Vistula, held on a Sunday in April. It is the biggest half marathon in the country and a common season opener before the spring marathons.',
       },
       pl: {
-        summary: 'Największy półmaraton w Polsce, biegnący przez centrum Warszawy pod koniec marca.',
-        description: 'Płaska, szybka pętla przez centrum i przez Wisłę, rozgrywana w niedzielę pod koniec marca. To największy półmaraton w kraju i typowe otwarcie sezonu przed wiosennymi maratonami.',
+        summary: 'Największy półmaraton w Polsce, biegnący przez centrum Warszawy w kwietniu.',
+        description: 'Płaska, szybka pętla przez centrum i przez Wisłę, rozgrywana w niedzielę w kwietniu. To największy półmaraton w kraju i typowe otwarcie sezonu przed wiosennymi maratonami.',
       },
     },
   },
@@ -653,6 +656,8 @@ const EVENTS = [
   },
   {
     slug: 'silesia-marathon',
+    // Link verified by fetching it: the page identifies this race.
+    website: 'https://silesiamarathon.pl/',
     name: 'Silesia Marathon',
     date: '2026-10-04',
     dateStatus: 'estimated',
@@ -778,8 +783,11 @@ const EVENTS = [
   },
   {
     slug: 'bieg-rzeznika',
+    // Link verified by fetching it: the page identifies this race.
+    website: 'https://biegrzeznika.pl/',
     name: 'Bieg Rzeźnika',
-    date: '2027-07-03',
+    // The organiser's page dates the 2026 festival 3-6 June, not July.
+    date: '2027-06-04',
     dateStatus: 'estimated',
     type: 'ultra',
     distances: ['80 km'],
@@ -793,11 +801,11 @@ const EVENTS = [
     content: {
       en: {
         summary: 'The classic Bieszczady mountain ultra, run in pairs.',
-        description: 'Roughly eighty kilometres across the Bieszczady ridges, run as a two-person team that must stay together the whole way. Entry is famously oversubscribed and the July heat on the open połoniny is part of the test.',
+        description: 'Roughly eighty kilometres across the Bieszczady ridges, run as a two-person team that must stay together the whole way. Entry is famously oversubscribed, and early June on the open połoniny can already be hot.',
       },
       pl: {
         summary: 'Klasyczny bieszczadzki ultramaraton górski, biegany w parach.',
-        description: 'Około osiemdziesiąt kilometrów przez bieszczadzkie grzbiety, pokonywane w dwuosobowym zespole, który musi trzymać się razem przez całą trasę. Zapisy słyną z ogromnej nadsubskrypcji, a lipcowy upał na otwartych połoninach jest częścią próby.',
+        description: 'Około osiemdziesiąt kilometrów przez bieszczadzkie grzbiety, pokonywane w dwuosobowym zespole, który musi trzymać się razem przez całą trasę. Zapisy słyną z ogromnej nadsubskrypcji, a na początku czerwca na otwartych połoninach potrafi być już gorąco.',
       },
     },
   },
@@ -878,6 +886,8 @@ const EVENTS = [
   },
   {
     slug: 'wings-for-life-poznan',
+    // Link verified by fetching it: the page identifies this race.
+    website: 'https://www.wingsforlifeworldrun.com/pl',
     name: 'Wings for Life World Run — Poznań',
     date: '2027-05-09',
     dateStatus: 'estimated',

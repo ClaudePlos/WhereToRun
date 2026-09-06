@@ -1,16 +1,16 @@
 {
   "content": {
     "en": {
-      "description": "A flat, fast loop through the city centre and across the Vistula, held on a Sunday in late March. It is the biggest half marathon in the country and a common season opener before the spring marathons.",
-      "summary": "Poland's largest half marathon, run through the centre of Warsaw in late March."
+      "description": "A flat, fast loop through the city centre and across the Vistula, held on a Sunday in April. It is the biggest half marathon in the country and a common season opener before the spring marathons.",
+      "summary": "Poland's largest half marathon, run through the centre of Warsaw in April."
     },
     "pl": {
-      "description": "Płaska, szybka pętla przez centrum i przez Wisłę, rozgrywana w niedzielę pod koniec marca. To największy półmaraton w kraju i typowe otwarcie sezonu przed wiosennymi maratonami.",
-      "summary": "Największy półmaraton w Polsce, biegnący przez centrum Warszawy pod koniec marca."
+      "description": "Płaska, szybka pętla przez centrum i przez Wisłę, rozgrywana w niedzielę w kwietniu. To największy półmaraton w kraju i typowe otwarcie sezonu przed wiosennymi maratonami.",
+      "summary": "Największy półmaraton w Polsce, biegnący przez centrum Warszawy w kwietniu."
     }
   },
-  "createdAt": "2026-09-06T20:04:58.436Z",
-  "date": "2027-03-28",
+  "createdAt": "2026-09-06T20:07:39.178Z",
+  "date": "2027-04-11",
   "dateStatus": "estimated",
   "distances": [
     "21.1 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "polmaraton-warszawski",
   "source": {
-    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "fetchedAt": "2026-09-06T20:07:39.258Z",
     "id": "curated",
     "ref": "polmaraton-warszawski",
-    "url": null
+    "url": "https://polmaratonwarszawski.com/"
   },
   "start": {
     "lat": 52.2297,
@@ -47,6 +47,6 @@
     "poland"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T20:04:58.436Z",
-  "website": null
+  "updatedAt": "2026-09-06T20:07:39.178Z",
+  "website": "https://polmaratonwarszawski.com/"
 }

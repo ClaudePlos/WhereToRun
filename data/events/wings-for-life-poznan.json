@@ -28,10 +28,10 @@
   "registrationUrl": null,
   "slug": "wings-for-life-poznan",
   "source": {
-    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "fetchedAt": "2026-09-06T20:07:39.258Z",
     "id": "curated",
     "ref": "wings-for-life-poznan",
-    "url": null
+    "url": "https://www.wingsforlifeworldrun.com/pl"
   },
   "start": {
     "lat": 52.4064,
@@ -46,6 +46,6 @@
     "poland"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T20:04:58.436Z",
-  "website": null
+  "updatedAt": "2026-09-06T20:07:39.178Z",
+  "website": "https://www.wingsforlifeworldrun.com/pl"
 }

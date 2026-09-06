@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "silesia-marathon",
   "source": {
-    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "fetchedAt": "2026-09-06T20:07:39.258Z",
     "id": "curated",
     "ref": "silesia-marathon",
-    "url": null
+    "url": "https://silesiamarathon.pl/"
   },
   "start": {
     "lat": 50.2649,
@@ -47,6 +47,6 @@
     "poland"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T20:04:58.436Z",
-  "website": null
+  "updatedAt": "2026-09-06T20:07:39.178Z",
+  "website": "https://silesiamarathon.pl/"
 }
