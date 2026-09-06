@@ -189,6 +189,18 @@ export const ENDPOINTS = [
     url: 'https://kalendarzbiegowy.pl/wp-json/',
   },
   {
+    id: 'pl-kb-types',
+    status: 'candidate',
+    note: 'Which post types does the WordPress REST API expose? Races may be one',
+    url: 'https://kalendarzbiegowy.pl/wp-json/wp/v2/types',
+  },
+  {
+    id: 'pl-kb-tribe',
+    status: 'candidate',
+    note: 'The Events Calendar plugin, if that is what powers the listing',
+    url: 'https://kalendarzbiegowy.pl/wp-json/tribe/events/v1/events?per_page=3',
+  },
+  {
     id: 'pl-b4sport-wp',
     status: 'candidate',
     note: 'Same guess for the other WordPress-looking calendar',
