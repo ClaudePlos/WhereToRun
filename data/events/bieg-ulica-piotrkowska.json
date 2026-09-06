@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The course uses Piotrkowska Street, which is dead flat and lined with spectators for most of its length. A popular target for a 10 km personal best.",
+      "summary": "A ten kilometre race straight down Poland's longest commercial street."
+    },
+    "pl": {
+      "description": "Trasa prowadzi ulicą Piotrkowską — zupełnie płaską i na większości długości obstawioną kibicami. Popularny cel na życiówkę na dziesiątce.",
+      "summary": "Bieg na dziesięć kilometrów prosto najdłuższą handlową ulicą w Polsce."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-09-05",
+  "dateStatus": "estimated",
+  "distances": [
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Łódź",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bieg Ulicą Piotrkowską Rossmann Run",
+  "registrationUrl": null,
+  "slug": "bieg-ulica-piotrkowska",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "bieg-ulica-piotrkowska",
+    "url": null
+  },
+  "start": {
+    "lat": 51.7592,
+    "lon": 19.456,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "10k",
+    "city",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

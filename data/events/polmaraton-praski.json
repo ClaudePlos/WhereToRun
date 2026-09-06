@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run on the Praga side of the river in late spring, away from the city-centre routes used by the bigger Warsaw races.",
+      "summary": "A half marathon on the right bank of the Vistula, in Warsaw's Praga district."
+    },
+    "pl": {
+      "description": "Rozgrywany po praskiej stronie rzeki późną wiosną, z dala od śródmiejskich tras, którymi biegną większe warszawskie imprezy.",
+      "summary": "Półmaraton po prawej stronie Wisły, w warszawskiej Pradze."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-05-23",
+  "dateStatus": "estimated",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Warszawa",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Półmaraton Praski",
+  "registrationUrl": null,
+  "slug": "polmaraton-praski",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "polmaraton-praski",
+    "url": null
+  },
+  "start": {
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "half-marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run in January over the main Karkonosze ridge, where wind and snow decide the day as much as fitness. Mandatory winter kit; the weather can shorten the course.",
+      "summary": "A winter ultra across the Karkonosze ridge, in full snow."
+    },
+    "pl": {
+      "description": "Rozgrywany w styczniu głównym grzbietem Karkonoszy, gdzie o wyniku decydują wiatr i śnieg nie mniej niż forma. Obowiązkowy sprzęt zimowy, a pogoda potrafi skrócić trasę.",
+      "summary": "Zimowy ultramaraton przez grzbiet Karkonoszy, w pełnym śniegu."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-01-23",
+  "dateStatus": "estimated",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Karpacz",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Zimowy Ultramaraton Karkonoski",
+  "registrationUrl": null,
+  "slug": "zimowy-ultramaraton-karkonoski",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "zimowy-ultramaraton-karkonoski",
+    "url": null
+  },
+  "start": {
+    "lat": 50.7681,
+    "lon": 15.7089,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "mountain",
+    "poland",
+    "trail",
+    "ultra",
+    "winter"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

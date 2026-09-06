@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A route over the wooded hills and valleys between Wieliczka and the Kraków foothills — approachable trail running within reach of the city.",
+      "summary": "Trail race through the valleys south of Kraków, in September."
+    },
+    "pl": {
+      "description": "Trasa po zalesionych wzgórzach i dolinach między Wieliczką a podkrakowskimi wzniesieniami — przystępny bieg terenowy w zasięgu miasta.",
+      "summary": "Bieg terenowy przez doliny na południe od Krakowa, we wrześniu."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-09-19",
+  "dateStatus": "estimated",
+  "distances": [
+    "46 km",
+    "23 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wieliczka",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bieg 7 Dolin",
+  "registrationUrl": null,
+  "slug": "bieg-7-dolin",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "bieg-7-dolin",
+    "url": null
+  },
+  "start": {
+    "lat": 49.9871,
+    "lon": 20.0649,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "poland",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

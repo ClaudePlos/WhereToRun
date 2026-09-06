@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A summer trail race over the Beskid ridges above Szczyrk, with serious climbing packed into a moderate distance.",
+      "summary": "A long-standing Beskid mountain race in the middle of August."
+    },
+    "pl": {
+      "description": "Letni bieg po grzbietach Beskidów nad Szczyrkiem, z poważnymi podbiegami upchniętymi w umiarkowany dystans.",
+      "summary": "Wieloletni bieg górski w Beskidach, w połowie sierpnia."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-08-14",
+  "dateStatus": "estimated",
+  "distances": [
+    "35 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Szczyrk",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chudy Wawrzyniec",
+  "registrationUrl": null,
+  "slug": "chudy-wawrzyniec",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "chudy-wawrzyniec",
+    "url": null
+  },
+  "start": {
+    "lat": 49.7186,
+    "lon": 19.0361,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "mountain",
+    "poland",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

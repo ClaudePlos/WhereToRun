@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A flat two-loop course through Poznań with reliable autumn weather and a long tradition — it is among the longest-running marathons in the country.",
+      "summary": "One of Poland's oldest big-city marathons, run in mid-October."
+    },
+    "pl": {
+      "description": "Płaska, dwupętlowa trasa przez Poznań, przewidywalna jesienna pogoda i długa tradycja — to jeden z najdłużej rozgrywanych maratonów w kraju.",
+      "summary": "Jeden z najstarszych dużych maratonów miejskich w Polsce, rozgrywany w połowie października."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2026-10-11",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Poznań",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Poznań Maraton",
+  "registrationUrl": null,
+  "slug": "poznan-maraton",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "poznan-maraton",
+    "url": null
+  },
+  "start": {
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

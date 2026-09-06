@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "One of the flattest marathon courses in Poland, run in April and passing along Piotrkowska, the long pedestrian axis of the city.",
+      "summary": "A flat April marathon through Łódź, including Piotrkowska Street."
+    },
+    "pl": {
+      "description": "Jedna z najbardziej płaskich tras maratońskich w Polsce, rozgrywana w kwietniu, z przebiegiem przez Piotrkowską — długą oś pieszą miasta.",
+      "summary": "Płaski kwietniowy maraton przez Łódź, z odcinkiem ulicą Piotrkowską."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-04-18",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Łódź",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "DOZ Maraton Łódź",
+  "registrationUrl": null,
+  "slug": "doz-maraton-lodz",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "doz-maraton-lodz",
+    "url": null
+  },
+  "start": {
+    "lat": 51.7592,
+    "lon": 19.456,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

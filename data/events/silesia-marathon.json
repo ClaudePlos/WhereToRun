@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The route crosses several neighbouring Silesian cities rather than looping one centre, which gives it an industrial-landscape character unlike any other Polish marathon.",
+      "summary": "An October marathon across the Upper Silesian conurbation."
+    },
+    "pl": {
+      "description": "Trasa przecina kilka sąsiadujących śląskich miast, zamiast krążyć wokół jednego centrum, co nadaje jej poprzemysłowy charakter niespotykany w innych polskich maratonach.",
+      "summary": "Październikowy maraton przez aglomerację górnośląską."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2026-10-04",
+  "dateStatus": "estimated",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Katowice",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Silesia Marathon",
+  "registrationUrl": null,
+  "slug": "silesia-marathon",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "silesia-marathon",
+    "url": null
+  },
+  "start": {
+    "lat": 50.2649,
+    "lon": 19.0238,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

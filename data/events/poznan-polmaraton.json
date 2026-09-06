@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Held in April as a lead-in to the spring marathon season, on a fast course through the city. One of the biggest half marathons in western Poland.",
+      "summary": "A large, flat spring half marathon through Poznań."
+    },
+    "pl": {
+      "description": "Rozgrywany w kwietniu jako wstęp do wiosennego sezonu maratońskiego, na szybkiej trasie przez miasto. Jeden z największych półmaratonów w zachodniej Polsce.",
+      "summary": "Duży, płaski wiosenny półmaraton przez Poznań."
+    }
+  },
+  "createdAt": "2026-09-06T20:04:58.436Z",
+  "date": "2027-04-11",
+  "dateStatus": "estimated",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Poznań",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Poznań Półmaraton",
+  "registrationUrl": null,
+  "slug": "poznan-polmaraton",
+  "source": {
+    "fetchedAt": "2026-09-06T20:04:58.690Z",
+    "id": "curated",
+    "ref": "poznan-polmaraton",
+    "url": null
+  },
+  "start": {
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "city",
+    "half-marathon",
+    "poland"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T20:04:58.436Z",
+  "website": null
+}

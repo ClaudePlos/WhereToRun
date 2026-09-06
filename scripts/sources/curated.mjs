@@ -1,5 +1,10 @@
 /**
- * Hand-curated set of globally interesting races. Kept as a collector source so the
+ * Hand-curated set of globally interesting races, plus the Polish calendar that no
+ * API covers: every Polish running platform probed in September 2026 serves HTML
+ * only, so the domestic 5k, 10k and half marathon field has to be entered by hand.
+ * Those entries carry estimated dates and town-level pins, both labelled in the UI,
+ * and no entry fees at all — an invented price would be worse than a missing one.
+ * Kept as a collector source so the
  * same normalisation, validation and merge rules apply to it as to the API sources.
  * Fees marked `indicative: true` are ballpark figures — always verify with the organiser.
  */
@@ -393,6 +398,556 @@ const EVENTS = [
       pl: {
         summary: 'Wiosenny maraton przez jedno z najlepiej zachowanych średniowiecznych centrów Europy.',
         description: 'Cracovia Maraton prowadzi obok Wawelu, przez Kazimierz i wokół Starego Miasta, a meta tradycyjnie znajduje się na Rynku Głównym. Kwietniowa pogoda bywa zmienna, ale zwykle jest wystarczająco chłodno na dobry czas, a historyczna sceneria czyni z niego jeden z najbardziej fotogenicznych maratonów Europy Środkowej. Potwierdź termin — bieg przesuwa się w obrębie pierwszej połowy kwietnia.',
+      },
+    },
+  },
+  {
+    slug: 'polmaraton-warszawski',
+    name: 'Półmaraton Warszawski',
+    date: '2027-03-28',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'city', 'poland'],
+    location: { city: 'Warszawa', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.2297, lon: 21.0122, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'Poland\'s largest half marathon, run through the centre of Warsaw in late March.',
+        description: 'A flat, fast loop through the city centre and across the Vistula, held on a Sunday in late March. It is the biggest half marathon in the country and a common season opener before the spring marathons.',
+      },
+      pl: {
+        summary: 'Największy półmaraton w Polsce, biegnący przez centrum Warszawy pod koniec marca.',
+        description: 'Płaska, szybka pętla przez centrum i przez Wisłę, rozgrywana w niedzielę pod koniec marca. To największy półmaraton w kraju i typowe otwarcie sezonu przed wiosennymi maratonami.',
+      },
+    },
+  },
+  {
+    slug: 'bieg-konstytucji-3-maja',
+    name: 'Bieg Konstytucji 3 Maja',
+    date: '2027-05-03',
+    dateStatus: 'confirmed',
+    type: 'road',
+    distances: ['5 km'],
+    tags: ['5k', 'city', 'poland'],
+    location: { city: 'Warszawa', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.2297, lon: 21.0122, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A fast 5 km through central Warsaw, always on Constitution Day.',
+        description: 'Run every year on 3 May, the national holiday, on a flat course in the city centre. The fixed date makes it one of the few Polish races you can plan a season around years ahead.',
+      },
+      pl: {
+        summary: 'Szybkie 5 km przez centrum Warszawy, zawsze w Święto Konstytucji.',
+        description: 'Rozgrywany co roku 3 maja, w święto narodowe, na płaskiej trasie w centrum miasta. Stała data sprawia, że to jeden z niewielu polskich biegów, wokół których można planować sezon z wieloletnim wyprzedzeniem.',
+      },
+    },
+  },
+  {
+    slug: 'bieg-niepodleglosci-warszawa',
+    name: 'Bieg Niepodległości',
+    date: '2026-11-11',
+    dateStatus: 'confirmed',
+    type: 'road',
+    distances: ['10 km'],
+    tags: ['10k', 'city', 'poland'],
+    location: { city: 'Warszawa', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.2297, lon: 21.0122, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'Ten kilometres through Warsaw every Independence Day, 11 November.',
+        description: 'One of the largest 10 km races in Poland, run on the national holiday in what is often near-freezing weather. The date never moves.',
+      },
+      pl: {
+        summary: 'Dziesięć kilometrów przez Warszawę co roku w Święto Niepodległości, 11 listopada.',
+        description: 'Jeden z największych biegów na 10 km w Polsce, rozgrywany w święto narodowe, często przy pogodzie blisko zera. Termin nigdy się nie zmienia.',
+      },
+    },
+  },
+  {
+    slug: 'biegnij-warszawo',
+    name: 'Biegnij Warszawo',
+    date: '2026-10-04',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['10 km'],
+    tags: ['10k', 'city', 'poland'],
+    location: { city: 'Warszawa', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.2297, lon: 21.0122, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A mass-participation 10 km through Warsaw in early autumn.',
+        description: 'A flat ten kilometres aimed squarely at recreational runners, with tens of thousands of entries in recent years. Usually held on a Sunday in late September or early October.',
+      },
+      pl: {
+        summary: 'Masowa dziesiątka przez Warszawę wczesną jesienią.',
+        description: 'Płaskie dziesięć kilometrów adresowane wprost do biegaczy amatorów, w ostatnich latach z dziesiątkami tysięcy zgłoszeń. Zwykle rozgrywany w niedzielę pod koniec września lub na początku października.',
+      },
+    },
+  },
+  {
+    slug: 'maraton-wroclaw',
+    name: 'Wrocław Maraton',
+    date: '2026-09-13',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'poland'],
+    location: { city: 'Wrocław', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 51.1079, lon: 17.0385, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A September marathon through Wrocław\'s islands and old town.',
+        description: 'The course threads the Oder islands, the market square and the university quarter on a flat profile. September in Wrocław is usually cool enough for a personal best.',
+      },
+      pl: {
+        summary: 'Wrześniowy maraton przez wrocławskie wyspy i starówkę.',
+        description: 'Trasa przeplata wyspy odrzańskie, rynek i dzielnicę uniwersytecką, a profil jest płaski. Wrzesień we Wrocławiu bywa wystarczająco chłodny na życiówkę.',
+      },
+    },
+  },
+  {
+    slug: 'nocny-polmaraton-wroclaw',
+    name: 'Nocny Wrocław Półmaraton',
+    date: '2027-06-19',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'night', 'city', 'poland'],
+    location: { city: 'Wrocław', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 51.1079, lon: 17.0385, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'Half marathon run after dark through a lit-up Wrocław, in June.',
+        description: 'A summer evening start turns the city centre into a night course, which sidesteps the June heat and gives the race its character. Expect a party atmosphere rather than a time trial.',
+      },
+      pl: {
+        summary: 'Półmaraton biegnięty po zmroku przez rozświetlony Wrocław, w czerwcu.',
+        description: 'Letni wieczorny start zamienia centrum w nocną trasę, co pozwala uciec od czerwcowego upału i nadaje biegowi charakter. Nastawiaj się raczej na atmosferę święta niż na walkę z czasem.',
+      },
+    },
+  },
+  {
+    slug: 'poznan-maraton',
+    name: 'Poznań Maraton',
+    date: '2026-10-11',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'poland'],
+    location: { city: 'Poznań', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.4064, lon: 16.9252, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'One of Poland\'s oldest big-city marathons, run in mid-October.',
+        description: 'A flat two-loop course through Poznań with reliable autumn weather and a long tradition — it is among the longest-running marathons in the country.',
+      },
+      pl: {
+        summary: 'Jeden z najstarszych dużych maratonów miejskich w Polsce, rozgrywany w połowie października.',
+        description: 'Płaska, dwupętlowa trasa przez Poznań, przewidywalna jesienna pogoda i długa tradycja — to jeden z najdłużej rozgrywanych maratonów w kraju.',
+      },
+    },
+  },
+  {
+    slug: 'poznan-polmaraton',
+    name: 'Poznań Półmaraton',
+    date: '2027-04-11',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'city', 'poland'],
+    location: { city: 'Poznań', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.4064, lon: 16.9252, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A large, flat spring half marathon through Poznań.',
+        description: 'Held in April as a lead-in to the spring marathon season, on a fast course through the city. One of the biggest half marathons in western Poland.',
+      },
+      pl: {
+        summary: 'Duży, płaski wiosenny półmaraton przez Poznań.',
+        description: 'Rozgrywany w kwietniu jako wstęp do wiosennego sezonu maratońskiego, na szybkiej trasie przez miasto. Jeden z największych półmaratonów w zachodniej Polsce.',
+      },
+    },
+  },
+  {
+    slug: 'gdynia-polmaraton',
+    name: 'Gdynia Półmaraton',
+    date: '2027-03-14',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'city', 'seaside', 'poland'],
+    location: { city: 'Gdynia', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 54.5189, lon: 18.5305, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A seaside half marathon in March, and a regular Polish championship venue.',
+        description: 'The course runs along the Gdynia waterfront, which means sea air and, often, a headwind on the way back. It has repeatedly hosted the Polish half marathon championships.',
+      },
+      pl: {
+        summary: 'Nadmorski półmaraton w marcu, regularnie goszczący mistrzostwa Polski.',
+        description: 'Trasa prowadzi wzdłuż gdyńskiego nabrzeża, co oznacza morskie powietrze i często wiatr w twarz na powrocie. Bieg wielokrotnie gościł mistrzostwa Polski w półmaratonie.',
+      },
+    },
+  },
+  {
+    slug: 'maraton-gdansk',
+    name: 'Maraton Gdańsk',
+    date: '2027-04-18',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'seaside', 'poland'],
+    location: { city: 'Gdańsk', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 54.352, lon: 18.6466, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A spring marathon along the Tricity coast and through historic Gdańsk.',
+        description: 'Flat throughout, with long stretches near the water and a passage through the old town. April on the Baltic is cool, which suits the distance.',
+      },
+      pl: {
+        summary: 'Wiosenny maraton wzdłuż trójmiejskiego wybrzeża i przez historyczny Gdańsk.',
+        description: 'Trasa jest płaska na całej długości, z długimi odcinkami blisko wody i przejściem przez starówkę. Kwiecień nad Bałtykiem jest chłodny, co sprzyja tej odległości.',
+      },
+    },
+  },
+  {
+    slug: 'silesia-marathon',
+    name: 'Silesia Marathon',
+    date: '2026-10-04',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'poland'],
+    location: { city: 'Katowice', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 50.2649, lon: 19.0238, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'An October marathon across the Upper Silesian conurbation.',
+        description: 'The route crosses several neighbouring Silesian cities rather than looping one centre, which gives it an industrial-landscape character unlike any other Polish marathon.',
+      },
+      pl: {
+        summary: 'Październikowy maraton przez aglomerację górnośląską.',
+        description: 'Trasa przecina kilka sąsiadujących śląskich miast, zamiast krążyć wokół jednego centrum, co nadaje jej poprzemysłowy charakter niespotykany w innych polskich maratonach.',
+      },
+    },
+  },
+  {
+    slug: 'doz-maraton-lodz',
+    name: 'DOZ Maraton Łódź',
+    date: '2027-04-18',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'poland'],
+    location: { city: 'Łódź', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 51.7592, lon: 19.456, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A flat April marathon through Łódź, including Piotrkowska Street.',
+        description: 'One of the flattest marathon courses in Poland, run in April and passing along Piotrkowska, the long pedestrian axis of the city.',
+      },
+      pl: {
+        summary: 'Płaski kwietniowy maraton przez Łódź, z odcinkiem ulicą Piotrkowską.',
+        description: 'Jedna z najbardziej płaskich tras maratońskich w Polsce, rozgrywana w kwietniu, z przebiegiem przez Piotrkowską — długą oś pieszą miasta.',
+      },
+    },
+  },
+  {
+    slug: 'bieg-ulica-piotrkowska',
+    name: 'Bieg Ulicą Piotrkowską Rossmann Run',
+    date: '2027-09-05',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['10 km'],
+    tags: ['10k', 'city', 'poland'],
+    location: { city: 'Łódź', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 51.7592, lon: 19.456, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A ten kilometre race straight down Poland\'s longest commercial street.',
+        description: 'The course uses Piotrkowska Street, which is dead flat and lined with spectators for most of its length. A popular target for a 10 km personal best.',
+      },
+      pl: {
+        summary: 'Bieg na dziesięć kilometrów prosto najdłuższą handlową ulicą w Polsce.',
+        description: 'Trasa prowadzi ulicą Piotrkowską — zupełnie płaską i na większości długości obstawioną kibicami. Popularny cel na życiówkę na dziesiątce.',
+      },
+    },
+  },
+  {
+    slug: 'cracovia-polmaraton',
+    name: 'Cracovia Półmaraton',
+    date: '2026-10-18',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'city', 'poland'],
+    location: { city: 'Kraków', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 50.0647, lon: 19.945, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'The autumn half marathon counterpart to Kraków\'s spring marathon.',
+        description: 'Run in October through the same historic centre as Cracovia Maraton, at half the distance and with cooler weather.',
+      },
+      pl: {
+        summary: 'Jesienny półmaratoński odpowiednik wiosennego maratonu w Krakowie.',
+        description: 'Rozgrywany w październiku przez to samo historyczne centrum co Cracovia Maraton, na połowie dystansu i przy chłodniejszej pogodzie.',
+      },
+    },
+  },
+  {
+    slug: 'maraton-lubelski',
+    name: 'Maraton Lubelski',
+    date: '2027-09-19',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['42.2 km'],
+    tags: ['marathon', 'city', 'poland'],
+    location: { city: 'Lublin', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 51.2465, lon: 22.5684, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'An early-autumn marathon through Lublin, in eastern Poland.',
+        description: 'A city marathon on gently rolling terrain, held in September. Smaller and less crowded than the Warsaw or Kraków fields.',
+      },
+      pl: {
+        summary: 'Wczesnojesienny maraton przez Lublin, we wschodniej Polsce.',
+        description: 'Miejski maraton na lekko falującym terenie, rozgrywany we wrześniu. Mniejszy i mniej zatłoczony niż stawki w Warszawie czy Krakowie.',
+      },
+    },
+  },
+  {
+    slug: 'bieg-rzeznika',
+    name: 'Bieg Rzeźnika',
+    date: '2027-07-03',
+    dateStatus: 'estimated',
+    type: 'ultra',
+    distances: ['80 km'],
+    tags: ['ultra', 'trail', 'mountain', 'teams', 'poland'],
+    location: { city: 'Cisna', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 49.2069, lon: 22.3231, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'The classic Bieszczady mountain ultra, run in pairs.',
+        description: 'Roughly eighty kilometres across the Bieszczady ridges, run as a two-person team that must stay together the whole way. Entry is famously oversubscribed and the July heat on the open połoniny is part of the test.',
+      },
+      pl: {
+        summary: 'Klasyczny bieszczadzki ultramaraton górski, biegany w parach.',
+        description: 'Około osiemdziesiąt kilometrów przez bieszczadzkie grzbiety, pokonywane w dwuosobowym zespole, który musi trzymać się razem przez całą trasę. Zapisy słyną z ogromnej nadsubskrypcji, a lipcowy upał na otwartych połoninach jest częścią próby.',
+      },
+    },
+  },
+  {
+    slug: 'lemkowyna-ultra-trail',
+    name: 'Łemkowyna Ultra Trail',
+    date: '2027-09-11',
+    dateStatus: 'estimated',
+    type: 'ultra',
+    distances: ['150 km', '70 km', '45 km'],
+    tags: ['ultra', 'trail', 'mountain', 'poland'],
+    location: { city: 'Krynica-Zdrój', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 49.4194, lon: 20.9569, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A Beskid Niski ultra through the old Lemko lands, with several distances.',
+        description: 'Autumn trails through quiet, depopulated valleys in the Low Beskids, with the longest option running well past a hundred kilometres. Known for its atmosphere rather than its crowds.',
+      },
+      pl: {
+        summary: 'Ultramaraton po Beskidzie Niskim, przez dawne ziemie łemkowskie, z kilkoma dystansami.',
+        description: 'Jesienne szlaki przez ciche, wyludnione doliny Beskidu Niskiego, przy czym najdłuższa opcja przekracza sto kilometrów. Bieg znany raczej z atmosfery niż z tłumów.',
+      },
+    },
+  },
+  {
+    slug: 'chudy-wawrzyniec',
+    name: 'Chudy Wawrzyniec',
+    date: '2027-08-14',
+    dateStatus: 'estimated',
+    type: 'trail',
+    distances: ['35 km'],
+    tags: ['trail', 'mountain', 'poland'],
+    location: { city: 'Szczyrk', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 49.7186, lon: 19.0361, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A long-standing Beskid mountain race in the middle of August.',
+        description: 'A summer trail race over the Beskid ridges above Szczyrk, with serious climbing packed into a moderate distance.',
+      },
+      pl: {
+        summary: 'Wieloletni bieg górski w Beskidach, w połowie sierpnia.',
+        description: 'Letni bieg po grzbietach Beskidów nad Szczyrkiem, z poważnymi podbiegami upchniętymi w umiarkowany dystans.',
+      },
+    },
+  },
+  {
+    slug: 'zimowy-ultramaraton-karkonoski',
+    name: 'Zimowy Ultramaraton Karkonoski',
+    date: '2027-01-23',
+    dateStatus: 'estimated',
+    type: 'ultra',
+    distances: ['48 km'],
+    tags: ['ultra', 'trail', 'mountain', 'winter', 'poland'],
+    location: { city: 'Karpacz', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 50.7681, lon: 15.7089, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A winter ultra across the Karkonosze ridge, in full snow.',
+        description: 'Run in January over the main Karkonosze ridge, where wind and snow decide the day as much as fitness. Mandatory winter kit; the weather can shorten the course.',
+      },
+      pl: {
+        summary: 'Zimowy ultramaraton przez grzbiet Karkonoszy, w pełnym śniegu.',
+        description: 'Rozgrywany w styczniu głównym grzbietem Karkonoszy, gdzie o wyniku decydują wiatr i śnieg nie mniej niż forma. Obowiązkowy sprzęt zimowy, a pogoda potrafi skrócić trasę.',
+      },
+    },
+  },
+  {
+    slug: 'wings-for-life-poznan',
+    name: 'Wings for Life World Run — Poznań',
+    date: '2027-05-09',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: [],
+    tags: ['charity', 'open-ended', 'city', 'poland'],
+    location: { city: 'Poznań', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.4064, lon: 16.9252, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'The Polish flagship location of the global run with no finish line.',
+        description: 'Everyone starts at the same moment worldwide and runs until a catcher car overtakes them, so there is no fixed distance. Poznań is the Polish flagship venue; entry fees go to spinal cord research.',
+      },
+      pl: {
+        summary: 'Polska lokalizacja flagowa światowego biegu bez mety.',
+        description: 'Wszyscy startują w tej samej chwili na całym świecie i biegną, dopóki nie wyprzedzi ich samochód pościgowy — dystans nie jest z góry ustalony. Poznań jest polską lokalizacją flagową, a wpisowe zasila badania nad urazami rdzenia kręgowego.',
+      },
+    },
+  },
+  {
+    slug: 'bieg-7-dolin',
+    name: 'Bieg 7 Dolin',
+    date: '2027-09-19',
+    dateStatus: 'estimated',
+    type: 'trail',
+    distances: ['46 km', '23 km'],
+    tags: ['trail', 'poland'],
+    location: { city: 'Wieliczka', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 49.9871, lon: 20.0649, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'Trail race through the valleys south of Kraków, in September.',
+        description: 'A route over the wooded hills and valleys between Wieliczka and the Kraków foothills — approachable trail running within reach of the city.',
+      },
+      pl: {
+        summary: 'Bieg terenowy przez doliny na południe od Krakowa, we wrześniu.',
+        description: 'Trasa po zalesionych wzgórzach i dolinach między Wieliczką a podkrakowskimi wzniesieniami — przystępny bieg terenowy w zasięgu miasta.',
+      },
+    },
+  },
+  {
+    slug: 'polmaraton-praski',
+    name: 'Półmaraton Praski',
+    date: '2027-05-23',
+    dateStatus: 'estimated',
+    type: 'road',
+    distances: ['21.1 km'],
+    tags: ['half-marathon', 'city', 'poland'],
+    location: { city: 'Warszawa', country: 'Poland', countryCode: 'PL' },
+    // City-level: these were entered by hand and the exact start is the
+    // organiser's to publish, so the pin marks the town.
+    start: { lat: 52.2297, lon: 21.0122, name: null, precision: 'city' },
+    // Deliberately no fees: an invented entry fee is worse than none at all.
+    fees: [],
+    content: {
+      en: {
+        summary: 'A half marathon on the right bank of the Vistula, in Warsaw\'s Praga district.',
+        description: 'Run on the Praga side of the river in late spring, away from the city-centre routes used by the bigger Warsaw races.',
+      },
+      pl: {
+        summary: 'Półmaraton po prawej stronie Wisły, w warszawskiej Pradze.',
+        description: 'Rozgrywany po praskiej stronie rzeki późną wiosną, z dala od śródmiejskich tras, którymi biegną większe warszawskie imprezy.',
       },
     },
   },

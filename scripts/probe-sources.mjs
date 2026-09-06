@@ -388,7 +388,14 @@ async function probe(endpoint, fetchImpl) {
 
 export async function main(argv = [], { fetchImpl = fetch } = {}) {
   const wanted = argv.filter((arg) => !arg.startsWith('-'));
-  const selected = wanted.length > 0 ? ENDPOINTS.filter((e) => wanted.includes(e.id)) : ENDPOINTS;
+  // A bare URL is probed as-is. Checking whether a hand-entered organiser link
+  // actually resolves is a one-off question that should not need a code change.
+  const adHoc = wanted.filter((arg) => /^https?:\/\//i.test(arg))
+    .map((url) => ({ id: new URL(url).hostname, status: 'ad-hoc', url }));
+  const ids = wanted.filter((arg) => !/^https?:\/\//i.test(arg));
+  const selected = adHoc.length > 0
+    ? adHoc
+    : (ids.length > 0 ? ENDPOINTS.filter((e) => ids.includes(e.id)) : ENDPOINTS);
   if (selected.length === 0) {
     console.error(`No endpoint matched. Known ids: ${ENDPOINTS.map((e) => e.id).join(', ')}`);
     process.exitCode = 1;
