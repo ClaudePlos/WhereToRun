@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sioux Falls Marathon is a road race. Location: Sioux Falls, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sioux Falls, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Sioux Falls Marathon to bieg uliczny. Lokalizacja: Sioux Falls, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sioux Falls, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sioux Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Sioux Falls Marathon",
+  "registrationUrl": "https://runsignup.com/Race/SD/SiouxFalls/SiouxFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sioux-falls-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "sioux-falls-marathon-sd",
+    "url": "https://runsignup.com/Race/SD/SiouxFalls/SiouxFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.55,
+    "lon": -96.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/SD/SiouxFalls/SiouxFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

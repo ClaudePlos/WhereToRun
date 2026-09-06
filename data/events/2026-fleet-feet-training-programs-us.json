@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Fleet Feet Training Programs is a road race. Location: Davenport, United States. Date: Saturday, 26 September 2026. Distances: 21.1 km, other, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Davenport, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Fleet Feet Training Programs to bieg uliczny. Lokalizacja: Davenport, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 21.1 km, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Davenport, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Davenport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "2026 Fleet Feet Training Programs",
+  "registrationUrl": "https://raceroster.com/events/2026/116393/2026-fleet-feet-training-programs",
+  "slug": "2026-fleet-feet-training-programs-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-fleet-feet-training-programs-ia",
+    "url": "https://raceroster.com/events/2026/116393/2026-fleet-feet-training-programs"
+  },
+  "start": {
+    "lat": 41.5733,
+    "lon": -90.6038,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://raceroster.com/events/2026/116393/2026-fleet-feet-training-programs"
+}

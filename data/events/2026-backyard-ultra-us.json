@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Backyard Ultra is a ultramarathon. Location: Princeton, United States. Date: Saturday, 26 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Princeton, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Backyard Ultra to ultramaraton. Lokalizacja: Princeton, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Princeton, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-10-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Cruces",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "2026 Backyard Ultra",
+  "registrationUrl": "https://raceroster.com/events/2026/112734/2026-backyard-ultra",
+  "slug": "2026-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-backyard-ultra-nm",
+    "url": "https://raceroster.com/events/2026/112734/2026-backyard-ultra"
+  },
+  "start": {
+    "lat": 32.31,
+    "lon": -106.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://raceroster.com/events/2026/112734/2026-backyard-ultra"
+}

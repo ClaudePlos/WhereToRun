@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Platte Valley Companies Monument Marathon is a road race. Location: Gering, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gering, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Platte Valley Companies Monument Marathon to bieg uliczny. Lokalizacja: Gering, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gering, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gering",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "2026 Platte Valley Companies Monument Marathon",
+  "registrationUrl": "http://www.active.com/gering-ne/running/distance-running-races/platte-valley-companies-monument-marathon-2026",
+  "slug": "2026-platte-valley-companies-monument-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-platte-valley-companies-monument-marathon-ne",
+    "url": "http://www.active.com/gering-ne/running/distance-running-races/platte-valley-companies-monument-marathon-2026"
+  },
+  "start": {
+    "lat": 41.81,
+    "lon": -103.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "http://www.active.com/gering-ne/running/distance-running-races/platte-valley-companies-monument-marathon-2026"
+}

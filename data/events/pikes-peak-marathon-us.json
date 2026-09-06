@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pikes Peak Marathon is a trail race. Location: Manitou Springs, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Manitou Springs, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Pikes Peak Marathon to bieg trailowy. Lokalizacja: Manitou Springs, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Manitou Springs, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manitou Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Pikes Peak Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CO/ManitouSprings/PikesPeakMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "pikes-peak-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "pikes-peak-marathon-co",
+    "url": "https://runsignup.com/Race/CO/ManitouSprings/PikesPeakMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.85,
+    "lon": -104.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/CO/ManitouSprings/PikesPeakMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

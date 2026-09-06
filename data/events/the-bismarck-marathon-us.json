@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bismarck Marathon is a road race. Location: Bismarck, United States. Date: Saturday, 19 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Bismarck, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "The Bismarck Marathon to bieg uliczny. Lokalizacja: Bismarck, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Bismarck, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bismarck",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ND"
+  },
+  "manual": false,
+  "name": "The Bismarck Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/113309/the-bismarck-marathon",
+  "slug": "the-bismarck-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "the-bismarck-marathon-nd",
+    "url": "https://raceroster.com/events/2026/113309/the-bismarck-marathon"
+  },
+  "start": {
+    "lat": 46.8083,
+    "lon": -100.7837,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://raceroster.com/events/2026/113309/the-bismarck-marathon"
+}

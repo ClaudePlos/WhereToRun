@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Dream Nation Apparel 100km is a ultramarathon. Location: Duncan, BC, Canada. Date: Saturday, 19 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Duncan, BC, Canada, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Dream Nation Apparel 100km to ultramaraton. Lokalizacja: Duncan, BC, Kanada. Termin: sobota, 19 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Duncan, BC, Kanada, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duncan, BC",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dream Nation Apparel 100km",
+  "registrationUrl": null,
+  "slug": "dream-nation-apparel-100km-ca",
+  "source": {
+    "fetchedAt": "2026-09-06T22:07:03.187Z",
+    "id": "duv",
+    "ref": "128882",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128882"
+  },
+  "start": {
+    "lat": 48.806494,
+    "lon": -123.715664,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": null
+}

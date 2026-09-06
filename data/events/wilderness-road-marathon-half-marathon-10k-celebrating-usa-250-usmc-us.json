@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Wilderness Road Marathon, Half Marathon & 10K Celebrating USA 250 & USMC is a road race. Location: Stanford, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stanford, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Wilderness Road Marathon, Half Marathon & 10K Celebrating USA 250 & USMC to bieg uliczny. Lokalizacja: Stanford, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stanford, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stanford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Wilderness Road Marathon, Half Marathon & 10K Celebrating USA 250 & USMC",
+  "registrationUrl": "https://runsignup.com/Race/KY/Stanford/WildernessRoadMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wilderness-road-marathon-half-marathon-10k-celebrating-usa-250-usmc-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "wilderness-road-marathon-half-marathon-10k-celebrating-usa-250-usmc-ky",
+    "url": "https://runsignup.com/Race/KY/Stanford/WildernessRoadMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.52,
+    "lon": -84.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/KY/Stanford/WildernessRoadMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

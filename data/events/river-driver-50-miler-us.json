@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "River Driver 50 Miler is a road race. Location: Lincoln, United States. Date: Sunday, 20 September 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lincoln, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "River Driver 50 Miler to bieg uliczny. Lokalizacja: Lincoln, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lincoln, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lincoln",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "River Driver 50 Miler",
+  "registrationUrl": "https://runsignup.com/Race/ME/Lincoln/RiverDriver50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "river-driver-50-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "river-driver-50-miler-me",
+    "url": "https://runsignup.com/Race/ME/Lincoln/RiverDriver50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.35,
+    "lon": -68.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/ME/Lincoln/RiverDriver50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

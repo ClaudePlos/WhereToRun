@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 CTF Monarch Marathon 5K Run/Walk is a road race. Location: Dodge City, United States. Date: Saturday, 26 September 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dodge City, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 CTF Monarch Marathon 5K Run/Walk to bieg uliczny. Lokalizacja: Dodge City, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dodge City, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dodge City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "2026 CTF Monarch Marathon 5K Run/Walk",
+  "registrationUrl": "https://runsignup.com/Race/KS/DodgeCity/CTFMonarchMarathon5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-ctf-monarch-marathon-5k-run-walk-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-ctf-monarch-marathon-5k-run-walk-ks",
+    "url": "https://runsignup.com/Race/KS/DodgeCity/CTFMonarchMarathon5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.76,
+    "lon": -100.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/KS/DodgeCity/CTFMonarchMarathon5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

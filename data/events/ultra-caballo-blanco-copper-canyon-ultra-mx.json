@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Caballo Blanco Copper Canyon Ultra is a ultramarathon. Location: Urique, Mexico. Date: 6 March 2027 – 7 March 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Urique, Mexico, 6 March 2027 – 7 March 2027"
+    },
+    "pl": {
+      "description": "Ultra Caballo Blanco Copper Canyon Ultra to ultramaraton. Lokalizacja: Urique, Meksyk. Termin: 6 marca 2027 – 7 marca 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Urique, Meksyk, 6 marca 2027 – 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km"
+  ],
+  "endDate": "2027-03-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Urique",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Caballo Blanco Copper Canyon Ultra",
+  "registrationUrl": null,
+  "slug": "ultra-caballo-blanco-copper-canyon-ultra-mx",
+  "source": {
+    "fetchedAt": "2026-09-06T22:07:03.186Z",
+    "id": "duv",
+    "ref": "130639",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130639"
+  },
+  "start": {
+    "lat": 27.212308,
+    "lon": -107.914718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": null
+}

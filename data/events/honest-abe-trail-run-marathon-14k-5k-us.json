@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Honest Abe Trail Run - Marathon / 14k / 5k is a trail race. Location: Lincoln City, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Lincoln City, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Honest Abe Trail Run - Marathon / 14k / 5k to bieg trailowy. Lokalizacja: Lincoln City, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Lincoln City, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lincoln City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Honest Abe Trail Run - Marathon / 14k / 5k",
+  "registrationUrl": "https://runsignup.com/Race/IN/LincolnCity/HonestAbeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "honest-abe-trail-run-marathon-14k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "honest-abe-trail-run-marathon-14k-5k-in",
+    "url": "https://runsignup.com/Race/IN/LincolnCity/HonestAbeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.12,
+    "lon": -87,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/IN/LincolnCity/HonestAbeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

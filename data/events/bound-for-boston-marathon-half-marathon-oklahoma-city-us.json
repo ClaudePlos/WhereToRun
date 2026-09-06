@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bound for Boston Marathon & Half Marathon - Oklahoma City is a road race. Location: Yukon, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Yukon, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Bound for Boston Marathon & Half Marathon - Oklahoma City to bieg uliczny. Lokalizacja: Yukon, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Yukon, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yukon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Bound for Boston Marathon & Half Marathon - Oklahoma City",
+  "registrationUrl": "https://runsignup.com/Race/OK/Yukon/ImBoundforBostonMarathonHalfMarathonOklahomaCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bound-for-boston-marathon-half-marathon-oklahoma-city-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "bound-for-boston-marathon-half-marathon-oklahoma-city-ok",
+    "url": "https://runsignup.com/Race/OK/Yukon/ImBoundforBostonMarathonHalfMarathonOklahomaCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.5,
+    "lon": -97.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/OK/Yukon/ImBoundforBostonMarathonHalfMarathonOklahomaCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

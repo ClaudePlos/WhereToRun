@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Hinson Lake 24 Hour Ultra Classic is a ultramarathon. Location: Rockingham, United States. Date: Saturday, 26 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rockingham, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Hinson Lake 24 Hour Ultra Classic to ultramaraton. Lokalizacja: Rockingham, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rockingham, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "2026 Hinson Lake 24 Hour Ultra Classic",
+  "registrationUrl": "https://runsignup.com/Race/NC/Rockingham/HinsonLake24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-hinson-lake-24-hour-ultra-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-hinson-lake-24-hour-ultra-classic-nc",
+    "url": "https://runsignup.com/Race/NC/Rockingham/HinsonLake24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.93,
+    "lon": -79.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/NC/Rockingham/HinsonLake24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

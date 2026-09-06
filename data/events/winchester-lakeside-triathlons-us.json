@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Winchester Lakeside Triathlons is a triathlon. Location: Winchester, United States. Date: Saturday, 19 September 2026. Distances: other, u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Winchester, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Winchester Lakeside Triathlons to triatlon. Lokalizacja: Winchester, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: other, u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Winchester, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winchester",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Winchester Lakeside Triathlons",
+  "registrationUrl": "https://runsignup.com/Race/TN/Winchester/WinchesterLakesideTriathlonsPresentedByHighpointHealth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "winchester-lakeside-triathlons-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "winchester-lakeside-triathlons-tn",
+    "url": "https://runsignup.com/Race/TN/Winchester/WinchesterLakesideTriathlonsPresentedByHighpointHealth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.19,
+    "lon": -86.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/TN/Winchester/WinchesterLakesideTriathlonsPresentedByHighpointHealth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

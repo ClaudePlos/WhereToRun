@@ -143,6 +143,36 @@
   "BR|tres marias, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "CA|duncan, bc": {
+    "at": "2026-09-06T22:06:37.596Z",
+    "lat": 48.8064943,
+    "lon": -123.7156641,
+    "name": "BC Hydro - Duncan Maintenance Depot, 6494, South End, North Cowichan, Cowichan Valley Regional District, British Columbia, Canada"
+  },
+  "CA|golden, bc": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|kamloops, bc": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|la malbaie, qc": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|lethbridge, ab": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|nordegg, ab": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|riding mountain national park, mb": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|searchmont resort": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|west guilford, on": {
+    "at": "2026-09-06T22:06:37.596Z"
+  },
   "CZ|holesov, moravia": {
     "at": "2026-09-04T11:30:01.450Z"
   },
@@ -391,6 +421,12 @@
   },
   "MX|tlaltizapán, morelos": {
     "at": "2026-09-06T16:17:46.960Z"
+  },
+  "MX|urique": {
+    "at": "2026-09-06T22:06:37.596Z",
+    "lat": 27.2123077,
+    "lon": -107.9147179,
+    "name": "Urique, Chihuahua, México"
   },
   "MX|valle de bravo, mexico": {
     "at": "2026-09-06T16:17:46.960Z"

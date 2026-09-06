@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pilot Mountain to Hanging Rock Ultra is a ultramarathon. Location: Danbury, United States. Date: Saturday, 19 September 2026. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Danbury, United States, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Pilot Mountain to Hanging Rock Ultra to ultramaraton. Lokalizacja: Danbury, Stany Zjednoczone. Termin: sobota, 19 września 2026. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Danbury, Stany Zjednoczone, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Danbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Pilot Mountain to Hanging Rock Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NC/Danbury/PM2HR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "pilot-mountain-to-hanging-rock-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "pilot-mountain-to-hanging-rock-ultra-nc",
+    "url": "https://runsignup.com/Race/NC/Danbury/PM2HR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.46,
+    "lon": -80.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/NC/Danbury/PM2HR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

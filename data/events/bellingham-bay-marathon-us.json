@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bellingham Bay Marathon is a road race. Location: Bellingham, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bellingham, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Bellingham Bay Marathon to bieg uliczny. Lokalizacja: Bellingham, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bellingham, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bellingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Bellingham Bay Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Bellingham/BellinghamBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bellingham-bay-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "bellingham-bay-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Bellingham/BellinghamBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.75,
+    "lon": -122.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/WA/Bellingham/BellinghamBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

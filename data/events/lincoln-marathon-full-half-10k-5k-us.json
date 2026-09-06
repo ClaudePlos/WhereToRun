@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Lincoln Marathon - Full/Half/10K/5K is a road race. Location: Lincoln, United States. Date: Sunday, 20 September 2026. Distances: 42.2 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lincoln, United States, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Lincoln Marathon - Full/Half/10K/5K to bieg uliczny. Lokalizacja: Lincoln, Stany Zjednoczone. Termin: niedziela, 20 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lincoln, Stany Zjednoczone, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lincoln",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Lincoln Marathon - Full/Half/10K/5K",
+  "registrationUrl": "https://runsignup.com/Race/ME/Lincoln/TheGreatLincolnMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lincoln-marathon-full-half-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "lincoln-marathon-full-half-10k-5k-me",
+    "url": "https://runsignup.com/Race/ME/Lincoln/TheGreatLincolnMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.35,
+    "lon": -68.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://runsignup.com/Race/ME/Lincoln/TheGreatLincolnMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

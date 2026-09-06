@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mill Race Marathon - Kid's Race is a road race. Location: Columbus, United States. Date: Friday, 25 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Columbus, United States, Friday, 25 September 2026"
+    },
+    "pl": {
+      "description": "Mill Race Marathon - Kid's Race to bieg uliczny. Lokalizacja: Columbus, Stany Zjednoczone. Termin: piątek, 25 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Columbus, Stany Zjednoczone, piątek, 25 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Mill Race Marathon - Kid's Race",
+  "registrationUrl": "https://raceroster.com/events/2026/129624/mill-race-marathon-kids-race",
+  "slug": "mill-race-marathon-kid-s-race-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "mill-race-marathon-kid-s-race-in",
+    "url": "https://raceroster.com/events/2026/129624/mill-race-marathon-kids-race"
+  },
+  "start": {
+    "lat": 39.2014,
+    "lon": -85.9214,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://raceroster.com/events/2026/129624/mill-race-marathon-kids-race"
+}

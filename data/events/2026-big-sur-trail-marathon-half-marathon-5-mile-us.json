@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Big Sur Trail Marathon, Half Marathon & 5 Mile is a trail race. Location: Big Sur, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Big Sur, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Big Sur Trail Marathon, Half Marathon & 5 Mile to bieg trailowy. Lokalizacja: Big Sur, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Big Sur, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-06T22:06:37.596Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Sur",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2026 Big Sur Trail Marathon, Half Marathon & 5 Mile",
+  "registrationUrl": "https://raceroster.com/events/2026/115860/2026-big-sur-trail-marathon-half-marathon-and-5-mile",
+  "slug": "2026-big-sur-trail-marathon-half-marathon-5-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "id": "runraceusa",
+    "ref": "2026-big-sur-trail-marathon-half-marathon-5-mile-ca",
+    "url": "https://raceroster.com/events/2026/115860/2026-big-sur-trail-marathon-half-marathon-and-5-mile"
+  },
+  "start": {
+    "lat": 36.2458,
+    "lon": -121.7009,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "website": "https://raceroster.com/events/2026/115860/2026-big-sur-trail-marathon-half-marathon-and-5-mile"
+}
