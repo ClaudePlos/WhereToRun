@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Cossatot River Trail Run is a trail race. Location: Wickes, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Wickes, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Cossatot River Trail Run to bieg trailowy. Lokalizacja: Wickes, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Wickes, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wickes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Cossatot River Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19262",
+  "slug": "cossatot-river-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "cossatot-river-trail-run-ar",
+    "url": "https://ultrasignup.com/register.aspx?eid=19262"
+  },
+  "start": {
+    "lat": 34.29,
+    "lon": -94.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19262"
+}

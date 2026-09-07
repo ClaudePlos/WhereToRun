@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Westmore Mountain Challenge is a trail race. Location: East Charleston, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — East Charleston, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Westmore Mountain Challenge to bieg trailowy. Lokalizacja: East Charleston, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — East Charleston, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "East Charleston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "Westmore Mountain Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19519",
+  "slug": "westmore-mountain-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "westmore-mountain-challenge-vt",
+    "url": "https://ultrasignup.com/register.aspx?eid=19519"
+  },
+  "start": {
+    "lat": 44.83,
+    "lon": -71.95,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19519"
+}

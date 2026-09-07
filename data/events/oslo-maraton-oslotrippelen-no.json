@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Oslo Maraton - Oslotrippelen is a ultramarathon. Location: Oslo, Norway. Date: Saturday, 12 September 2026. Distances: 73 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Oslo, Norway, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Oslo Maraton - Oslotrippelen to ultramaraton. Lokalizacja: Oslo, Norwegia. Termin: sobota, 12 września 2026. Dystanse: 73 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Oslo, Norwegia, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "73 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oslo",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Oslo Maraton - Oslotrippelen",
+  "registrationUrl": null,
+  "slug": "oslo-maraton-oslotrippelen-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130305",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130305"
+  },
+  "start": {
+    "lat": 59.91333,
+    "lon": 10.73897,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bakihagan, en backyard ultra på Årnes is a ultramarathon. Location: Årnes, Norway. Date: Saturday, 26 September 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Årnes, Norway, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Bakihagan, en backyard ultra på Årnes to ultramaraton. Lokalizacja: Årnes, Norwegia. Termin: sobota, 26 września 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Årnes, Norwegia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Årnes",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bakihagan, en backyard ultra på Årnes",
+  "registrationUrl": null,
+  "slug": "bakihagan-en-backyard-ultra-pa-arnes-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130321",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130321"
+  },
+  "start": {
+    "lat": 60.122332,
+    "lon": 11.470149,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

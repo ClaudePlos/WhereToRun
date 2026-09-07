@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Stavanger is a ultramarathon. Location: Stavanger, Norway. Date: Saturday, 26 September 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Stavanger, Norway, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Backyard Stavanger to ultramaraton. Lokalizacja: Stavanger, Norwegia. Termin: sobota, 26 września 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Stavanger, Norwegia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stavanger",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Stavanger",
+  "registrationUrl": null,
+  "slug": "backyard-stavanger-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130327",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130327"
+  },
+  "start": {
+    "lat": 58.969968,
+    "lon": 5.73181,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

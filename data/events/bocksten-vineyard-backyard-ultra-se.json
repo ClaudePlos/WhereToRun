@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bocksten Vineyard Backyard Ultra is a ultramarathon. Location: Tvååker, Sweden. Date: Saturday, 12 September 2026. Distances: 27 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tvååker, Sweden, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Bocksten Vineyard Backyard Ultra to ultramaraton. Lokalizacja: Tvååker, Szwecja. Termin: sobota, 12 września 2026. Dystanse: 27 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tvååker, Szwecja, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "27 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tvååker",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bocksten Vineyard Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "bocksten-vineyard-backyard-ultra-se",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "130352",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130352"
+  },
+  "start": {
+    "lat": 57.041362,
+    "lon": 12.399105,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Hiawatha Fall Trail Run is a trail race. Location: Taft, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Taft, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Hiawatha Fall Trail Run to bieg trailowy. Lokalizacja: Taft, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Taft, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Taft",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Hiawatha Fall Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/MT/Taft/HiawathaFallTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hiawatha-fall-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "hiawatha-fall-trail-run-mt",
+    "url": "https://runsignup.com/Race/MT/Taft/HiawathaFallTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.41,
+    "lon": -115.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/MT/Taft/HiawathaFallTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Knights Fury Duathlon is a triathlon. Location: Honeoye Falls, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Honeoye Falls, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "The Knights Fury Duathlon to triatlon. Lokalizacja: Honeoye Falls, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Honeoye Falls, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honeoye Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "The Knights Fury Duathlon",
+  "registrationUrl": "https://runsignup.com/Race/NY/HoneoyeFalls/TheKnightsFuryDuathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-knights-fury-duathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "the-knights-fury-duathlon-ny",
+    "url": "https://runsignup.com/Race/NY/HoneoyeFalls/TheKnightsFuryDuathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.97,
+    "lon": -77.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/NY/HoneoyeFalls/TheKnightsFuryDuathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Merced ½ Marathon and 4.5 Mile Run is a road race. Location: Lake Merced & Sunset Blvds., United States. Date: Sunday, 27 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lake Merced & Sunset Blvds., United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Lake Merced ½ Marathon and 4.5 Mile Run to bieg uliczny. Lokalizacja: Lake Merced & Sunset Blvds., Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lake Merced & Sunset Blvds., Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Merced & Sunset Blvds.",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lake Merced ½ Marathon and 4.5 Mile Run",
+  "registrationUrl": "http://www.active.com/san-francisco-ca/running/distance-running-races/lake-merced-marathon-and-4-5-mile-run-2026",
+  "slug": "lake-merced-marathon-and-4-5-mile-run-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "lake-merced-marathon-and-4-5-mile-run-ca",
+    "url": "http://www.active.com/san-francisco-ca/running/distance-running-races/lake-merced-marathon-and-4-5-mile-run-2026"
+  },
+  "start": {
+    "lat": 37.72,
+    "lon": -122.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "http://www.active.com/san-francisco-ca/running/distance-running-races/lake-merced-marathon-and-4-5-mile-run-2026"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "New River Gorge Wilds Trail Run 2026 is a trail race. Location: Oak Hill, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Oak Hill, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "New River Gorge Wilds Trail Run 2026 to bieg trailowy. Lokalizacja: Oak Hill, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Oak Hill, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oak Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "New River Gorge Wilds Trail Run 2026",
+  "registrationUrl": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026",
+  "slug": "new-river-gorge-wilds-trail-run-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "new-river-gorge-wilds-trail-run-2026-wv",
+    "url": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026"
+  },
+  "start": {
+    "lat": 37.9723,
+    "lon": -81.1487,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026"
+}

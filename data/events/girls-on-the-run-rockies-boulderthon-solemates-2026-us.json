@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Girls on the Run Rockies Boulderthon SoleMates 2026 is a road race. Location: Boulder, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boulder, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Girls on the Run Rockies Boulderthon SoleMates 2026 to bieg uliczny. Lokalizacja: Boulder, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boulder, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boulder",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Girls on the Run Rockies Boulderthon SoleMates 2026",
+  "registrationUrl": "https://runsignup.com/Race/CO/Boulder/GirlsOnTheRunRockiesBoulderthonSoleMates?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "girls-on-the-run-rockies-boulderthon-solemates-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "girls-on-the-run-rockies-boulderthon-solemates-2026-co",
+    "url": "https://runsignup.com/Race/CO/Boulder/GirlsOnTheRunRockiesBoulderthonSoleMates?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.02,
+    "lon": -105.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/CO/Boulder/GirlsOnTheRunRockiesBoulderthonSoleMates?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "De Warmste Loop - The Warmest Run is a ultramarathon. Location: Wingene, Belgium. Date: Sunday, 29 November 2026. Distances: 8 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Wingene, Belgium, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "De Warmste Loop - The Warmest Run to ultramaraton. Lokalizacja: Wingene, Belgia. Termin: niedziela, 29 listopada 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Wingene, Belgia, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-11-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wingene",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "De Warmste Loop - The Warmest Run",
+  "registrationUrl": null,
+  "slug": "de-warmste-loop-the-warmest-run-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "124337",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124337"
+  },
+  "start": {
+    "lat": 51.058166,
+    "lon": 3.277967,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

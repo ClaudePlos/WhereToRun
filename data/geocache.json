@@ -44,6 +44,42 @@
   "AU|yellagonga regional park, wa": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "BE|bierbeek": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 50.8278113,
+    "lon": 4.754358,
+    "name": "Bierbeek, Leuven, Vlaams-Brabant, Vlaanderen, 3360, België / Belgique / Belgien"
+  },
+  "BE|eupen": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 50.6305665,
+    "lon": 6.0312717,
+    "name": "Eupen, Verviers, Liège, Wallonie, België / Belgique / Belgien"
+  },
+  "BE|la-roche-en-ardenne": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 50.1815604,
+    "lon": 5.5759476,
+    "name": "La Roche-en-Ardenne, Marche-en-Famenne, Luxembourg, Wallonie, België / Belgique / Belgien"
+  },
+  "BE|ovifat": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 50.4663622,
+    "lon": 6.107063,
+    "name": "Ovifat, Robertville, Waimes, Verviers, Liège, Wallonie, België / Belgique / Belgien"
+  },
+  "BE|pepinster": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 50.5710311,
+    "lon": 5.7978592,
+    "name": "Pepinster, Verviers, Liège, Wallonie, België / Belgique / Belgien"
+  },
+  "BE|wingene": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 51.0581655,
+    "lon": 3.2779667,
+    "name": "Wingene, Tielt, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+  },
   "BR|barra do chui, rs": {
     "at": "2026-09-03T17:03:15.961Z"
   },
@@ -559,6 +595,24 @@
     "lat": 44.8178131,
     "lon": 20.4568974,
     "name": "Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија"
+  },
+  "SE|gripholms slott, mariefred": {
+    "at": "2026-09-07T12:45:22.898Z"
+  },
+  "SE|lund": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 55.7029296,
+    "lon": 13.1929449,
+    "name": "Lund, Lunds kommun, Skåne län, Sverige"
+  },
+  "SE|svartbäcksmåla, nybro": {
+    "at": "2026-09-07T12:45:22.898Z"
+  },
+  "SE|tvååker": {
+    "at": "2026-09-07T12:45:22.898Z",
+    "lat": 57.0413621,
+    "lon": 12.3991052,
+    "name": "Tvååker, Varbergs kommun, Hallands län, 432 78, Sverige"
   },
   "SI|ljubljana": {
     "at": "2026-09-02T11:28:34.543Z",

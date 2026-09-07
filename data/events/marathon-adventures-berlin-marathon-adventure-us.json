@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Adventures Berlin Marathon Adventure is a road race. Location: Minneapolis, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minneapolis, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Marathon Adventures Berlin Marathon Adventure to bieg uliczny. Lokalizacja: Minneapolis, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minneapolis, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minneapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Marathon Adventures Berlin Marathon Adventure",
+  "registrationUrl": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresBerlinMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "marathon-adventures-berlin-marathon-adventure-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "marathon-adventures-berlin-marathon-adventure-mn",
+    "url": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresBerlinMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.12,
+    "lon": -93.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresBerlinMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

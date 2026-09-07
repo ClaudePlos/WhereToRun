@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "JP's Backyard Ultra/Hike, The Final Edition is a ultramarathon. Location: Napa, United States. Date: Saturday, 26 September 2026. Distances: u50k, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Napa, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "JP's Backyard Ultra/Hike, The Final Edition to ultramaraton. Lokalizacja: Napa, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: u50k, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Napa, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Napa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "JP's Backyard Ultra/Hike, The Final Edition",
+  "registrationUrl": "https://runsignup.com/Race/CA/Napa/JPsBackyardUltraHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jp-s-backyard-ultra-hike-the-final-edition-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "jp-s-backyard-ultra-hike-the-final-edition-ca",
+    "url": "https://runsignup.com/Race/CA/Napa/JPsBackyardUltraHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.29,
+    "lon": -122.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/CA/Napa/JPsBackyardUltraHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

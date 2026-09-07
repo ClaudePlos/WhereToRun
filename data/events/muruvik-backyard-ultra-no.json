@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Muruvik Backyard Ultra is a ultramarathon. Location: Hommelvik, Norway. Date: 19 September 2026 – 22 September 2026. Distances: 48 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hommelvik, Norway, 19 September 2026 – 22 September 2026"
+    },
+    "pl": {
+      "description": "Muruvik Backyard Ultra to ultramaraton. Lokalizacja: Hommelvik, Norwegia. Termin: 19 września 2026 – 22 września 2026. Dystanse: 48 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hommelvik, Norwegia, 19 września 2026 – 22 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 h"
+  ],
+  "endDate": "2026-09-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hommelvik",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Muruvik Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "muruvik-backyard-ultra-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "128823",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128823"
+  },
+  "start": {
+    "lat": 63.411398,
+    "lon": 10.795811,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

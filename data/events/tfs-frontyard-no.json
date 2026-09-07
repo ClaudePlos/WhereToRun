@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TFS Frontyard is a ultramarathon. Location: Trondheim, Norway. Date: Saturday, 12 September 2026. Distances: 5 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Trondheim, Norway, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "TFS Frontyard to ultramaraton. Lokalizacja: Trondheim, Norwegia. Termin: sobota, 12 września 2026. Dystanse: 5 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Trondheim, Norwegia, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Trondheim",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "TFS Frontyard",
+  "registrationUrl": null,
+  "slug": "tfs-frontyard-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130304",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130304"
+  },
+  "start": {
+    "lat": 63.430448,
+    "lon": 10.395212,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

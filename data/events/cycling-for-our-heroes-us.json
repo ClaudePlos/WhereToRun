@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cycling for Our Heroes is a road race. Location: Havre De Grace, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, u50k, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Havre De Grace, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Cycling for Our Heroes to bieg uliczny. Lokalizacja: Havre De Grace, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, u50k, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Havre De Grace, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "u50k",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Havre De Grace",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Cycling for Our Heroes",
+  "registrationUrl": "https://runsignup.com/Race/MD/HavreDeGrace/CyclingForOurHeroes26?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cycling-for-our-heroes-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "cycling-for-our-heroes-md",
+    "url": "https://runsignup.com/Race/MD/HavreDeGrace/CyclingForOurHeroes26?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.55,
+    "lon": -76.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/MD/HavreDeGrace/CyclingForOurHeroes26?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

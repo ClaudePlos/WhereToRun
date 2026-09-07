@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Trail des Lacs et Châteaux Winter is a ultramarathon. Location: Ovifat, Belgium. Date: Saturday, 7 November 2026. Distances: 66 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ovifat, Belgium, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Grand Trail des Lacs et Châteaux Winter to ultramaraton. Lokalizacja: Ovifat, Belgia. Termin: sobota, 7 listopada 2026. Dystanse: 66 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ovifat, Belgia, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "66 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ovifat",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Grand Trail des Lacs et Châteaux Winter",
+  "registrationUrl": null,
+  "slug": "grand-trail-des-lacs-et-chateaux-winter-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "131264",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131264"
+  },
+  "start": {
+    "lat": 50.466362,
+    "lon": 6.107063,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

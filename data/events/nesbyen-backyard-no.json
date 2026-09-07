@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Nesbyen Backyard is a ultramarathon. Location: Nesbyen, Norway. Date: Saturday, 3 October 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nesbyen, Norway, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Nesbyen Backyard to ultramaraton. Lokalizacja: Nesbyen, Norwegia. Termin: sobota, 3 października 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nesbyen, Norwegia, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nesbyen",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Nesbyen Backyard",
+  "registrationUrl": null,
+  "slug": "nesbyen-backyard-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130818",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130818"
+  },
+  "start": {
+    "lat": 60.546824,
+    "lon": 9.028342,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

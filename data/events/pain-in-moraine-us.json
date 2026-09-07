@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pain in Moraine is a road race. Location: Portersville, United States. Date: Friday, 11 September 2026. Distances: 24Hr 10K Loops. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Portersville, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "Pain in Moraine to bieg uliczny. Lokalizacja: Portersville, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: 24Hr 10K Loops. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Portersville, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24Hr 10K Loops"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Portersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Pain in Moraine",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65558",
+  "slug": "pain-in-moraine-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:30.560Z",
+    "id": "ultrasignup",
+    "ref": "19166",
+    "url": "https://ultrasignup.com/register.aspx?did=65558"
+  },
+  "start": {
+    "lat": 40.9476,
+    "lon": -80.0953,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://www.glacierridgetrailultra.com/"
+}

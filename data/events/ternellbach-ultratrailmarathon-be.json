@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ternellbach UltraTrailMarathon is a ultramarathon. Location: Eupen, Belgium. Date: Saturday, 26 September 2026. Distances: 46.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Eupen, Belgium, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Ternellbach UltraTrailMarathon to ultramaraton. Lokalizacja: Eupen, Belgia. Termin: sobota, 26 września 2026. Dystanse: 46.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Eupen, Belgia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eupen",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ternellbach UltraTrailMarathon",
+  "registrationUrl": null,
+  "slug": "ternellbach-ultratrailmarathon-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "132707",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132707"
+  },
+  "start": {
+    "lat": 50.630567,
+    "lon": 6.031272,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mill Race Marathon & Half Marathon 2026 is a road race. Location: Columbus, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Columbus, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mill Race Marathon & Half Marathon 2026 to bieg uliczny. Lokalizacja: Columbus, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Columbus, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Mill Race Marathon & Half Marathon 2026",
+  "registrationUrl": "https://raceroster.com/events/2026/118934/mill-race-marathon-and-half-marathon-2026",
+  "slug": "mill-race-marathon-half-marathon-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "mill-race-marathon-half-marathon-2026-in",
+    "url": "https://raceroster.com/events/2026/118934/mill-race-marathon-and-half-marathon-2026"
+  },
+  "start": {
+    "lat": 39.2014,
+    "lon": -85.9214,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://raceroster.com/events/2026/118934/mill-race-marathon-and-half-marathon-2026"
+}

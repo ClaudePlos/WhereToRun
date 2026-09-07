@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lejonbragden 100km is a ultramarathon. Location: Lund, Sweden. Date: Saturday, 12 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lund, Sweden, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Lejonbragden 100km to ultramaraton. Lokalizacja: Lund, Szwecja. Termin: sobota, 12 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lund, Szwecja, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lund",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Lejonbragden 100km",
+  "registrationUrl": null,
+  "slug": "lejonbragden-100km-se",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "122367",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122367"
+  },
+  "start": {
+    "lat": 55.70293,
+    "lon": 13.192945,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

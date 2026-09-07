@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Adirondack Marathon Distance Festival is a road race. Location: Schroon Lake, United States. Date: Sunday, 27 September 2026. Distances: 21.1 km, 42.2 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Schroon Lake, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Adirondack Marathon Distance Festival to bieg uliczny. Lokalizacja: Schroon Lake, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 21.1 km, 42.2 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Schroon Lake, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Schroon Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Adirondack Marathon Distance Festival",
+  "registrationUrl": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival",
+  "slug": "adirondack-marathon-distance-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "adirondack-marathon-distance-festival-ny",
+    "url": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
+  },
+  "start": {
+    "lat": 43.8412,
+    "lon": -73.7674,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
+}

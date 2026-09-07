@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Belleville Main Street Marathon & Half Marathon is a road race. Location: Belleville, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Belleville, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Belleville Main Street Marathon & Half Marathon to bieg uliczny. Lokalizacja: Belleville, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Belleville, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belleville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Belleville Main Street Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IL/Belleville/BELLEVILLEMAINSTREETMARATHONHALFMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "belleville-main-street-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "belleville-main-street-marathon-half-marathon-il",
+    "url": "https://runsignup.com/Race/IL/Belleville/BELLEVILLEMAINSTREETMARATHONHALFMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.51,
+    "lon": -89.98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/IL/Belleville/BELLEVILLEMAINSTREETMARATHONHALFMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

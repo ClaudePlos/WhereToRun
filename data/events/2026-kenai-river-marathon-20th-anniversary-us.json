@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Kenai River Marathon - 20th Anniversary is a road race. Location: Kenai, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kenai, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "2026 Kenai River Marathon - 20th Anniversary to bieg uliczny. Lokalizacja: Kenai, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kenai, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kenai",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "2026 Kenai River Marathon - 20th Anniversary",
+  "registrationUrl": "http://www.active.com/kenai-ak/running/distance-running-races/kenai-river-marathon-20th-anniversary-2026",
+  "slug": "2026-kenai-river-marathon-20th-anniversary-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "2026-kenai-river-marathon-20th-anniversary-ak",
+    "url": "http://www.active.com/kenai-ak/running/distance-running-races/kenai-river-marathon-20th-anniversary-2026"
+  },
+  "start": {
+    "lat": 60.55,
+    "lon": -151.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "http://www.active.com/kenai-ak/running/distance-running-races/kenai-river-marathon-20th-anniversary-2026"
+}

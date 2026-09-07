@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Dirt Rambler is a ultramarathon. Location: Shreveport, United States. Date: Saturday, 24 October 2026. Distances: 100 km, 60 km, 42.2 km, 30 km, 15 km, 15K RUCK. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Shreveport, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Red Dirt Rambler to ultramaraton. Lokalizacja: Shreveport, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 100 km, 60 km, 42.2 km, 30 km, 15 km, 15K RUCK. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Shreveport, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "60 km",
+    "42.2 km",
+    "30 km",
+    "15 km",
+    "15K RUCK"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shreveport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Red Dirt Rambler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68018",
+  "slug": "red-dirt-rambler-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:30.560Z",
+    "id": "ultrasignup",
+    "ref": "20799",
+    "url": "https://ultrasignup.com/register.aspx?did=68018"
+  },
+  "start": {
+    "lat": 32.6765,
+    "lon": -93.923,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://www.texasoutlawrunning.com/rambler"
+}

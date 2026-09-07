@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Jackson Hole Marathon,  Hole Half Marathon, Jackson Hole Quarter Marathon is a road race. Location: Jackson, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Jackson, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Jackson Hole Marathon,  Hole Half Marathon, Jackson Hole Quarter Marathon to bieg uliczny. Lokalizacja: Jackson, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Jackson, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jackson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WY"
+  },
+  "manual": false,
+  "name": "Jackson Hole Marathon,  Hole Half Marathon, Jackson Hole Quarter Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WY/Jackson/JacksonHoleMarathonandHoleHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jackson-hole-marathon-hole-half-marathon-jackson-hole-quarter-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "jackson-hole-marathon-hole-half-marathon-jackson-hole-quarter",
+    "url": "https://runsignup.com/Race/WY/Jackson/JacksonHoleMarathonandHoleHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.45,
+    "lon": -110.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/WY/Jackson/JacksonHoleMarathonandHoleHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

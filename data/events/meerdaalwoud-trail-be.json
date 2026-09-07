@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Meerdaalwoud Trail is a ultramarathon. Location: Bierbeek, Belgium. Date: Saturday, 19 December 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bierbeek, Belgium, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Meerdaalwoud Trail to ultramaraton. Lokalizacja: Bierbeek, Belgia. Termin: sobota, 19 grudnia 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bierbeek, Belgia, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bierbeek",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Meerdaalwoud Trail",
+  "registrationUrl": null,
+  "slug": "meerdaalwoud-trail-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "129048",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129048"
+  },
+  "start": {
+    "lat": 50.827811,
+    "lon": 4.754358,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

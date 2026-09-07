@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MuuvWell Hot Rod 24 Hour Ultra is a ultramarathon. Location: Bowling Green, United States. Date: Saturday, 26 September 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bowling Green, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "MuuvWell Hot Rod 24 Hour Ultra to ultramaraton. Lokalizacja: Bowling Green, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bowling Green, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bowling Green",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "MuuvWell Hot Rod 24 Hour Ultra",
+  "registrationUrl": "https://runsignup.com/Race/KY/BowlingGreen/HotRod24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "muuvwell-hot-rod-24-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "id": "runraceusa",
+    "ref": "muuvwell-hot-rod-24-hour-ultra-ky",
+    "url": "https://runsignup.com/Race/KY/BowlingGreen/HotRod24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.02,
+    "lon": -86.45,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": "https://runsignup.com/Race/KY/BowlingGreen/HotRod24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

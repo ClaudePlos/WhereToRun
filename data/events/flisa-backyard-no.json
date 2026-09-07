@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Flisa Backyard is a ultramarathon. Location: Åsnes, Norway. Date: Saturday, 3 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Åsnes, Norway, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Flisa Backyard to ultramaraton. Lokalizacja: Åsnes, Norwegia. Termin: sobota, 3 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Åsnes, Norwegia, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Åsnes",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Flisa Backyard",
+  "registrationUrl": null,
+  "slug": "flisa-backyard-no",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.338Z",
+    "id": "duv",
+    "ref": "130625",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130625"
+  },
+  "start": {
+    "lat": 60.681227,
+    "lon": 12.186883,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

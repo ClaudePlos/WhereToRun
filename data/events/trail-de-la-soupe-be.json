@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail de la Soupe is a ultramarathon. Location: La-Roche-en-Ardenne, Belgium. Date: Sunday, 29 November 2026. Distances: 57 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — La-Roche-en-Ardenne, Belgium, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "Trail de la Soupe to ultramaraton. Lokalizacja: La-Roche-en-Ardenne, Belgia. Termin: niedziela, 29 listopada 2026. Dystanse: 57 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — La-Roche-en-Ardenne, Belgia, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2026-11-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "57 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "La-Roche-en-Ardenne",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail de la Soupe",
+  "registrationUrl": null,
+  "slug": "trail-de-la-soupe-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "129020",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129020"
+  },
+  "start": {
+    "lat": 50.18156,
+    "lon": 5.575948,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}

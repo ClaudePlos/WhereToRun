@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Les Clochards Célestes is a ultramarathon. Location: Pepinster, Belgium. Date: Sunday, 16 May 2027. Distances: 101 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pepinster, Belgium, Sunday, 16 May 2027"
+    },
+    "pl": {
+      "description": "Les Clochards Célestes to ultramaraton. Lokalizacja: Pepinster, Belgia. Termin: niedziela, 16 maja 2027. Dystanse: 101 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pepinster, Belgia, niedziela, 16 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-07T12:45:22.898Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "101 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pepinster",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Les Clochards Célestes",
+  "registrationUrl": null,
+  "slug": "les-clochards-celestes-be",
+  "source": {
+    "fetchedAt": "2026-09-07T12:45:43.337Z",
+    "id": "duv",
+    "ref": "132747",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132747"
+  },
+  "start": {
+    "lat": 50.571031,
+    "lon": 5.797859,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "website": null
+}
