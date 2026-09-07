@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Summit Survivor Backyard Ultra at Kissing Bridge is a ultramarathon. Location: Glenwood, United States. Date: Saturday, 3 October 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Glenwood, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Summit Survivor Backyard Ultra at Kissing Bridge to ultramaraton. Lokalizacja: Glenwood, Stany Zjednoczone. Termin: sobota, 3 października 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Glenwood, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glenwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Summit Survivor Backyard Ultra at Kissing Bridge",
+  "registrationUrl": "https://runsignup.com/Race/NY/Glenwood/KissingBridgeEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "summit-survivor-backyard-ultra-at-kissing-bridge-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "summit-survivor-backyard-ultra-at-kissing-bridge-ny",
+    "url": "https://runsignup.com/Race/NY/Glenwood/KissingBridgeEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.6,
+    "lon": -78.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/NY/Glenwood/KissingBridgeEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

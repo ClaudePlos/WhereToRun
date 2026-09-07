@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Nitrianska 24h - Slovak national championship is a ultramarathon. Location: Nitra, Slovakia. Date: 20 March 2027 – 21 March 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nitra, Slovakia, 20 March 2027 – 21 March 2027"
+    },
+    "pl": {
+      "description": "Nitrianska 24h - Slovak national championship to ultramaraton. Lokalizacja: Nitra, Słowacja. Termin: 20 marca 2027 – 21 marca 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nitra, Słowacja, 20 marca 2027 – 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-03-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nitra",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Nitrianska 24h - Slovak national championship",
+  "registrationUrl": null,
+  "slug": "nitrianska-24h-slovak-national-championship-sk",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:19.184Z",
+    "id": "duv",
+    "ref": "134754",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134754"
+  },
+  "start": {
+    "lat": 48.31295,
+    "lon": 18.089459,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": null
+}

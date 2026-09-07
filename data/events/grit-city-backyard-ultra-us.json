@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Grit City Backyard Ultra is a ultramarathon. Location: Tacoma, United States. Date: Sunday, 4 October 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tacoma, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Grit City Backyard Ultra to ultramaraton. Lokalizacja: Tacoma, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tacoma, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tacoma",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Grit City Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grit-city-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "grit-city-backyard-ultra-wa",
+    "url": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.21,
+    "lon": -122.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

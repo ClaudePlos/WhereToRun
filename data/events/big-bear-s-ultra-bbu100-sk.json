@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Bear's Ultra BBU100+ is a ultramarathon. Location: ŽILINA, Slovakia. Date: 19 September 2026 – 20 September 2026. Distances: 118 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — ŽILINA, Slovakia, 19 September 2026 – 20 September 2026"
+    },
+    "pl": {
+      "description": "Big Bear's Ultra BBU100+ to ultramaraton. Lokalizacja: ŽILINA, Słowacja. Termin: 19 września 2026 – 20 września 2026. Dystanse: 118 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — ŽILINA, Słowacja, 19 września 2026 – 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "118 km"
+  ],
+  "endDate": "2026-09-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "ŽILINA",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Big Bear's Ultra BBU100+",
+  "registrationUrl": null,
+  "slug": "big-bear-s-ultra-bbu100-sk",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:19.184Z",
+    "id": "duv",
+    "ref": "124584",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124584"
+  },
+  "start": {
+    "lat": 49.223467,
+    "lon": 18.739314,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": null
+}

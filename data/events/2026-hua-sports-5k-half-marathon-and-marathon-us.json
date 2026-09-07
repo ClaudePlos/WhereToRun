@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Hua Sports 5K, Half Marathon and Marathon is a road race. Location: Point Of Rocks, United States. Date: Sunday, 4 October 2026. Distances: 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Point Of Rocks, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "2026 Hua Sports 5K, Half Marathon and Marathon to bieg uliczny. Lokalizacja: Point Of Rocks, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Point Of Rocks, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Point Of Rocks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "2026 Hua Sports 5K, Half Marathon and Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MD/PointOfRocks/HuaSportsRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-hua-sports-5k-half-marathon-and-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "2026-hua-sports-5k-half-marathon-and-marathon-md",
+    "url": "https://runsignup.com/Race/MD/PointOfRocks/HuaSportsRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.28,
+    "lon": -77.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/MD/PointOfRocks/HuaSportsRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

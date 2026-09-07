@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Windsor Marathon, Half Marathon, 10k, 5k & 1 Mile Run is a road race. Location: Windsor, United States. Date: Sunday, 4 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Windsor, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Windsor Marathon, Half Marathon, 10k, 5k & 1 Mile Run to bieg uliczny. Lokalizacja: Windsor, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Windsor, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Windsor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Windsor Marathon, Half Marathon, 10k, 5k & 1 Mile Run",
+  "registrationUrl": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "windsor-marathon-half-marathon-10k-5k-1-mile-run-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "windsor-marathon-half-marathon-10k-5k-1-mile-run-co",
+    "url": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.48,
+    "lon": -104.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

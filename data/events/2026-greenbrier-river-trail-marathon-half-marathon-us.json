@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Greenbrier River Trail Marathon & Half Marathon is a trail race. Location: Marlinton, United States. Date: Sunday, 4 October 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Marlinton, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "2026 Greenbrier River Trail Marathon & Half Marathon to bieg trailowy. Lokalizacja: Marlinton, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Marlinton, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marlinton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "2026 Greenbrier River Trail Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WV/Marlinton/2021GRTMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-greenbrier-river-trail-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "2026-greenbrier-river-trail-marathon-half-marathon-wv",
+    "url": "https://runsignup.com/Race/WV/Marlinton/2021GRTMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.26,
+    "lon": -80.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/WV/Marlinton/2021GRTMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

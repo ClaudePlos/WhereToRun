@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra Esztergom is a ultramarathon. Location: Esztergom, Hungary. Date: 24 April 2027 – 27 April 2027. Distances: 45 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Esztergom, Hungary, 24 April 2027 – 27 April 2027"
+    },
+    "pl": {
+      "description": "Backyard Ultra Esztergom to ultramaraton. Lokalizacja: Esztergom, Węgry. Termin: 24 kwietnia 2027 – 27 kwietnia 2027. Dystanse: 45 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Esztergom, Węgry, 24 kwietnia 2027 – 27 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 h"
+  ],
+  "endDate": "2027-04-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Esztergom",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra Esztergom",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-esztergom-hu",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:19.184Z",
+    "id": "duv",
+    "ref": "131337",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131337"
+  },
+  "start": {
+    "lat": 47.785694,
+    "lon": 18.740338,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": null
+}

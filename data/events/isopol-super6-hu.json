@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "ISOPOL Super6 is a ultramarathon. Location: Veszprem, Hungary. Date: Sunday, 25 October 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Veszprem, Hungary, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "ISOPOL Super6 to ultramaraton. Lokalizacja: Veszprem, Węgry. Termin: niedziela, 25 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Veszprem, Węgry, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Veszprem",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "ISOPOL Super6",
+  "registrationUrl": null,
+  "slug": "isopol-super6-hu",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:19.184Z",
+    "id": "duv",
+    "ref": "123540",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123540"
+  },
+  "start": {
+    "lat": 47.093382,
+    "lon": 17.908041,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": null
+}

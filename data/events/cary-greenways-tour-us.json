@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cary Greenways Tour is a road race. Location: Cary, United States. Date: Sunday, 4 October 2026. Distances: 21.1 km, 10 km, 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cary, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Cary Greenways Tour to bieg uliczny. Lokalizacja: Cary, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 21.1 km, 10 km, 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cary, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cary",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Cary Greenways Tour",
+  "registrationUrl": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cary-greenways-tour-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "cary-greenways-tour-nc",
+    "url": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.8,
+    "lon": -78.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

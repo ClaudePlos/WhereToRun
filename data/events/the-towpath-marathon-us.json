@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Towpath Marathon is a road race. Location: Cleveland, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cleveland, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "The Towpath Marathon to bieg uliczny. Lokalizacja: Cleveland, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cleveland, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cleveland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "The Towpath Marathon",
+  "registrationUrl": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-towpath-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "the-towpath-marathon-oh",
+    "url": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.48,
+    "lon": -81.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

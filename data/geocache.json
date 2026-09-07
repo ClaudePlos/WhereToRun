@@ -287,11 +287,23 @@
     "lon": 17.9231412,
     "name": "Csopak, Balatonfüredi járás, Veszprém vármegye, Közép-Dunántúl, Dunántúl, Magyarország"
   },
+  "HU|esztergom": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 47.7856939,
+    "lon": 18.7403377,
+    "name": "Esztergom, Esztergomi járás, Komárom-Esztergom vármegye, Közép-Dunántúl, Dunántúl, Magyarország"
+  },
   "HU|martely": {
     "at": "2026-09-07T18:15:31.685Z",
     "lat": 46.468773,
     "lon": 20.238383,
     "name": "Mártély, Hódmezővásárhelyi járás, Csongrád-Csanád vármegye, Dél-Alföld, Alföld és Észak, 6636, Magyarország"
+  },
+  "HU|veszprem": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 47.0933824,
+    "lon": 17.9080406,
+    "name": "Veszprém, Veszprémi járás, Veszprém vármegye, Közép-Dunántúl, Dunántúl, Magyarország"
   },
   "IE|bray": {
     "at": "2026-09-02T11:28:34.543Z",
@@ -638,6 +650,12 @@
     "lon": 6.9059424,
     "name": "Øye, Kvinesdal, Agder, 4484, Norge"
   },
+  "RO|chiajna": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 44.4588774,
+    "lon": 25.9778979,
+    "name": "Chiajna, Ilfov, România"
+  },
   "RS|belgrade": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 44.8178131,
@@ -673,6 +691,30 @@
     "lat": 46.3947708,
     "lon": 15.9298496,
     "name": "Markovci, 2281, Slovenija"
+  },
+  "SK|nitra": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 48.31295,
+    "lon": 18.0894593,
+    "name": "Nitra, okres Nitra, Nitriansky kraj, Slovensko"
+  },
+  "SK|strečno": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 49.1880017,
+    "lon": 18.8643093,
+    "name": "Strečno, okres Žilina, Žilinský kraj, 013 24, Slovensko"
+  },
+  "SK|zilina": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 49.2234674,
+    "lon": 18.7393139,
+    "name": "Žilina, okres Žilina, Žilinský kraj, Slovensko"
+  },
+  "SK|žilina": {
+    "at": "2026-09-07T22:48:59.007Z",
+    "lat": 49.2234674,
+    "lon": 18.7393139,
+    "name": "Žilina, okres Žilina, Žilinský kraj, Slovensko"
   },
   "TR|ankara": {
     "at": "2026-09-05T10:43:37.273Z",

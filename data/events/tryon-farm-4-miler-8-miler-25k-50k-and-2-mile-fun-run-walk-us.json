@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tryon Farm 4 Miler/8 Miler/25k/50k and 2 mile Fun Run/Walk is a road race. Location: Michigan City, United States. Date: Saturday, 3 October 2026. Distances: other, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Michigan City, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Tryon Farm 4 Miler/8 Miler/25k/50k and 2 mile Fun Run/Walk to bieg uliczny. Lokalizacja: Michigan City, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Michigan City, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Michigan City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Tryon Farm 4 Miler/8 Miler/25k/50k and 2 mile Fun Run/Walk",
+  "registrationUrl": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk",
+  "slug": "tryon-farm-4-miler-8-miler-25k-50k-and-2-mile-fun-run-walk-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "tryon-farm-4-miler-8-miler-25k-50k-and-2-mile-fun-run-walk-in",
+    "url": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
+  },
+  "start": {
+    "lat": 41.698,
+    "lon": -86.8699,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
+}

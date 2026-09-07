@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Metric Marathon is a road race. Location: Harwood, United States. Date: Sunday, 4 October 2026. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Harwood, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Metric Marathon to bieg uliczny. Lokalizacja: Harwood, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Harwood, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Harwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Metric Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MD/Harwood/MetricMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "metric-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "metric-marathon-md",
+    "url": "https://runsignup.com/Race/MD/Harwood/MetricMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.86,
+    "lon": -76.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/MD/Harwood/MetricMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

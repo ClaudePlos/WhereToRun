@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Great Balloon Chase 5K, 10K & 1/2 Marathon is a road race. Location: Albuquerque, United States. Date: Sunday, 4 October 2026. Distances: 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Albuquerque, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Great Balloon Chase 5K, 10K & 1/2 Marathon to bieg uliczny. Lokalizacja: Albuquerque, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Albuquerque, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albuquerque",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Great Balloon Chase 5K, 10K & 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "great-balloon-chase-5k-10k-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "great-balloon-chase-5k-10k-1-2-marathon-nm",
+    "url": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.13,
+    "lon": -106.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

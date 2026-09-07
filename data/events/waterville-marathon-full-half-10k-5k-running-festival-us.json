@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Waterville Marathon - Full/Half/10K/5K - Running Festival is a road race. Location: Waterville, United States. Date: Sunday, 4 October 2026. Distances: 21.1 km, 42.2 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Waterville, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Waterville Marathon - Full/Half/10K/5K - Running Festival to bieg uliczny. Lokalizacja: Waterville, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 21.1 km, 42.2 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Waterville, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T22:48:59.007Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waterville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Waterville Marathon - Full/Half/10K/5K - Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "waterville-marathon-full-half-10k-5k-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "id": "runraceusa",
+    "ref": "waterville-marathon-full-half-10k-5k-running-festival-me",
+    "url": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.55,
+    "lon": -69.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "website": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
