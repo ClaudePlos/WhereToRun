@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Team CKF Running Series is a road race. Location: Aspen, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Aspen, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Team CKF Running Series to bieg uliczny. Lokalizacja: Aspen, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Aspen, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aspen",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Team CKF Running Series",
+  "registrationUrl": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "team-ckf-running-series-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "team-ckf-running-series-co",
+    "url": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.2,
+    "lon": -106.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

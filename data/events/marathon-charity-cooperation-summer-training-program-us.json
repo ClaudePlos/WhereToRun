@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Charity Cooperation - Summer Training Program is a road race. Location: Herndon, United States. Date: Wednesday, 30 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Herndon, United States, Wednesday, 30 September 2026"
+    },
+    "pl": {
+      "description": "Marathon Charity Cooperation - Summer Training Program to bieg uliczny. Lokalizacja: Herndon, Stany Zjednoczone. Termin: środa, 30 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Herndon, Stany Zjednoczone, środa, 30 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Herndon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Marathon Charity Cooperation - Summer Training Program",
+  "registrationUrl": "https://raceroster.com/events/2026/125303/marathon-charity-cooperation-summer-training-program",
+  "slug": "marathon-charity-cooperation-summer-training-program-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "marathon-charity-cooperation-summer-training-program-va",
+    "url": "https://raceroster.com/events/2026/125303/marathon-charity-cooperation-summer-training-program"
+  },
+  "start": {
+    "lat": 38.9696,
+    "lon": -77.3861,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://raceroster.com/events/2026/125303/marathon-charity-cooperation-summer-training-program"
+}

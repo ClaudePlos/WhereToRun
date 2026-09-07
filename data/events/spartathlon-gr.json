@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Spartathlon is a ultramarathon. Location: Athens, Greece. Date: 26 September 2026 – 27 September 2026. Distances: 246 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Athens, Greece, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Spartathlon to ultramaraton. Lokalizacja: Athens, Grecja. Termin: 26 września 2026 – 27 września 2026. Dystanse: 246 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Athens, Grecja, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "246 km"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Spartathlon",
+  "registrationUrl": null,
+  "slug": "spartathlon-gr",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "124549",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124549"
+  },
+  "start": {
+    "lat": 37.975565,
+    "lon": 23.734832,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

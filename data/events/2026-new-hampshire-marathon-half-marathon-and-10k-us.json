@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 New Hampshire Marathon, Half Marathon and 10K is a road race. Location: Bristol, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 1.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Bristol, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "2026 New Hampshire Marathon, Half Marathon and 10K to bieg uliczny. Lokalizacja: Bristol, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Bristol, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bristol",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "2026 New Hampshire Marathon, Half Marathon and 10K",
+  "registrationUrl": "https://raceroster.com/events/2026/113766/2026-new-hampshire-marathon-half-marathon-and-10k",
+  "slug": "2026-new-hampshire-marathon-half-marathon-and-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "2026-new-hampshire-marathon-half-marathon-and-10k-nh",
+    "url": "https://raceroster.com/events/2026/113766/2026-new-hampshire-marathon-half-marathon-and-10k"
+  },
+  "start": {
+    "lat": 43.612,
+    "lon": -71.7507,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://raceroster.com/events/2026/113766/2026-new-hampshire-marathon-half-marathon-and-10k"
+}

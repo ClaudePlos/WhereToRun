@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Angeles Crest 100 Mile Endurance Run is a road race. Location: Altadena, United States. Date: Saturday, 3 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Altadena, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Angeles Crest 100 Mile Endurance Run to bieg uliczny. Lokalizacja: Altadena, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Altadena, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Altadena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Angeles Crest 100 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=283",
+  "slug": "angeles-crest-100-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "angeles-crest-100-mile-endurance-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=283"
+  },
+  "start": {
+    "lat": 34.2,
+    "lon": -118.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=283"
+}

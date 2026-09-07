@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail Ljubljana 95 km is a ultramarathon. Location: Ljubljana, Slovenia. Date: 11 September 2026 – 12 September 2026. Distances: 95 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ljubljana, Slovenia, 11 September 2026 – 12 September 2026"
+    },
+    "pl": {
+      "description": "Trail Ljubljana 95 km to ultramaraton. Lokalizacja: Ljubljana, Słowenia. Termin: 11 września 2026 – 12 września 2026. Dystanse: 95 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ljubljana, Słowenia, 11 września 2026 – 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "95 km"
+  ],
+  "endDate": "2026-09-12",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail Ljubljana 95 km",
+  "registrationUrl": null,
+  "slug": "trail-ljubljana-95-km-si",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "123712",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123712"
+  },
+  "start": {
+    "lat": 46.050027,
+    "lon": 14.506929,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

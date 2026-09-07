@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Everest - 60 Mile + (60 Miler) - just over 29029 feet of elevation gain up and down - Everesting Elevation Endurance Ultra Trail Marathon - 61 + Miles | 72 Hour - IronHike (Iron Hike) Fall (October / Oct) - Relay - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day. is a ultramarathon. Location: Cornwall, United States. Date: Thursday, 1 October 2026. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cornwall, United States, Thursday, 1 October 2026"
+    },
+    "pl": {
+      "description": "Everest - 60 Mile + (60 Miler) - just over 29029 feet of elevation gain up and down - Everesting Elevation Endurance Ultra Trail Marathon - 61 + Miles | 72 Hour - IronHike (Iron Hike) Fall (October / Oct) - Relay - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day. to ultramaraton. Lokalizacja: Cornwall, Stany Zjednoczone. Termin: czwartek, 1 października 2026. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cornwall, Stany Zjednoczone, czwartek, 1 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cornwall",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Everest - 60 Mile + (60 Miler) - just over 29029 feet of elevation gain up and down - Everesting Elevation Endurance Ultra Trail Marathon - 61 + Miles | 72 Hour - IronHike (Iron Hike) Fall (October / Oct) - Solo - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day.",
+  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "everest-60-mile-60-miler-just-over-29029-feet-of-elevation-gain-up-and-down-ever",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "",
+    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.83,
+    "lon": -73.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

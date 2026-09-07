@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Dam Race - Space Edition - Arcadia Lake is a road race. Location: Jones, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Jones, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "The Dam Race - Space Edition - Arcadia Lake to bieg uliczny. Lokalizacja: Jones, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Jones, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jones",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "The Dam Race - Space Edition - Arcadia Lake",
+  "registrationUrl": "https://runsignup.com/Race/OK/Jones/TheDamRaceXC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-dam-race-space-edition-arcadia-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "the-dam-race-space-edition-arcadia-lake-ok",
+    "url": "https://runsignup.com/Race/OK/Jones/TheDamRaceXC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.58,
+    "lon": -97.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/OK/Jones/TheDamRaceXC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

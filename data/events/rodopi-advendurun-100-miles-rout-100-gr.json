@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rodopi Advendurun 100 miles (ROUT-100) is a ultramarathon. Location: Xanthi, Greece. Date: 16 October 2026 – 17 October 2026. Distances: 183 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Xanthi, Greece, 16 October 2026 – 17 October 2026"
+    },
+    "pl": {
+      "description": "Rodopi Advendurun 100 miles (ROUT-100) to ultramaraton. Lokalizacja: Xanthi, Grecja. Termin: 16 października 2026 – 17 października 2026. Dystanse: 183 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Xanthi, Grecja, 16 października 2026 – 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "183 km"
+  ],
+  "endDate": "2026-10-17",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Xanthi",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Rodopi Advendurun 100 miles (ROUT-100)",
+  "registrationUrl": null,
+  "slug": "rodopi-advendurun-100-miles-rout-100-gr",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "131628",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131628"
+  },
+  "start": {
+    "lat": 41.13805,
+    "lon": 24.886409,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

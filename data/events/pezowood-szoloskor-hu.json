@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "PezoWood Szőlőskör is a ultramarathon. Location: Balatonszőlős, Hungary. Date: Saturday, 12 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Balatonszőlős, Hungary, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "PezoWood Szőlőskör to ultramaraton. Lokalizacja: Balatonszőlős, Węgry. Termin: sobota, 12 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Balatonszőlős, Węgry, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Balatonszőlős",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "PezoWood Szőlőskör",
+  "registrationUrl": null,
+  "slug": "pezowood-szoloskor-hu",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "131327",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131327"
+  },
+  "start": {
+    "lat": 46.967365,
+    "lon": 17.829215,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

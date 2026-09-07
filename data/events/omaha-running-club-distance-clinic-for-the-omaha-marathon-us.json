@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Omaha Running Club Distance Clinic for the Omaha Marathon is a road race. Location: Omaha, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Omaha, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Omaha Running Club Distance Clinic for the Omaha Marathon to bieg uliczny. Lokalizacja: Omaha, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Omaha, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Omaha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Omaha Running Club Distance Clinic for the Omaha Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NE/Omaha/OmahaRunningClubDistanceClinic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "omaha-running-club-distance-clinic-for-the-omaha-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "omaha-running-club-distance-clinic-for-the-omaha-marathon-ne",
+    "url": "https://runsignup.com/Race/NE/Omaha/OmahaRunningClubDistanceClinic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.26,
+    "lon": -96.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/NE/Omaha/OmahaRunningClubDistanceClinic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

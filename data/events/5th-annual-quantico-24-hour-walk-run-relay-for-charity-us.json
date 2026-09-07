@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "5th Annual Quantico 24-Hour Walk, Run & Relay for Charity is a road race. Location: Quantico, United States. Date: Saturday, 3 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u50m, u100k, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Quantico, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "5th Annual Quantico 24-Hour Walk, Run & Relay for Charity to bieg uliczny. Lokalizacja: Quantico, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u50m, u100k, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Quantico, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "u50m",
+    "u100k",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Quantico",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "5th Annual Quantico 24-Hour Walk, Run & Relay for Charity",
+  "registrationUrl": "https://runsignup.com/Race/VA/Quantico/24HourWalkRunforCharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "5th-annual-quantico-24-hour-walk-run-relay-for-charity-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "5th-annual-quantico-24-hour-walk-run-relay-for-charity-va",
+    "url": "https://runsignup.com/Race/VA/Quantico/24HourWalkRunforCharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.53,
+    "lon": -77.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/VA/Quantico/24HourWalkRunforCharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

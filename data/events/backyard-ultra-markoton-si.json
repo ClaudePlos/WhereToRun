@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra - Markoton is a ultramarathon. Location: Markovci, Slovenia. Date: 19 March 2027 – 20 March 2027. Distances: 27 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Markovci, Slovenia, 19 March 2027 – 20 March 2027"
+    },
+    "pl": {
+      "description": "Backyard Ultra - Markoton to ultramaraton. Lokalizacja: Markovci, Słowenia. Termin: 19 marca 2027 – 20 marca 2027. Dystanse: 27 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Markovci, Słowenia, 19 marca 2027 – 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "27 h"
+  ],
+  "endDate": "2027-03-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Markovci",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra - Markoton",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-markoton-si",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "134780",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134780"
+  },
+  "start": {
+    "lat": 46.394771,
+    "lon": 15.92985,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

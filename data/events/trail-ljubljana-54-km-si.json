@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail Ljubljana 54 km is a ultramarathon. Location: Ljubljana, Slovenia. Date: Saturday, 12 September 2026. Distances: 54 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ljubljana, Slovenia, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Trail Ljubljana 54 km to ultramaraton. Lokalizacja: Ljubljana, Słowenia. Termin: sobota, 12 września 2026. Dystanse: 54 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ljubljana, Słowenia, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "54 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail Ljubljana 54 km",
+  "registrationUrl": null,
+  "slug": "trail-ljubljana-54-km-si",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "123713",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123713"
+  },
+  "start": {
+    "lat": 46.050027,
+    "lon": 14.506929,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

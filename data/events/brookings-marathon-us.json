@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Brookings Marathon is a road race. Location: Brookings, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Brookings, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Brookings Marathon to bieg uliczny. Lokalizacja: Brookings, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Brookings, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brookings",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Brookings Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/115178/brookings-marathon",
+  "slug": "brookings-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "brookings-marathon-sd",
+    "url": "https://raceroster.com/events/2026/115178/brookings-marathon"
+  },
+  "start": {
+    "lat": 44.3056,
+    "lon": -96.7914,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://raceroster.com/events/2026/115178/brookings-marathon"
+}

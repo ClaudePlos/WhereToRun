@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Guthrie Wineglass Marathon, Wegmans Wineglass Half Marathon & Williams Toyota Wineglass 5K is a road race. Location: Corning, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Corning, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Guthrie Wineglass Marathon, Wegmans Wineglass Half Marathon & Williams Toyota Wineglass 5K to bieg uliczny. Lokalizacja: Corning, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Corning, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Corning",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Guthrie Wineglass Marathon, Wegmans Wineglass Half Marathon & Williams Toyota Wineglass 5K",
+  "registrationUrl": "https://runsignup.com/Race/NY/Corning/WineGlassMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "guthrie-wineglass-marathon-wegmans-wineglass-half-marathon-williams-toyota-wineg",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "guthrie-wineglass-marathon-wegmans-wineglass-half-marathon-williams",
+    "url": "https://runsignup.com/Race/NY/Corning/WineGlassMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.14,
+    "lon": -77.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/NY/Corning/WineGlassMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

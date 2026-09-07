@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Traverse is a road race. Location: Duluth, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Duluth, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Grand Traverse to bieg uliczny. Lokalizacja: Duluth, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Duluth, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Grand Traverse",
+  "registrationUrl": "https://runsignup.com/Race/MN/Duluth/GrandTraverse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grand-traverse-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "grand-traverse-mn",
+    "url": "https://runsignup.com/Race/MN/Duluth/GrandTraverse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.77,
+    "lon": -92.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/MN/Duluth/GrandTraverse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

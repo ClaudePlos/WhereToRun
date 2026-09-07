@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "NJ Trail Series One Day is a trail race. Location: Augusta, United States. Date: Thursday, 1 October 2026. Distances: 1.6 km, ultra, u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Augusta, United States, Thursday, 1 October 2026"
+    },
+    "pl": {
+      "description": "NJ Trail Series One Day to bieg trailowy. Lokalizacja: Augusta, Stany Zjednoczone. Termin: czwartek, 1 października 2026. Dystanse: 1.6 km, ultra, u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Augusta, Stany Zjednoczone, czwartek, 1 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "ultra",
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Augusta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "NJ Trail Series One Day",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Augusta/NJTrailSeriesOneDay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "nj-trail-series-one-day-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "nj-trail-series-one-day-nj",
+    "url": "https://runsignup.com/Race/NJ/Augusta/NJTrailSeriesOneDay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.15,
+    "lon": -74.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/NJ/Augusta/NJTrailSeriesOneDay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

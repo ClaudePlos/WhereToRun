@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Authentic Phidippides Run Athens-Sparta-Athens 490 km is a ultramarathon. Location: Athens, Greece. Date: 19 November 2026 – 23 November 2026. Distances: 485 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Athens, Greece, 19 November 2026 – 23 November 2026"
+    },
+    "pl": {
+      "description": "Authentic Phidippides Run Athens-Sparta-Athens 490 km to ultramaraton. Lokalizacja: Athens, Grecja. Termin: 19 listopada 2026 – 23 listopada 2026. Dystanse: 485 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Athens, Grecja, 19 listopada 2026 – 23 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-11-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "485 km"
+  ],
+  "endDate": "2026-11-23",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Authentic Phidippides Run Athens-Sparta-Athens 490 km",
+  "registrationUrl": null,
+  "slug": "authentic-phidippides-run-athens-sparta-athens-490-km-gr",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "124540",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124540"
+  },
+  "start": {
+    "lat": 37.975565,
+    "lon": 23.734832,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

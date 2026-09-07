@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "48hr Loutraki Int. Ultramarathon Festival is a ultramarathon. Location: Loutraki, Greece. Date: 22 October 2026 – 24 October 2026. Distances: 48 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Loutraki, Greece, 22 October 2026 – 24 October 2026"
+    },
+    "pl": {
+      "description": "48hr Loutraki Int. Ultramarathon Festival to ultramaraton. Lokalizacja: Loutraki, Grecja. Termin: 22 października 2026 – 24 października 2026. Dystanse: 48 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Loutraki, Grecja, 22 października 2026 – 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 h"
+  ],
+  "endDate": "2026-10-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Loutraki",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "48hr Loutraki Int. Ultramarathon Festival",
+  "registrationUrl": null,
+  "slug": "48hr-loutraki-int-ultramarathon-festival-gr",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "130561",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130561"
+  },
+  "start": {
+    "lat": 37.974367,
+    "lon": 22.977723,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

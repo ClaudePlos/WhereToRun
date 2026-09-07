@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Flagstaff Marathon Presented by Cambium Wealth and Legacy Strategies is a road race. Location: Flagstaff, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Flagstaff, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Flagstaff Marathon Presented by Cambium Wealth and Legacy Strategies to bieg uliczny. Lokalizacja: Flagstaff, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Flagstaff, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flagstaff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Flagstaff Marathon Presented by Cambium Wealth and Legacy Strategies",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Flagstaff/flagmarathonandhalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "flagstaff-marathon-presented-by-cambium-wealth-and-legacy-strategies-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "flagstaff-marathon-presented-by-cambium-wealth-and-legacy-strategies",
+    "url": "https://runsignup.com/Race/AZ/Flagstaff/flagmarathonandhalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.19,
+    "lon": -111.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/AZ/Flagstaff/flagmarathonandhalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

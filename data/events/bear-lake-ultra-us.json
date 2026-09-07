@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bear Lake Ultra is a ultramarathon. Location: Lapeer, United States. Date: Saturday, 3 October 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lapeer, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Bear Lake Ultra to ultramaraton. Lokalizacja: Lapeer, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lapeer, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lapeer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Bear Lake Ultra",
+  "registrationUrl": "https://runsignup.com/Race/MI/Lapeer/BearLakeUltra25?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bear-lake-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "bear-lake-ultra-mi",
+    "url": "https://runsignup.com/Race/MI/Lapeer/BearLakeUltra25?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.06,
+    "lon": -83.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/MI/Lapeer/BearLakeUltra25?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

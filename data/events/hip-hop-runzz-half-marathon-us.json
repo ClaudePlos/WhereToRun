@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hip-Hop Runzz (half & MARATHON) is a road race. Location: Bronx County, United States. Date: Monday, 28 September 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Bronx County, United States, Monday, 28 September 2026"
+    },
+    "pl": {
+      "description": "Hip-Hop Runzz (half & MARATHON) to bieg uliczny. Lokalizacja: Bronx County, Stany Zjednoczone. Termin: poniedziałek, 28 września 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Bronx County, Stany Zjednoczone, poniedziałek, 28 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bronx County",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Hip-Hop Runzz (half & MARATHON)",
+  "registrationUrl": "https://raceroster.com/events/2026/113899/hip-hop-runzz-half-and-marathon",
+  "slug": "hip-hop-runzz-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "hip-hop-runzz-half-marathon-ny",
+    "url": "https://raceroster.com/events/2026/113899/hip-hop-runzz-half-and-marathon"
+  },
+  "start": {
+    "lat": 40.8409,
+    "lon": -73.8794,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://raceroster.com/events/2026/113899/hip-hop-runzz-half-and-marathon"
+}

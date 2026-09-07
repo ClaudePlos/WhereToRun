@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "NBGP - North Balaton Grand Prix - Backyard is a ultramarathon. Location: Csopak, Hungary. Date: Sunday, 5 December 2027. Distances: 41 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Csopak, Hungary, Sunday, 5 December 2027"
+    },
+    "pl": {
+      "description": "NBGP - North Balaton Grand Prix - Backyard to ultramaraton. Lokalizacja: Csopak, Węgry. Termin: niedziela, 5 grudnia 2027. Dystanse: 41 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Csopak, Węgry, niedziela, 5 grudnia 2027"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2027-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "41 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Csopak",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "NBGP - North Balaton Grand Prix - Backyard",
+  "registrationUrl": null,
+  "slug": "nbgp-north-balaton-grand-prix-backyard-hu",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "100272",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=100272"
+  },
+  "start": {
+    "lat": 46.979685,
+    "lon": 17.923141,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

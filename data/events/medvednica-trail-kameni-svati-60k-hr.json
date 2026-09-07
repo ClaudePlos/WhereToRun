@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Medvednica trail - Kameni svati 60K is a ultramarathon. Location: Zagreb, Croatia. Date: Sunday, 23 May 2027. Distances: 62 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zagreb, Croatia, Sunday, 23 May 2027"
+    },
+    "pl": {
+      "description": "Medvednica trail - Kameni svati 60K to ultramaraton. Lokalizacja: Zagreb, Chorwacja. Termin: niedziela, 23 maja 2027. Dystanse: 62 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zagreb, Chorwacja, niedziela, 23 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2027-05-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "62 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Medvednica trail - Kameni svati 60K",
+  "registrationUrl": null,
+  "slug": "medvednica-trail-kameni-svati-60k-hr",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "id": "duv",
+    "ref": "132458",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132458"
+  },
+  "start": {
+    "lat": 45.813097,
+    "lon": 15.97728,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": null
+}

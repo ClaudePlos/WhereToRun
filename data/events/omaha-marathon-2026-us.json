@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Omaha Marathon 2026 is a road race. Location: Omaha, United States. Date: Sunday, 27 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Omaha, United States, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Omaha Marathon 2026 to bieg uliczny. Lokalizacja: Omaha, Stany Zjednoczone. Termin: niedziela, 27 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Omaha, Stany Zjednoczone, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Omaha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Omaha Marathon 2026",
+  "registrationUrl": "https://raceroster.com/events/2026/117920/omaha-marathon-2026",
+  "slug": "omaha-marathon-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "omaha-marathon-2026-ne",
+    "url": "https://raceroster.com/events/2026/117920/omaha-marathon-2026"
+  },
+  "start": {
+    "lat": 41.2647,
+    "lon": -95.9639,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://raceroster.com/events/2026/117920/omaha-marathon-2026"
+}

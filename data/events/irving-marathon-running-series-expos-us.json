@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Irving Marathon Running Series Expos is a road race. Location: Irving, United States. Date: Friday, 2 October 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Irving, United States, Friday, 2 October 2026"
+    },
+    "pl": {
+      "description": "Irving Marathon Running Series Expos to bieg uliczny. Lokalizacja: Irving, Stany Zjednoczone. Termin: piątek, 2 października 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Irving, Stany Zjednoczone, piątek, 2 października 2026"
+    }
+  },
+  "createdAt": "2026-09-07T18:15:31.685Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Irving",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Irving Marathon Running Series Expos",
+  "registrationUrl": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "irving-marathon-running-series-expos-us",
+  "source": {
+    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "id": "runraceusa",
+    "ref": "irving-marathon-running-series-expos-tx",
+    "url": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.87,
+    "lon": -96.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "website": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
