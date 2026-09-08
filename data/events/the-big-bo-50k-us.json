@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Big BO 50k is a road race. Location: Indianapolis, United States. Date: Saturday, 10 October 2026. Distances: u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Indianapolis, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Big BO 50k to bieg uliczny. Lokalizacja: Indianapolis, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Indianapolis, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Indianapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "The Big BO 50k",
+  "registrationUrl": "https://runsignup.com/Race/IN/Indianapolis/TheBigBO50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-big-bo-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "the-big-bo-50k-in",
+    "url": "https://runsignup.com/Race/IN/Indianapolis/TheBigBO50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.79,
+    "lon": -86.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/IN/Indianapolis/TheBigBO50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

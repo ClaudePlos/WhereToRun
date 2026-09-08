@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Border Ultra Run is a ultramarathon. Location: Jaisalmer, India. Date: 5 December 2026 – 6 December 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Jaisalmer, India, 5 December 2026 – 6 December 2026"
+    },
+    "pl": {
+      "description": "The Border Ultra Run to ultramaraton. Lokalizacja: Jaisalmer, Indie. Termin: 5 grudnia 2026 – 6 grudnia 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Jaisalmer, Indie, 5 grudnia 2026 – 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-12-06",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jaisalmer",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Border Ultra Run",
+  "registrationUrl": null,
+  "slug": "the-border-ultra-run-in",
+  "source": {
+    "fetchedAt": "2026-09-08T17:16:09.181Z",
+    "id": "duv",
+    "ref": "128437",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128437"
+  },
+  "start": {
+    "lat": 26.911662,
+    "lon": 70.912489,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": null
+}

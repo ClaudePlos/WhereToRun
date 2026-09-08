@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Fall Prairie Fire Marathon presented by Davis-Moore Automotive Group is a road race. Location: Wichita, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wichita, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "2026 Fall Prairie Fire Marathon presented by Davis-Moore Automotive Group to bieg uliczny. Lokalizacja: Wichita, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wichita, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wichita",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "2026 Fall Prairie Fire Marathon presented by Davis-Moore Automotive Group",
+  "registrationUrl": "https://runsignup.com/Race/KS/Wichita/FallPrairieFireMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-fall-prairie-fire-marathon-presented-by-davis-moore-automotive-group-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "2026-fall-prairie-fire-marathon-presented-by-davis-moore-automotive",
+    "url": "https://runsignup.com/Race/KS/Wichita/FallPrairieFireMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.67,
+    "lon": -97.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/KS/Wichita/FallPrairieFireMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

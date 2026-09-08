@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ridge Creek Run Club 12 Hour Ultra is a ultramarathon. Location: Dinuba, United States. Date: Saturday, 10 October 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dinuba, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Ridge Creek Run Club 12 Hour Ultra to ultramaraton. Lokalizacja: Dinuba, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dinuba, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dinuba",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Ridge Creek Run Club 12 Hour Ultra",
+  "registrationUrl": "https://runsignup.com/Race/CA/Dinuba/RidgeCreekRunClubHourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ridge-creek-run-club-12-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "ridge-creek-run-club-12-hour-ultra-ca",
+    "url": "https://runsignup.com/Race/CA/Dinuba/RidgeCreekRunClubHourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.53,
+    "lon": -119.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/CA/Dinuba/RidgeCreekRunClubHourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

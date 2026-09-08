@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Snohomish River Run is a road race. Location: Snohomish, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Snohomish, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "2026 Snohomish River Run to bieg uliczny. Lokalizacja: Snohomish, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Snohomish, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Snohomish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "2026 Snohomish River Run",
+  "registrationUrl": "https://raceroster.com/events/2026/110565/2026-snohomish-river-run",
+  "slug": "2026-snohomish-river-run-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "2026-snohomish-river-run-wa",
+    "url": "https://raceroster.com/events/2026/110565/2026-snohomish-river-run"
+  },
+  "start": {
+    "lat": 47.8954,
+    "lon": -122.0716,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://raceroster.com/events/2026/110565/2026-snohomish-river-run"
+}

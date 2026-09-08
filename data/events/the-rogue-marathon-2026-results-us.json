@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Rogue Marathon 2026 results is a road race. Location: Central Point, United States. Date: Saturday, 10 October 2026. Distances: 10 km, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Central Point, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Rogue Marathon 2026 results to bieg uliczny. Lokalizacja: Central Point, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 10 km, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Central Point, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Central Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "The Rogue Marathon 2026 results",
+  "registrationUrl": "https://runsignup.com/Race/OR/CentralPoint/TheRogueMarathon2025results?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-rogue-marathon-2026-results-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "the-rogue-marathon-2026-results-or",
+    "url": "https://runsignup.com/Race/OR/CentralPoint/TheRogueMarathon2025results?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.39,
+    "lon": -122.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/OR/CentralPoint/TheRogueMarathon2025results?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

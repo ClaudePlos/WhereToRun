@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Trance Loops 48h is a ultramarathon. Location: New Delhi, India. Date: 9 July 2027 – 11 July 2027. Distances: 48 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — New Delhi, India, 9 July 2027 – 11 July 2027"
+    },
+    "pl": {
+      "description": "The Trance Loops 48h to ultramaraton. Lokalizacja: New Delhi, Indie. Termin: 9 lipca 2027 – 11 lipca 2027. Dystanse: 48 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — New Delhi, Indie, 9 lipca 2027 – 11 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2027-07-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 h"
+  ],
+  "endDate": "2027-07-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Trance Loops 48h",
+  "registrationUrl": null,
+  "slug": "the-trance-loops-48h-in",
+  "source": {
+    "fetchedAt": "2026-09-08T17:16:09.182Z",
+    "id": "duv",
+    "ref": "134271",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134271"
+  },
+  "start": {
+    "lat": 28.613895,
+    "lon": 77.209006,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": null
+}

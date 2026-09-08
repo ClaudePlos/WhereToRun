@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Bank of America Chicago Marathon is a road race. Location: Chicago, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Chicago, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "2026 Bank of America Chicago Marathon to bieg uliczny. Lokalizacja: Chicago, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Chicago, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "2026 Bank of America Chicago Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/111850/2026-bank-of-america-chicago-marathon",
+  "slug": "2026-bank-of-america-chicago-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "2026-bank-of-america-chicago-marathon-il",
+    "url": "https://raceroster.com/events/2026/111850/2026-bank-of-america-chicago-marathon"
+  },
+  "start": {
+    "lat": 41.8721,
+    "lon": -87.6578,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://raceroster.com/events/2026/111850/2026-bank-of-america-chicago-marathon"
+}

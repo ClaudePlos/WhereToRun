@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tuffman Stadium Run New Delhi - 24h is a ultramarathon. Location: New Delhi, India. Date: 13 March 2027 – 14 March 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — New Delhi, India, 13 March 2027 – 14 March 2027"
+    },
+    "pl": {
+      "description": "Tuffman Stadium Run New Delhi - 24h to ultramaraton. Lokalizacja: New Delhi, Indie. Termin: 13 marca 2027 – 14 marca 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — New Delhi, Indie, 13 marca 2027 – 14 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-03-14",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tuffman Stadium Run New Delhi - 24h",
+  "registrationUrl": null,
+  "slug": "tuffman-stadium-run-new-delhi-24h-in",
+  "source": {
+    "fetchedAt": "2026-09-08T17:16:09.182Z",
+    "id": "duv",
+    "ref": "135594",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135594"
+  },
+  "start": {
+    "lat": 28.613895,
+    "lon": 77.209006,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": null
+}

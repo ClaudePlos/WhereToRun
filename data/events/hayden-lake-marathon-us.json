@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hayden Lake Marathon is a road race. Location: Hayden Lake, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hayden Lake, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Hayden Lake Marathon to bieg uliczny. Lokalizacja: Hayden Lake, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hayden Lake, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hayden Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Hayden Lake Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hayden-lake-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "hayden-lake-marathon-id",
+    "url": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.8,
+    "lon": -116.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Cape Cod Marathon Weekend Events is a road race. Location: Falmouth, United States. Date: Sunday, 11 October 2026. Distances: 5 km, other, 21.1 km, 42.2 km, ultra. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Falmouth, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Cape Cod Marathon Weekend Events to bieg uliczny. Lokalizacja: Falmouth, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 5 km, other, 21.1 km, 42.2 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Falmouth, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Falmouth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Cape Cod Marathon Weekend Events",
+  "registrationUrl": "https://raceroster.com/events/2026/107104/cape-cod-marathon-weekend-events",
+  "slug": "cape-cod-marathon-weekend-events-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "cape-cod-marathon-weekend-events-ma",
+    "url": "https://raceroster.com/events/2026/107104/cape-cod-marathon-weekend-events"
+  },
+  "start": {
+    "lat": 41.5648,
+    "lon": -70.6217,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://raceroster.com/events/2026/107104/cape-cod-marathon-weekend-events"
+}

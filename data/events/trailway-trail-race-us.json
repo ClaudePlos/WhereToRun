@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Trailway Trail Race is a trail race. Location: Somerville, United States. Date: Saturday, 10 October 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Somerville, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Trailway Trail Race to bieg trailowy. Lokalizacja: Somerville, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Somerville, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Somerville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Trailway Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/TX/Somerville/TheTrailway?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "trailway-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "trailway-trail-race-tx",
+    "url": "https://runsignup.com/Race/TX/Somerville/TheTrailway?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.41,
+    "lon": -96.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/TX/Somerville/TheTrailway?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Tamarack Health WhistleStop Marathon, Half-Marathon, 5K & 10K is a road race. Location: Ashland, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Ashland, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Tamarack Health WhistleStop Marathon, Half-Marathon, 5K & 10K to bieg uliczny. Lokalizacja: Ashland, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Ashland, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ashland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Tamarack Health WhistleStop Marathon, Half-Marathon, 5K & 10K",
+  "registrationUrl": "https://raceroster.com/events/2026/112902/tamarack-health-whistlestop-marathon-half-marathon-5k-and-10k",
+  "slug": "tamarack-health-whistlestop-marathon-half-marathon-5k-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "tamarack-health-whistlestop-marathon-half-marathon-5k-10k-wi",
+    "url": "https://raceroster.com/events/2026/112902/tamarack-health-whistlestop-marathon-half-marathon-5k-and-10k"
+  },
+  "start": {
+    "lat": 46.5586,
+    "lon": -90.7388,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://raceroster.com/events/2026/112902/tamarack-health-whistlestop-marathon-half-marathon-5k-and-10k"
+}

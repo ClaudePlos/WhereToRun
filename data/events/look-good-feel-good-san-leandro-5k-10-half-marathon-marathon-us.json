@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "LOOK GOOD FEEL GOOD SAN LEANDRO 5K, 10, HALF MARATHON & MARATHON is a road race. Location: San Leandro, United States. Date: Saturday, 10 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Leandro, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "LOOK GOOD FEEL GOOD SAN LEANDRO 5K, 10, HALF MARATHON & MARATHON to bieg uliczny. Lokalizacja: San Leandro, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Leandro, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Leandro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "LOOK GOOD FEEL GOOD SAN LEANDRO 5K, 10, HALF MARATHON & MARATHON",
+  "registrationUrl": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "look-good-feel-good-san-leandro-5k-10-half-marathon-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "look-good-feel-good-san-leandro-5k-10-half-marathon-marathon-ca",
+    "url": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.72,
+    "lon": -122.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

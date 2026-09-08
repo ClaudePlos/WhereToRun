@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Mammoth Trail Run 2026 - 100K / 50K / 25K / 10K / 5K and Mighty Mammoth 1K Kids Dash is a trail race. Location: Glen Rose, United States. Date: Saturday, 10 October 2026. Distances: u100k, u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Glen Rose, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Mammoth Trail Run 2026 - 100K / 50K / 25K / 10K / 5K and Mighty Mammoth 1K Kids Dash to bieg trailowy. Lokalizacja: Glen Rose, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u100k, u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Glen Rose, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glen Rose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The Mammoth Trail Run 2026 - 100K / 50K / 25K / 10K / 5K and Mighty Mammoth 1K Kids Dash",
+  "registrationUrl": "https://runsignup.com/Race/TX/GlenRose/TheMammothAtHighHopeEnduranceRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-mammoth-trail-run-2026-100k-50k-25k-10k-5k-and-mighty-mammoth-1k-kids-dash-u",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "the-mammoth-trail-run-2026-100k-50k-25k-10k-5k-and-mighty-mammoth-1k",
+    "url": "https://runsignup.com/Race/TX/GlenRose/TheMammothAtHighHopeEnduranceRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.23,
+    "lon": -97.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/TX/GlenRose/TheMammothAtHighHopeEnduranceRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

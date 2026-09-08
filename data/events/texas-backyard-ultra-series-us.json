@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Texas Backyard Ultra Series is a ultramarathon. Location: Bastrop, United States. Date: Saturday, 10 October 2026. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bastrop, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Texas Backyard Ultra Series to ultramaraton. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bastrop, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Texas Backyard Ultra Series",
+  "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "texas-backyard-ultra-series-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "texas-backyard-ultra-series-tx",
+    "url": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.14,
+    "lon": -97.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

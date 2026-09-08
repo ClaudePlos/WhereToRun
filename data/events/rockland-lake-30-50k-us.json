@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Rockland Lake 30/50k is a road race. Location: Valley Cottage, United States. Date: Saturday, 10 October 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Valley Cottage, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Rockland Lake 30/50k to bieg uliczny. Lokalizacja: Valley Cottage, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Valley Cottage, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valley Cottage",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Rockland Lake 30/50k",
+  "registrationUrl": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rockland-lake-30-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "rockland-lake-30-50k-ny",
+    "url": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.12,
+    "lon": -73.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

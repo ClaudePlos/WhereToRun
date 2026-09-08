@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Humboldt Redwoods Marathon, Half Marathon, 5K is a road race. Location: Weott, United States. Date: Sunday, 11 October 2026. Distances: 21.1 km, 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Weott, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "2026 Humboldt Redwoods Marathon, Half Marathon, 5K to bieg uliczny. Lokalizacja: Weott, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 21.1 km, 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Weott, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Weott",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2026 Humboldt Redwoods Marathon, Half Marathon, 5K",
+  "registrationUrl": "https://runsignup.com/Race/CA/Weott/HumboldtRedwoods?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-humboldt-redwoods-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "2026-humboldt-redwoods-marathon-half-marathon-5k-ca",
+    "url": "https://runsignup.com/Race/CA/Weott/HumboldtRedwoods?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.32,
+    "lon": -123.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/CA/Weott/HumboldtRedwoods?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

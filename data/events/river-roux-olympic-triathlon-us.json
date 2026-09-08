@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "River Roux Olympic Triathlon is a triathlon. Location: New Roads, United States. Date: Saturday, 10 October 2026. Distances: u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — New Roads, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "River Roux Olympic Triathlon to triatlon. Lokalizacja: New Roads, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — New Roads, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Roads",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "River Roux Olympic Triathlon",
+  "registrationUrl": "https://runsignup.com/Race/LA/NewRoads/RiverRouxOlympicTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "river-roux-olympic-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "river-roux-olympic-triathlon-la",
+    "url": "https://runsignup.com/Race/LA/NewRoads/RiverRouxOlympicTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.7,
+    "lon": -91.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/LA/NewRoads/RiverRouxOlympicTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

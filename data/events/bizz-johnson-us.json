@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bizz Johnson is a road race. Location: Susanville, United States. Date: Sunday, 11 October 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Susanville, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Bizz Johnson to bieg uliczny. Lokalizacja: Susanville, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Susanville, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Susanville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Bizz Johnson",
+  "registrationUrl": "https://runsignup.com/Race/CA/Susanville/BizzJohnson?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bizz-johnson-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "bizz-johnson-ca",
+    "url": "https://runsignup.com/Race/CA/Susanville/BizzJohnson?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.4,
+    "lon": -120.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/CA/Susanville/BizzJohnson?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bhatti Mines Ultra is a ultramarathon. Location: New Delhi, India. Date: Sunday, 7 March 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — New Delhi, India, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "Bhatti Mines Ultra to ultramaraton. Lokalizacja: New Delhi, Indie. Termin: niedziela, 7 marca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — New Delhi, Indie, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bhatti Mines Ultra",
+  "registrationUrl": null,
+  "slug": "bhatti-mines-ultra-in",
+  "source": {
+    "fetchedAt": "2026-09-08T17:16:09.181Z",
+    "id": "duv",
+    "ref": "135540",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135540"
+  },
+  "start": {
+    "lat": 28.613895,
+    "lon": 77.209006,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": null
+}

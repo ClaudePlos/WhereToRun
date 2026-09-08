@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mo Fall is a road race. Location: Perrysville, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Perrysville, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Mo Fall to bieg uliczny. Lokalizacja: Perrysville, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Perrysville, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T17:15:45.729Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Perrysville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Mo Fall",
+  "registrationUrl": "https://runsignup.com/Race/OH/Perrysville/MoFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mo-fall-us",
+  "source": {
+    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "id": "runraceusa",
+    "ref": "mo-fall-oh",
+    "url": "https://runsignup.com/Race/OH/Perrysville/MoFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.66,
+    "lon": -82.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "website": "https://runsignup.com/Race/OH/Perrysville/MoFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
