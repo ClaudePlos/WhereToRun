@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cape Fear 24 Hour Endurance Run is a road race. Location: Lillington, United States. Date: Saturday, 10 October 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lillington, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Cape Fear 24 Hour Endurance Run to bieg uliczny. Lokalizacja: Lillington, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lillington, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lillington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Cape Fear 24 Hour Endurance Run",
+  "registrationUrl": "https://runsignup.com/Race/NC/Lillington/CapeFear24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cape-fear-24-hour-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "cape-fear-24-hour-endurance-run-nc",
+    "url": "https://runsignup.com/Race/NC/Lillington/CapeFear24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.33,
+    "lon": -78.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/NC/Lillington/CapeFear24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

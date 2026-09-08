@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Vilnius Trail Run 108 km is a ultramarathon. Location: Vilnius, Lithuania. Date: Saturday, 1 May 2027. Distances: 108 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Vilnius, Lithuania, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Vilnius Trail Run 108 km to ultramaraton. Lokalizacja: Vilnius, Litwa. Termin: sobota, 1 maja 2027. Dystanse: 108 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Vilnius, Litwa, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "108 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Vilnius Trail Run 108 km",
+  "registrationUrl": null,
+  "slug": "vilnius-trail-run-108-km-lt",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:46.424Z",
+    "id": "duv",
+    "ref": "132042",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132042"
+  },
+  "start": {
+    "lat": 54.687046,
+    "lon": 25.282911,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": null
+}

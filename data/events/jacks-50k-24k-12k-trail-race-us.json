@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Jacks 50K/24k/12k Trail Race is a ultramarathon. Location: Palm Coast, United States. Date: Sunday, 25 October 2026. Distances: 50 km, 24 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palm Coast, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Jacks 50K/24k/12k Trail Race to ultramaraton. Lokalizacja: Palm Coast, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 50 km, 24 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palm Coast, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "24 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palm Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Jacks 50K/24k/12k Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64477",
+  "slug": "jacks-50k-24k-12k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:39.333Z",
+    "id": "ultrasignup",
+    "ref": "2640",
+    "url": "https://ultrasignup.com/register.aspx?did=64477"
+  },
+  "start": {
+    "lat": 29.6169,
+    "lon": -81.1948,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "http://jacks50k.com/"
+}

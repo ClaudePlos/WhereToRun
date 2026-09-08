@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Defiance 50K / 30K / 15K is a road race. Location: Tacoma, United States. Date: Saturday, 10 October 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tacoma, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Defiance 50K / 30K / 15K to bieg uliczny. Lokalizacja: Tacoma, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tacoma, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tacoma",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Defiance 50K / 30K / 15K",
+  "registrationUrl": "https://runsignup.com/Race/WA/Tacoma/Defiance50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "defiance-50k-30k-15k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "defiance-50k-30k-15k-wa",
+    "url": "https://runsignup.com/Race/WA/Tacoma/Defiance50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.28,
+    "lon": -122.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/WA/Tacoma/Defiance50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

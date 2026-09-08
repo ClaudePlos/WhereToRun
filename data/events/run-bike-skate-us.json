@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Bike Skate is a ultramarathon. Location: Kennesaw, United States. Date: Friday, 2 October 2026. Distances: 85.3 km, 69.2 km, 53.1 km, 37 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kennesaw, United States, Friday, 2 October 2026"
+    },
+    "pl": {
+      "description": "Run Bike Skate to ultramaraton. Lokalizacja: Kennesaw, Stany Zjednoczone. Termin: piątek, 2 października 2026. Dystanse: 85.3 km, 69.2 km, 53.1 km, 37 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kennesaw, Stany Zjednoczone, piątek, 2 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "85.3 km",
+    "69.2 km",
+    "53.1 km",
+    "37 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kennesaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Run Bike Skate",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68610",
+  "slug": "run-bike-skate-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:39.333Z",
+    "id": "ultrasignup",
+    "ref": "20970",
+    "url": "https://ultrasignup.com/register.aspx?did=68610"
+  },
+  "start": {
+    "lat": 34.0328,
+    "lon": -84.6316,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://thehottestrun.carrd.co/"
+}

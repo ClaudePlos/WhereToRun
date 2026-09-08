@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "6th Annual Lap The Lake is a road race. Location: Melvern, United States. Date: Saturday, 10 October 2026. Distances: u50m, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Melvern, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "6th Annual Lap The Lake to bieg uliczny. Lokalizacja: Melvern, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50m, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Melvern, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Melvern",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "6th Annual Lap The Lake",
+  "registrationUrl": "https://raceroster.com/events/2026/113368/6th-annual-lap-the-lake",
+  "slug": "6th-annual-lap-the-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "6th-annual-lap-the-lake-ks",
+    "url": "https://raceroster.com/events/2026/113368/6th-annual-lap-the-lake"
+  },
+  "start": {
+    "lat": 38.5027,
+    "lon": -95.629,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://raceroster.com/events/2026/113368/6th-annual-lap-the-lake"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Eversource Hartford Marathon, Half Marathon, Relay & Charity 5K is a road race. Location: Hartford, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hartford, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Eversource Hartford Marathon, Half Marathon, Relay & Charity 5K to bieg uliczny. Lokalizacja: Hartford, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hartford, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hartford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Eversource Hartford Marathon, Half Marathon, Relay & Charity 5K",
+  "registrationUrl": "https://runsignup.com/Race/CT/Hartford/EversourceHartfordMarathonHalfMarathonRelayCharity5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "eversource-hartford-marathon-half-marathon-relay-charity-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "eversource-hartford-marathon-half-marathon-relay-charity-5k-ct",
+    "url": "https://runsignup.com/Race/CT/Hartford/EversourceHartfordMarathonHalfMarathonRelayCharity5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.77,
+    "lon": -72.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/CT/Hartford/EversourceHartfordMarathonHalfMarathonRelayCharity5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

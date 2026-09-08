@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn Harvest 50K • 20-Miler • 10-Miler • 5-Miler • Full • Half • 10K • 5K • Big Bastrop Backyard Ultra (Last Runner & Last Rucker Standing) is a ultramarathon. Location: Bastrop, United States. Date: Saturday, 10 October 2026. Distances: other, 5 km, u50k, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bastrop, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Autumn Harvest 50K • 20-Miler • 10-Miler • 5-Miler • Full • Half • 10K • 5K • Big Bastrop Backyard Ultra (Last Runner & Last Rucker Standing) to ultramaraton. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: other, 5 km, u50k, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bastrop, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Autumn Harvest 50K • 20-Miler • 10-Miler • 5-Miler • Full • Half • 10K • 5K • Big Bastrop Backyard Ultra (Last Runner & Last Rucker Standing)",
+  "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "autumn-harvest-50k-20-miler-10-miler-5-miler-full-half-10k-5k-big-bastrop-backya",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "autumn-harvest-50k-20-miler-10-miler-5-miler-full-half-10k-5k-big",
+    "url": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.14,
+    "lon": -97.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

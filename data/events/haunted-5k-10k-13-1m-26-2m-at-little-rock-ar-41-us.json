@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Haunted 5K, 10K, 13.1M & 26.2M at Little Rock, AR (41) is a road race. Location: Little Rock, United States. Date: Saturday, 10 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Little Rock, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Haunted 5K, 10K, 13.1M & 26.2M at Little Rock, AR (41) to bieg uliczny. Lokalizacja: Little Rock, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Little Rock, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Little Rock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Haunted 5K, 10K, 13.1M & 26.2M at Little Rock, AR (41)",
+  "registrationUrl": "https://runsignup.com/Race/AR/LittleRock/TwoRivers10122024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "haunted-5k-10k-13-1m-26-2m-at-little-rock-ar-41-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "haunted-5k-10k-13-1m-26-2m-at-little-rock-ar-41-ar",
+    "url": "https://runsignup.com/Race/AR/LittleRock/TwoRivers10122024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.79,
+    "lon": -92.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/AR/LittleRock/TwoRivers10122024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

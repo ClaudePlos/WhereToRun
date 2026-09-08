@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sparks Biggest Little Ultra is a ultramarathon. Location: Sparks, United States. Date: Friday, 9 October 2026. Distances: ultra, u100m, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sparks, United States, Friday, 9 October 2026"
+    },
+    "pl": {
+      "description": "Sparks Biggest Little Ultra to ultramaraton. Lokalizacja: Sparks, Stany Zjednoczone. Termin: piątek, 9 października 2026. Dystanse: ultra, u100m, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sparks, Stany Zjednoczone, piątek, 9 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "u100m",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sparks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Sparks Biggest Little Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sparks-biggest-little-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "sparks-biggest-little-ultra-nv",
+    "url": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.55,
+    "lon": -119.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

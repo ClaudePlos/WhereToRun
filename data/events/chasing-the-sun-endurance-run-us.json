@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Chasing the Sun Endurance Run is a road race. Location: Bradenton, United States. Date: Saturday, 10 October 2026. Distances: other, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bradenton, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Chasing the Sun Endurance Run to bieg uliczny. Lokalizacja: Bradenton, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: other, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bradenton, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bradenton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Chasing the Sun Endurance Run",
+  "registrationUrl": "https://runsignup.com/Race/FL/Bradenton/ChasingTheSunEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "chasing-the-sun-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "chasing-the-sun-endurance-run-fl",
+    "url": "https://runsignup.com/Race/FL/Bradenton/ChasingTheSunEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.48,
+    "lon": -82.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/FL/Bradenton/ChasingTheSunEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

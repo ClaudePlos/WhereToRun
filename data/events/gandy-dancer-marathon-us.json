@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Gandy Dancer Marathon is a road race. Location: Luck, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Luck, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Gandy Dancer Marathon to bieg uliczny. Lokalizacja: Luck, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Luck, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Luck",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Gandy Dancer Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Luck/GandyDancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gandy-dancer-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "gandy-dancer-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Luck/GandyDancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.56,
+    "lon": -92.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/WI/Luck/GandyDancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

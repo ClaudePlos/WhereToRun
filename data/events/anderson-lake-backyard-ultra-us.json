@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Anderson Lake Backyard Ultra is a ultramarathon. Location: Gwinn, United States. Date: Saturday, 10 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Gwinn, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Anderson Lake Backyard Ultra to ultramaraton. Lokalizacja: Gwinn, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Gwinn, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gwinn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Anderson Lake Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/MI/Gwinn/AndersonLakeBackyardUltraExploreOurWild?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "anderson-lake-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "anderson-lake-backyard-ultra-mi",
+    "url": "https://runsignup.com/Race/MI/Gwinn/AndersonLakeBackyardUltraExploreOurWild?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.33,
+    "lon": -87.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/MI/Gwinn/AndersonLakeBackyardUltraExploreOurWild?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

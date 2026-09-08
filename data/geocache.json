@@ -398,14 +398,26 @@
   "JP|gifu pref.": {
     "at": "2026-09-05T16:05:51.348Z"
   },
+  "JP|hakui city, ishikawa pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
   "JP|happo, yamamoto district, akita pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
   "JP|hiratsuka, kanagawa pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|hyogo pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
   "JP|ishioka, ibaraki pref.": {
     "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|ito city": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
+  "JP|joetsu city, niigata pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
   },
   "JP|kawaba, gunma pref.": {
     "at": "2026-09-02T17:10:51.476Z"
@@ -416,8 +428,14 @@
   "JP|kobe, hyogo pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|kobe,hyogo": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
   "JP|koriyama, fukushima pref.": {
     "at": "2026-09-02T22:37:18.569Z"
+  },
+  "JP|koumi, minamisaku district, nagano pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
   },
   "JP|kumihamacho, kyoto pref.": {
     "at": "2026-09-02T22:37:18.569Z"
@@ -430,6 +448,9 @@
   },
   "JP|minano town, saitama pref.": {
     "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|mine city, yamaguchi prefecture": {
+    "at": "2026-09-08T11:27:32.075Z"
   },
   "JP|mizukami, kumamoto pref.": {
     "at": "2026-09-02T17:10:51.476Z"
@@ -449,6 +470,9 @@
   "JP|niigata pref.": {
     "at": "2026-09-05T16:05:51.348Z"
   },
+  "JP|ogose, saitama pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
   "JP|osaka city": {
     "at": "2026-09-02T22:37:18.569Z",
     "lat": 34.6937569,
@@ -461,8 +485,14 @@
   "JP|sendai, miyagi pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
+  "JP|shimane pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
+  },
   "JP|shizuoka pref.": {
     "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|yukuhashi, fukuoka pref.": {
+    "at": "2026-09-08T11:27:32.075Z"
   },
   "LT|vilnius": {
     "at": "2026-09-02T17:10:51.476Z",

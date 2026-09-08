@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Canyon De Chelly Ultra is a ultramarathon. Location: Navajo Reservation, United States. Date: Saturday, 10 October 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Navajo Reservation, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Canyon De Chelly Ultra to ultramaraton. Lokalizacja: Navajo Reservation, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Navajo Reservation, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Navajo Reservation",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Canyon De Chelly Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3777",
+  "slug": "canyon-de-chelly-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "canyon-de-chelly-ultra-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=3777"
+  },
+  "start": {
+    "lat": 36.15,
+    "lon": -109.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3777"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "48th Annual Whiskey Row Marathon is a road race. Location: Montezuma & Gurley St, United States. Date: Saturday, 10 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Montezuma & Gurley St, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "48th Annual Whiskey Row Marathon to bieg uliczny. Lokalizacja: Montezuma & Gurley St, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Montezuma & Gurley St, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montezuma & Gurley St",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "48th Annual Whiskey Row Marathon",
+  "registrationUrl": "http://www.active.com/prescott-az/running/distance-running-races/48th-annual-whiskey-row-marathon-2026",
+  "slug": "48th-annual-whiskey-row-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "48th-annual-whiskey-row-marathon-az",
+    "url": "http://www.active.com/prescott-az/running/distance-running-races/48th-annual-whiskey-row-marathon-2026"
+  },
+  "start": {
+    "lat": 34.54,
+    "lon": -112.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "http://www.active.com/prescott-az/running/distance-running-races/48th-annual-whiskey-row-marathon-2026"
+}

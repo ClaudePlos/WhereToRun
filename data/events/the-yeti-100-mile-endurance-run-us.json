@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Yeti 100 Mile Endurance Run is a road race. Location: Abingdon, United States. Date: Friday, 9 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Abingdon, United States, Friday, 9 October 2026"
+    },
+    "pl": {
+      "description": "The Yeti 100 Mile Endurance Run to bieg uliczny. Lokalizacja: Abingdon, Stany Zjednoczone. Termin: piątek, 9 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Abingdon, Stany Zjednoczone, piątek, 9 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Abingdon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "The Yeti 100 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4726",
+  "slug": "the-yeti-100-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "the-yeti-100-mile-endurance-run-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=4726"
+  },
+  "start": {
+    "lat": 36.7,
+    "lon": -81.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4726"
+}

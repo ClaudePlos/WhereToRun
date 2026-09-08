@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra in New Town (Oct 10 8:00AM) is a ultramarathon. Location: Saint Charles, United States. Date: Saturday, 10 October 2026. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Saint Charles, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra in New Town (Oct 10 8:00AM) to ultramaraton. Lokalizacja: Saint Charles, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Saint Charles, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T11:27:32.075Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saint Charles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Backyard Ultra in New Town (Oct 10 8:00AM)",
+  "registrationUrl": "https://runsignup.com/Race/MO/SaintCharles/BackyardUltraNewTown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "backyard-ultra-in-new-town-oct-10-8-00am-us",
+  "source": {
+    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "id": "runraceusa",
+    "ref": "backyard-ultra-in-new-town-oct-10-8-00am-mo",
+    "url": "https://runsignup.com/Race/MO/SaintCharles/BackyardUltraNewTown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.8,
+    "lon": -90.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "website": "https://runsignup.com/Race/MO/SaintCharles/BackyardUltraNewTown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
