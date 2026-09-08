@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Steamtown Marathon 2026 is a road race. Location: Scranton, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Scranton, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Steamtown Marathon 2026 to bieg uliczny. Lokalizacja: Scranton, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Scranton, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Scranton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Steamtown Marathon 2026",
+  "registrationUrl": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "steamtown-marathon-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "steamtown-marathon-2026-pa",
+    "url": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.41,
+    "lon": -75.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

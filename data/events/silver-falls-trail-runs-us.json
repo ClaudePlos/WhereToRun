@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Silver Falls Trail Runs is a trail race. Location: Silverton, United States. Date: Friday, 16 October 2026. Distances: 5 km, other, 42.2 km, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Silverton, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Silver Falls Trail Runs to bieg trailowy. Lokalizacja: Silverton, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 5 km, other, 42.2 km, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Silverton, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "42.2 km",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silverton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Silver Falls Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "silver-falls-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "silver-falls-trail-runs-or",
+    "url": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.84,
+    "lon": -122.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

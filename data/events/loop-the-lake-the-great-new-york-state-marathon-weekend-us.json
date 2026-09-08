@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "\"LOOP THE LAKE\" The Great New York State Marathon Weekend is a road race. Location: Syracuse, United States. Date: Saturday, 17 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Syracuse, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "\"LOOP THE LAKE\" The Great New York State Marathon Weekend to bieg uliczny. Lokalizacja: Syracuse, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Syracuse, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Syracuse",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "\"LOOP THE LAKE\" The Great New York State Marathon Weekend",
+  "registrationUrl": "https://runsignup.com/Race/NY/Syracuse/TheGreatNewYorkStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "loop-the-lake-the-great-new-york-state-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "loop-the-lake-the-great-new-york-state-marathon-weekend-ny",
+    "url": "https://runsignup.com/Race/NY/Syracuse/TheGreatNewYorkStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.08,
+    "lon": -76.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/NY/Syracuse/TheGreatNewYorkStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

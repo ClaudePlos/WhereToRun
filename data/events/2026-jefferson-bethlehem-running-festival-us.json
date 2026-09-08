@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Jefferson Bethlehem Running Festival is a road race. Location: Bethlehem, United States. Date: Friday, 16 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bethlehem, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "2026 Jefferson Bethlehem Running Festival to bieg uliczny. Lokalizacja: Bethlehem, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bethlehem, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bethlehem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "2026 Jefferson Bethlehem Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/PA/Bethlehem/BethlehemRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-jefferson-bethlehem-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "2026-jefferson-bethlehem-running-festival-pa",
+    "url": "https://runsignup.com/Race/PA/Bethlehem/BethlehemRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.6,
+    "lon": -75.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/PA/Bethlehem/BethlehemRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lakeside Marathon is a road race. Location: South Lake Tahoe, United States. Date: Friday, 16 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Lake Tahoe, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Lakeside Marathon to bieg uliczny. Lokalizacja: South Lake Tahoe, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Lake Tahoe, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Lake Tahoe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lakeside Marathon",
+  "registrationUrl": "https://laketahoemarathon.com/",
+  "slug": "lakeside-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "lakeside-marathon-ca",
+    "url": "https://laketahoemarathon.com/"
+  },
+  "start": {
+    "lat": 38.92,
+    "lon": -119.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://laketahoemarathon.com/"
+}

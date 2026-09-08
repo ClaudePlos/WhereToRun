@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Spokane Marathon is a road race. Location: Spokane, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Spokane, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "The Spokane Marathon to bieg uliczny. Lokalizacja: Spokane, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Spokane, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spokane",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "The Spokane Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-spokane-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "the-spokane-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.67,
+    "lon": -117.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

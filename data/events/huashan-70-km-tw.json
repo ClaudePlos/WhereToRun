@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Huashan 70 KM is a ultramarathon. Location: Gukeng Township, Taiwan. Date: Sunday, 4 October 2026. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gukeng Township, Taiwan, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Huashan 70 KM to ultramaraton. Lokalizacja: Gukeng Township, Tajwan. Termin: niedziela, 4 października 2026. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gukeng Township, Tajwan, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gukeng Township",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Huashan 70 KM",
+  "registrationUrl": null,
+  "slug": "huashan-70-km-tw",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:53.791Z",
+    "id": "duv",
+    "ref": "133707",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133707"
+  },
+  "start": {
+    "lat": 23.642568,
+    "lon": 120.562043,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": null
+}

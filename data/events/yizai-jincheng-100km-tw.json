@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Yizai Jincheng 100km is a ultramarathon. Location: Anping District, Taiwan. Date: 12 September 2026 – 13 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Anping District, Taiwan, 12 September 2026 – 13 September 2026"
+    },
+    "pl": {
+      "description": "Yizai Jincheng 100km to ultramaraton. Lokalizacja: Anping District, Tajwan. Termin: 12 września 2026 – 13 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Anping District, Tajwan, 12 września 2026 – 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-09-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anping District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Yizai Jincheng 100km",
+  "registrationUrl": null,
+  "slug": "yizai-jincheng-100km-tw",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:53.791Z",
+    "id": "duv",
+    "ref": "130857",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130857"
+  },
+  "start": {
+    "lat": 22.995114,
+    "lon": 120.167979,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "HKY 100 Mile Ultra Trail Race is a ultramarathon. Location: Hickory, United States. Date: Saturday, 17 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hickory, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "HKY 100 Mile Ultra Trail Race to ultramaraton. Lokalizacja: Hickory, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hickory, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hickory",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "HKY 100 Mile Ultra Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/NC/Hickory/HKY100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hky-100-mile-ultra-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "hky-100-mile-ultra-trail-race-nc",
+    "url": "https://runsignup.com/Race/NC/Hickory/HKY100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.76,
+    "lon": -81.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/NC/Hickory/HKY100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

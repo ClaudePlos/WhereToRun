@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rick O'Donnell Memorial 5 Mile Trail Run and Ultra Challenge is a ultramarathon. Location: Mount Airy, United States. Date: Sunday, 11 October 2026. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mount Airy, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Rick O'Donnell Memorial 5 Mile Trail Run and Ultra Challenge to ultramaraton. Lokalizacja: Mount Airy, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mount Airy, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mount Airy",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Rick O'Donnell Memorial 5 Mile Trail Run and Ultra Challenge",
+  "registrationUrl": "https://runsignup.com/Race/MD/MountAiry/RicksRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rick-o-donnell-memorial-5-mile-trail-run-and-ultra-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "rick-o-donnell-memorial-5-mile-trail-run-and-ultra-challenge-md",
+    "url": "https://runsignup.com/Race/MD/MountAiry/RicksRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.39,
+    "lon": -77.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/MD/MountAiry/RicksRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

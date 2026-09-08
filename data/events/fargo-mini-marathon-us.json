@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Fargo Mini Marathon is a road race. Location: Fargo, United States. Date: Friday, 16 October 2026. Distances: 5 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fargo, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Fargo Mini Marathon to bieg uliczny. Lokalizacja: Fargo, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 5 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fargo, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fargo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ND"
+  },
+  "manual": false,
+  "name": "Fargo Mini Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fargo-mini-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "fargo-mini-marathon-nd",
+    "url": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.92,
+    "lon": -96.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

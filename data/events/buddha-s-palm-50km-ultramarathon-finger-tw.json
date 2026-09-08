@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Buddha's Palm 50km Ultramarathon Finger is a ultramarathon. Location: Shimen District, Taiwan. Date: Saturday, 7 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shimen District, Taiwan, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Buddha's Palm 50km Ultramarathon Finger to ultramaraton. Lokalizacja: Shimen District, Tajwan. Termin: sobota, 7 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shimen District, Tajwan, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shimen District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Buddha's Palm 50km Ultramarathon Finger",
+  "registrationUrl": null,
+  "slug": "buddha-s-palm-50km-ultramarathon-finger-tw",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:53.791Z",
+    "id": "duv",
+    "ref": "133715",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133715"
+  },
+  "start": {
+    "lat": 25.2913,
+    "lon": 121.567684,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": null
+}

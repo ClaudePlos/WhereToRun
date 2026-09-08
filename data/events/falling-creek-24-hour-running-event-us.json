@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Falling Creek 24-hour Running Event is a road race. Location: Bedford, United States. Date: Saturday, 17 October 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bedford, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Falling Creek 24-hour Running Event to bieg uliczny. Lokalizacja: Bedford, Stany Zjednoczone. Termin: sobota, 17 października 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bedford, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bedford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Falling Creek 24-hour Running Event",
+  "registrationUrl": "https://runsignup.com/Race/VA/Bedford/FallingCreekHourEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "falling-creek-24-hour-running-event-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "falling-creek-24-hour-running-event-va",
+    "url": "https://runsignup.com/Race/VA/Bedford/FallingCreekHourEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.32,
+    "lon": -79.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/VA/Bedford/FallingCreekHourEvent?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

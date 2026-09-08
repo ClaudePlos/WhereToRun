@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Galveston Ultra Trail is a ultramarathon. Location: Galveston, United States. Date: Saturday, 17 October 2026. Distances: u50k, 21.1 km, 10 km, 5 km, 1.6 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Galveston, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Galveston Ultra Trail to ultramaraton. Lokalizacja: Galveston, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: u50k, 21.1 km, 10 km, 5 km, 1.6 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Galveston, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Galveston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Galveston Ultra Trail",
+  "registrationUrl": "https://runsignup.com/Race/TX/Galveston/GalvestonUltraTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "galveston-ultra-trail-us",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "galveston-ultra-trail-tx",
+    "url": "https://runsignup.com/Race/TX/Galveston/GalvestonUltraTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.3,
+    "lon": -94.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "https://runsignup.com/Race/TX/Galveston/GalvestonUltraTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

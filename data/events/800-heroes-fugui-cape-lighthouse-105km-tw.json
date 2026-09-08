@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "800 Heroes - Fugui Cape Lighthouse 105km is a ultramarathon. Location: Shimen District, Taiwan. Date: Sunday, 4 October 2026. Distances: 105.3 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shimen District, Taiwan, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "800 Heroes - Fugui Cape Lighthouse 105km to ultramaraton. Lokalizacja: Shimen District, Tajwan. Termin: niedziela, 4 października 2026. Dystanse: 105.3 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shimen District, Tajwan, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "105.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shimen District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "800 Heroes - Fugui Cape Lighthouse 105km",
+  "registrationUrl": null,
+  "slug": "800-heroes-fugui-cape-lighthouse-105km-tw",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:53.791Z",
+    "id": "duv",
+    "ref": "124192",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124192"
+  },
+  "start": {
+    "lat": 25.2913,
+    "lon": 121.567684,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": null
+}

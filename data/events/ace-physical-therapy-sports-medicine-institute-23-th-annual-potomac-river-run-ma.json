@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ACE Physical Therapy & Sports Medicine Institute 23½th annual Potomac River Run Marathon & Half, in memory of Dean Shulman and Wendy Martinez is a road race. Location: Washington, United States. Date: Saturday, 17 October 2026. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Washington, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "ACE Physical Therapy & Sports Medicine Institute 23½th annual Potomac River Run Marathon & Half, in memory of Dean Shulman and Wendy Martinez to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-08T22:38:34.998Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "ACE Physical Therapy & Sports Medicine Institute 23½th annual Potomac River Run Marathon & Half, in memory of Dean Shulman and Wendy Martinez",
+  "registrationUrl": "http://www.active.com/washington-dc/running/distance-running-races/ace-physical-therapy-and-sports-medicine-institute-23-th-annual-potomac-river-run-marathon-and-half-in-memory-of-dean-shulman-and-wendy-martinez-2026",
+  "slug": "ace-physical-therapy-sports-medicine-institute-23-th-annual-potomac-river-run-ma",
+  "source": {
+    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "id": "runraceusa",
+    "ref": "ace-physical-therapy-sports-medicine-institute-23-th-annual-potomac",
+    "url": "http://www.active.com/washington-dc/running/distance-running-races/ace-physical-therapy-and-sports-medicine-institute-23-th-annual-potomac-river-run-marathon-and-half-in-memory-of-dean-shulman-and-wendy-martinez-2026"
+  },
+  "start": {
+    "lat": 38.91,
+    "lon": -77.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "website": "http://www.active.com/washington-dc/running/distance-running-races/ace-physical-therapy-and-sports-medicine-institute-23-th-annual-potomac-river-run-marathon-and-half-in-memory-of-dean-shulman-and-wendy-martinez-2026"
+}
