@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "6 Per Seba is a ultramarathon. Location: Calusco d'Adda, Italy. Date: Sunday, 15 November 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Calusco d'Adda, Italy, Sunday, 15 November 2026"
+    },
+    "pl": {
+      "description": "6 Per Seba to ultramaraton. Lokalizacja: Calusco d'Adda, Włochy. Termin: niedziela, 15 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Calusco d'Adda, Włochy, niedziela, 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-11-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calusco d'Adda",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "6 Per Seba",
+  "registrationUrl": null,
+  "slug": "6-per-seba-it",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:35.006Z",
+    "id": "duv",
+    "ref": "135426",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135426"
+  },
+  "start": {
+    "lat": 45.691379,
+    "lon": 9.472649,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": null
+}

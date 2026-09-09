@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramaratona della Pace sul Lamone is a ultramarathon. Location: Bagnacavallo, Italy. Date: Sunday, 10 January 2027. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bagnacavallo, Italy, Sunday, 10 January 2027"
+    },
+    "pl": {
+      "description": "Ultramaratona della Pace sul Lamone to ultramaraton. Lokalizacja: Bagnacavallo, Włochy. Termin: niedziela, 10 stycznia 2027. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bagnacavallo, Włochy, niedziela, 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2027-01-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bagnacavallo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramaratona della Pace sul Lamone",
+  "registrationUrl": null,
+  "slug": "ultramaratona-della-pace-sul-lamone-it",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:35.006Z",
+    "id": "duv",
+    "ref": "135551",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135551"
+  },
+  "start": {
+    "lat": 44.416148,
+    "lon": 11.97655,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": null
+}

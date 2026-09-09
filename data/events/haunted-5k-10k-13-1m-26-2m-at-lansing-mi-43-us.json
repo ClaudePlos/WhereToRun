@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Haunted 5K, 10K, 13.1M & 26.2M at Lansing, MI (43) is a road race. Location: Lansing, United States. Date: Saturday, 24 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lansing, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Haunted 5K, 10K, 13.1M & 26.2M at Lansing, MI (43) to bieg uliczny. Lokalizacja: Lansing, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lansing, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lansing",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Haunted 5K, 10K, 13.1M & 26.2M at Lansing, MI (43)",
+  "registrationUrl": "https://runsignup.com/Race/MI/Lansing/HawkIslandPark43?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "haunted-5k-10k-13-1m-26-2m-at-lansing-mi-43-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "haunted-5k-10k-13-1m-26-2m-at-lansing-mi-43-mi",
+    "url": "https://runsignup.com/Race/MI/Lansing/HawkIslandPark43?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.7,
+    "lon": -84.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://runsignup.com/Race/MI/Lansing/HawkIslandPark43?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

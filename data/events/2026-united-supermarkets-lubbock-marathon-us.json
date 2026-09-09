@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 United Supermarkets Lubbock Marathon is a road race. Location: Lubbock, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lubbock, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "2026 United Supermarkets Lubbock Marathon to bieg uliczny. Lokalizacja: Lubbock, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lubbock, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lubbock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "2026 United Supermarkets Lubbock Marathon",
+  "registrationUrl": "http://www.active.com/lubbock-tx/running/distance-running-races/united-supermarkets-lubbock-marathon-2026",
+  "slug": "2026-united-supermarkets-lubbock-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "2026-united-supermarkets-lubbock-marathon-tx",
+    "url": "http://www.active.com/lubbock-tx/running/distance-running-races/united-supermarkets-lubbock-marathon-2026"
+  },
+  "start": {
+    "lat": 33.58,
+    "lon": -101.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "http://www.active.com/lubbock-tx/running/distance-running-races/united-supermarkets-lubbock-marathon-2026"
+}

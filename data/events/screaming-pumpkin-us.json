@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Screaming Pumpkin is a road race. Location: Peoria, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Peoria, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Screaming Pumpkin to bieg uliczny. Lokalizacja: Peoria, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Peoria, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Peoria",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Screaming Pumpkin",
+  "registrationUrl": "https://raceroster.com/events/2026/113696/screaming-pumpkin",
+  "slug": "screaming-pumpkin-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "screaming-pumpkin-il",
+    "url": "https://raceroster.com/events/2026/113696/screaming-pumpkin"
+  },
+  "start": {
+    "lat": 40.7111,
+    "lon": -89.6324,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://raceroster.com/events/2026/113696/screaming-pumpkin"
+}

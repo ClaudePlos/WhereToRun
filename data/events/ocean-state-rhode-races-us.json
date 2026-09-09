@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ocean State Rhode Races is a road race. Location: Narragansett, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Narragansett, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Ocean State Rhode Races to bieg uliczny. Lokalizacja: Narragansett, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Narragansett, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Narragansett",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "RI"
+  },
+  "manual": false,
+  "name": "Ocean State Rhode Races",
+  "registrationUrl": "https://runsignup.com/Race/RI/Narragansett/OceanState?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ocean-state-rhode-races-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "ocean-state-rhode-races-ri",
+    "url": "https://runsignup.com/Race/RI/Narragansett/OceanState?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.44,
+    "lon": -71.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://runsignup.com/Race/RI/Narragansett/OceanState?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

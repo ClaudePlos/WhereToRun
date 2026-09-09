@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Crown Point Relay Runs is a road race. Location: San Diego, United States. Date: Sunday, 25 October 2026. Distances: 5 km, other, 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — San Diego, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Crown Point Relay Runs to bieg uliczny. Lokalizacja: San Diego, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 5 km, other, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — San Diego, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Crown Point Relay Runs",
+  "registrationUrl": "https://raceroster.com/events/2026/117741/crown-point-relay-runs",
+  "slug": "crown-point-relay-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "crown-point-relay-runs-ca",
+    "url": "https://raceroster.com/events/2026/117741/crown-point-relay-runs"
+  },
+  "start": {
+    "lat": 32.7153,
+    "lon": -117.1573,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://raceroster.com/events/2026/117741/crown-point-relay-runs"
+}

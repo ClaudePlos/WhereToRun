@@ -467,11 +467,32 @@
     "lon": -14.2084678,
     "name": "Reyðarfjörður, Fjarðabyggð, Austurland, 730, Ísland"
   },
+  "IT|bagnacavallo": {
+    "at": "2026-09-09T22:32:11.988Z",
+    "lat": 44.4161484,
+    "lon": 11.9765495,
+    "name": "Bagnacavallo, Unione dei comuni della Bassa Romagna, Ravenna, Emilia-Romagna, 48012, Italia"
+  },
   "IT|bettona (pg)": {
     "at": "2026-09-09T17:09:58.614Z"
   },
   "IT|breul-cervinia": {
     "at": "2026-09-09T17:09:58.614Z"
+  },
+  "IT|calusco d'adda": {
+    "at": "2026-09-09T22:32:11.988Z",
+    "lat": 45.691379,
+    "lon": 9.472649,
+    "name": "Calusco d'Adda, Bergamo, Lombardia, 24033, Italia"
+  },
+  "IT|cannero riviera": {
+    "at": "2026-09-09T22:32:11.988Z",
+    "lat": 46.0219142,
+    "lon": 8.6790472,
+    "name": "Cannero Riviera, Verbano-Cusio-Ossola, Piemonte, 28821, Italia"
+  },
+  "IT|capoliveri (li)": {
+    "at": "2026-09-09T22:32:11.988Z"
   },
   "IT|cavalese": {
     "at": "2026-09-09T17:09:58.614Z",
@@ -488,6 +509,15 @@
     "lon": 6.9461565,
     "name": "Courmayeur, Valle d'Aosta / Vallée d'Aoste, 11013, Italia"
   },
+  "IT|curinga (cz)": {
+    "at": "2026-09-09T22:32:11.988Z"
+  },
+  "IT|dogna (ud)": {
+    "at": "2026-09-09T22:32:11.988Z"
+  },
+  "IT|fierenze": {
+    "at": "2026-09-09T22:32:11.988Z"
+  },
   "IT|gressoney-saint-jean": {
     "at": "2026-09-09T17:09:58.614Z",
     "lat": 45.7827926,
@@ -500,6 +530,12 @@
     "lon": 12.2779645,
     "name": "Lido di Ostia, Roma, Roma Capitale, Lazio, 00121, Italia"
   },
+  "IT|paglieta (ch)": {
+    "at": "2026-09-09T22:32:11.988Z"
+  },
+  "IT|reggia di rivalta reggio emilia": {
+    "at": "2026-09-09T22:32:11.988Z"
+  },
   "IT|santo stefano belbo (cn)": {
     "at": "2026-09-09T17:09:58.614Z"
   },
@@ -508,6 +544,9 @@
     "lat": 45.8103381,
     "lon": 11.7728131,
     "name": "Semonzo del Grappa, Borso del Grappa, Pieve del Grappa, Treviso, Veneto, 31030, Italia"
+  },
+  "IT|valbruna (ud)": {
+    "at": "2026-09-09T22:32:11.988Z"
   },
   "IT|velo veronese": {
     "at": "2026-09-09T17:09:58.614Z",

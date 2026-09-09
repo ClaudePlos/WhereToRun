@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cannero 6h is a ultramarathon. Location: Cannero Riviera, Italy. Date: Sunday, 6 December 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Cannero Riviera, Italy, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Cannero 6h to ultramaraton. Lokalizacja: Cannero Riviera, Włochy. Termin: niedziela, 6 grudnia 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Cannero Riviera, Włochy, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cannero Riviera",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Cannero 6h",
+  "registrationUrl": null,
+  "slug": "cannero-6h-it",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:35.006Z",
+    "id": "duv",
+    "ref": "132977",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132977"
+  },
+  "start": {
+    "lat": 46.021914,
+    "lon": 8.679047,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sammamish City Marathon is a road race. Location: Sammamish, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sammamish, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Sammamish City Marathon to bieg uliczny. Lokalizacja: Sammamish, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sammamish, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sammamish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Sammamish City Marathon",
+  "registrationUrl": "http://www.active.com/sammamish-wa/running/distance-running-races/sammamish-city-marathon-2026",
+  "slug": "sammamish-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "sammamish-city-marathon-wa",
+    "url": "http://www.active.com/sammamish-wa/running/distance-running-races/sammamish-city-marathon-2026"
+  },
+  "start": {
+    "lat": 47.6,
+    "lon": -122.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "http://www.active.com/sammamish-wa/running/distance-running-races/sammamish-city-marathon-2026"
+}

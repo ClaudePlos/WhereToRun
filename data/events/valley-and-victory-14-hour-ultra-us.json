@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Valley and Victory 14 Hour Ultra is a ultramarathon. Location: Decatur, United States. Date: Saturday, 24 October 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Decatur, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Valley and Victory 14 Hour Ultra to ultramaraton. Lokalizacja: Decatur, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Decatur, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Decatur",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Valley and Victory 14 Hour Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/Decatur/ValleyAndVictory?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "valley-and-victory-14-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "valley-and-victory-14-hour-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/Decatur/ValleyAndVictory?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.24,
+    "lon": -97.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://runsignup.com/Race/TX/Decatur/ValleyAndVictory?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

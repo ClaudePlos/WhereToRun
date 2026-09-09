@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Spinx Run Fest is a road race. Location: Greenville, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greenville, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Spinx Run Fest to bieg uliczny. Lokalizacja: Greenville, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greenville, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Spinx Run Fest",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greenville/SpinxRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "spinx-run-fest-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "spinx-run-fest-sc",
+    "url": "https://runsignup.com/Race/SC/Greenville/SpinxRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.85,
+    "lon": -82.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://runsignup.com/Race/SC/Greenville/SpinxRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marine Corps Marathon Bibs from FARC is a road race. Location: Arlington, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Arlington, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Marine Corps Marathon Bibs from FARC to bieg uliczny. Lokalizacja: Arlington, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Arlington, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T22:32:11.988Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Arlington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Marine Corps Marathon Bibs from FARC",
+  "registrationUrl": "https://runsignup.com/Race/VA/Arlington/MCMBibsFromFARC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "marine-corps-marathon-bibs-from-farc-us",
+  "source": {
+    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "id": "runraceusa",
+    "ref": "marine-corps-marathon-bibs-from-farc-va",
+    "url": "https://runsignup.com/Race/VA/Arlington/MCMBibsFromFARC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.89,
+    "lon": -77.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "website": "https://runsignup.com/Race/VA/Arlington/MCMBibsFromFARC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
