@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Andy's Backyard Ultra is a ultramarathon. Location: Earlysville, United States. Date: Saturday, 24 October 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Earlysville, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Andy's Backyard Ultra to ultramaraton. Lokalizacja: Earlysville, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Earlysville, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Earlysville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Andy's Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/VA/Earlysville/AndysBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "andy-s-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "andy-s-backyard-ultra-va",
+    "url": "https://runsignup.com/Race/VA/Earlysville/AndysBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.16,
+    "lon": -78.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/VA/Earlysville/AndysBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

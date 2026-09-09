@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Haunted 5K & 10K 13.1 & 26.2 at Boone, NC (43) is a road race. Location: Boone, United States. Date: Saturday, 24 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boone, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Haunted 5K & 10K 13.1 & 26.2 at Boone, NC (43) to bieg uliczny. Lokalizacja: Boone, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boone, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boone",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Haunted 5K & 10K 13.1 & 26.2 at Boone, NC (43)",
+  "registrationUrl": "https://runsignup.com/Race/NC/Boone/Clawson102525?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "haunted-5k-10k-13-1-26-2-at-boone-nc-43-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "haunted-5k-10k-13-1-26-2-at-boone-nc-43-nc",
+    "url": "https://runsignup.com/Race/NC/Boone/Clawson102525?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.21,
+    "lon": -81.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/NC/Boone/Clawson102525?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

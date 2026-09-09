@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TOR450 - Tor des Glaciers is a ultramarathon. Location: Courmayeur, Italy. Date: 11 September 2026 – 19 September 2026. Distances: 450 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Courmayeur, Italy, 11 September 2026 – 19 September 2026"
+    },
+    "pl": {
+      "description": "TOR450 - Tor des Glaciers to ultramaraton. Lokalizacja: Courmayeur, Włochy. Termin: 11 września 2026 – 19 września 2026. Dystanse: 450 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Courmayeur, Włochy, 11 września 2026 – 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "450 km"
+  ],
+  "endDate": "2026-09-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Courmayeur",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "TOR450 - Tor des Glaciers",
+  "registrationUrl": null,
+  "slug": "tor450-tor-des-glaciers-it",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.245Z",
+    "id": "duv",
+    "ref": "123971",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123971"
+  },
+  "start": {
+    "lat": 45.831655,
+    "lon": 6.946157,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}

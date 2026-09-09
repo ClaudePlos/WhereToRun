@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TOR130 - Tot Dret is a ultramarathon. Location: Gressoney-Saint-Jean, Italy. Date: 15 September 2026 – 17 September 2026. Distances: 130 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gressoney-Saint-Jean, Italy, 15 September 2026 – 17 September 2026"
+    },
+    "pl": {
+      "description": "TOR130 - Tot Dret to ultramaraton. Lokalizacja: Gressoney-Saint-Jean, Włochy. Termin: 15 września 2026 – 17 września 2026. Dystanse: 130 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gressoney-Saint-Jean, Włochy, 15 września 2026 – 17 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-09-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "130 km"
+  ],
+  "endDate": "2026-09-17",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gressoney-Saint-Jean",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "TOR130 - Tot Dret",
+  "registrationUrl": null,
+  "slug": "tor130-tot-dret-it",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.245Z",
+    "id": "duv",
+    "ref": "123969",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123969"
+  },
+  "start": {
+    "lat": 45.782793,
+    "lon": 7.831454,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}

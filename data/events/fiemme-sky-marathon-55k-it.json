@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fiemme Sky Marathon 55K is a ultramarathon. Location: Cavalese, Italy. Date: 3 October 2026 – 4 October 2026. Distances: 53 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Cavalese, Italy, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Fiemme Sky Marathon 55K to ultramaraton. Lokalizacja: Cavalese, Włochy. Termin: 3 października 2026 – 4 października 2026. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Cavalese, Włochy, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cavalese",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fiemme Sky Marathon 55K",
+  "registrationUrl": null,
+  "slug": "fiemme-sky-marathon-55k-it",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.245Z",
+    "id": "duv",
+    "ref": "128566",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128566"
+  },
+  "start": {
+    "lat": 46.291187,
+    "lon": 11.460468,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Běh na 24 hodin Pilsen is a ultramarathon. Location: Plzeň, Czechia. Date: 24 October 2026 – 25 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Plzeň, Czechia, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "Běh na 24 hodin Pilsen to ultramaraton. Lokalizacja: Plzeň, Czechy. Termin: 24 października 2026 – 25 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Plzeň, Czechy, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Plzeň",
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Běh na 24 hodin Pilsen",
+  "registrationUrl": null,
+  "slug": "beh-na-24-hodin-pilsen-cz",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.248Z",
+    "id": "duv",
+    "ref": "133480",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133480"
+  },
+  "start": {
+    "lat": 49.747742,
+    "lon": 13.377525,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}

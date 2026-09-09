@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Day of the Dead - Day 1 and Day 2 is a road race. Location: Las Cruces, United States. Date: Saturday, 24 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u100k, u100m. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Las Cruces, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Day of the Dead - Day 1 and Day 2 to bieg uliczny. Lokalizacja: Las Cruces, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, u50k, u100k, u100m. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Las Cruces, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "u100k",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Cruces",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Day of the Dead - Day 1 and Day 2",
+  "registrationUrl": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2",
+  "slug": "day-of-the-dead-day-1-and-day-2-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "day-of-the-dead-day-1-and-day-2-nm",
+    "url": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2"
+  },
+  "start": {
+    "lat": 32.3161,
+    "lon": -106.7991,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2"
+}

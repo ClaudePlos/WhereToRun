@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Aiken Trailblazer Halloween Marathon, Half Marathon - 10K - 5K - Kids Fun Run at Stable View is a trail race. Location: Aiken, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Aiken, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Aiken Trailblazer Halloween Marathon, Half Marathon - 10K - 5K - Kids Fun Run at Stable View to bieg trailowy. Lokalizacja: Aiken, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Aiken, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aiken",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Aiken Trailblazer Halloween Marathon, Half Marathon - 10K - 5K - Kids Fun Run at Stable View",
+  "registrationUrl": "https://runsignup.com/Race/SC/Aiken/AikenTrailblazerAtStableView?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "aiken-trailblazer-halloween-marathon-half-marathon-10k-5k-kids-fun-run-at-stable",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "aiken-trailblazer-halloween-marathon-half-marathon-10k-5k-kids-fun",
+    "url": "https://runsignup.com/Race/SC/Aiken/AikenTrailblazerAtStableView?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.55,
+    "lon": -81.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/SC/Aiken/AikenTrailblazerAtStableView?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

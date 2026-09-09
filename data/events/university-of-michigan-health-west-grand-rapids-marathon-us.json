@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "University of Michigan Health-West    Grand Rapids Marathon is a road race. Location: Grand Rapids, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Grand Rapids, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "University of Michigan Health-West    Grand Rapids Marathon to bieg uliczny. Lokalizacja: Grand Rapids, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Grand Rapids, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "University of Michigan Health-West    Grand Rapids Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MI/GrandRapids/GRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "university-of-michigan-health-west-grand-rapids-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "university-of-michigan-health-west-grand-rapids-marathon-mi",
+    "url": "https://runsignup.com/Race/MI/GrandRapids/GRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.97,
+    "lon": -85.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/MI/GrandRapids/GRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

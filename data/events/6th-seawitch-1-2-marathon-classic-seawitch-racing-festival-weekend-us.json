@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "6TH SEAWITCH 1/2 MARATHON CLASSIC (SEAWITCH RACING FESTIVAL WEEKEND) is a road race. Location: Lewes, United States. Date: Saturday, 24 October 2026. Distances: 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lewes, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "6TH SEAWITCH 1/2 MARATHON CLASSIC (SEAWITCH RACING FESTIVAL WEEKEND) to bieg uliczny. Lokalizacja: Lewes, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lewes, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lewes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DE"
+  },
+  "manual": false,
+  "name": "6TH SEAWITCH 1/2 MARATHON CLASSIC (SEAWITCH RACING FESTIVAL WEEKEND)",
+  "registrationUrl": "https://runsignup.com/Race/DE/Lewes/ThSEAWITCHMARATHONCLASSICSEAWITCHRACINGFESTIVALWEEKEND?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "6th-seawitch-1-2-marathon-classic-seawitch-racing-festival-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "6th-seawitch-1-2-marathon-classic-seawitch-racing-festival-weekend-de",
+    "url": "https://runsignup.com/Race/DE/Lewes/ThSEAWITCHMARATHONCLASSICSEAWITCHRACINGFESTIVALWEEKEND?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.74,
+    "lon": -75.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/DE/Lewes/ThSEAWITCHMARATHONCLASSICSEAWITCHRACINGFESTIVALWEEKEND?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

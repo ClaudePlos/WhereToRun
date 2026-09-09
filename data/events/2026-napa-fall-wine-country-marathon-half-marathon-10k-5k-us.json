@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Napa Fall Wine Country Marathon, Half Marathon, 10K, & 5K is a road race. Location: Calistoga, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Calistoga, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "2026 Napa Fall Wine Country Marathon, Half Marathon, 10K, & 5K to bieg uliczny. Lokalizacja: Calistoga, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Calistoga, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calistoga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2026 Napa Fall Wine Country Marathon, Half Marathon, 10K, & 5K",
+  "registrationUrl": "https://raceroster.com/events/2026/116244/2026-napa-fall-wine-country-marathon-half-marathon-10k-and-5k",
+  "slug": "2026-napa-fall-wine-country-marathon-half-marathon-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "2026-napa-fall-wine-country-marathon-half-marathon-10k-5k-ca",
+    "url": "https://raceroster.com/events/2026/116244/2026-napa-fall-wine-country-marathon-half-marathon-10k-and-5k"
+  },
+  "start": {
+    "lat": 38.5823,
+    "lon": -122.5814,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://raceroster.com/events/2026/116244/2026-napa-fall-wine-country-marathon-half-marathon-10k-and-5k"
+}

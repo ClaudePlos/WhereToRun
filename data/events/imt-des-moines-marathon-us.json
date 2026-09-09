@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "IMT Des Moines Marathon is a road race. Location: Des Moines, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Des Moines, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "IMT Des Moines Marathon to bieg uliczny. Lokalizacja: Des Moines, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Des Moines, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Des Moines",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "IMT Des Moines Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "imt-des-moines-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "imt-des-moines-marathon-ia",
+    "url": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.59,
+    "lon": -93.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

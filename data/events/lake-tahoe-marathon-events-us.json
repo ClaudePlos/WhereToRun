@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Tahoe Marathon Events is a road race. Location: South Lake Tahoe, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 21.1 km, ultra, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — South Lake Tahoe, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Lake Tahoe Marathon Events to bieg uliczny. Lokalizacja: South Lake Tahoe, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 21.1 km, ultra, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — South Lake Tahoe, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "ultra",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Lake Tahoe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lake Tahoe Marathon Events",
+  "registrationUrl": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events",
+  "slug": "lake-tahoe-marathon-events-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "lake-tahoe-marathon-events-ca",
+    "url": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events"
+  },
+  "start": {
+    "lat": 38.9039,
+    "lon": -119.995,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events"
+}

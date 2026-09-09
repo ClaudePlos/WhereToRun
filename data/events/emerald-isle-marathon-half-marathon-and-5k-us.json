@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Emerald Isle Marathon, Half Marathon and 5K is a road race. Location: Emerald Isle, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Emerald Isle, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Emerald Isle Marathon, Half Marathon and 5K to bieg uliczny. Lokalizacja: Emerald Isle, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Emerald Isle, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Emerald Isle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Emerald Isle Marathon, Half Marathon and 5K",
+  "registrationUrl": "https://runsignup.com/Race/NC/EmeraldIsle/11thannual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "emerald-isle-marathon-half-marathon-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "emerald-isle-marathon-half-marathon-and-5k-nc",
+    "url": "https://runsignup.com/Race/NC/EmeraldIsle/11thannual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.67,
+    "lon": -77.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/NC/EmeraldIsle/11thannual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

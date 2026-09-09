@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Canyon Trail Marathon, Half-Marathon, & 5k Run/Walk is a trail race. Location: Grand Canyon Village, United States. Date: Saturday, 24 October 2026. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Grand Canyon Village, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Grand Canyon Trail Marathon, Half-Marathon, & 5k Run/Walk to bieg trailowy. Lokalizacja: Grand Canyon Village, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Grand Canyon Village, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Canyon Village",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Grand Canyon Trail Marathon, Half-Marathon, & 5k Run/Walk",
+  "registrationUrl": "https://runsignup.com/Race/AZ/GrandCanyonVillage/GrandCanyonTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grand-canyon-trail-marathon-half-marathon-5k-run-walk-us",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "grand-canyon-trail-marathon-half-marathon-5k-run-walk-az",
+    "url": "https://runsignup.com/Race/AZ/GrandCanyonVillage/GrandCanyonTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.94,
+    "lon": -112.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/AZ/GrandCanyonVillage/GrandCanyonTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lessinia Legend Run 50 is a ultramarathon. Location: Velo Veronese, Italy. Date: Sunday, 13 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Velo Veronese, Italy, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Lessinia Legend Run 50 to ultramaraton. Lokalizacja: Velo Veronese, Włochy. Termin: niedziela, 13 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Velo Veronese, Włochy, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Velo Veronese",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Lessinia Legend Run 50",
+  "registrationUrl": null,
+  "slug": "lessinia-legend-run-50-it",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.245Z",
+    "id": "duv",
+    "ref": "128636",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128636"
+  },
+  "start": {
+    "lat": 45.609676,
+    "lon": 11.101646,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}

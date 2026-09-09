@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Ridgefield Road Fest 50th Anniversary: 1/2 Marathon, 7-Miler, and The Iris Fund 5K is a trail race. Location: Ridgefield, United States. Date: Sunday, 18 October 2026. Distances: 21.1 km, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ridgefield, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "The Ridgefield Road Fest 50th Anniversary: 1/2 Marathon, 7-Miler, and The Iris Fund 5K to bieg trailowy. Lokalizacja: Ridgefield, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 21.1 km, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ridgefield, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ridgefield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "The Ridgefield Road Fest 50th Anniversary: 1/2 Marathon, 7-Miler, and The Iris Fund 5K",
+  "registrationUrl": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-ridgefield-road-fest-50th-anniversary-1-2-marathon-7-miler-and-the-iris-fund",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "id": "runraceusa",
+    "ref": "the-ridgefield-road-fest-50th-anniversary-1-2-marathon-7-miler-and",
+    "url": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.3,
+    "lon": -73.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

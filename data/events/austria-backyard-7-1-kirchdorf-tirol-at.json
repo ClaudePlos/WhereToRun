@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Austria Backyard 7+1 - Kirchdorf/Tirol is a ultramarathon. Location: Kirchdorf, Austria. Date: Sunday, 20 September 2026. Distances: 8 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kirchdorf, Austria, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Austria Backyard 7+1 - Kirchdorf/Tirol to ultramaraton. Lokalizacja: Kirchdorf, Austria. Termin: niedziela, 20 września 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kirchdorf, Austria, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T17:09:58.614Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kirchdorf",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Austria Backyard 7+1 - Kirchdorf/Tirol",
+  "registrationUrl": null,
+  "slug": "austria-backyard-7-1-kirchdorf-tirol-at",
+  "source": {
+    "fetchedAt": "2026-09-09T17:10:16.248Z",
+    "id": "duv",
+    "ref": "130103",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130103"
+  },
+  "start": {
+    "lat": 47.362272,
+    "lon": 15.332295,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "website": null
+}
