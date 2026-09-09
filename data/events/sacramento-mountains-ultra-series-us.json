@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sacramento Mountains Ultra Series is a ultramarathon. Location: Cloudcroft, United States. Date: Saturday, 17 October 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cloudcroft, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Sacramento Mountains Ultra Series to ultramaraton. Lokalizacja: Cloudcroft, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cloudcroft, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cloudcroft",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Sacramento Mountains Ultra Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19715",
+  "slug": "sacramento-mountains-ultra-series-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "sacramento-mountains-ultra-series-nm",
+    "url": "https://ultrasignup.com/register.aspx?eid=19715"
+  },
+  "start": {
+    "lat": 32.96,
+    "lon": -105.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19715"
+}

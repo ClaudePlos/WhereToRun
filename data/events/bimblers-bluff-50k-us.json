@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bimblers Bluff 50K is a road race. Location: Guilford, United States. Date: Sunday, 18 October 2026. Distances: u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Guilford, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Bimblers Bluff 50K to bieg uliczny. Lokalizacja: Guilford, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Guilford, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Guilford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Bimblers Bluff 50K",
+  "registrationUrl": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k",
+  "slug": "bimblers-bluff-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "bimblers-bluff-50k-ct",
+    "url": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k"
+  },
+  "start": {
+    "lat": 41.3154,
+    "lon": -72.6968,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k"
+}

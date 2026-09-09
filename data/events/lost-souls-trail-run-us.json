@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Lost Souls Trail Run is a ultramarathon. Location: Smithville, United States. Date: Sunday, 25 October 2026. Distances: 50 km, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Smithville, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Lost Souls Trail Run to ultramaraton. Lokalizacja: Smithville, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 50 km, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Smithville, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Smithville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Lost Souls Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65934",
+  "slug": "lost-souls-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.194Z",
+    "id": "ultrasignup",
+    "ref": "20162",
+    "url": "https://ultrasignup.com/register.aspx?did=65934"
+  },
+  "start": {
+    "lat": 30.0429,
+    "lon": -97.1256,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://www.riseracingco.com/lost-souls-trail-run"
+}

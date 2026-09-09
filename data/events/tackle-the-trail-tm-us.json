@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tackle the Trail (TM) is a trail race. Location: Northeast, United States. Date: Saturday, 17 October 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Northeast, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Tackle the Trail (TM) to bieg trailowy. Lokalizacja: Northeast, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Northeast, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Northeast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Tackle the Trail (TM)",
+  "registrationUrl": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tackle-the-trail-tm-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "tackle-the-trail-tm-ct",
+    "url": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.92,
+    "lon": -71.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

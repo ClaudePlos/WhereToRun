@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Mankato Marathon is a road race. Location: Mankato, United States. Date: Saturday, 17 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Mankato, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Mankato Marathon to bieg uliczny. Lokalizacja: Mankato, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Mankato, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mankato",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Mankato Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/110648/mankato-marathon",
+  "slug": "mankato-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "mankato-marathon-mn",
+    "url": "https://raceroster.com/events/2026/110648/mankato-marathon"
+  },
+  "start": {
+    "lat": 44.1591,
+    "lon": -94.0092,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://raceroster.com/events/2026/110648/mankato-marathon"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Extremo Tucuman Tafi 75k is a ultramarathon. Location: Tucuman, Argentina. Date: Friday, 18 September 2026. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tucuman, Argentina, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Extremo Tucuman Tafi 75k to ultramaraton. Lokalizacja: Tucuman, Argentyna. Termin: piątek, 18 września 2026. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tucuman, Argentyna, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tucuman",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Extremo Tucuman Tafi 75k",
+  "registrationUrl": null,
+  "slug": "extremo-tucuman-tafi-75k-ar",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:25.015Z",
+    "id": "duv",
+    "ref": "131219",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131219"
+  },
+  "start": {
+    "lat": -26.83037,
+    "lon": -65.203813,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": null
+}

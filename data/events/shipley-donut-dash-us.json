@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Shipley Donut Dash is a road race. Location: Houston, United States. Date: Saturday, 17 October 2026. Distances: 10 km, 5 km, 1.6 km, 21.1 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Houston, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Shipley Donut Dash to bieg uliczny. Lokalizacja: Houston, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 10 km, 5 km, 1.6 km, 21.1 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Houston, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "21.1 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Houston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Shipley Donut Dash",
+  "registrationUrl": "https://runsignup.com/Race/TX/Houston/ShipleyDoNutsDash?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "shipley-donut-dash-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "shipley-donut-dash-tx",
+    "url": "https://runsignup.com/Race/TX/Houston/ShipleyDoNutsDash?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.92,
+    "lon": -95.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://runsignup.com/Race/TX/Houston/ShipleyDoNutsDash?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

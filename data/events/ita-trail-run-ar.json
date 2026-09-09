@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ITA Trail Run is a ultramarathon. Location: Ita Ibate, Argentina. Date: Sunday, 27 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ita Ibate, Argentina, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "ITA Trail Run to ultramaraton. Lokalizacja: Ita Ibate, Argentyna. Termin: niedziela, 27 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ita Ibate, Argentyna, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ita Ibate",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "ITA Trail Run",
+  "registrationUrl": null,
+  "slug": "ita-trail-run-ar",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:25.015Z",
+    "id": "duv",
+    "ref": "131294",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131294"
+  },
+  "start": {
+    "lat": -27.425842,
+    "lon": -57.338106,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": null
+}

@@ -1,4 +1,49 @@
 {
+  "AR|buenos aires": {
+    "at": "2026-09-09T11:33:01.537Z",
+    "lat": -34.6095579,
+    "lon": -58.3887904,
+    "name": "Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "AR|chilecito": {
+    "at": "2026-09-09T11:33:01.537Z",
+    "lat": -29.165001,
+    "lon": -67.4953596,
+    "name": "Chilecito, Departamento Chilecito, La Rioja, F5360, Argentina"
+  },
+  "AR|ciudad de corrientes": {
+    "at": "2026-09-09T11:33:01.537Z"
+  },
+  "AR|el chalten": {
+    "at": "2026-09-09T11:33:01.537Z",
+    "lat": -49.3319564,
+    "lon": -72.8860438,
+    "name": "El Chaltén, Municipio de El Chaltén, Lago Argentino, Santa Cruz, Argentina"
+  },
+  "AR|el soberbio, misiones": {
+    "at": "2026-09-09T11:33:01.537Z"
+  },
+  "AR|ita ibate": {
+    "at": "2026-09-09T11:33:01.537Z",
+    "lat": -27.4258419,
+    "lon": -57.3381058,
+    "name": "Municipio de Itá Ibaté, Departamento General Paz, Corrientes, 3480, Argentina"
+  },
+  "AR|santa rosa, la pampa": {
+    "at": "2026-09-09T11:33:01.537Z"
+  },
+  "AR|tilcara, jujuy": {
+    "at": "2026-09-09T11:33:01.537Z"
+  },
+  "AR|tucuman": {
+    "at": "2026-09-09T11:33:01.537Z",
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "name": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina"
+  },
+  "AR|villa yacanto de calamuchita, cordoba": {
+    "at": "2026-09-09T11:33:01.537Z"
+  },
   "AT|bad hofgastein": {
     "at": "2026-09-04T11:30:01.450Z",
     "lat": 47.1601973,

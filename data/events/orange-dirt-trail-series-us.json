@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Orange Dirt Trail Series is a trail race. Location: Stillwater, United States. Date: Saturday, 17 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Stillwater, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Orange Dirt Trail Series to bieg trailowy. Lokalizacja: Stillwater, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Stillwater, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stillwater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Orange Dirt Trail Series",
+  "registrationUrl": "https://runsignup.com/Race/OK/Stillwater/OrangeDirtTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "orange-dirt-trail-series-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "id": "runraceusa",
+    "ref": "orange-dirt-trail-series-ok",
+    "url": "https://runsignup.com/Race/OK/Stillwater/OrangeDirtTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.14,
+    "lon": -97.06,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://runsignup.com/Race/OK/Stillwater/OrangeDirtTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

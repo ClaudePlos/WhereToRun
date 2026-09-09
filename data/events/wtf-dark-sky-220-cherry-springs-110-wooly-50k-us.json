@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "WTF Dark Sky 220 / Cherry Springs 110 / Wooly 50K is a road race. Location: Lock Haven, United States. Date: 25 October 2026 – 30 October 2026. Distances: WTF Virtual 220, Dark Sky 220, Cherry Springs 110, Wooly 50K. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lock Haven, United States, 25 October 2026 – 30 October 2026"
+    },
+    "pl": {
+      "description": "WTF Dark Sky 220 / Cherry Springs 110 / Wooly 50K to bieg uliczny. Lokalizacja: Lock Haven, Stany Zjednoczone. Termin: 25 października 2026 – 30 października 2026. Dystanse: WTF Virtual 220, Dark Sky 220, Cherry Springs 110, Wooly 50K. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lock Haven, Stany Zjednoczone, 25 października 2026 – 30 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "WTF Virtual 220",
+    "Dark Sky 220",
+    "Cherry Springs 110",
+    "Wooly 50K"
+  ],
+  "endDate": "2026-10-30",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lock Haven",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "WTF Dark Sky 220 / Cherry Springs 110 / Wooly 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64391",
+  "slug": "wtf-dark-sky-220-cherry-springs-110-wooly-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:09.194Z",
+    "id": "ultrasignup",
+    "ref": "19248",
+    "url": "https://ultrasignup.com/register.aspx?did=64391"
+  },
+  "start": {
+    "lat": 41.174,
+    "lon": -77.5126,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": "https://www.warriortrail.run"
+}

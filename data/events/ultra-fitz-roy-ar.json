@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Fitz Roy is a ultramarathon. Location: El Chalten, Argentina. Date: 15 October 2026 – 16 October 2026. Distances: 62 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — El Chalten, Argentina, 15 October 2026 – 16 October 2026"
+    },
+    "pl": {
+      "description": "Ultra Fitz Roy to ultramaraton. Lokalizacja: El Chalten, Argentyna. Termin: 15 października 2026 – 16 października 2026. Dystanse: 62 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — El Chalten, Argentyna, 15 października 2026 – 16 października 2026"
+    }
+  },
+  "createdAt": "2026-09-09T11:33:01.537Z",
+  "date": "2026-10-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "62 km"
+  ],
+  "endDate": "2026-10-16",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "El Chalten",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Fitz Roy",
+  "registrationUrl": null,
+  "slug": "ultra-fitz-roy-ar",
+  "source": {
+    "fetchedAt": "2026-09-09T11:33:25.015Z",
+    "id": "duv",
+    "ref": "131299",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131299"
+  },
+  "start": {
+    "lat": -49.331956,
+    "lon": -72.886044,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "website": null
+}
