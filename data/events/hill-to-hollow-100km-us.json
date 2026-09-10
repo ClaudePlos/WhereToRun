@@ -31,14 +31,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63907",
   "slug": "hill-to-hollow-100km-us",
   "source": {
-    "fetchedAt": "2026-09-02T17:10:58.345Z",
+    "fetchedAt": "2026-09-10T17:00:27.615Z",
     "id": "ultrasignup",
     "ref": "19361",
     "url": "https://ultrasignup.com/register.aspx?did=63907"
   },
   "start": {
-    "lat": 42.8322,
-    "lon": -75.9216,
+    "lat": 42.7684,
+    "lon": -76.0016,
     "name": null,
     "precision": "exact"
   },
@@ -47,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-02T17:10:51.476Z",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
   "website": "https://www.facebook.com/events/4099551613637316"
 }

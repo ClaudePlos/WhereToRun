@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ankara 6 Stundenlauf is a ultramarathon. Location: Ankara, Türkiye. Date: Sunday, 25 October 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ankara, Türkiye, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Ankara 6 Stundenlauf to ultramaraton. Lokalizacja: Ankara, Turcja. Termin: niedziela, 25 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ankara, Turcja, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ankara",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ankara 6 Stundenlauf",
+  "registrationUrl": null,
+  "slug": "ankara-6-stundenlauf-tr",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "129809",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129809"
+  },
+  "start": {
+    "lat": 39.920776,
+    "lon": 32.85405,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Whites 100 is a road race. Location: Shelburne, United States. Date: Friday, 11 September 2026. Distances: WM 100. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Shelburne, United States, Friday, 11 September 2026"
+    },
+    "pl": {
+      "description": "Whites 100 to bieg uliczny. Lokalizacja: Shelburne, Stany Zjednoczone. Termin: piątek, 11 września 2026. Dystanse: WM 100. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Shelburne, Stany Zjednoczone, piątek, 11 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "WM 100"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shelburne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Whites 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64979",
+  "slug": "whites-100-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:27.615Z",
+    "id": "ultrasignup",
+    "ref": "18346",
+    "url": "https://ultrasignup.com/register.aspx?did=64979"
+  },
+  "start": {
+    "lat": 44.4007,
+    "lon": -71.1099,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "http://www.whitemountainski.co"
+}

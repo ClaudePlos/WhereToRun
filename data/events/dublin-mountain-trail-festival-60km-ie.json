@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dublin Mountain Trail Festival 60km is a ultramarathon. Location: Dublin, Ireland. Date: Saturday, 10 October 2026. Distances: 60 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dublin, Ireland, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Dublin Mountain Trail Festival 60km to ultramaraton. Lokalizacja: Dublin, Irlandia. Termin: sobota, 10 października 2026. Dystanse: 60 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dublin, Irlandia, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "60 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dublin",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dublin Mountain Trail Festival 60km",
+  "registrationUrl": null,
+  "slug": "dublin-mountain-trail-festival-60km-ie",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "132314",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132314"
+  },
+  "start": {
+    "lat": 53.34938,
+    "lon": -6.260559,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

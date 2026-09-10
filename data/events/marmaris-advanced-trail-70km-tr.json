@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marmaris Advanced Trail 70km is a ultramarathon. Location: Icmeler, Türkiye. Date: 24 April 2027 – 25 April 2027. Distances: 72 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Icmeler, Türkiye, 24 April 2027 – 25 April 2027"
+    },
+    "pl": {
+      "description": "Marmaris Advanced Trail 70km to ultramaraton. Lokalizacja: Icmeler, Turcja. Termin: 24 kwietnia 2027 – 25 kwietnia 2027. Dystanse: 72 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Icmeler, Turcja, 24 kwietnia 2027 – 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "72 km"
+  ],
+  "endDate": "2027-04-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Icmeler",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Marmaris Advanced Trail 70km",
+  "registrationUrl": null,
+  "slug": "marmaris-advanced-trail-70km-tr",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "132754",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132754"
+  },
+  "start": {
+    "lat": 36.801328,
+    "lon": 28.231358,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

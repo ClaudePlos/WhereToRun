@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "ALBUQUERQUE RUNNING FIESTA is a road race. Location: Albuquerque, United States. Date: Sunday, 1 November 2026. Distances: 5 km, 21.1 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Albuquerque, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "ALBUQUERQUE RUNNING FIESTA to bieg uliczny. Lokalizacja: Albuquerque, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 5 km, 21.1 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Albuquerque, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albuquerque",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "ALBUQUERQUE RUNNING FIESTA",
+  "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/AlbuquerqueRunningFiesta?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "albuquerque-running-fiesta-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "albuquerque-running-fiesta-nm",
+    "url": "https://runsignup.com/Race/NM/Albuquerque/AlbuquerqueRunningFiesta?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.1,
+    "lon": -106.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NM/Albuquerque/AlbuquerqueRunningFiesta?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

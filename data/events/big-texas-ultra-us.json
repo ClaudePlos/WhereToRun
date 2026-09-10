@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Texas Ultra is a ultramarathon. Location: Georgetown, United States. Date: Friday, 6 November 2026. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Georgetown, United States, Friday, 6 November 2026"
+    },
+    "pl": {
+      "description": "Big Texas Ultra to ultramaraton. Lokalizacja: Georgetown, Stany Zjednoczone. Termin: piątek, 6 listopada 2026. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Georgetown, Stany Zjednoczone, piątek, 6 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Georgetown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Big Texas Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16075",
+  "slug": "big-texas-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "big-texas-ultra-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=16075"
+  },
+  "start": {
+    "lat": 30.68,
+    "lon": -97.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16075"
+}

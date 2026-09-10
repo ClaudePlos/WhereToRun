@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lynchburg Ultra Series is a ultramarathon. Location: Lynchburg, United States. Date: Sunday, 1 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lynchburg, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Lynchburg Ultra Series to ultramaraton. Lokalizacja: Lynchburg, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lynchburg, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lynchburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Lynchburg Ultra Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15947",
+  "slug": "lynchburg-ultra-series-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "lynchburg-ultra-series-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=15947"
+  },
+  "start": {
+    "lat": 37.41,
+    "lon": -79.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15947"
+}

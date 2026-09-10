@@ -1,16 +1,16 @@
 {
-  "added": 46,
+  "added": 40,
   "dryRun": false,
-  "eventCount": 842,
+  "eventCount": 882,
   "geocoding": {
-    "capped": 11,
+    "capped": 0,
     "errors": 0,
-    "hits": 29,
-    "lookups": 10,
-    "misses": 6
+    "hits": 16,
+    "lookups": 2,
+    "misses": 1
   },
-  "lastRun": "2026-09-10T11:30:18.139Z",
-  "skipped": 836,
+  "lastRun": "2026-09-10T17:00:18.063Z",
+  "skipped": 811,
   "sources": {
     "ai-discovery": {
       "error": null,
@@ -22,7 +22,7 @@
     },
     "duv": {
       "error": null,
-      "fetched": 38
+      "fetched": 18
     },
     "runraceusa": {
       "error": null,
@@ -41,6 +41,6 @@
       "fetched": 0
     }
   },
-  "unchanged": 732,
-  "updated": 27
+  "unchanged": 744,
+  "updated": 26
 }

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Louisville Marathon, Half Marathon and 10K is a road race. Location: Louisville, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Louisville, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Louisville Marathon, Half Marathon and 10K to bieg uliczny. Lokalizacja: Louisville, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Louisville, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Louisville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Louisville Marathon, Half Marathon and 10K",
+  "registrationUrl": "https://runsignup.com/Race/KY/Louisville/LouisvilleMarathonHalfMarathonand10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "louisville-marathon-half-marathon-and-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "louisville-marathon-half-marathon-and-10k-ky",
+    "url": "https://runsignup.com/Race/KY/Louisville/LouisvilleMarathonHalfMarathonand10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.27,
+    "lon": -85.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/KY/Louisville/LouisvilleMarathonHalfMarathonand10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

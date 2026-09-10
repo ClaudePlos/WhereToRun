@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Fire on the Mountain 50K Trail Race is a trail race. Location: Little Orleans, United States. Date: Sunday, 1 November 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Little Orleans, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Fire on the Mountain 50K Trail Race to bieg trailowy. Lokalizacja: Little Orleans, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Little Orleans, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Little Orleans",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Fire on the Mountain 50K Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6296",
+  "slug": "fire-on-the-mountain-50k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "fire-on-the-mountain-50k-trail-race-md",
+    "url": "https://ultrasignup.com/register.aspx?eid=6296"
+  },
+  "start": {
+    "lat": 39.63,
+    "lon": -78.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6296"
+}

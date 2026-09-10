@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Hilton Head Half & Quarter Marathon & 5K is a road race. Location: Hilton Head Island, United States. Date: Sunday, 1 November 2026. Distances: 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hilton Head Island, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Hilton Head Half & Quarter Marathon & 5K to bieg uliczny. Lokalizacja: Hilton Head Island, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hilton Head Island, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hilton Head Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Hilton Head Half & Quarter Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/SC/HiltonHeadIsland/HiltonHeadHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hilton-head-half-quarter-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "hilton-head-half-quarter-marathon-5k-sc",
+    "url": "https://runsignup.com/Race/SC/HiltonHeadIsland/HiltonHeadHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.17,
+    "lon": -80.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/SC/HiltonHeadIsland/HiltonHeadHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

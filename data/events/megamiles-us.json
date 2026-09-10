@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "MEGAMILES is a road race. Location: Hattiesburg, United States. Date: Monday, 2 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hattiesburg, United States, Monday, 2 November 2026"
+    },
+    "pl": {
+      "description": "MEGAMILES to bieg uliczny. Lokalizacja: Hattiesburg, Stany Zjednoczone. Termin: poniedziałek, 2 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hattiesburg, Stany Zjednoczone, poniedziałek, 2 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hattiesburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "MEGAMILES",
+  "registrationUrl": "https://runsignup.com/Race/MS/Hattiesburg/MEGAMILES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "megamiles-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "megamiles-ms",
+    "url": "https://runsignup.com/Race/MS/Hattiesburg/MEGAMILES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.31,
+    "lon": -89.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/MS/Hattiesburg/MEGAMILES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

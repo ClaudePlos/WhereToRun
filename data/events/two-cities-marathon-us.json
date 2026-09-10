@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Two Cities Marathon is a road race. Location: Fresno, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fresno, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Two Cities Marathon to bieg uliczny. Lokalizacja: Fresno, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fresno, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fresno",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Two Cities Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CA/Fresno/TwoCitiesMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "two-cities-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "two-cities-marathon-ca",
+    "url": "https://runsignup.com/Race/CA/Fresno/TwoCitiesMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.89,
+    "lon": -119.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/CA/Fresno/TwoCitiesMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

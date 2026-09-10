@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount Laguna Trail Marathon is a trail race. Location: Mount Laguna, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Mount Laguna, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Mount Laguna Trail Marathon to bieg trailowy. Lokalizacja: Mount Laguna, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Mount Laguna, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mount Laguna",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mount Laguna Trail Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3353",
+  "slug": "mount-laguna-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "mount-laguna-trail-marathon-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=3353"
+  },
+  "start": {
+    "lat": 32.86,
+    "lon": -116.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3353"
+}

@@ -467,6 +467,18 @@
     "lon": -9.505322,
     "name": "Killarney, Killarney Municipal District, County Kerry, Munster, Éire / Ireland"
   },
+  "IE|leenane": {
+    "at": "2026-09-10T17:00:18.063Z",
+    "lat": 51.4679213,
+    "lon": -9.7439296,
+    "name": "Leenane, Crookhaven ED, West Cork, County Cork, Munster, Éire / Ireland"
+  },
+  "IE|louisburgh": {
+    "at": "2026-09-10T17:00:18.063Z",
+    "lat": 53.7635338,
+    "lon": -9.8084904,
+    "name": "Louisburgh, Westport-Belmullet Municipal District, County Mayo, Connacht, Éire / Ireland"
+  },
   "IE|sneem": {
     "at": "2026-09-02T11:28:34.543Z",
     "lat": 51.8381992,

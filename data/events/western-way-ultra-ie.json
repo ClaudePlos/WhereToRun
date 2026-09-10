@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Western Way Ultra is a ultramarathon. Location: Leenane, Ireland. Date: Saturday, 14 November 2026. Distances: 62 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Leenane, Ireland, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Western Way Ultra to ultramaraton. Lokalizacja: Leenane, Irlandia. Termin: sobota, 14 listopada 2026. Dystanse: 62 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Leenane, Irlandia, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "62 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Leenane",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Western Way Ultra",
+  "registrationUrl": null,
+  "slug": "western-way-ultra-ie",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "134837",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134837"
+  },
+  "start": {
+    "lat": 51.467921,
+    "lon": -9.74393,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

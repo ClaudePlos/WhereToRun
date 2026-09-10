@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "We Got Your Six Running Festival is a road race. Location: White Plains, United States. Date: Sunday, 1 November 2026. Distances: 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — White Plains, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "We Got Your Six Running Festival to bieg uliczny. Lokalizacja: White Plains, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — White Plains, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "White Plains",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "We Got Your Six Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "we-got-your-six-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "we-got-your-six-running-festival-md",
+    "url": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.6,
+    "lon": -76.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

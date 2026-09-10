@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra World Team Championships - Iceland is a ultramarathon. Location: Reykjavik, Iceland. Date: 17 October 2026 – 19 October 2026. Distances: 62 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Reykjavik, Iceland, 17 October 2026 – 19 October 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra World Team Championships - Iceland to ultramaraton. Lokalizacja: Reykjavik, Islandia. Termin: 17 października 2026 – 19 października 2026. Dystanse: 62 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Reykjavik, Islandia, 17 października 2026 – 19 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "62 h"
+  ],
+  "endDate": "2026-10-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "countryCode": "IS",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra World Team Championships - Iceland",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-world-team-championships-iceland-is",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "133853",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133853"
+  },
+  "start": {
+    "lat": 64.145981,
+    "lon": -21.942237,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

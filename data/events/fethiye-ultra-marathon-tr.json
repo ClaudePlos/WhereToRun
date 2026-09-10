@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fethiye Ultra Marathon is a ultramarathon. Location: Fethiye, Türkiye. Date: Saturday, 31 October 2026. Distances: 6stunden. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fethiye, Türkiye, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Fethiye Ultra Marathon to ultramaraton. Lokalizacja: Fethiye, Turcja. Termin: sobota, 31 października 2026. Dystanse: 6stunden. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fethiye, Turcja, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6stunden"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fethiye",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fethiye Ultra Marathon",
+  "registrationUrl": null,
+  "slug": "fethiye-ultra-marathon-tr",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "129100",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129100"
+  },
+  "start": {
+    "lat": 36.622115,
+    "lon": 29.115338,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

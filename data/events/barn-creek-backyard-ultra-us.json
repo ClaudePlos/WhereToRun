@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Barn Creek Backyard Ultra is a ultramarathon. Location: Jamestown, United States. Date: Friday, 6 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jamestown, United States, Friday, 6 November 2026"
+    },
+    "pl": {
+      "description": "Barn Creek Backyard Ultra to ultramaraton. Lokalizacja: Jamestown, Stany Zjednoczone. Termin: piątek, 6 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jamestown, Stany Zjednoczone, piątek, 6 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jamestown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Barn Creek Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16780",
+  "slug": "barn-creek-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "barn-creek-backyard-ultra-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=16780"
+  },
+  "start": {
+    "lat": 36.37,
+    "lon": -84.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16780"
+}

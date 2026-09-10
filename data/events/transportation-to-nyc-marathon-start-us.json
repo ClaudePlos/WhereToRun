@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Transportation to NYC Marathon Start is a road race. Location: Rahway, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rahway, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Transportation to NYC Marathon Start to bieg uliczny. Lokalizacja: Rahway, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rahway, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rahway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Transportation to NYC Marathon Start",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "transportation-to-nyc-marathon-start-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "transportation-to-nyc-marathon-start-nj",
+    "url": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.61,
+    "lon": -74.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

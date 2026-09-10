@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "WRR NYC MARATHON BRILLIANT BUS RIDE IS SOLD OUT!!!! is a road race. Location: White Plains, United States. Date: Sunday, 1 November 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — White Plains, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "WRR NYC MARATHON BRILLIANT BUS RIDE IS SOLD OUT!!!! to bieg uliczny. Lokalizacja: White Plains, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — White Plains, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "White Plains",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "WRR NYC MARATHON BRILLIANT BUS RIDE IS SOLD OUT!!!!",
+  "registrationUrl": "https://runsignup.com/Race/NY/WhitePlains/WRRMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wrr-nyc-marathon-brilliant-bus-ride-is-sold-out-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "wrr-nyc-marathon-brilliant-bus-ride-is-sold-out-ny",
+    "url": "https://runsignup.com/Race/NY/WhitePlains/WRRMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.03,
+    "lon": -73.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NY/WhitePlains/WRRMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

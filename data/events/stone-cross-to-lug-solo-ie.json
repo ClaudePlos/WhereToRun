@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Stone Cross to Lug solo is a ultramarathon. Location: Stone Cross, Ireland. Date: Saturday, 26 September 2026. Distances: 49 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Stone Cross, Ireland, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Stone Cross to Lug solo to ultramaraton. Lokalizacja: Stone Cross, Irlandia. Termin: sobota, 26 września 2026. Dystanse: 49 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Stone Cross, Irlandia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "49 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stone Cross",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Stone Cross to Lug solo",
+  "registrationUrl": null,
+  "slug": "stone-cross-to-lug-solo-ie",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "134836",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134836"
+  },
+  "start": {
+    "lat": 52.222366,
+    "lon": -6.35848,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

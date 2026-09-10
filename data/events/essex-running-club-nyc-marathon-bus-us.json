@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Essex Running Club / NYC Marathon Bus is a road race. Location: Montclair, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Montclair, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Essex Running Club / NYC Marathon Bus to bieg uliczny. Lokalizacja: Montclair, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Montclair, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montclair",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Essex Running Club / NYC Marathon Bus",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Montclair/ERCMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "essex-running-club-nyc-marathon-bus-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "essex-running-club-nyc-marathon-bus-nj",
+    "url": "https://runsignup.com/Race/NJ/Montclair/ERCMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.81,
+    "lon": -74.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NJ/Montclair/ERCMarathonBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

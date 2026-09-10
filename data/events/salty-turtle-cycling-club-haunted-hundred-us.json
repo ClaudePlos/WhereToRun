@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Salty Turtle Cycling Club Haunted Hundred is a road race. Location: Surf City, United States. Date: Sunday, 1 November 2026. Distances: u100k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Surf City, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Salty Turtle Cycling Club Haunted Hundred to bieg uliczny. Lokalizacja: Surf City, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: u100k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Surf City, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Surf City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Salty Turtle Cycling Club Haunted Hundred",
+  "registrationUrl": "https://runsignup.com/Race/NC/SurfCity/Haunted100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "salty-turtle-cycling-club-haunted-hundred-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "salty-turtle-cycling-club-haunted-hundred-nc",
+    "url": "https://runsignup.com/Race/NC/SurfCity/Haunted100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.39,
+    "lon": -77.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NC/SurfCity/Haunted100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

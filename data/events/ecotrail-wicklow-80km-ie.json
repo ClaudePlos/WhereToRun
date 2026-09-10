@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ecotrail Wicklow 80km is a ultramarathon. Location: Bray, Ireland. Date: Saturday, 26 September 2026. Distances: 80 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bray, Ireland, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Ecotrail Wicklow 80km to ultramaraton. Lokalizacja: Bray, Irlandia. Termin: sobota, 26 września 2026. Dystanse: 80 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bray, Irlandia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bray",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ecotrail Wicklow 80km",
+  "registrationUrl": null,
+  "slug": "ecotrail-wicklow-80km-ie",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "134831",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134831"
+  },
+  "start": {
+    "lat": 53.20146,
+    "lon": -6.110505,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}

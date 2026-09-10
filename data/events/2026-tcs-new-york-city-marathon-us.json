@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 TCS New York City Marathon is a road race. Location: New York, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — New York, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "2026 TCS New York City Marathon to bieg uliczny. Lokalizacja: New York, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — New York, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "2026 TCS New York City Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/113541/2026-tcs-new-york-city-marathon",
+  "slug": "2026-tcs-new-york-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "2026-tcs-new-york-city-marathon-ny",
+    "url": "https://raceroster.com/events/2026/113541/2026-tcs-new-york-city-marathon"
+  },
+  "start": {
+    "lat": 40.7628,
+    "lon": -73.9785,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://raceroster.com/events/2026/113541/2026-tcs-new-york-city-marathon"
+}

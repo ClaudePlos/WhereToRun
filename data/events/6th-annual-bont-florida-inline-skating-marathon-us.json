@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "6th Annual BONT Florida Inline Skating Marathon! is a road race. Location: Sarasota, United States. Date: Friday, 6 November 2026. Distances: 42.2 km, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sarasota, United States, Friday, 6 November 2026"
+    },
+    "pl": {
+      "description": "6th Annual BONT Florida Inline Skating Marathon! to bieg uliczny. Lokalizacja: Sarasota, Stany Zjednoczone. Termin: piątek, 6 listopada 2026. Dystanse: 42.2 km, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sarasota, Stany Zjednoczone, piątek, 6 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sarasota",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "6th Annual BONT Florida Inline Skating Marathon!",
+  "registrationUrl": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "6th-annual-bont-florida-inline-skating-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "6th-annual-bont-florida-inline-skating-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.37,
+    "lon": -82.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

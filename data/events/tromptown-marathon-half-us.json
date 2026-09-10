@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tromptown Marathon & Half is a road race. Location: DeRuyter, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — DeRuyter, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Tromptown Marathon & Half to bieg uliczny. Lokalizacja: DeRuyter, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — DeRuyter, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "DeRuyter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Tromptown Marathon & Half",
+  "registrationUrl": "https://runsignup.com/Race/NY/DeRuyter/tromptownruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tromptown-marathon-half-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "tromptown-marathon-half-ny",
+    "url": "https://runsignup.com/Race/NY/DeRuyter/tromptownruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.75,
+    "lon": -75.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/NY/DeRuyter/tromptownruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

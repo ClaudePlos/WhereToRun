@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn Squatch 10K, 20K & 50K is a road race. Location: Lewis Center, United States. Date: Sunday, 1 November 2026. Distances: 10 km, 21.1 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lewis Center, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Autumn Squatch 10K, 20K & 50K to bieg uliczny. Lokalizacja: Lewis Center, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 10 km, 21.1 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lewis Center, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lewis Center",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Autumn Squatch 10K, 20K & 50K",
+  "registrationUrl": "https://runsignup.com/Race/OH/LewisCenter/Firesquatch10KHalf50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "autumn-squatch-10k-20k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "id": "runraceusa",
+    "ref": "autumn-squatch-10k-20k-50k-oh",
+    "url": "https://runsignup.com/Race/OH/LewisCenter/Firesquatch10KHalf50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.19,
+    "lon": -82.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": "https://runsignup.com/Race/OH/LewisCenter/Firesquatch10KHalf50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

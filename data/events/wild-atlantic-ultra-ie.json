@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Atlantic Ultra is a ultramarathon. Location: Louisburgh, Ireland. Date: Saturday, 22 May 2027. Distances: 80.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Louisburgh, Ireland, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Wild Atlantic Ultra to ultramaraton. Lokalizacja: Louisburgh, Irlandia. Termin: sobota, 22 maja 2027. Dystanse: 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Louisburgh, Irlandia, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-10T17:00:18.063Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Louisburgh",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Wild Atlantic Ultra",
+  "registrationUrl": null,
+  "slug": "wild-atlantic-ultra-ie",
+  "source": {
+    "fetchedAt": "2026-09-10T17:00:43.177Z",
+    "id": "duv",
+    "ref": "133193",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133193"
+  },
+  "start": {
+    "lat": 53.763534,
+    "lon": -9.80849,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "website": null
+}
