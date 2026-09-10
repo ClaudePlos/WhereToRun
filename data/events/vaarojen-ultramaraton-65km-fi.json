@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Vaarojen Ultramaraton 65km is a ultramarathon. Location: Koli, Finland. Date: Saturday, 3 October 2026. Distances: 65 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Koli, Finland, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Vaarojen Ultramaraton 65km to ultramaraton. Lokalizacja: Koli, Finlandia. Termin: sobota, 3 października 2026. Dystanse: 65 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Koli, Finlandia, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "65 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Koli",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Vaarojen Ultramaraton 65km",
+  "registrationUrl": null,
+  "slug": "vaarojen-ultramaraton-65km-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134822",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134822"
+  },
+  "start": {
+    "lat": 63.117987,
+    "lon": 29.784074,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pumpkin Butt is a ultramarathon. Location: Kennesaw, United States. Date: Saturday, 31 October 2026. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kennesaw, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Pumpkin Butt to ultramaraton. Lokalizacja: Kennesaw, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kennesaw, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kennesaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Pumpkin Butt",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66811",
+  "slug": "pumpkin-butt-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:26.103Z",
+    "id": "ultrasignup",
+    "ref": "2320",
+    "url": "https://ultrasignup.com/register.aspx?did=66811"
+  },
+  "start": {
+    "lat": 33.9796,
+    "lon": -84.5687,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://www.getguts.com/race/pumpkin-butt"
+}

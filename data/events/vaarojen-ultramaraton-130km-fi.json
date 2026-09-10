@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Vaarojen Ultramaraton 130km is a ultramarathon. Location: Koli, Finland. Date: 2 October 2026 – 3 October 2026. Distances: 131 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Koli, Finland, 2 October 2026 – 3 October 2026"
+    },
+    "pl": {
+      "description": "Vaarojen Ultramaraton 130km to ultramaraton. Lokalizacja: Koli, Finlandia. Termin: 2 października 2026 – 3 października 2026. Dystanse: 131 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Koli, Finlandia, 2 października 2026 – 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "131 km"
+  ],
+  "endDate": "2026-10-03",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Koli",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Vaarojen Ultramaraton 130km",
+  "registrationUrl": null,
+  "slug": "vaarojen-ultramaraton-130km-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134821",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134821"
+  },
+  "start": {
+    "lat": 63.117987,
+    "lon": 29.784074,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

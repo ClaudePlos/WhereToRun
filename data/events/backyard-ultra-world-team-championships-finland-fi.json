@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra World Team Championships - Finland is a ultramarathon. Location: Hyvinkää, Finland. Date: 17 October 2026 – 19 October 2026. Distances: 40 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hyvinkää, Finland, 17 October 2026 – 19 October 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra World Team Championships - Finland to ultramaraton. Lokalizacja: Hyvinkää, Finlandia. Termin: 17 października 2026 – 19 października 2026. Dystanse: 40 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hyvinkää, Finlandia, 17 października 2026 – 19 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "40 h"
+  ],
+  "endDate": "2026-10-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hyvinkää",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra World Team Championships - Finland",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-world-team-championships-finland-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134830",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134830"
+  },
+  "start": {
+    "lat": 60.631148,
+    "lon": 24.860362,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

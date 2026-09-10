@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "bg26.2 & half marathon and bg6000 is a road race. Location: Bowling Green, United States. Date: Saturday, 31 October 2026. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bowling Green, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "bg26.2 & half marathon and bg6000 to bieg uliczny. Lokalizacja: Bowling Green, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bowling Green, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bowling Green",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "bg26.2 & half marathon and bg6000",
+  "registrationUrl": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bg26-2-half-marathon-and-bg6000-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "bg26-2-half-marathon-and-bg6000-ky",
+    "url": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.02,
+    "lon": -86.45,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

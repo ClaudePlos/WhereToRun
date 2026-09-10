@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Syrathon Race Series is a road race. Location: Syracuse, United States. Date: Saturday, 31 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Syracuse, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "2026 Syrathon Race Series to bieg uliczny. Lokalizacja: Syracuse, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Syracuse, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Syracuse",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "2026 Syrathon Race Series",
+  "registrationUrl": "https://runsignup.com/Race/NY/Syracuse/Syrathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-syrathon-race-series-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "2026-syrathon-race-series-ny",
+    "url": "https://runsignup.com/Race/NY/Syracuse/Syrathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.04,
+    "lon": -76.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/NY/Syracuse/Syrathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

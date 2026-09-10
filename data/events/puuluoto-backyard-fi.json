@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Puuluoto Backyard is a ultramarathon. Location: Puuluoto, Finland. Date: Saturday, 26 September 2026. Distances: 16 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Puuluoto, Finland, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Puuluoto Backyard to ultramaraton. Lokalizacja: Puuluoto, Finlandia. Termin: sobota, 26 września 2026. Dystanse: 16 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Puuluoto, Finlandia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "16 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Puuluoto",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Puuluoto Backyard",
+  "registrationUrl": null,
+  "slug": "puuluoto-backyard-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134828",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134828"
+  },
+  "start": {
+    "lat": 65.791291,
+    "lon": 24.199729,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

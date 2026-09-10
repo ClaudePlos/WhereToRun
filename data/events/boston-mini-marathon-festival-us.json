@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Boston Mini-Marathon & Festival is a road race. Location: Boston, United States. Date: Saturday, 31 October 2026. Distances: 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boston, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Boston Mini-Marathon & Festival to bieg uliczny. Lokalizacja: Boston, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boston, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Boston Mini-Marathon & Festival",
+  "registrationUrl": "https://runsignup.com/Race/GA/Boston/BostonHalfMarathonFallFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "boston-mini-marathon-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "boston-mini-marathon-festival-ga",
+    "url": "https://runsignup.com/Race/GA/Boston/BostonHalfMarathonFallFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.79,
+    "lon": -83.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/GA/Boston/BostonHalfMarathonFallFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

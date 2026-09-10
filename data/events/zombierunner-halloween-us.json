@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "ZombieRunner Halloween is a road race. Location: San Jose, United States. Date: Saturday, 31 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Jose, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "ZombieRunner Halloween to bieg uliczny. Lokalizacja: San Jose, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Jose, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Jose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "ZombieRunner Halloween",
+  "registrationUrl": "https://runsignup.com/Race/CA/SanJose/ZombieRunnerHalloween?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "zombierunner-halloween-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "zombierunner-halloween-ca",
+    "url": "https://runsignup.com/Race/CA/SanJose/ZombieRunnerHalloween?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.28,
+    "lon": -121.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/CA/SanJose/ZombieRunnerHalloween?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

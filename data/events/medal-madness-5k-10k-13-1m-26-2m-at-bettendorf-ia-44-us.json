@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Medal Madness 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (44) is a road race. Location: Bettendorf, United States. Date: Saturday, 31 October 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bettendorf, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Medal Madness 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (44) to bieg uliczny. Lokalizacja: Bettendorf, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bettendorf, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bettendorf",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Medal Madness 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (44)",
+  "registrationUrl": "https://runsignup.com/Race/IA/Bettendorf/MedalMadness5K10KMAtBettendorfIA44?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "medal-madness-5k-10k-13-1m-26-2m-at-bettendorf-ia-44-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "medal-madness-5k-10k-13-1m-26-2m-at-bettendorf-ia-44-ia",
+    "url": "https://runsignup.com/Race/IA/Bettendorf/MedalMadness5K10KMAtBettendorfIA44?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.55,
+    "lon": -90.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/IA/Bettendorf/MedalMadness5K10KMAtBettendorfIA44?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

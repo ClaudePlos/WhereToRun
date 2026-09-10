@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Radioaseman Ultra Maraton 100 km is a ultramarathon. Location: Pori, Finland. Date: Saturday, 26 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pori, Finland, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Radioaseman Ultra Maraton 100 km to ultramaraton. Lokalizacja: Pori, Finlandia. Termin: sobota, 26 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pori, Finlandia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pori",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Radioaseman Ultra Maraton 100 km",
+  "registrationUrl": null,
+  "slug": "radioaseman-ultra-maraton-100-km-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134818",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134818"
+  },
+  "start": {
+    "lat": 61.486613,
+    "lon": 21.797207,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

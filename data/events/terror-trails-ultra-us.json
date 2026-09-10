@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Terror Trails Ultra is a ultramarathon. Location: Waxhaw, United States. Date: Saturday, 31 October 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Waxhaw, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Terror Trails Ultra to ultramaraton. Lokalizacja: Waxhaw, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Waxhaw, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waxhaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Terror Trails Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17653",
+  "slug": "terror-trails-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "terror-trails-ultra-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=17653"
+  },
+  "start": {
+    "lat": 34.92,
+    "lon": -80.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17653"
+}

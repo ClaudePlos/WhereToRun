@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "NUTS Köykkyri is a ultramarathon. Location: Kempele, Finland. Date: Saturday, 21 November 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kempele, Finland, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "NUTS Köykkyri to ultramaraton. Lokalizacja: Kempele, Finlandia. Termin: sobota, 21 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kempele, Finlandia, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kempele",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "NUTS Köykkyri",
+  "registrationUrl": null,
+  "slug": "nuts-koykkyri-fi",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:42.012Z",
+    "id": "duv",
+    "ref": "134841",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134841"
+  },
+  "start": {
+    "lat": 64.91245,
+    "lon": 25.510822,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": null
+}

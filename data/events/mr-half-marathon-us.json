@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "MR Half Marathon is a road race. Location: Morgantown, United States. Date: Saturday, 31 October 2026. Distances: 21.1 km, 1.6 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Morgantown, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "MR Half Marathon to bieg uliczny. Lokalizacja: Morgantown, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 21.1 km, 1.6 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Morgantown, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "1.6 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Morgantown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "MR Half Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/117306/mr-half-marathon",
+  "slug": "mr-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "mr-half-marathon-wv",
+    "url": "https://raceroster.com/events/2026/117306/mr-half-marathon"
+  },
+  "start": {
+    "lat": 39.6253,
+    "lon": -79.9672,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://raceroster.com/events/2026/117306/mr-half-marathon"
+}

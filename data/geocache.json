@@ -284,6 +284,63 @@
     "lon": 27.1396807,
     "name": "Saaremaa küla, Võru vald, Võru maakond, 65240, Eesti"
   },
+  "FI|hyvinkää": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 60.6311481,
+    "lon": 24.8603615,
+    "name": "Hyvinkää, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|kangasala": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 61.4715042,
+    "lon": 24.3261795,
+    "name": "Kangasala, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|kempele": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 64.91245,
+    "lon": 25.5108223,
+    "name": "Kempele, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|koli": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 63.1179872,
+    "lon": 29.7840744,
+    "name": "Koli, Lieksa, Pielisen Karjalan seutukunta, Pohjois-Karjala, Manner-Suomi, 83960, Suomi / Finland"
+  },
+  "FI|kotka": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 60.4672673,
+    "lon": 26.9459462,
+    "name": "Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|miehikkälä": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 60.7197232,
+    "lon": 27.6544139,
+    "name": "Miehikkälä, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|nummela, vihti": {
+    "at": "2026-09-10T11:30:18.139Z"
+  },
+  "FI|pori": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 61.4866126,
+    "lon": 21.7972071,
+    "name": "Pori, Porin seutukunta, Satakunta, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|puuluoto": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 65.7912913,
+    "lon": 24.1997291,
+    "name": "Puuluoto, Tornio, Kemi-Tornion seutukunta, Lappi, Manner-Suomi, Suomi / Finland"
+  },
+  "FI|saariselkä": {
+    "at": "2026-09-10T11:30:18.139Z",
+    "lat": 68.4213976,
+    "lon": 27.4177638,
+    "name": "Saariselkä, Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, 99830, Suomi / Finland"
+  },
   "GR|athens": {
     "at": "2026-09-07T18:15:31.685Z",
     "lat": 37.9755648,

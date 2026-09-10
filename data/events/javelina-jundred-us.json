@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Javelina Jundred is a ultramarathon. Location: McDowell, United States. Date: Saturday, 31 October 2026. Distances: 160.9 km, 100 km, Jackass 31K. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — McDowell, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Javelina Jundred to ultramaraton. Lokalizacja: McDowell, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 160.9 km, 100 km, Jackass 31K. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — McDowell, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "Jackass 31K"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McDowell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Javelina Jundred",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64465",
+  "slug": "javelina-jundred-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:26.103Z",
+    "id": "ultrasignup",
+    "ref": "319",
+    "url": "https://ultrasignup.com/register.aspx?did=64465"
+  },
+  "start": {
+    "lat": 33.6904,
+    "lon": -111.718,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "http://www.javelinajundred.com"
+}

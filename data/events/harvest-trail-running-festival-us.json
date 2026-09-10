@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "HARVEST TRAIL RUNNING FESTIVAL is a trail race. Location: Farmersville, United States. Date: Saturday, 31 October 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Farmersville, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "HARVEST TRAIL RUNNING FESTIVAL to bieg trailowy. Lokalizacja: Farmersville, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Farmersville, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Farmersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "HARVEST TRAIL RUNNING FESTIVAL",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20684",
+  "slug": "harvest-trail-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "harvest-trail-running-festival-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=20684"
+  },
+  "start": {
+    "lat": 33.16,
+    "lon": -96.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20684"
+}

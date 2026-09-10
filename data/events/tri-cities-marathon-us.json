@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tri-Cities Marathon is a road race. Location: Richland, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Richland, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Tri-Cities Marathon to bieg uliczny. Lokalizacja: Richland, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Richland, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Tri-Cities Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Richland/TriCitiesMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tri-cities-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "tri-cities-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Richland/TriCitiesMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.25,
+    "lon": -119.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/WA/Richland/TriCitiesMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

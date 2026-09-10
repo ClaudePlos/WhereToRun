@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Stone Steps 50K and 27K Trail Run is a trail race. Location: Cincinnati, United States. Date: Sunday, 25 October 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Cincinnati, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Stone Steps 50K and 27K Trail Run to bieg trailowy. Lokalizacja: Cincinnati, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Cincinnati, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cincinnati",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Stone Steps 50K and 27K Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/OH/Cincinnati/StoneSteps50KTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "stone-steps-50k-and-27k-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "stone-steps-50k-and-27k-trail-run-oh",
+    "url": "https://runsignup.com/Race/OH/Cincinnati/StoneSteps50KTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.17,
+    "lon": -84.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/OH/Cincinnati/StoneSteps50KTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

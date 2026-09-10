@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lone Wolf 135 is a ultramarathon. Location: Griffin, United States. Date: Friday, 30 October 2026. Distances: 217.3 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Griffin, United States, Friday, 30 October 2026"
+    },
+    "pl": {
+      "description": "Lone Wolf 135 to ultramaraton. Lokalizacja: Griffin, Stany Zjednoczone. Termin: piątek, 30 października 2026. Dystanse: 217.3 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Griffin, Stany Zjednoczone, piątek, 30 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "217.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Griffin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Lone Wolf 135",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65958",
+  "slug": "lone-wolf-135-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:26.103Z",
+    "id": "ultrasignup",
+    "ref": "20170",
+    "url": "https://ultrasignup.com/register.aspx?did=65958"
+  },
+  "start": {
+    "lat": 33.3034,
+    "lon": -84.2615,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "http://www.revolutionrunning.net"
+}

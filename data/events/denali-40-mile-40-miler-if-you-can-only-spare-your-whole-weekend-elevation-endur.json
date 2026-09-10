@@ -26,14 +26,14 @@
     "region": "CT"
   },
   "manual": false,
-  "name": "Denali - 40 Mile + (40 Miler) - if you can only spare your whole weekend - Elevation Endurance Ultra Trail Marathon - 43 + Miles | 48 Hour - IronHike (Iron Hike) Fall (October / Oct) - Relay - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day.",
-  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "name": "Denali - 40 Mile + (40 Miler) - if you can only spare your whole weekend - Elevation Endurance Ultra Trail Marathon - 43 + Miles | 48 Hour - IronHike (Iron Hike) Fall (October / Oct) - Solo - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day.",
+  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "denali-40-mile-40-miler-if-you-can-only-spare-your-whole-weekend-elevation-endur",
   "source": {
-    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
     "id": "runraceusa",
-    "ref": "denali-40-mile-40-miler-if-you-can-only-spare-your-whole-weekend",
-    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "",
+    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 41.83,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-09T22:32:11.988Z",
-  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeDenaliUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

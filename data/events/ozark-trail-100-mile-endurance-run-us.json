@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ozark Trail 100 Mile Endurance Run is a trail race. Location: Steelville, United States. Date: Saturday, 31 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Steelville, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Ozark Trail 100 Mile Endurance Run to bieg trailowy. Lokalizacja: Steelville, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Steelville, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Steelville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Ozark Trail 100 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18337",
+  "slug": "ozark-trail-100-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "ozark-trail-100-mile-endurance-run-mo",
+    "url": "https://ultrasignup.com/register.aspx?eid=18337"
+  },
+  "start": {
+    "lat": 37.99,
+    "lon": -91.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18337"
+}

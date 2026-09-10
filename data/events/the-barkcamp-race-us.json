@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Barkcamp Race is a road race. Location: Belmont, United States. Date: Saturday, 31 October 2026. Distances: ultra, 42.2 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Belmont, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "The Barkcamp Race to bieg uliczny. Lokalizacja: Belmont, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: ultra, 42.2 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Belmont, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belmont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "The Barkcamp Race",
+  "registrationUrl": "https://runsignup.com/Race/OH/Belmont/TheBarkcampRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-barkcamp-race-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "the-barkcamp-race-oh",
+    "url": "https://runsignup.com/Race/OH/Belmont/TheBarkcampRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.03,
+    "lon": -81.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/OH/Belmont/TheBarkcampRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

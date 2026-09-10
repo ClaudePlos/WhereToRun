@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON is a road race. Location: Far Rockaway, United States. Date: Saturday, 31 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Far Rockaway, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON to bieg uliczny. Lokalizacja: Far Rockaway, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Far Rockaway, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Far Rockaway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON",
+  "registrationUrl": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-rockaway-beach-nyc-ocean-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "run-rockaway-beach-nyc-ocean-marathon-ny",
+    "url": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.61,
+    "lon": -73.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

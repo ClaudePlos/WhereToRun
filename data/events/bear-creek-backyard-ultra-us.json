@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bear Creek Backyard Ultra is a ultramarathon. Location: Lakewood, United States. Date: Saturday, 31 October 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakewood, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Bear Creek Backyard Ultra to ultramaraton. Lokalizacja: Lakewood, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakewood, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Bear Creek Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20958",
+  "slug": "bear-creek-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "bear-creek-backyard-ultra-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=20958"
+  },
+  "start": {
+    "lat": 39.65,
+    "lon": -105.15,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20958"
+}

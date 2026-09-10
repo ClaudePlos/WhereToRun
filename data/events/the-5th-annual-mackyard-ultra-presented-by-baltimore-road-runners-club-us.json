@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "The 5th Annual Mackyard Ultra presented by Baltimore Road Runners Club is a ultramarathon. Location: Cockeysville, United States. Date: Saturday, 31 October 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cockeysville, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "The 5th Annual Mackyard Ultra presented by Baltimore Road Runners Club to ultramaraton. Lokalizacja: Cockeysville, Stany Zjednoczone. Termin: sobota, 31 października 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cockeysville, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cockeysville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "The 5th Annual Mackyard Ultra presented by Baltimore Road Runners Club",
+  "registrationUrl": "https://runsignup.com/Race/MD/Cockeysville/MackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-5th-annual-mackyard-ultra-presented-by-baltimore-road-runners-club-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "the-5th-annual-mackyard-ultra-presented-by-baltimore-road-runners",
+    "url": "https://runsignup.com/Race/MD/Cockeysville/MackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.49,
+    "lon": -76.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/MD/Cockeysville/MackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

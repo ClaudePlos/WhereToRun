@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Haunted Forest Marathon is a trail race. Location: Canal Fulton, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Canal Fulton, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "The Haunted Forest Marathon to bieg trailowy. Lokalizacja: Canal Fulton, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Canal Fulton, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canal Fulton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "The Haunted Forest Marathon",
+  "registrationUrl": "https://runsignup.com/Race/OH/CanalFulton/HauntedForestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-haunted-forest-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "the-haunted-forest-marathon-oh",
+    "url": "https://runsignup.com/Race/OH/CanalFulton/HauntedForestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.89,
+    "lon": -81.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/OH/CanalFulton/HauntedForestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

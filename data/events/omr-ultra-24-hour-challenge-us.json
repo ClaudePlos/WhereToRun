@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "OMR Ultra 24 Hour Challenge is a road race. Location: Mint Hill, United States. Date: Friday, 30 October 2026. Distances: 24 Hour Individual, 24 Hour Team Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mint Hill, United States, Friday, 30 October 2026"
+    },
+    "pl": {
+      "description": "OMR Ultra 24 Hour Challenge to bieg uliczny. Lokalizacja: Mint Hill, Stany Zjednoczone. Termin: piątek, 30 października 2026. Dystanse: 24 Hour Individual, 24 Hour Team Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mint Hill, Stany Zjednoczone, piątek, 30 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 Hour Individual",
+    "24 Hour Team Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mint Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "OMR Ultra 24 Hour Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66648",
+  "slug": "omr-ultra-24-hour-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:26.103Z",
+    "id": "ultrasignup",
+    "ref": "19187",
+    "url": "https://ultrasignup.com/register.aspx?did=66648"
+  },
+  "start": {
+    "lat": 35.1875,
+    "lon": -80.6584,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://omrultra.com"
+}

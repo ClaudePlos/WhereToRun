@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Historic Drawbridge Running Festival is a trail race. Location: St Michaels, United States. Date: Saturday, 31 October 2026. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — St Michaels, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Historic Drawbridge Running Festival to bieg trailowy. Lokalizacja: St Michaels, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — St Michaels, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-10T11:30:18.139Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St Michaels",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Historic Drawbridge Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/MD/StMichaels/HistoricDrawbridgeHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "historic-drawbridge-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "id": "runraceusa",
+    "ref": "historic-drawbridge-running-festival-md",
+    "url": "https://runsignup.com/Race/MD/StMichaels/HistoricDrawbridgeHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.78,
+    "lon": -76.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "website": "https://runsignup.com/Race/MD/StMichaels/HistoricDrawbridgeHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
