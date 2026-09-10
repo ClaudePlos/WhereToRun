@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mental Health Ultra Marathon is a ultramarathon. Location: Newnan, United States. Date: Saturday, 7 November 2026. Distances: u50k, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Newnan, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mental Health Ultra Marathon to ultramaraton. Lokalizacja: Newnan, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50k, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Newnan, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newnan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Mental Health Ultra Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14991",
+  "slug": "mental-health-ultra-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "mental-health-ultra-marathon-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=14991"
+  },
+  "start": {
+    "lat": 33.33,
+    "lon": -84.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14991"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Dunns Ultra Marathon Badasses - D.U.M.B. is a ultramarathon. Location: pomona park, United States. Date: Saturday, 7 November 2026. Distances: u100m, u100k, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — pomona park, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Dunns Ultra Marathon Badasses - D.U.M.B. to ultramaraton. Lokalizacja: pomona park, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u100m, u100k, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — pomona park, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "pomona park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Dunns Ultra Marathon Badasses - D.U.M.B.",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20180",
+  "slug": "dunns-ultra-marathon-badasses-d-u-m-b-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "dunns-ultra-marathon-badasses-d-u-m-b-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=20180"
+  },
+  "start": {
+    "lat": 29.53,
+    "lon": -81.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20180"
+}

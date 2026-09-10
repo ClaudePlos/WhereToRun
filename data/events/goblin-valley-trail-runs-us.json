@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Goblin Valley Trail Runs is a trail race. Location: Green River, United States. Date: Saturday, 7 November 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, ultra, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Green River, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Goblin Valley Trail Runs to bieg trailowy. Lokalizacja: Green River, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, ultra, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Green River, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "ultra",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Green River",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Goblin Valley Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/UT/GreenRiver/GoblinValleyTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "goblin-valley-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "goblin-valley-trail-runs-ut",
+    "url": "https://runsignup.com/Race/UT/GreenRiver/GoblinValleyTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39,
+    "lon": -110.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/UT/GreenRiver/GoblinValleyTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

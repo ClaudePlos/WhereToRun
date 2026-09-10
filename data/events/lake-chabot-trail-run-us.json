@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Chabot Trail Run is a trail race. Location: Castro Valley, United States. Date: Saturday, 7 November 2026. Distances: other, 21.1 km, 42.2 km, u50k, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Castro Valley, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Lake Chabot Trail Run to bieg trailowy. Lokalizacja: Castro Valley, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: other, 21.1 km, 42.2 km, u50k, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Castro Valley, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castro Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lake Chabot Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lake-chabot-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "lake-chabot-trail-run-ca",
+    "url": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.7,
+    "lon": -122.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

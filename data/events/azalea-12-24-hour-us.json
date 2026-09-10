@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Azalea 12/24 Hour is a road race. Location: Palatka, United States. Date: Saturday, 7 November 2026. Distances: u50m, u50k, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Palatka, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Azalea 12/24 Hour to bieg uliczny. Lokalizacja: Palatka, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50m, u50k, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Palatka, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palatka",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Azalea 12/24 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4551",
+  "slug": "azalea-12-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "azalea-12-24-hour-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=4551"
+  },
+  "start": {
+    "lat": 29.64,
+    "lon": -81.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4551"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Grin & Bear It 5K | 10K | 1/2 Mile Kids Run & NEW! 1/2 Marathon is a road race. Location: Delhi, United States. Date: Saturday, 7 November 2026. Distances: other, 5 km, 10 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Delhi, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Grin & Bear It 5K | 10K | 1/2 Mile Kids Run & NEW! 1/2 Marathon to bieg uliczny. Lokalizacja: Delhi, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: other, 5 km, 10 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Delhi, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "10 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Delhi",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Grin & Bear It 5K | 10K | 1/2 Mile Kids Run & NEW! 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/LA/Delhi/GrinBearIt5K10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grin-bear-it-5k-10k-1-2-mile-kids-run-new-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "grin-bear-it-5k-10k-1-2-mile-kids-run-new-1-2-marathon-la",
+    "url": "https://runsignup.com/Race/LA/Delhi/GrinBearIt5K10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.39,
+    "lon": -91.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/LA/Delhi/GrinBearIt5K10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Tex Backyard Ultra is a ultramarathon. Location: San Felipe, United States. Date: Saturday, 7 November 2026. Distances: other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Felipe, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Big Tex Backyard Ultra to ultramaraton. Lokalizacja: San Felipe, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Felipe, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Felipe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Big Tex Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanFelipe/BigTexBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "big-tex-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "big-tex-backyard-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/SanFelipe/BigTexBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.8,
+    "lon": -96.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/TX/SanFelipe/BigTexBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

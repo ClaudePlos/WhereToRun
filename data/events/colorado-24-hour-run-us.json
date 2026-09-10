@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Colorado 24 Hour Run is a road race. Location: Fort Collins, United States. Date: Saturday, 7 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Collins, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Colorado 24 Hour Run to bieg uliczny. Lokalizacja: Fort Collins, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Collins, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Collins",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Colorado 24 Hour Run",
+  "registrationUrl": "https://runsignup.com/Race/CO/FortCollins/Colorado24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "colorado-24-hour-run-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "colorado-24-hour-run-co",
+    "url": "https://runsignup.com/Race/CO/FortCollins/Colorado24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.5,
+    "lon": -105,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/CO/FortCollins/Colorado24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

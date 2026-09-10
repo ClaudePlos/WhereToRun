@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Kessel Run Ultra is a ultramarathon. Location: Fruita, United States. Date: Saturday, 7 November 2026. Distances: u50m, ultra, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fruita, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Kessel Run Ultra to ultramaraton. Lokalizacja: Fruita, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50m, ultra, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fruita, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "ultra",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fruita",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Kessel Run Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13771",
+  "slug": "kessel-run-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "kessel-run-ultra-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=13771"
+  },
+  "start": {
+    "lat": 39.33,
+    "lon": -108.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13771"
+}

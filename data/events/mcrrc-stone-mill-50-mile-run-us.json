@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MCRRC Stone Mill 50 Mile Run is a road race. Location: Montgomery Village, United States. Date: Saturday, 7 November 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Montgomery Village, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "MCRRC Stone Mill 50 Mile Run to bieg uliczny. Lokalizacja: Montgomery Village, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Montgomery Village, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montgomery Village",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "MCRRC Stone Mill 50 Mile Run",
+  "registrationUrl": "https://runsignup.com/Race/MD/MontgomeryVillage/MCRRCStoneMill50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mcrrc-stone-mill-50-mile-run-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "mcrrc-stone-mill-50-mile-run-md",
+    "url": "https://runsignup.com/Race/MD/MontgomeryVillage/MCRRCStoneMill50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.18,
+    "lon": -77.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/MD/MontgomeryVillage/MCRRCStoneMill50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

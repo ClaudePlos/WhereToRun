@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fall Back into the Trails Series is a ultramarathon. Location: Lagrangeville, United States. Date: 31 October 2026 – 1 November 2026. Distances: 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lagrangeville, United States, 31 October 2026 – 1 November 2026"
+    },
+    "pl": {
+      "description": "Fall Back into the Trails Series to ultramaraton. Lokalizacja: Lagrangeville, Stany Zjednoczone. Termin: 31 października 2026 – 1 listopada 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lagrangeville, Stany Zjednoczone, 31 października 2026 – 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-11-01",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lagrangeville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Fall Back into the Trails Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64059",
+  "slug": "fall-back-into-the-trails-series-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:08.479Z",
+    "id": "ultrasignup",
+    "ref": "8083",
+    "url": "https://ultrasignup.com/register.aspx?did=64059"
+  },
+  "start": {
+    "lat": 41.6728,
+    "lon": -73.7599,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://www.ctwendurance.com/"
+}

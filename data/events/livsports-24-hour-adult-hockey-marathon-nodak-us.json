@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivSports 24 Hour Adult Hockey Marathon - NODAK is a road race. Location: Grand Forks, United States. Date: Saturday, 7 November 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Grand Forks, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "LivSports 24 Hour Adult Hockey Marathon - NODAK to bieg uliczny. Lokalizacja: Grand Forks, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Grand Forks, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Forks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ND"
+  },
+  "manual": false,
+  "name": "LivSports 24 Hour Adult Hockey Marathon - NODAK",
+  "registrationUrl": "https://runsignup.com/Race/ND/GrandForks/LivSportsHourAdultHockeyMarathonNODAK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livsports-24-hour-adult-hockey-marathon-nodak-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "livsports-24-hour-adult-hockey-marathon-nodak-nd",
+    "url": "https://runsignup.com/Race/ND/GrandForks/LivSportsHourAdultHockeyMarathonNODAK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.93,
+    "lon": -97.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/ND/GrandForks/LivSportsHourAdultHockeyMarathonNODAK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

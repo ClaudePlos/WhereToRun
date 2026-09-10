@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra Tailgate is a ultramarathon. Location: Greenville, United States. Date: Saturday, 7 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Greenville, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra Tailgate to ultramaraton. Lokalizacja: Greenville, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Greenville, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Backyard Ultra Tailgate",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greenville/BackyardUltraTailgate?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "backyard-ultra-tailgate-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "id": "runraceusa",
+    "ref": "backyard-ultra-tailgate-sc",
+    "url": "https://runsignup.com/Race/SC/Greenville/BackyardUltraTailgate?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.83,
+    "lon": -82.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://runsignup.com/Race/SC/Greenville/BackyardUltraTailgate?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bong Nonsense is a ultramarathon. Location: Brighton, United States. Date: Saturday, 26 September 2026. Distances: 24 h, 12 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brighton, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Bong Nonsense to ultramaraton. Lokalizacja: Brighton, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 24 h, 12 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brighton, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-10T22:34:00.117Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brighton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Bong Nonsense",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63703",
+  "slug": "bong-nonsense-us",
+  "source": {
+    "fetchedAt": "2026-09-10T22:34:08.479Z",
+    "id": "ultrasignup",
+    "ref": "19574",
+    "url": "https://ultrasignup.com/register.aspx?did=63703"
+  },
+  "start": {
+    "lat": 42.6365,
+    "lon": -88.1262,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "website": "https://cussingrunner.com/"
+}
