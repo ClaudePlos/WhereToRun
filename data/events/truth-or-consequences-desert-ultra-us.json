@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Truth or Consequences Desert Ultra is a ultramarathon. Location: Truth or Consequences, United States. Date: Saturday, 14 November 2026. Distances: u50k, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Truth or Consequences, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Truth or Consequences Desert Ultra to ultramaraton. Lokalizacja: Truth or Consequences, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50k, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Truth or Consequences, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Truth or Consequences",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Truth or Consequences Desert Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13356",
+  "slug": "truth-or-consequences-desert-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "truth-or-consequences-desert-ultra-nm",
+    "url": "https://ultrasignup.com/register.aspx?eid=13356"
+  },
+  "start": {
+    "lat": 33.12,
+    "lon": -107.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13356"
+}

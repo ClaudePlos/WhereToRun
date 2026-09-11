@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dudhsagar Ultra Trail, Goa is a ultramarathon. Location: Mollem, India. Date: Wednesday, 16 December 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mollem, India, Wednesday, 16 December 2026"
+    },
+    "pl": {
+      "description": "Dudhsagar Ultra Trail, Goa to ultramaraton. Lokalizacja: Mollem, Indie. Termin: środa, 16 grudnia 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mollem, Indie, środa, 16 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-12-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mollem",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dudhsagar Ultra Trail, Goa",
+  "registrationUrl": null,
+  "slug": "dudhsagar-ultra-trail-goa-in",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:36.354Z",
+    "id": "duv",
+    "ref": "135516",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135516"
+  },
+  "start": {
+    "lat": 15.375011,
+    "lon": 74.226853,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "64th Annual JFK 50 Mile presented by Altra is a road race. Location: Boonsboro, United States. Date: Saturday, 21 November 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boonsboro, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "64th Annual JFK 50 Mile presented by Altra to bieg uliczny. Lokalizacja: Boonsboro, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boonsboro, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boonsboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "64th Annual JFK 50 Mile presented by Altra",
+  "registrationUrl": "https://runsignup.com/Race/MD/Boonsboro/JFK50Mile?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "64th-annual-jfk-50-mile-presented-by-altra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "64th-annual-jfk-50-mile-presented-by-altra-md",
+    "url": "https://runsignup.com/Race/MD/Boonsboro/JFK50Mile?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.55,
+    "lon": -77.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/MD/Boonsboro/JFK50Mile?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

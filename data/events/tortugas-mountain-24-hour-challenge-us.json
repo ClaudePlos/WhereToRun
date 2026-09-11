@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tortugas Mountain 24 Hour Challenge is a trail race. Location: Las Cruces, United States. Date: Friday, 20 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Las Cruces, United States, Friday, 20 November 2026"
+    },
+    "pl": {
+      "description": "Tortugas Mountain 24 Hour Challenge to bieg trailowy. Lokalizacja: Las Cruces, Stany Zjednoczone. Termin: piątek, 20 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Las Cruces, Stany Zjednoczone, piątek, 20 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Cruces",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Tortugas Mountain 24 Hour Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10845",
+  "slug": "tortugas-mountain-24-hour-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "tortugas-mountain-24-hour-challenge-nm",
+    "url": "https://ultrasignup.com/register.aspx?eid=10845"
+  },
+  "start": {
+    "lat": 32.3,
+    "lon": -106.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10845"
+}

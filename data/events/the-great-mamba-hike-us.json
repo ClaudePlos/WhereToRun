@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Great Mamba Hike is a road race. Location: Memphis, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Memphis, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "The Great Mamba Hike to bieg uliczny. Lokalizacja: Memphis, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Memphis, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Memphis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "The Great Mamba Hike",
+  "registrationUrl": "https://runsignup.com/Race/TN/Memphis/TheGreatMambaHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-great-mamba-hike-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "the-great-mamba-hike-tn",
+    "url": "https://runsignup.com/Race/TN/Memphis/TheGreatMambaHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.18,
+    "lon": -89.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/TN/Memphis/TheGreatMambaHike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

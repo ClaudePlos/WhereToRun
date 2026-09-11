@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ruffner Mountain Fall Classic is a trail race. Location: Irondale, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Irondale, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Ruffner Mountain Fall Classic to bieg trailowy. Lokalizacja: Irondale, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Irondale, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Irondale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Ruffner Mountain Fall Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20337",
+  "slug": "ruffner-mountain-fall-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "ruffner-mountain-fall-classic-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=20337"
+  },
+  "start": {
+    "lat": 33.54,
+    "lon": -86.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20337"
+}

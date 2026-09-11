@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "BUTS Bearly Ultra is a ultramarathon. Location: Birmingham, United States. Date: Saturday, 21 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Birmingham, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "BUTS Bearly Ultra to ultramaraton. Lokalizacja: Birmingham, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Birmingham, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Birmingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "BUTS Bearly Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3992",
+  "slug": "buts-bearly-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "buts-bearly-ultra-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=3992"
+  },
+  "start": {
+    "lat": 33.44,
+    "lon": -86.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3992"
+}

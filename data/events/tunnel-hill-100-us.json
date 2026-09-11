@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Tunnel Hill 100 is a road race. Location: Vienna, United States. Date: Saturday, 14 November 2026. Distances: u100m, u100k, u50m, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Vienna, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Tunnel Hill 100 to bieg uliczny. Lokalizacja: Vienna, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u100m, u100k, u50m, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Vienna, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vienna",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Tunnel Hill 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4397",
+  "slug": "tunnel-hill-100-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "tunnel-hill-100-il",
+    "url": "https://ultrasignup.com/register.aspx?eid=4397"
+  },
+  "start": {
+    "lat": 37.42,
+    "lon": -88.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4397"
+}

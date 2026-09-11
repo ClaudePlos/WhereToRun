@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Girl Scout Island Ultra is a ultramarathon. Location: Savannah, United States. Date: Saturday, 21 November 2026. Distances: u100m, u100k, u50k, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Savannah, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Girl Scout Island Ultra to ultramaraton. Lokalizacja: Savannah, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: u100m, u100k, u50k, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Savannah, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50k",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Savannah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Girl Scout Island Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20102",
+  "slug": "girl-scout-island-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "girl-scout-island-ultra-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=20102"
+  },
+  "start": {
+    "lat": 31.93,
+    "lon": -81.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20102"
+}

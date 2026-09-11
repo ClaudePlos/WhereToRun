@@ -1,0 +1,60 @@
+{
+  "content": {
+    "en": {
+      "description": "Fire Fest Ultra is a ultramarathon. Location: Logandale, United States. Date: Saturday, 21 November 2026. Distances: u100m, u100k, u50m, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Logandale, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Fire Fest Ultra to ultramaraton. Lokalizacja: Logandale, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: u100m, u100k, u50m, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Logandale, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Logandale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Fire Fest Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NV/Logandale/FireFestUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fire-fest-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "fire-fest-ultra-nv",
+    "url": "https://runsignup.com/Race/NV/Logandale/FireFestUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.59,
+    "lon": -114.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/NV/Logandale/FireFestUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

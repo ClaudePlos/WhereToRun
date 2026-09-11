@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Columbia Trail Race 50km is a ultramarathon. Location: Manesar, India. Date: 24 January 2027 – 25 January 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Manesar, India, 24 January 2027 – 25 January 2027"
+    },
+    "pl": {
+      "description": "Columbia Trail Race 50km to ultramaraton. Lokalizacja: Manesar, Indie. Termin: 24 stycznia 2027 – 25 stycznia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Manesar, Indie, 24 stycznia 2027 – 25 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2027-01-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2027-01-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manesar",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Columbia Trail Race 50km",
+  "registrationUrl": null,
+  "slug": "columbia-trail-race-50km-in",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:36.354Z",
+    "id": "duv",
+    "ref": "135585",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135585"
+  },
+  "start": {
+    "lat": 28.32471,
+    "lon": 76.926379,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": null
+}

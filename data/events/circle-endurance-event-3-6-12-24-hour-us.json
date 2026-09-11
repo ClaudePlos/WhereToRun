@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Circle Endurance Event 3, 6, 12, 24 Hour is a road race. Location: Ringgold, United States. Date: Saturday, 21 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ringgold, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Circle Endurance Event 3, 6, 12, 24 Hour to bieg uliczny. Lokalizacja: Ringgold, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ringgold, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ringgold",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Circle Endurance Event 3, 6, 12, 24 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17563",
+  "slug": "circle-endurance-event-3-6-12-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "circle-endurance-event-3-6-12-24-hour-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=17563"
+  },
+  "start": {
+    "lat": 34.92,
+    "lon": -85.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17563"
+}

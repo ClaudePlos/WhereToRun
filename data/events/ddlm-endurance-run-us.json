@@ -10,12 +10,12 @@
     }
   },
   "createdAt": "2026-09-04T22:20:28.980Z",
-  "date": "2026-10-24",
+  "date": "2026-10-23",
   "dateStatus": "confirmed",
   "distances": [
-    "24-Hour Team Relay",
-    "12 h",
-    "6 h"
+    "48 h",
+    "48-Hour Team Relay",
+    "24 h"
   ],
   "endDate": "2026-10-25",
   "featured": false,
@@ -32,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=68553",
   "slug": "ddlm-endurance-run-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:10.543Z",
+    "fetchedAt": "2026-09-11T22:33:29.398Z",
     "id": "ultrasignup",
     "ref": "9284",
     "url": "https://ultrasignup.com/register.aspx?did=68553"
@@ -48,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
   "website": "https://ardoradventures.com/events/dia-de-los-muertos/"
 }

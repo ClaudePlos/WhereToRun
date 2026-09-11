@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop Endurance Series- Tyler, TX Nov is a road race. Location: Tyler, United States. Date: Saturday, 14 November 2026. Distances: u50k, 42.2 km, 21.1 km, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tyler, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "The Next Loop Endurance Series- Tyler, TX Nov to bieg uliczny. Lokalizacja: Tyler, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50k, 42.2 km, 21.1 km, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tyler, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tyler",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The Next Loop Endurance Series- Tyler, TX Nov",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20043",
+  "slug": "the-next-loop-endurance-series-tyler-tx-nov-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "the-next-loop-endurance-series-tyler-tx-nov-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=20043"
+  },
+  "start": {
+    "lat": 32.48,
+    "lon": -95.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20043"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "D&L RaceFest presented by St. Luke's is a road race. Location: Easton, United States. Date: Sunday, 15 November 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Easton, United States, Sunday, 15 November 2026"
+    },
+    "pl": {
+      "description": "D&L RaceFest presented by St. Luke's to bieg uliczny. Lokalizacja: Easton, Stany Zjednoczone. Termin: niedziela, 15 listopada 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Easton, Stany Zjednoczone, niedziela, 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Easton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "D&L RaceFest presented by St. Luke's",
+  "registrationUrl": "https://runsignup.com/Race/PA/Easton/DLRaceFestpresentedbyStLukes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "d-l-racefest-presented-by-st-luke-s-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "d-l-racefest-presented-by-st-luke-s-pa",
+    "url": "https://runsignup.com/Race/PA/Easton/DLRaceFestpresentedbyStLukes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.65,
+    "lon": -75.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/PA/Easton/DLRaceFestpresentedbyStLukes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

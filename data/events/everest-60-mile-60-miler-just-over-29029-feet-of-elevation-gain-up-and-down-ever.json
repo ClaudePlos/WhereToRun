@@ -26,14 +26,14 @@
     "region": "CT"
   },
   "manual": false,
-  "name": "Everest - 60 Mile + (60 Miler) - just over 29029 feet of elevation gain up and down - Everesting Elevation Endurance Ultra Trail Marathon - 61 + Miles | 72 Hour - IronHike (Iron Hike) Fall (October / Oct) - Solo - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day.",
-  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "name": "Everest - 60 Mile + (60 Miler) - just over 29029 feet of elevation gain up and down - Everesting Elevation Endurance Ultra Trail Marathon - 61 + Miles | 72 Hour - IronHike (Iron Hike) Fall (October / Oct) - Relay - Mohawk Mountain, Connecticut (CT) - Run, Hike or Walk with us as we redefine race day.",
+  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "everest-60-mile-60-miler-just-over-29029-feet-of-elevation-gain-up-and-down-ever",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
     "id": "runraceusa",
-    "ref": "",
-    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "everest-60-mile-60-miler-just-over-29029-feet-of-elevation-gain-up",
+    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 41.83,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeEverestUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

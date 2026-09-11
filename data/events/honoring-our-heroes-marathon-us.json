@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Honoring our Heroes Marathon is a road race. Location: Rolla, United States. Date: Saturday, 21 November 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rolla, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Honoring our Heroes Marathon to bieg uliczny. Lokalizacja: Rolla, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rolla, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rolla",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Honoring our Heroes Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MO/Rolla/HonoringOurHeroesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "honoring-our-heroes-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "honoring-our-heroes-marathon-mo",
+    "url": "https://runsignup.com/Race/MO/Rolla/HonoringOurHeroesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.95,
+    "lon": -91.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/MO/Rolla/HonoringOurHeroesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

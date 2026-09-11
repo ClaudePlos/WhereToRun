@@ -539,6 +539,9 @@
     "lon": 77.95259,
     "name": "Basar, Basar mandal, Nirmal, Telangana, 504101, India"
   },
+  "IN|bhandardara, maharashtra": {
+    "at": "2026-09-11T22:33:20.292Z"
+  },
   "IN|coorg, karnataka": {
     "at": "2026-09-11T17:02:01.760Z"
   },
@@ -566,20 +569,47 @@
   "IN|jamunamathur": {
     "at": "2026-09-11T17:02:01.760Z"
   },
+  "IN|karnataka": {
+    "at": "2026-09-11T22:33:20.292Z"
+  },
   "IN|khardung village, ladakh": {
     "at": "2026-09-03T11:24:47.198Z"
   },
   "IN|kyagar, nubra valley": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "IN|lucknow": {
+    "at": "2026-09-11T22:33:20.292Z",
+    "lat": 26.8381,
+    "lon": 80.9346001,
+    "name": "Lucknow, Uttar Pradesh, 226027, India"
+  },
+  "IN|lucknow city": {
+    "at": "2026-09-11T22:33:20.292Z"
+  },
+  "IN|manesar": {
+    "at": "2026-09-11T22:33:20.292Z",
+    "lat": 28.3247096,
+    "lon": 76.9263787,
+    "name": "Manesar, Gurugram, Haryana, India"
+  },
   "IN|mitganahalli": {
     "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|mollem": {
+    "at": "2026-09-11T22:33:20.292Z",
+    "lat": 15.3750107,
+    "lon": 74.2268533,
+    "name": "Mollem, Dharbandora, Kushavati, Goa, 403410, India"
   },
   "IN|mumbai": {
     "at": "2026-09-11T17:02:01.760Z",
     "lat": 19.054999,
     "lon": 72.8692035,
     "name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+  },
+  "IN|mussoorie, uttarakhand": {
+    "at": "2026-09-11T22:33:20.292Z"
   },
   "IN|new delhi": {
     "at": "2026-09-03T11:24:47.198Z",
@@ -599,11 +629,20 @@
     "lon": 77.1565572,
     "name": "Solang Valley, Manali, Kullu, Himachal Pradesh, 175103, India"
   },
+  "IN|udaipur, rajasthan": {
+    "at": "2026-09-11T22:33:20.292Z"
+  },
   "IN|udaipurwati": {
     "at": "2026-09-11T17:02:01.760Z",
     "lat": 27.7309897,
     "lon": 75.4743975,
     "name": "Udaipurwati, Udaipurwati Tehsil, Jhunjhunu, Rajasthan, 333307, India"
+  },
+  "IN|vagamon, kerala": {
+    "at": "2026-09-11T22:33:20.292Z"
+  },
+  "IN|visakhapatnam  city": {
+    "at": "2026-09-11T22:33:20.292Z"
   },
   "IS|reykjavik": {
     "at": "2026-09-05T10:43:37.273Z",

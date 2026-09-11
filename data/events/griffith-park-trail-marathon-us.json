@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Griffith Park Trail Marathon is a trail race. Location: Los Angeles, United States. Date: Saturday, 21 November 2026. Distances: u50k, 42.2 km, other, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Los Angeles, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Griffith Park Trail Marathon to bieg trailowy. Lokalizacja: Los Angeles, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: u50k, 42.2 km, other, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Los Angeles, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Griffith Park Trail Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3676",
+  "slug": "griffith-park-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "griffith-park-trail-marathon-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=3676"
+  },
+  "start": {
+    "lat": 34.12,
+    "lon": -118.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3676"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Athak Ultra Stadium Run Lucknow is a ultramarathon. Location: Lucknow, India. Date: Sunday, 20 December 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lucknow, India, Sunday, 20 December 2026"
+    },
+    "pl": {
+      "description": "Athak Ultra Stadium Run Lucknow to ultramaraton. Lokalizacja: Lucknow, Indie. Termin: niedziela, 20 grudnia 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lucknow, Indie, niedziela, 20 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lucknow",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Athak Ultra Stadium Run Lucknow",
+  "registrationUrl": null,
+  "slug": "athak-ultra-stadium-run-lucknow-in",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:36.354Z",
+    "id": "duv",
+    "ref": "135582",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135582"
+  },
+  "start": {
+    "lat": 26.8381,
+    "lon": 80.9346,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": null
+}

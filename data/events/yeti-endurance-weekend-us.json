@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Yeti Endurance Weekend is a road race. Location: Kansas City, United States. Date: Saturday, 14 November 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kansas City, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Yeti Endurance Weekend to bieg uliczny. Lokalizacja: Kansas City, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kansas City, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T22:33:20.292Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kansas City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Yeti Endurance Weekend",
+  "registrationUrl": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "yeti-endurance-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "id": "runraceusa",
+    "ref": "yeti-endurance-weekend-mo",
+    "url": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.93,
+    "lon": -94.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "website": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
