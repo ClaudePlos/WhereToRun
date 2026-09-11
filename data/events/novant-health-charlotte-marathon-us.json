@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Novant Health Charlotte Marathon is a road race. Location: Charlotte, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Charlotte, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Novant Health Charlotte Marathon to bieg uliczny. Lokalizacja: Charlotte, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Charlotte, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Charlotte",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Novant Health Charlotte Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "novant-health-charlotte-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "novant-health-charlotte-marathon-nc",
+    "url": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.23,
+    "lon": -80.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

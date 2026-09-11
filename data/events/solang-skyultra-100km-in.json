@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Solang SkyUltra 100km is a ultramarathon. Location: Solang Valley, India. Date: 3 October 2026 – 4 October 2026. Distances: 109 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Solang Valley, India, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Solang SkyUltra 100km to ultramaraton. Lokalizacja: Solang Valley, Indie. Termin: 3 października 2026 – 4 października 2026. Dystanse: 109 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Solang Valley, Indie, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "109 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Solang Valley",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Solang SkyUltra 100km",
+  "registrationUrl": null,
+  "slug": "solang-skyultra-100km-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.060Z",
+    "id": "duv",
+    "ref": "135512",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135512"
+  },
+  "start": {
+    "lat": 32.316096,
+    "lon": 77.156557,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

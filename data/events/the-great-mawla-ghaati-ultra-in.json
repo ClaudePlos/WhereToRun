@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Great Mawla Ghaati Ultra is a ultramarathon. Location: Pune, India. Date: Saturday, 25 September 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pune, India, Saturday, 25 September 2027"
+    },
+    "pl": {
+      "description": "The Great Mawla Ghaati Ultra to ultramaraton. Lokalizacja: Pune, Indie. Termin: sobota, 25 września 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pune, Indie, sobota, 25 września 2027"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2027-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Great Mawla Ghaati Ultra",
+  "registrationUrl": null,
+  "slug": "the-great-mawla-ghaati-ultra-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.061Z",
+    "id": "duv",
+    "ref": "135505",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135505"
+  },
+  "start": {
+    "lat": 18.521374,
+    "lon": 73.854507,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

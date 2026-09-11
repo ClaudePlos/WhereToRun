@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Roxbury Fall Classic is a road race. Location: Roxbury, United States. Date: Saturday, 14 November 2026. Distances: 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Roxbury, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Roxbury Fall Classic to bieg uliczny. Lokalizacja: Roxbury, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Roxbury, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roxbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Roxbury Fall Classic",
+  "registrationUrl": "https://runsignup.com/Race/CT/Roxbury/RoxburyMarathonHalfMarathonand50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "roxbury-fall-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "roxbury-fall-classic-ct",
+    "url": "https://runsignup.com/Race/CT/Roxbury/RoxburyMarathonHalfMarathonand50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.55,
+    "lon": -73.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/CT/Roxbury/RoxburyMarathonHalfMarathonand50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

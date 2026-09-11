@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Jaipur Ultra 50k Run is a ultramarathon. Location: Jaipur, India. Date: Sunday, 1 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Jaipur, India, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Jaipur Ultra 50k Run to ultramaraton. Lokalizacja: Jaipur, Indie. Termin: niedziela, 1 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Jaipur, Indie, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jaipur",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Jaipur Ultra 50k Run",
+  "registrationUrl": null,
+  "slug": "jaipur-ultra-50k-run-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.060Z",
+    "id": "duv",
+    "ref": "135517",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135517"
+  },
+  "start": {
+    "lat": 26.915458,
+    "lon": 75.818982,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

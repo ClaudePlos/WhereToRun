@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Trail Standing - 50K, 25K, 8 Miler, 5K is a trail race. Location: Pittsburgh, United States. Date: Saturday, 14 November 2026. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pittsburgh, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Last Trail Standing - 50K, 25K, 8 Miler, 5K to bieg trailowy. Lokalizacja: Pittsburgh, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pittsburgh, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pittsburgh",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Last Trail Standing - 50K, 25K, 8 Miler, 5K",
+  "registrationUrl": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-trail-standing-50k-25k-8-miler-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "last-trail-standing-50k-25k-8-miler-5k-pa",
+    "url": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.43,
+    "lon": -80.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

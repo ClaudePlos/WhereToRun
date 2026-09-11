@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "McCourtie’s Gobble ’Til You Wobble is a road race. Location: Cement City, United States. Date: Saturday, 14 November 2026. Distances: 1.6 km, 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cement City, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "McCourtie’s Gobble ’Til You Wobble to bieg uliczny. Lokalizacja: Cement City, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 1.6 km, 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cement City, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cement City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "McCourtie’s Gobble ’Til You Wobble",
+  "registrationUrl": "https://runsignup.com/Race/MI/CementCity/McCourtieSGobbleTilYouWobble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mccourtie-s-gobble-til-you-wobble-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "mccourtie-s-gobble-til-you-wobble-mi",
+    "url": "https://runsignup.com/Race/MI/CementCity/McCourtieSGobbleTilYouWobble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.06,
+    "lon": -84.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/MI/CementCity/McCourtieSGobbleTilYouWobble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

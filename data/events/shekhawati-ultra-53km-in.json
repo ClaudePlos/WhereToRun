@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Shekhawati Ultra 53km is a ultramarathon. Location: Udaipurwati, India. Date: Sunday, 27 September 2026. Distances: 53 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Udaipurwati, India, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Shekhawati Ultra 53km to ultramaraton. Lokalizacja: Udaipurwati, Indie. Termin: niedziela, 27 września 2026. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Udaipurwati, Indie, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Udaipurwati",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Shekhawati Ultra 53km",
+  "registrationUrl": null,
+  "slug": "shekhawati-ultra-53km-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.060Z",
+    "id": "duv",
+    "ref": "135625",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135625"
+  },
+  "start": {
+    "lat": 27.73099,
+    "lon": 75.474398,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

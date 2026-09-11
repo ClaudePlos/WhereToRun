@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Roosters Backyard Ultra is a ultramarathon. Location: San Diego, United States. Date: Saturday, 14 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Diego, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Roosters Backyard Ultra to ultramaraton. Lokalizacja: San Diego, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Diego, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Roosters Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18190",
+  "slug": "roosters-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "roosters-backyard-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=18190"
+  },
+  "start": {
+    "lat": 32.67,
+    "lon": -117.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18190"
+}

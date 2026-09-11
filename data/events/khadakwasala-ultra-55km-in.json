@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Khadakwasala Ultra 55km is a ultramarathon. Location: Pune, India. Date: Sunday, 22 November 2026. Distances: 55 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pune, India, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Khadakwasala Ultra 55km to ultramaraton. Lokalizacja: Pune, Indie. Termin: niedziela, 22 listopada 2026. Dystanse: 55 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pune, Indie, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "55 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Khadakwasala Ultra 55km",
+  "registrationUrl": null,
+  "slug": "khadakwasala-ultra-55km-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.060Z",
+    "id": "duv",
+    "ref": "135523",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135523"
+  },
+  "start": {
+    "lat": 18.521374,
+    "lon": 73.854507,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Grace Park Ultra (12 Hours, 2.1-Mile Trail Loop) is a ultramarathon. Location: Greenwood, United States. Date: Saturday, 14 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Greenwood, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Grace Park Ultra (12 Hours, 2.1-Mile Trail Loop) to ultramaraton. Lokalizacja: Greenwood, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Greenwood, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Grace Park Ultra (12 Hours, 2.1-Mile Trail Loop)",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grace-park-ultra-12-hours-2-1-mile-trail-loop-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "grace-park-ultra-12-hours-2-1-mile-trail-loop-sc",
+    "url": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.22,
+    "lon": -82.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

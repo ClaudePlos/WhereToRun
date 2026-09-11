@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Matheran Endurathon Marathon is a ultramarathon. Location: Mumbai, India. Date: Sunday, 27 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mumbai, India, Sunday, 27 September 2026"
+    },
+    "pl": {
+      "description": "Matheran Endurathon Marathon to ultramaraton. Lokalizacja: Mumbai, Indie. Termin: niedziela, 27 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mumbai, Indie, niedziela, 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mumbai",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Matheran Endurathon Marathon",
+  "registrationUrl": null,
+  "slug": "matheran-endurathon-marathon-in",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:25.060Z",
+    "id": "duv",
+    "ref": "135706",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135706"
+  },
+  "start": {
+    "lat": 19.054999,
+    "lon": 72.869204,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": null
+}

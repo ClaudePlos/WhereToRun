@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "RYR Endurance Race Weekend is a road race. Location: Owensboro, United States. Date: Saturday, 14 November 2026. Distances: 21.1 km, 5 km, 42.2 km, u50k, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Owensboro, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "RYR Endurance Race Weekend to bieg uliczny. Lokalizacja: Owensboro, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 21.1 km, 5 km, 42.2 km, u50k, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Owensboro, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "42.2 km",
+    "u50k",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Owensboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "RYR Endurance Race Weekend",
+  "registrationUrl": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ryr-endurance-race-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "ryr-endurance-race-weekend-ky",
+    "url": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.76,
+    "lon": -87.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

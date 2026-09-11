@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Norris Ultra Dam Hard Trail Race is a ultramarathon. Location: Rocky Top, United States. Date: Saturday, 14 November 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rocky Top, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Norris Ultra Dam Hard Trail Race to ultramaraton. Lokalizacja: Rocky Top, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rocky Top, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rocky Top",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Norris Ultra Dam Hard Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/TN/RockyTop/NorrisDamHardTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "norris-ultra-dam-hard-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "norris-ultra-dam-hard-trail-race-tn",
+    "url": "https://runsignup.com/Race/TN/RockyTop/NorrisDamHardTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.2,
+    "lon": -84.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/TN/RockyTop/NorrisDamHardTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

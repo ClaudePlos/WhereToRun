@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Behemoth 50k & 25k is a road race. Location: Caldwell, United States. Date: Saturday, 14 November 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Caldwell, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Behemoth 50k & 25k to bieg uliczny. Lokalizacja: Caldwell, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Caldwell, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Caldwell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Behemoth 50k & 25k",
+  "registrationUrl": "https://runsignup.com/Race/WV/Caldwell/Behemoth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "behemoth-50k-25k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "behemoth-50k-25k-wv",
+    "url": "https://runsignup.com/Race/WV/Caldwell/Behemoth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.78,
+    "lon": -80.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/WV/Caldwell/Behemoth?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Looking Glass 100k is a road race. Location: Pisgah Forest, United States. Date: Saturday, 14 November 2026. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pisgah Forest, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Looking Glass 100k to bieg uliczny. Lokalizacja: Pisgah Forest, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pisgah Forest, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pisgah Forest",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Looking Glass 100k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16347",
+  "slug": "looking-glass-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "looking-glass-100k-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=16347"
+  },
+  "start": {
+    "lat": 35.28,
+    "lon": -82.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16347"
+}

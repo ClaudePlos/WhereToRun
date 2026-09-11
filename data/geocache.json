@@ -533,11 +533,38 @@
   "IN|banglore": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "IN|basar": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 18.8845844,
+    "lon": 77.95259,
+    "name": "Basar, Basar mandal, Nirmal, Telangana, 504101, India"
+  },
+  "IN|coorg, karnataka": {
+    "at": "2026-09-11T17:02:01.760Z"
+  },
+  "IN|delhi": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 28.6664535,
+    "lon": 77.2169781,
+    "name": "Delhi, Old Delhi, Delhi, India"
+  },
+  "IN|dhunikal bhowali": {
+    "at": "2026-09-11T17:02:01.760Z"
+  },
+  "IN|jaipur": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 26.9154576,
+    "lon": 75.8189817,
+    "name": "Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India"
+  },
   "IN|jaisalmer": {
     "at": "2026-09-03T11:24:47.198Z",
     "lat": 26.9116615,
     "lon": 70.9124888,
     "name": "Jaisalmer, Jaisalmer Tehsil, Jaisalmer, Rajasthan, 345001, India"
+  },
+  "IN|jamunamathur": {
+    "at": "2026-09-11T17:02:01.760Z"
   },
   "IN|khardung village, ladakh": {
     "at": "2026-09-03T11:24:47.198Z"
@@ -548,11 +575,35 @@
   "IN|mitganahalli": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "IN|mumbai": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+  },
   "IN|new delhi": {
     "at": "2026-09-03T11:24:47.198Z",
     "lat": 28.6138954,
     "lon": 77.2090057,
     "name": "New Delhi, Delhi, India"
+  },
+  "IN|pune": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 18.5213738,
+    "lon": 73.8545071,
+    "name": "Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India"
+  },
+  "IN|solang valley": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 32.3160963,
+    "lon": 77.1565572,
+    "name": "Solang Valley, Manali, Kullu, Himachal Pradesh, 175103, India"
+  },
+  "IN|udaipurwati": {
+    "at": "2026-09-11T17:02:01.760Z",
+    "lat": 27.7309897,
+    "lon": 75.4743975,
+    "name": "Udaipurwati, Udaipurwati Tehsil, Jhunjhunu, Rajasthan, 333307, India"
   },
   "IS|reykjavik": {
     "at": "2026-09-05T10:43:37.273Z",

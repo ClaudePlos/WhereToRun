@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Gobbler 5K, 10K, 13.1M & 26.2M at Largo, FL (46) is a road race. Location: Largo, United States. Date: Saturday, 14 November 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Largo, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Gobbler 5K, 10K, 13.1M & 26.2M at Largo, FL (46) to bieg uliczny. Lokalizacja: Largo, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Largo, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Largo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Gobbler 5K, 10K, 13.1M & 26.2M at Largo, FL (46)",
+  "registrationUrl": "https://runsignup.com/Race/FL/Largo/Lake45?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gobbler-5k-10k-13-1m-26-2m-at-largo-fl-46-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "gobbler-5k-10k-13-1m-26-2m-at-largo-fl-46-fl",
+    "url": "https://runsignup.com/Race/FL/Largo/Lake45?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.91,
+    "lon": -82.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://runsignup.com/Race/FL/Largo/Lake45?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

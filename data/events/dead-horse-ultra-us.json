@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Dead Horse Ultra is a ultramarathon. Location: Moab, United States. Date: Saturday, 14 November 2026. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moab, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Dead Horse Ultra to ultramaraton. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moab, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T17:02:01.760Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Dead Horse Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4452",
+  "slug": "dead-horse-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "id": "runraceusa",
+    "ref": "dead-horse-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=4452"
+  },
+  "start": {
+    "lat": 38.66,
+    "lon": -109.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4452"
+}
