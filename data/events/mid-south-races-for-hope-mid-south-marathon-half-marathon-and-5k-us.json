@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mid-South Races for Hope (Mid-South Marathon, Half-Marathon and 5K) is a road race. Location: Wynne, United States. Date: Saturday, 7 November 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wynne, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mid-South Races for Hope (Mid-South Marathon, Half-Marathon and 5K) to bieg uliczny. Lokalizacja: Wynne, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wynne, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wynne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Mid-South Races for Hope (Mid-South Marathon, Half-Marathon and 5K)",
+  "registrationUrl": "https://runsignup.com/Race/AR/Wynne/MidSouthMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mid-south-races-for-hope-mid-south-marathon-half-marathon-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "mid-south-races-for-hope-mid-south-marathon-half-marathon-and-5k-ar",
+    "url": "https://runsignup.com/Race/AR/Wynne/MidSouthMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.23,
+    "lon": -90.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/AR/Wynne/MidSouthMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

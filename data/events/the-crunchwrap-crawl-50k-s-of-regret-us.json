@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Crunchwrap Crawl, 50K's of regret! is a road race. Location: Kennewick, United States. Date: Saturday, 7 November 2026. Distances: ultra, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kennewick, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Crunchwrap Crawl, 50K's of regret! to bieg uliczny. Lokalizacja: Kennewick, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: ultra, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kennewick, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kennewick",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "The Crunchwrap Crawl, 50K's of regret!",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19537",
+  "slug": "the-crunchwrap-crawl-50k-s-of-regret-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "the-crunchwrap-crawl-50k-s-of-regret-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=19537"
+  },
+  "start": {
+    "lat": 46.18,
+    "lon": -119.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19537"
+}

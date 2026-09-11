@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Thunder River is a ultramarathon. Location: Cascade Locks, United States. Date: Saturday, 31 October 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cascade Locks, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Thunder River to ultramaraton. Lokalizacja: Cascade Locks, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cascade Locks, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cascade Locks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Thunder River",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65106",
+  "slug": "thunder-river-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "19107",
+    "url": "https://ultrasignup.com/register.aspx?did=65106"
+  },
+  "start": {
+    "lat": 45.67,
+    "lon": -121.894,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://www.daybreakracing.com/thunder-river"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Til You Snowdrop-24 Hour Treadmill Run is a road race. Location: Appleton, United States. Date: Saturday, 7 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Appleton, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Run Til You Snowdrop-24 Hour Treadmill Run to bieg uliczny. Lokalizacja: Appleton, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Appleton, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Appleton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Run Til You Snowdrop-24 Hour Treadmill Run",
+  "registrationUrl": "https://runsignup.com/Race/WI/Appleton/RunTilYouSnowdropHourTreadmillRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-til-you-snowdrop-24-hour-treadmill-run-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "run-til-you-snowdrop-24-hour-treadmill-run-wi",
+    "url": "https://runsignup.com/Race/WI/Appleton/RunTilYouSnowdropHourTreadmillRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.24,
+    "lon": -88.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/WI/Appleton/RunTilYouSnowdropHourTreadmillRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

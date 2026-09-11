@@ -26,14 +26,14 @@
     "region": "CT"
   },
   "manual": false,
-  "name": "IronHike Olympus Mons Ultra | Run, Power Hike, Walk. | Mohawk Mountain, Connecticut | Fall | October | Trail Buddy Flex Relay (2 Mountain Athletes) - 72,590 feet of elevation gain, possibly more than any endurance event of its kind. - 100 Mile + Elevation Endurance Ultra Trail Marathon - 152 + Miles - 84 Hour - We are redefining race day. Tags: Iron Hike, 100 Miler, Oct, CT, Cornwall, New England, Loop, Ski Slope, Skratch Labs, Hardest Ultra, Hard Ultra",
-  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "name": "IronHike Olympus Mons Ultra | Run, Power Hike, Walk. | Mohawk Mountain, Connecticut | Fall | October | Solo - 72,590 feet of elevation gain, possibly more than any endurance event of its kind. - 100 Mile + Elevation Endurance Ultra Trail Marathon - 152 + Miles - 84 Hour - We are redefining race day. Tags: Iron Hike, 100 Miler, Oct, CT, Cornwall, New England, Loop, Ski Slope, Skratch Labs, Hardest Ultra, Hard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "ironhike-olympus-mons-ultra-run-power-hike-walk-mohawk-mountain-connecticut-fall",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
     "id": "runraceusa",
-    "ref": "",
-    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "ironhike-olympus-mons-ultra-run-power-hike-walk-mohawk-mountain",
+    "url": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 41.83,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFallRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/CT/Cornwall/IronHikeOlympusMonsUltraFall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

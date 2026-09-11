@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run for Justice 5K is a road race. Location: Atlanta, United States. Date: Saturday, 7 November 2026. Distances: 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Atlanta, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Run for Justice 5K to bieg uliczny. Lokalizacja: Atlanta, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Atlanta, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Atlanta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Run for Justice 5K",
+  "registrationUrl": "https://runsignup.com/Race/GA/Atlanta/ATLRunForJustice5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-for-justice-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "run-for-justice-5k-ga",
+    "url": "https://runsignup.com/Race/GA/Atlanta/ATLRunForJustice5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.75,
+    "lon": -84.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/GA/Atlanta/ATLRunForJustice5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

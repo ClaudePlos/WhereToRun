@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mingus Madness 50k is a road race. Location: Prescott Valley, United States. Date: Saturday, 7 November 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Prescott Valley, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mingus Madness 50k to bieg uliczny. Lokalizacja: Prescott Valley, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Prescott Valley, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Prescott Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Mingus Madness 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17867",
+  "slug": "mingus-madness-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "mingus-madness-50k-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=17867"
+  },
+  "start": {
+    "lat": 34.61,
+    "lon": -112.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17867"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountaineer Rumble 10 Mile-50K-100K-100 Miler is a trail race. Location: Blacksburg, United States. Date: Saturday, 7 November 2026. Distances: u100m, u100k, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Blacksburg, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mountaineer Rumble 10 Mile-50K-100K-100 Miler to bieg trailowy. Lokalizacja: Blacksburg, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u100m, u100k, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Blacksburg, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Blacksburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Mountaineer Rumble 10 Mile-50K-100K-100 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10840",
+  "slug": "mountaineer-rumble-10-mile-50k-100k-100-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "mountaineer-rumble-10-mile-50k-100k-100-miler-sc",
+    "url": "https://ultrasignup.com/register.aspx?eid=10840"
+  },
+  "start": {
+    "lat": 35.15,
+    "lon": -81.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10840"
+}

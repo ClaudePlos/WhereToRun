@@ -13,10 +13,10 @@
   "date": "2026-10-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "other",
-    "21.1 km",
+    "30 km",
+    "21.2 km",
     "10 km"
   ],
   "endDate": null,
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Caspers Trail Races",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15363",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66190",
   "slug": "caspers-trail-races-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
-    "id": "runraceusa",
-    "ref": "caspers-trail-races-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=15363"
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "15363",
+    "url": "https://ultrasignup.com/register.aspx?did=66190"
   },
   "start": {
-    "lat": 33.53,
-    "lon": -117.55,
+    "lat": 33.5339,
+    "lon": -117.551,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=15363"
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://www.khraces.com/"
 }

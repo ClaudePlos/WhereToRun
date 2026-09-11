@@ -15,7 +15,8 @@
   "distances": [
     "42.2 km",
     "21.1 km",
-    "10 km"
+    "10 km",
+    "Halloween Hike"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "XTERRA Appalachian Trail Fest",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19009",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65087",
   "slug": "xterra-appalachian-trail-fest-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
-    "id": "runraceusa",
-    "ref": "xterra-appalachian-trail-fest-al",
-    "url": "https://ultrasignup.com/register.aspx?eid=19009"
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "19009",
+    "url": "https://ultrasignup.com/register.aspx?did=65087"
   },
   "start": {
-    "lat": 33.33,
-    "lon": -86.76,
+    "lat": 33.327,
+    "lon": -86.7561,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "trail",
+    "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19009"
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://www.xterraplanet.com/event/xterra-appalachian-trail-fest"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Zhaoqing Dinghu 50 Ultra Trail is a ultramarathon. Location: Zhaoqing Cty, China. Date: Saturday, 7 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zhaoqing Cty, China, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Zhaoqing Dinghu 50 Ultra Trail to ultramaraton. Lokalizacja: Zhaoqing Cty, Chiny. Termin: sobota, 7 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zhaoqing Cty, Chiny, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zhaoqing Cty",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Zhaoqing Dinghu 50 Ultra Trail",
+  "registrationUrl": null,
+  "slug": "zhaoqing-dinghu-50-ultra-trail-cn",
+  "source": {
+    "fetchedAt": "2026-09-11T11:32:22.272Z",
+    "id": "duv",
+    "ref": "130927",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130927"
+  },
+  "start": {
+    "lat": 23.050166,
+    "lon": 112.460363,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": null
+}

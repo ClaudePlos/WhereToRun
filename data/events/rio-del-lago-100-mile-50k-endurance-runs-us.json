@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Rio Del Lago 100 Mile + 50K Endurance Runs is a road race. Location: Granite Bay, United States. Date: Saturday, 7 November 2026. Distances: u100m, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Granite Bay, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Rio Del Lago 100 Mile + 50K Endurance Runs to bieg uliczny. Lokalizacja: Granite Bay, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u100m, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Granite Bay, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Granite Bay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Rio Del Lago 100 Mile + 50K Endurance Runs",
+  "registrationUrl": "https://raceroster.com/events/2026/111381/rio-del-lago-100-mile-50k-endurance-runs",
+  "slug": "rio-del-lago-100-mile-50k-endurance-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "rio-del-lago-100-mile-50k-endurance-runs-ca",
+    "url": "https://raceroster.com/events/2026/111381/rio-del-lago-100-mile-50k-endurance-runs"
+  },
+  "start": {
+    "lat": 38.7435,
+    "lon": -121.1897,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://raceroster.com/events/2026/111381/rio-del-lago-100-mile-50k-endurance-runs"
+}

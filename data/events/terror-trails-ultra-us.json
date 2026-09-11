@@ -13,8 +13,10 @@
   "date": "2026-10-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km",
+    "12.9 km",
+    "6.4 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +30,25 @@
   },
   "manual": false,
   "name": "Terror Trails Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17653",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67302",
   "slug": "terror-trails-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
-    "id": "runraceusa",
-    "ref": "terror-trails-ultra-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=17653"
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "17653",
+    "url": "https://ultrasignup.com/register.aspx?did=67302"
   },
   "start": {
-    "lat": 34.92,
-    "lon": -80.74,
+    "lat": 34.9246,
+    "lon": -80.7434,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17653"
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "http://www.rocktopracing.com"
 }

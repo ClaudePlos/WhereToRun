@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Mustang Marathon (Hill Country Trivium) Road Race is a road race. Location: Marble Falls, United States. Date: Sunday, 8 November 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Marble Falls, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Mustang Marathon (Hill Country Trivium) Road Race to bieg uliczny. Lokalizacja: Marble Falls, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Marble Falls, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marble Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Mustang Marathon (Hill Country Trivium) Road Race",
+  "registrationUrl": "https://runsignup.com/Race/TX/MarbleFalls/HillCountryTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mustang-marathon-hill-country-trivium-road-race-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "mustang-marathon-hill-country-trivium-road-race-tx",
+    "url": "https://runsignup.com/Race/TX/MarbleFalls/HillCountryTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.58,
+    "lon": -98.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/TX/MarbleFalls/HillCountryTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

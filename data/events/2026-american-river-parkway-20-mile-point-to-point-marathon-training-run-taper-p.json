@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 American River Parkway 20-mile Point-to-Point Marathon Training Run & Taper Program is a road race. Location: Rancho Cordova, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Rancho Cordova, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "2026 American River Parkway 20-mile Point-to-Point Marathon Training Run & Taper Program to bieg uliczny. Lokalizacja: Rancho Cordova, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Rancho Cordova, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rancho Cordova",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2026 American River Parkway 20-mile Point-to-Point Marathon Training Run & Taper Program",
+  "registrationUrl": "https://raceroster.com/events/2026/116951/2026-american-river-parkway-20-mile-point-to-point-marathon-training-run-and-taper-program",
+  "slug": "2026-american-river-parkway-20-mile-point-to-point-marathon-training-run-taper-p",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "2026-american-river-parkway-20-mile-point-to-point-marathon-training",
+    "url": "https://raceroster.com/events/2026/116951/2026-american-river-parkway-20-mile-point-to-point-marathon-training-run-and-taper-program"
+  },
+  "start": {
+    "lat": 38.6072,
+    "lon": -121.2761,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://raceroster.com/events/2026/116951/2026-american-river-parkway-20-mile-point-to-point-marathon-training-run-and-taper-program"
+}

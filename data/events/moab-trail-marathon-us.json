@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Moab Trail Marathon is a trail race. Location: Moab, United States. Date: Saturday, 7 November 2026. Distances: 42.2 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Moab, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Moab Trail Marathon to bieg trailowy. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Moab, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Moab Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/UT/Moab/MoabTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "moab-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "moab-trail-marathon-ut",
+    "url": "https://runsignup.com/Race/UT/Moab/MoabTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.57,
+    "lon": -109.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/UT/Moab/MoabTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

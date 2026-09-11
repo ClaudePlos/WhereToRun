@@ -30,14 +30,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66779",
   "slug": "three-corner-rock-pct-trail-races-us",
   "source": {
-    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
     "id": "ultrasignup",
     "ref": "8372",
     "url": "https://ultrasignup.com/register.aspx?did=66779"
   },
   "start": {
-    "lat": 45.81,
-    "lon": -121.943,
+    "lat": 45.656,
+    "lon": -121.96,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
   "website": "http://columbiagorgerunningclub.com/"
 }

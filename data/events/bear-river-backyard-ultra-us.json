@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bear River Backyard Ultra is a ultramarathon. Location: Delmar, United States. Date: Friday, 13 November 2026. Distances: ultra, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Delmar, United States, Friday, 13 November 2026"
+    },
+    "pl": {
+      "description": "Bear River Backyard Ultra to ultramaraton. Lokalizacja: Delmar, Stany Zjednoczone. Termin: piątek, 13 listopada 2026. Dystanse: ultra, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Delmar, Stany Zjednoczone, piątek, 13 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Delmar",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Bear River Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20410",
+  "slug": "bear-river-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "bear-river-backyard-ultra-ia",
+    "url": "https://ultrasignup.com/register.aspx?eid=20410"
+  },
+  "start": {
+    "lat": 42,
+    "lon": -90.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20410"
+}

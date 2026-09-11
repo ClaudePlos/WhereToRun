@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Saddleback Marathon is a road race. Location: Silverado, United States. Date: Saturday, 7 November 2026. Distances: 42.2 km, other, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Silverado, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Saddleback Marathon to bieg uliczny. Lokalizacja: Silverado, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 42.2 km, other, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Silverado, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silverado",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "The Saddleback Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17123",
+  "slug": "the-saddleback-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "the-saddleback-marathon-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=17123"
+  },
+  "start": {
+    "lat": 33.77,
+    "lon": -117.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17123"
+}

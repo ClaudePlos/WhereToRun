@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "TXTRI - Canyon Park - Powered by WORD of Comal Co. is a trail race. Location: Canyon Lake, United States. Date: Sunday, 8 November 2026. Distances: other, 5 km, u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Canyon Lake, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "TXTRI - Canyon Park - Powered by WORD of Comal Co. to bieg trailowy. Lokalizacja: Canyon Lake, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: other, 5 km, u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Canyon Lake, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canyon Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "TXTRI - Canyon Park - Powered by WORD of Comal Co.",
+  "registrationUrl": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "txtri-canyon-park-powered-by-word-of-comal-co-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "txtri-canyon-park-powered-by-word-of-comal-co-tx",
+    "url": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.91,
+    "lon": -98.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

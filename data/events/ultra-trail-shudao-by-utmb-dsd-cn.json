@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra-Trail Shudao by UTMB - DSD is a ultramarathon. Location: Guangyuan, China. Date: 6 November 2026 – 7 November 2026. Distances: 99.7 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Guangyuan, China, 6 November 2026 – 7 November 2026"
+    },
+    "pl": {
+      "description": "Ultra-Trail Shudao by UTMB - DSD to ultramaraton. Lokalizacja: Guangyuan, Chiny. Termin: 6 listopada 2026 – 7 listopada 2026. Dystanse: 99.7 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Guangyuan, Chiny, 6 listopada 2026 – 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "99.7 km"
+  ],
+  "endDate": "2026-11-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Guangyuan",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra-Trail Shudao by UTMB - DSD",
+  "registrationUrl": null,
+  "slug": "ultra-trail-shudao-by-utmb-dsd-cn",
+  "source": {
+    "fetchedAt": "2026-09-11T11:32:22.272Z",
+    "id": "duv",
+    "ref": "130928",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130928"
+  },
+  "start": {
+    "lat": 32.432964,
+    "lon": 105.85634,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": null
+}

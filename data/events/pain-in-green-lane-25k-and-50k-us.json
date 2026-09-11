@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pain In Green Lane 25K and 50K is a road race. Location: Green Lane, United States. Date: Saturday, 7 November 2026. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Green Lane, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Pain In Green Lane 25K and 50K to bieg uliczny. Lokalizacja: Green Lane, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Green Lane, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Green Lane",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Pain In Green Lane 25K and 50K",
+  "registrationUrl": "https://runsignup.com/Race/PA/GreenLane/PainInGreenLane25K50Kand612HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "pain-in-green-lane-25k-and-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "pain-in-green-lane-25k-and-50k-pa",
+    "url": "https://runsignup.com/Race/PA/GreenLane/PainInGreenLane25K50Kand612HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.95,
+    "lon": -74.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/PA/GreenLane/PainInGreenLane25K50Kand612HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

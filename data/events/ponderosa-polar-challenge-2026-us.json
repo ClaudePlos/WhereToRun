@@ -1,0 +1,60 @@
+{
+  "content": {
+    "en": {
+      "description": "Ponderosa Polar Challenge 2026 is a road race. Location: Orderville, United States. Date: Saturday, 7 November 2026. Distances: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Orderville, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Ponderosa Polar Challenge 2026 to bieg uliczny. Lokalizacja: Orderville, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Orderville, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Orderville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Ponderosa Polar Challenge 2026",
+  "registrationUrl": "https://runsignup.com/Race/UT/Orderville/PonderosaPolar?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ponderosa-polar-challenge-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "ponderosa-polar-challenge-2026-ut",
+    "url": "https://runsignup.com/Race/UT/Orderville/PonderosaPolar?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.27,
+    "lon": -112.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/UT/Orderville/PonderosaPolar?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

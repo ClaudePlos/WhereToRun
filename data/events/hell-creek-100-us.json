@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hell Creek 100 is a ultramarathon. Location: Sylvan Grove, United States. Date: 31 October 2026 – 1 November 2026. Distances: 5-Person Team 100, 160.9 km, 100 km, 32.2 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sylvan Grove, United States, 31 October 2026 – 1 November 2026"
+    },
+    "pl": {
+      "description": "Hell Creek 100 to ultramaraton. Lokalizacja: Sylvan Grove, Stany Zjednoczone. Termin: 31 października 2026 – 1 listopada 2026. Dystanse: 5-Person Team 100, 160.9 km, 100 km, 32.2 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sylvan Grove, Stany Zjednoczone, 31 października 2026 – 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5-Person Team 100",
+    "160.9 km",
+    "100 km",
+    "32.2 km",
+    "10 km"
+  ],
+  "endDate": "2026-11-01",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sylvan Grove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Hell Creek 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63948",
+  "slug": "hell-creek-100-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "13310",
+    "url": "https://ultrasignup.com/register.aspx?did=63948"
+  },
+  "start": {
+    "lat": 38.9163,
+    "lon": -98.5092,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultraversesupplements.com/our-races/hell-creek-100"
+}

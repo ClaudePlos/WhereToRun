@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Endless Trails Series Registrations is a trail race. Location: McCall, United States. Date: Saturday, 31 October 2026. Distances: Virtual virtuoso, Virtual long legs, In-person long legs, Virtual shorties, Double trouble WA, Dou. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — McCall, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Endless Trails Series Registrations to bieg trailowy. Lokalizacja: McCall, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: Virtual virtuoso, Virtual long legs, In-person long legs, Virtual shorties, Double trouble WA, Dou. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — McCall, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Virtual virtuoso",
+    "Virtual long legs",
+    "In-person long legs",
+    "Virtual shorties",
+    "Double trouble WA",
+    "Dou"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McCall",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Endless Trails Series Registrations",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64540",
+  "slug": "endless-trails-series-registrations-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "18253",
+    "url": "https://ultrasignup.com/register.aspx?did=64540"
+  },
+  "start": {
+    "lat": 44.9181,
+    "lon": -116.094,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "http://www.endlesstrails.us/series.html"
+}

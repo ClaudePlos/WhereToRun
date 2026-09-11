@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run the River Ultra Challenge and Relay is a ultramarathon. Location: Petal, United States. Date: Saturday, 7 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Petal, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Run the River Ultra Challenge and Relay to ultramaraton. Lokalizacja: Petal, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Petal, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Petal",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Run the River Ultra Challenge and Relay",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19074",
+  "slug": "run-the-river-ultra-challenge-and-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "run-the-river-ultra-challenge-and-relay-ms",
+    "url": "https://ultrasignup.com/register.aspx?eid=19074"
+  },
+  "start": {
+    "lat": 31.34,
+    "lon": -89.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19074"
+}

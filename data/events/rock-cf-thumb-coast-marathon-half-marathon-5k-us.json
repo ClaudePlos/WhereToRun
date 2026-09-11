@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rock CF Thumb Coast Marathon, Half Marathon & 5K is a road race. Location: Port Austin, United States. Date: Sunday, 8 November 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Port Austin, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Rock CF Thumb Coast Marathon, Half Marathon & 5K to bieg uliczny. Lokalizacja: Port Austin, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Port Austin, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Port Austin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Rock CF Thumb Coast Marathon, Half Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/MI/PortAustin/TheRockCFThumbCoastMarathonHalfMarathonAndK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rock-cf-thumb-coast-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "rock-cf-thumb-coast-marathon-half-marathon-5k-mi",
+    "url": "https://runsignup.com/Race/MI/PortAustin/TheRockCFThumbCoastMarathonHalfMarathonAndK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.02,
+    "lon": -83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/MI/PortAustin/TheRockCFThumbCoastMarathonHalfMarathonAndK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

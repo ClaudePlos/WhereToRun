@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Four Hills and one lake cross-country race is a ultramarathon. Location: Antu County, China. Date: Saturday, 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Antu County, China, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Four Hills and one lake cross-country race to ultramaraton. Lokalizacja: Antu County, Chiny. Termin: sobota, 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Antu County, Chiny, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Antu County",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Four Hills and one lake cross-country race",
+  "registrationUrl": null,
+  "slug": "four-hills-and-one-lake-cross-country-race-cn",
+  "source": {
+    "fetchedAt": "2026-09-11T11:32:22.272Z",
+    "id": "duv",
+    "ref": "127071",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=127071"
+  },
+  "start": {
+    "lat": 43.103704,
+    "lon": 128.911034,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": null
+}

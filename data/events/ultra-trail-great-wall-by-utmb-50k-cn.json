@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra-Trail Great Wall by UTMB - 50K is a ultramarathon. Location: Dajingmen, China. Date: Saturday, 12 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dajingmen, China, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Ultra-Trail Great Wall by UTMB - 50K to ultramaraton. Lokalizacja: Dajingmen, Chiny. Termin: sobota, 12 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dajingmen, Chiny, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dajingmen",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra-Trail Great Wall by UTMB - 50K",
+  "registrationUrl": null,
+  "slug": "ultra-trail-great-wall-by-utmb-50k-cn",
+  "source": {
+    "fetchedAt": "2026-09-11T11:32:22.271Z",
+    "id": "duv",
+    "ref": "130955",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130955"
+  },
+  "start": {
+    "lat": 40.837581,
+    "lon": 114.883233,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": null
+}

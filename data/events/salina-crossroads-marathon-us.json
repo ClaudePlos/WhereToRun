@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Salina Crossroads Marathon is a road race. Location: Salina, United States. Date: Saturday, 7 November 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Salina, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Salina Crossroads Marathon to bieg uliczny. Lokalizacja: Salina, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Salina, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salina",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Salina Crossroads Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/113366/salina-crossroads-marathon",
+  "slug": "salina-crossroads-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "salina-crossroads-marathon-ks",
+    "url": "https://raceroster.com/events/2026/113366/salina-crossroads-marathon"
+  },
+  "start": {
+    "lat": 38.8237,
+    "lon": -97.6421,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://raceroster.com/events/2026/113366/salina-crossroads-marathon"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "RutFest is a road race. Location: Williston, United States. Date: Saturday, 31 October 2026. Distances: Running Festival. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Williston, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "RutFest to bieg uliczny. Lokalizacja: Williston, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: Running Festival. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Williston, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Running Festival"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "RutFest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67119",
+  "slug": "rutfest-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:52.328Z",
+    "id": "ultrasignup",
+    "ref": "14381",
+    "url": "https://ultrasignup.com/register.aspx?did=67119"
+  },
+  "start": {
+    "lat": 44.4474,
+    "lon": -73.0487,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://www.richmondtrailrunningclub.com/rutfest"
+}

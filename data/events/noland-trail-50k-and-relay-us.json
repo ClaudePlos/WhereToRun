@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Noland Trail 50K and Relay is a trail race. Location: Newport News, United States. Date: Saturday, 7 November 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Newport News, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Noland Trail 50K and Relay to bieg trailowy. Lokalizacja: Newport News, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Newport News, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newport News",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Noland Trail 50K and Relay",
+  "registrationUrl": "https://runsignup.com/Race/VA/NewportNews/NolandTrail50KandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "noland-trail-50k-and-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "noland-trail-50k-and-relay-va",
+    "url": "https://runsignup.com/Race/VA/NewportNews/NolandTrail50KandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.08,
+    "lon": -76.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://runsignup.com/Race/VA/NewportNews/NolandTrail50KandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

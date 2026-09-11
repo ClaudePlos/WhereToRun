@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hanlasan 100km is a ultramarathon. Location: Seogwipo, South Korea. Date: Saturday, 5 June 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Seogwipo, South Korea, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Hanlasan 100km to ultramaraton. Lokalizacja: Seogwipo, Korea Południowa. Termin: sobota, 5 czerwca 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Seogwipo, Korea Południowa, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seogwipo",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Hanlasan 100km",
+  "registrationUrl": null,
+  "slug": "hanlasan-100km-kr",
+  "source": {
+    "fetchedAt": "2026-09-11T11:32:22.271Z",
+    "id": "duv",
+    "ref": "134345",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134345"
+  },
+  "start": {
+    "lat": 33.252845,
+    "lon": 126.561028,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Natchez Trace Trail Run is a trail race. Location: Franklin, United States. Date: Saturday, 7 November 2026. Distances: u50m, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Franklin, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Natchez Trace Trail Run to bieg trailowy. Lokalizacja: Franklin, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50m, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Franklin, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-11T11:31:46.015Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Franklin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Natchez Trace Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5673",
+  "slug": "natchez-trace-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "id": "runraceusa",
+    "ref": "natchez-trace-trail-run-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=5673"
+  },
+  "start": {
+    "lat": 35.87,
+    "lon": -87.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5673"
+}
