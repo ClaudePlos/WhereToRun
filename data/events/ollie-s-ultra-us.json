@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ollie's Ultra is a ultramarathon. Location: Chanute, United States. Date: Friday, 4 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chanute, United States, Friday, 4 December 2026"
+    },
+    "pl": {
+      "description": "Ollie's Ultra to ultramaraton. Lokalizacja: Chanute, Stany Zjednoczone. Termin: piątek, 4 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chanute, Stany Zjednoczone, piątek, 4 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chanute",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Ollie's Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15720",
+  "slug": "ollie-s-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "ollie-s-ultra-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=15720"
+  },
+  "start": {
+    "lat": 37.65,
+    "lon": -95.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15720"
+}

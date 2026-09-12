@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Savannah Ultra Urban 50k Run is a ultramarathon. Location: Savannah, United States. Date: Saturday, 28 November 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Savannah, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Savannah Ultra Urban 50k Run to ultramaraton. Lokalizacja: Savannah, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Savannah, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Savannah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Savannah Ultra Urban 50k Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9480",
+  "slug": "savannah-ultra-urban-50k-run-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "savannah-ultra-urban-50k-run-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=9480"
+  },
+  "start": {
+    "lat": 32.08,
+    "lon": -81.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9480"
+}

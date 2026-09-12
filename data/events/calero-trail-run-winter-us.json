@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Calero Trail Run - Winter is a trail race. Location: San Jose, United States. Date: Saturday, 5 December 2026. Distances: u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Jose, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Calero Trail Run - Winter to bieg trailowy. Lokalizacja: San Jose, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Jose, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Jose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Calero Trail Run - Winter",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14765",
+  "slug": "calero-trail-run-winter-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "calero-trail-run-winter-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=14765"
+  },
+  "start": {
+    "lat": 37.18,
+    "lon": -121.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14765"
+}

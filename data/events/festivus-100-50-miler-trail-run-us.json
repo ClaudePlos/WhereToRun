@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Festivus 100/50 Miler Trail Run is a trail race. Location: middleburg, United States. Date: Saturday, 5 December 2026. Distances: u100m, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — middleburg, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Festivus 100/50 Miler Trail Run to bieg trailowy. Lokalizacja: middleburg, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100m, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — middleburg, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "middleburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Festivus 100/50 Miler Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16373",
+  "slug": "festivus-100-50-miler-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "festivus-100-50-miler-trail-run-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=16373"
+  },
+  "start": {
+    "lat": 30.12,
+    "lon": -81.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16373"
+}

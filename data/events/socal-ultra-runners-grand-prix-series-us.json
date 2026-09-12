@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "SoCal Ultra Runners Grand Prix Series is a ultramarathon. Location: Southern, United States. Date: Tuesday, 1 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Southern, United States, Tuesday, 1 December 2026"
+    },
+    "pl": {
+      "description": "SoCal Ultra Runners Grand Prix Series to ultramaraton. Lokalizacja: Southern, Stany Zjednoczone. Termin: wtorek, 1 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Southern, Stany Zjednoczone, wtorek, 1 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Southern",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "SoCal Ultra Runners Grand Prix Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4324",
+  "slug": "socal-ultra-runners-grand-prix-series-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "socal-ultra-runners-grand-prix-series-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=4324"
+  },
+  "start": {
+    "lat": 33.87,
+    "lon": -117.87,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4324"
+}

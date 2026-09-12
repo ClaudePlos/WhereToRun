@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cloudland Canyon 50 Mile/50K/25K/5 MIle is a trail race. Location: Rising Fawn, United States. Date: Saturday, 5 December 2026. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Rising Fawn, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Cloudland Canyon 50 Mile/50K/25K/5 MIle to bieg trailowy. Lokalizacja: Rising Fawn, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Rising Fawn, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rising Fawn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Cloudland Canyon 50 Mile/50K/25K/5 MIle",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4513",
+  "slug": "cloudland-canyon-50-mile-50k-25k-5-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "cloudland-canyon-50-mile-50k-25k-5-mile-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=4513"
+  },
+  "start": {
+    "lat": 34.82,
+    "lon": -85.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4513"
+}

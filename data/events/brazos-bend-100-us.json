@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Brazos Bend 100 is a road race. Location: Needville, United States. Date: Saturday, 5 December 2026. Distances: u100m, u100k, 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Needville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Brazos Bend 100 to bieg uliczny. Lokalizacja: Needville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100m, u100k, 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Needville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Needville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Brazos Bend 100",
+  "registrationUrl": "https://runsignup.com/Race/TX/Needville/BrazosBend1002?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "brazos-bend-100-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "brazos-bend-100-tx",
+    "url": "https://runsignup.com/Race/TX/Needville/BrazosBend1002?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.41,
+    "lon": -95.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/TX/Needville/BrazosBend1002?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

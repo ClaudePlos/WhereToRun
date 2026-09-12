@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Holiday 5K, 10K, 13.1M & 26.2M at Beaumont, TX (49) is a road race. Location: Beaumont, United States. Date: Saturday, 5 December 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Beaumont, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Holiday 5K, 10K, 13.1M & 26.2M at Beaumont, TX (49) to bieg uliczny. Lokalizacja: Beaumont, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Beaumont, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beaumont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Holiday 5K, 10K, 13.1M & 26.2M at Beaumont, TX (49)",
+  "registrationUrl": "https://runsignup.com/Race/TX/Beaumont/BeaumontTX49?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "holiday-5k-10k-13-1m-26-2m-at-beaumont-tx-49-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "holiday-5k-10k-13-1m-26-2m-at-beaumont-tx-49-tx",
+    "url": "https://runsignup.com/Race/TX/Beaumont/BeaumontTX49?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.09,
+    "lon": -94.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/TX/Beaumont/BeaumontTX49?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

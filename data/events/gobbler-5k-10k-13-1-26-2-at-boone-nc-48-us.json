@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Gobbler 5K & 10K 13.1 & 26.2 at Boone, NC (48) is a road race. Location: Boone, United States. Date: Saturday, 28 November 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boone, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Gobbler 5K & 10K 13.1 & 26.2 at Boone, NC (48) to bieg uliczny. Lokalizacja: Boone, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boone, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boone",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Gobbler 5K & 10K 13.1 & 26.2 at Boone, NC (48)",
+  "registrationUrl": "https://runsignup.com/Race/NC/Boone/Gobbler5K10KAtBooneNC48?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gobbler-5k-10k-13-1-26-2-at-boone-nc-48-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "gobbler-5k-10k-13-1-26-2-at-boone-nc-48-nc",
+    "url": "https://runsignup.com/Race/NC/Boone/Gobbler5K10KAtBooneNC48?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.21,
+    "lon": -81.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/NC/Boone/Gobbler5K10KAtBooneNC48?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

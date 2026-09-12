@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 UW Medicine Seattle Marathon and Half Marathon is a road race. Location: Seattle, United States. Date: Sunday, 29 November 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Seattle, United States, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "2026 UW Medicine Seattle Marathon and Half Marathon to bieg uliczny. Lokalizacja: Seattle, Stany Zjednoczone. Termin: niedziela, 29 listopada 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Seattle, Stany Zjednoczone, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-11-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seattle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "2026 UW Medicine Seattle Marathon and Half Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/112954/2026-uw-medicine-seattle-marathon-and-half-marathon",
+  "slug": "2026-uw-medicine-seattle-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "2026-uw-medicine-seattle-marathon-and-half-marathon-wa",
+    "url": "https://raceroster.com/events/2026/112954/2026-uw-medicine-seattle-marathon-and-half-marathon"
+  },
+  "start": {
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://raceroster.com/events/2026/112954/2026-uw-medicine-seattle-marathon-and-half-marathon"
+}

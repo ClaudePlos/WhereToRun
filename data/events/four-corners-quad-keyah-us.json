@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Four Corners Quad Keyah is a road race. Location: Teec Nos Pos, United States. Date: Thursday, 3 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Teec Nos Pos, United States, Thursday, 3 December 2026"
+    },
+    "pl": {
+      "description": "Four Corners Quad Keyah to bieg uliczny. Lokalizacja: Teec Nos Pos, Stany Zjednoczone. Termin: czwartek, 3 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Teec Nos Pos, Stany Zjednoczone, czwartek, 3 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Teec Nos Pos",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Four Corners Quad Keyah",
+  "registrationUrl": "https://runsignup.com/Race/AZ/TeecNosPos/FourCornersQuadKeyah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "four-corners-quad-keyah-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "four-corners-quad-keyah-az",
+    "url": "https://runsignup.com/Race/AZ/TeecNosPos/FourCornersQuadKeyah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.78,
+    "lon": -109.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/AZ/TeecNosPos/FourCornersQuadKeyah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Anza Borrego Cuyamaca 50 Mile Run is a road race. Location: Julian, United States. Date: Saturday, 5 December 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Julian, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Anza Borrego Cuyamaca 50 Mile Run to bieg uliczny. Lokalizacja: Julian, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Julian, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Julian",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Anza Borrego Cuyamaca 50 Mile Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9889",
+  "slug": "anza-borrego-cuyamaca-50-mile-run-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "anza-borrego-cuyamaca-50-mile-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=9889"
+  },
+  "start": {
+    "lat": 32.98,
+    "lon": -116.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9889"
+}

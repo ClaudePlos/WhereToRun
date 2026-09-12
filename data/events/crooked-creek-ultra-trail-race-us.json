@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Crooked Creek Ultra Trail Race is a ultramarathon. Location: Shepherdsville, United States. Date: Saturday, 5 December 2026. Distances: u100m, u50m, 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Shepherdsville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Crooked Creek Ultra Trail Race to ultramaraton. Lokalizacja: Shepherdsville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100m, u50m, 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Shepherdsville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shepherdsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Crooked Creek Ultra Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/KY/Shepherdsville/CrookedCreekUltraTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "crooked-creek-ultra-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "crooked-creek-ultra-trail-race-ky",
+    "url": "https://runsignup.com/Race/KY/Shepherdsville/CrookedCreekUltraTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38,
+    "lon": -85.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/KY/Shepherdsville/CrookedCreekUltraTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

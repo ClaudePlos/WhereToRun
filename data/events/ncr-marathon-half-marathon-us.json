@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "NCR Marathon & Half Marathon is a road race. Location: Sparks Glencoe, United States. Date: Saturday, 28 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sparks Glencoe, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "NCR Marathon & Half Marathon to bieg uliczny. Lokalizacja: Sparks Glencoe, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sparks Glencoe, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sparks Glencoe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "NCR Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MD/SparksGlencoe/NCRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ncr-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "ncr-marathon-half-marathon-md",
+    "url": "https://runsignup.com/Race/MD/SparksGlencoe/NCRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.55,
+    "lon": -76.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/MD/SparksGlencoe/NCRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

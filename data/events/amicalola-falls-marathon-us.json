@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Amicalola Falls Marathon is a road race. Location: Dawsonville, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dawsonville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Amicalola Falls Marathon to bieg uliczny. Lokalizacja: Dawsonville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dawsonville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dawsonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Amicalola Falls Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18938",
+  "slug": "amicalola-falls-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "amicalola-falls-marathon-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=18938"
+  },
+  "start": {
+    "lat": 34.42,
+    "lon": -84.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18938"
+}

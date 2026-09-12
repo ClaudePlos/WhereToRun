@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T22:06:37.596Z",
-  "date": "2026-10-30",
+  "date": "2026-09-26",
   "dateStatus": "confirmed",
   "distances": [
     "ultra"
@@ -20,24 +20,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Las Cruces",
+    "city": "Princeton",
     "country": "United States",
     "countryCode": "US",
-    "region": "NM"
+    "region": "MA"
   },
   "manual": false,
   "name": "2026 Backyard Ultra",
-  "registrationUrl": "https://raceroster.com/events/2026/112734/2026-backyard-ultra",
+  "registrationUrl": "https://runsignup.com/Race/MA/Princeton/BackyardUltra2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "2026-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
     "id": "runraceusa",
-    "ref": "2026-backyard-ultra-nm",
-    "url": "https://raceroster.com/events/2026/112734/2026-backyard-ultra"
+    "ref": "2026-backyard-ultra-ma",
+    "url": "https://runsignup.com/Race/MA/Princeton/BackyardUltra2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 32.31,
-    "lon": -106.78,
+    "lat": 42.45,
+    "lon": -71.88,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
-  "website": "https://raceroster.com/events/2026/112734/2026-backyard-ultra"
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://runsignup.com/Race/MA/Princeton/BackyardUltra2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

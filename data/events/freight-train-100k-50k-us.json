@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Freight Train 100k/50k is a road race. Location: Farmville, United States. Date: Saturday, 5 December 2026. Distances: u100k, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Farmville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Freight Train 100k/50k to bieg uliczny. Lokalizacja: Farmville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100k, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Farmville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T16:19:18.598Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Farmville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Freight Train 100k/50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10121",
+  "slug": "freight-train-100k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T16:19:26.564Z",
+    "id": "runraceusa",
+    "ref": "freight-train-100k-50k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=10121"
+  },
+  "start": {
+    "lat": 37.3,
+    "lon": -78.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T16:19:18.598Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10121"
+}
