@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Over The Hill Track Club High Desert 50K & 30K is a road race. Location: Ridgecrest, United States. Date: Saturday, 5 December 2026. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ridgecrest, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Over The Hill Track Club High Desert 50K & 30K to bieg uliczny. Lokalizacja: Ridgecrest, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ridgecrest, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ridgecrest",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Over The Hill Track Club High Desert 50K & 30K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=326",
+  "slug": "over-the-hill-track-club-high-desert-50k-30k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "over-the-hill-track-club-high-desert-50k-30k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=326"
+  },
+  "start": {
+    "lat": 35.57,
+    "lon": -117.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=326"
+}

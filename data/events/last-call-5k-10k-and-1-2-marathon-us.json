@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Call 5K, 10K, and 1/2 Marathon is a road race. Location: Waukesha, United States. Date: Sunday, 6 December 2026. Distances: 5 km, 10 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Waukesha, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Last Call 5K, 10K, and 1/2 Marathon to bieg uliczny. Lokalizacja: Waukesha, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Waukesha, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waukesha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Last Call 5K, 10K, and 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Waukesha/LastCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-call-5k-10k-and-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "last-call-5k-10k-and-1-2-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Waukesha/LastCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43,
+    "lon": -88.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/WI/Waukesha/LastCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

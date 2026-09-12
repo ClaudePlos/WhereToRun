@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bound for Boston Marathon & Half Marathon - Sarasota is a road race. Location: Sarasota, United States. Date: Sunday, 6 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sarasota, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Bound for Boston Marathon & Half Marathon - Sarasota to bieg uliczny. Lokalizacja: Sarasota, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sarasota, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sarasota",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Bound for Boston Marathon & Half Marathon - Sarasota",
+  "registrationUrl": "https://runsignup.com/Race/FL/Sarasota/BostonBoundMarathonHalfMarathonSarasota?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bound-for-boston-marathon-half-marathon-sarasota-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "bound-for-boston-marathon-half-marathon-sarasota-fl",
+    "url": "https://runsignup.com/Race/FL/Sarasota/BostonBoundMarathonHalfMarathonSarasota?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.37,
+    "lon": -82.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/FL/Sarasota/BostonBoundMarathonHalfMarathonSarasota?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

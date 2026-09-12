@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "EOD Warrior Holiday Dash 5k, Half, & Marathon is a road race. Location: Washington, United States. Date: Sunday, 6 December 2026. Distances: 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Washington, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "EOD Warrior Holiday Dash 5k, Half, & Marathon to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "EOD Warrior Holiday Dash 5k, Half, & Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/118417/eod-warrior-holiday-dash-5k-half-and-marathon",
+  "slug": "eod-warrior-holiday-dash-5k-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "eod-warrior-holiday-dash-5k-half-marathon-dc",
+    "url": "https://raceroster.com/events/2026/118417/eod-warrior-holiday-dash-5k-half-and-marathon"
+  },
+  "start": {
+    "lat": 38.8933,
+    "lon": -77.0146,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://raceroster.com/events/2026/118417/eod-warrior-holiday-dash-5k-half-and-marathon"
+}

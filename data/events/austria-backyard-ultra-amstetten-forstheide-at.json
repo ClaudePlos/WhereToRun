@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Austria Backyard Ultra - Amstetten-Forstheide is a ultramarathon. Location: Amstetten, Austria. Date: Saturday, 24 April 2027. Distances: 38 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Amstetten, Austria, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Austria Backyard Ultra - Amstetten-Forstheide to ultramaraton. Lokalizacja: Amstetten, Austria. Termin: sobota, 24 kwietnia 2027. Dystanse: 38 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Amstetten, Austria, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "38 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Amstetten",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Austria Backyard Ultra - Amstetten-Forstheide",
+  "registrationUrl": null,
+  "slug": "austria-backyard-ultra-amstetten-forstheide-at",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:26.823Z",
+    "id": "duv",
+    "ref": "135423",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135423"
+  },
+  "start": {
+    "lat": 48.120326,
+    "lon": 14.875242,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": null
+}

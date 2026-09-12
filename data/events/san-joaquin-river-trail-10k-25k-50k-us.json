@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "San Joaquin River Trail 10k/25k/50k is a trail race. Location: Friant, United States. Date: Saturday, 5 December 2026. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Friant, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "San Joaquin River Trail 10k/25k/50k to bieg trailowy. Lokalizacja: Friant, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Friant, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Friant",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "San Joaquin River Trail 10k/25k/50k",
+  "registrationUrl": "https://runsignup.com/Race/CA/Friant/SJRT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "san-joaquin-river-trail-10k-25k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "san-joaquin-river-trail-10k-25k-50k-ca",
+    "url": "https://runsignup.com/Race/CA/Friant/SJRT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.07,
+    "lon": -119.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/CA/Friant/SJRT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

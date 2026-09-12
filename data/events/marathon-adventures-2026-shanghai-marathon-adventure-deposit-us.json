@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Adventures 2026 Shanghai Marathon Adventure Deposit is a road race. Location: Minneapolis, United States. Date: Sunday, 6 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minneapolis, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Marathon Adventures 2026 Shanghai Marathon Adventure Deposit to bieg uliczny. Lokalizacja: Minneapolis, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minneapolis, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minneapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Marathon Adventures 2026 Shanghai Marathon Adventure Deposit",
+  "registrationUrl": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresShanghaiMarathonAdventureDeposit?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "marathon-adventures-2026-shanghai-marathon-adventure-deposit-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "marathon-adventures-2026-shanghai-marathon-adventure-deposit-mn",
+    "url": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresShanghaiMarathonAdventureDeposit?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.12,
+    "lon": -93.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresShanghaiMarathonAdventureDeposit?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

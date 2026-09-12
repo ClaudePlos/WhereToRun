@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-01T22:35:48.497Z",
-  "date": "2026-09-12",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "Group Run"
@@ -27,13 +27,13 @@
   },
   "manual": false,
   "name": "ARAVAIPA's OC Trail Runners Group Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68159",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68738",
   "slug": "aravaipa-s-oc-trail-runners-group-run-us",
   "source": {
-    "fetchedAt": "2026-09-01T22:35:55.959Z",
+    "fetchedAt": "2026-09-12T22:15:20.015Z",
     "id": "ultrasignup",
     "ref": "18473",
-    "url": "https://ultrasignup.com/register.aspx?did=68159"
+    "url": "https://ultrasignup.com/register.aspx?did=68738"
   },
   "start": {
     "lat": 33.6052,
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-01T22:35:48.497Z",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
   "website": "https://www.facebook.com/groups/theoctr"
 }

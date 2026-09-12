@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Nature Coast 100k is a road race. Location: Chiefland, United States. Date: Saturday, 5 December 2026. Distances: u100k, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chiefland, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Nature Coast 100k to bieg uliczny. Lokalizacja: Chiefland, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100k, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chiefland, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chiefland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Nature Coast 100k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20737",
+  "slug": "nature-coast-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "nature-coast-100k-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=20737"
+  },
+  "start": {
+    "lat": 29.55,
+    "lon": -82.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20737"
+}

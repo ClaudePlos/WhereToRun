@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Rehoboth Seashore Marathon and Half Marathon is a road race. Location: Rehoboth Beach, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rehoboth Beach, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Rehoboth Seashore Marathon and Half Marathon to bieg uliczny. Lokalizacja: Rehoboth Beach, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rehoboth Beach, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rehoboth Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DE"
+  },
+  "manual": false,
+  "name": "Rehoboth Seashore Marathon and Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/DE/RehobothBeach/rbmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rehoboth-seashore-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "rehoboth-seashore-marathon-and-half-marathon-de",
+    "url": "https://runsignup.com/Race/DE/RehobothBeach/rbmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.72,
+    "lon": -75.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/DE/RehobothBeach/rbmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

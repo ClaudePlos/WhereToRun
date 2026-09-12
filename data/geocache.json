@@ -44,6 +44,12 @@
   "AR|villa yacanto de calamuchita, cordoba": {
     "at": "2026-09-09T11:33:01.537Z"
   },
+  "AT|amstetten": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 48.1203262,
+    "lon": 14.8752424,
+    "name": "Amstetten, Bezirk Amstetten, Niederösterreich, Österreich"
+  },
   "AT|bad hofgastein": {
     "at": "2026-09-04T11:30:01.450Z",
     "lat": 47.1601973,
@@ -55,6 +61,18 @@
     "lat": 47.9487893,
     "lon": 13.4847963,
     "name": "Berg im Attergau, Bezirk Vöcklabruck, Oberösterreich, Österreich"
+  },
+  "AT|faistenau": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 47.7781258,
+    "lon": 13.2337735,
+    "name": "Faistenau, Bezirk Salzburg-Umgebung, Salzburg, Österreich"
+  },
+  "AT|feldkirchen": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 46.7229178,
+    "lon": 14.0964965,
+    "name": "Feldkirchen in Kärnten, Bezirk Feldkirchen, Kärnten, 9560, Österreich"
   },
   "AT|kirchdorf": {
     "at": "2026-09-04T11:30:01.450Z",
@@ -68,11 +86,47 @@
     "lon": 12.4489994,
     "name": "Kirchdorf in Tirol, Bezirk Kitzbühel, Tirol, Österreich"
   },
+  "AT|loosdorf": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 48.2005945,
+    "lon": 15.4032066,
+    "name": "Loosdorf, Bezirk Melk, Niederösterreich, Österreich"
+  },
   "AT|mayrhofen": {
     "at": "2026-09-04T11:30:01.450Z",
     "lat": 47.1672188,
     "lon": 11.8638664,
     "name": "Mayrhofen, Bezirk Schwaz, Tirol, Österreich"
+  },
+  "AT|purkersdorf": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 48.2076724,
+    "lon": 16.1772068,
+    "name": "Purkersdorf, Bezirk St. Pölten, Niederösterreich, Österreich"
+  },
+  "AT|seekirchen am wallersee": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 47.8942481,
+    "lon": 13.1260778,
+    "name": "Seekirchen am Wallersee, Bezirk Salzburg-Umgebung, Salzburg, 5201, Österreich"
+  },
+  "AT|ternberg": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 47.9458416,
+    "lon": 14.357251,
+    "name": "Ternberg, Bezirk Steyr-Land, Oberösterreich, 4452, Österreich"
+  },
+  "AT|thüringen": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 47.2,
+    "lon": 9.7666667,
+    "name": "Thüringen, Bezirk Bludenz, Vorarlberg, 6712, Österreich"
+  },
+  "AT|tulln": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 48.3311702,
+    "lon": 16.05179,
+    "name": "Tulln an der Donau, Bezirk Tulln, Niederösterreich, Österreich"
   },
   "AT|tulln  an der donau": {
     "at": "2026-09-04T11:30:01.450Z",
@@ -283,6 +337,12 @@
     "lat": 23.0501661,
     "lon": 112.4603629,
     "name": "肇庆市, 广东省, 中国"
+  },
+  "CZ|hamr na jezere": {
+    "at": "2026-09-12T22:15:14.303Z",
+    "lat": 50.7024619,
+    "lon": 14.8385819,
+    "name": "Hamr na Jezeře, okres Česká Lípa, Liberecký kraj, 471 28, Česko"
   },
   "CZ|holesov, moravia": {
     "at": "2026-09-04T11:30:01.450Z"

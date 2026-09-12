@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Jacob Wells 3 Bridges Marathon is a trail race. Location: Little Rock, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Little Rock, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Jacob Wells 3 Bridges Marathon to bieg trailowy. Lokalizacja: Little Rock, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Little Rock, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Little Rock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Jacob Wells 3 Bridges Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AR/LittleRock/3BridgesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jacob-wells-3-bridges-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "jacob-wells-3-bridges-marathon-ar",
+    "url": "https://runsignup.com/Race/AR/LittleRock/3BridgesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.79,
+    "lon": -92.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/AR/LittleRock/3BridgesMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

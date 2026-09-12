@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Powerade Panama City Beach Marathon is a road race. Location: Panama City Beach, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Panama City Beach, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Powerade Panama City Beach Marathon to bieg uliczny. Lokalizacja: Panama City Beach, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Panama City Beach, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Panama City Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Powerade Panama City Beach Marathon",
+  "registrationUrl": "https://runsignup.com/Race/FL/PanamaCityBeach/PCBMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "powerade-panama-city-beach-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "powerade-panama-city-beach-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/PanamaCityBeach/PCBMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.31,
+    "lon": -85.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/FL/PanamaCityBeach/PCBMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

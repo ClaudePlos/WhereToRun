@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Salem 50k is a road race. Location: Salem, United States. Date: Sunday, 6 December 2026. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Salem, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Salem 50k to bieg uliczny. Lokalizacja: Salem, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Salem, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Salem 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19311",
+  "slug": "salem-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "salem-50k-or",
+    "url": "https://ultrasignup.com/register.aspx?eid=19311"
+  },
+  "start": {
+    "lat": 44.93,
+    "lon": -123.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19311"
+}

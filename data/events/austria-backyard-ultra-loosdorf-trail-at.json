@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Austria Backyard Ultra - Loosdorf Trail is a ultramarathon. Location: Loosdorf, Austria. Date: Saturday, 29 May 2027. Distances: 27 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Loosdorf, Austria, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Austria Backyard Ultra - Loosdorf Trail to ultramaraton. Lokalizacja: Loosdorf, Austria. Termin: sobota, 29 maja 2027. Dystanse: 27 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Loosdorf, Austria, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "27 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Loosdorf",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Austria Backyard Ultra - Loosdorf Trail",
+  "registrationUrl": null,
+  "slug": "austria-backyard-ultra-loosdorf-trail-at",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:26.823Z",
+    "id": "duv",
+    "ref": "135421",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135421"
+  },
+  "start": {
+    "lat": 48.200595,
+    "lon": 15.403207,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": null
+}

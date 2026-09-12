@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Wienerwald Ultra Trail is a ultramarathon. Location: Purkersdorf, Austria. Date: 3 October 2026 – 4 October 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Purkersdorf, Austria, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Wienerwald Ultra Trail to ultramaraton. Lokalizacja: Purkersdorf, Austria. Termin: 3 października 2026 – 4 października 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Purkersdorf, Austria, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Purkersdorf",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Wienerwald Ultra Trail",
+  "registrationUrl": null,
+  "slug": "wienerwald-ultra-trail-at",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:26.823Z",
+    "id": "duv",
+    "ref": "122585",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122585"
+  },
+  "start": {
+    "lat": 48.207672,
+    "lon": 16.177207,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": null
+}

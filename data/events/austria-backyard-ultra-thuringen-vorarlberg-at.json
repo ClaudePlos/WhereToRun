@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Austria Backyard Ultra - Thüringen/Vorarlberg is a ultramarathon. Location: Thüringen, Austria. Date: Saturday, 24 October 2026. Distances: 40 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Thüringen, Austria, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Austria Backyard Ultra - Thüringen/Vorarlberg to ultramaraton. Lokalizacja: Thüringen, Austria. Termin: sobota, 24 października 2026. Dystanse: 40 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Thüringen, Austria, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "40 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Thüringen",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Austria Backyard Ultra - Thüringen/Vorarlberg",
+  "registrationUrl": null,
+  "slug": "austria-backyard-ultra-thuringen-vorarlberg-at",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:26.823Z",
+    "id": "duv",
+    "ref": "130104",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130104"
+  },
+  "start": {
+    "lat": 47.2,
+    "lon": 9.766667,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": null
+}

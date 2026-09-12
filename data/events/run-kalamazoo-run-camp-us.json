@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Kalamazoo Run Camp is a road race. Location: Kalamazoo, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kalamazoo, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Run Kalamazoo Run Camp to bieg uliczny. Lokalizacja: Kalamazoo, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kalamazoo, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-12T22:15:14.303Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kalamazoo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Run Kalamazoo Run Camp",
+  "registrationUrl": "https://runsignup.com/Race/MI/Kalamazoo/RunCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-kalamazoo-run-camp-us",
+  "source": {
+    "fetchedAt": "2026-09-12T22:15:20.576Z",
+    "id": "runraceusa",
+    "ref": "run-kalamazoo-run-camp-mi",
+    "url": "https://runsignup.com/Race/MI/Kalamazoo/RunCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.3,
+    "lon": -85.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "website": "https://runsignup.com/Race/MI/Kalamazoo/RunCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
