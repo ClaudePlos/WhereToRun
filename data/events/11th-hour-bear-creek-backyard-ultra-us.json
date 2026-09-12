@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "11th Hour Bear Creek Backyard Ultra is a road race. Location: Lakewood, United States. Date: Saturday, 31 October 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lakewood, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "11th Hour Bear Creek Backyard Ultra to bieg uliczny. Lokalizacja: Lakewood, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lakewood, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "11th Hour Bear Creek Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68579",
+  "slug": "11th-hour-bear-creek-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "20958",
+    "url": "https://ultrasignup.com/register.aspx?did=68579"
+  },
+  "start": {
+    "lat": 39.6494,
+    "lon": -105.15,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.bearcreekbackyardultra.com/?utm_source=ultrasignup&utm_medium=listing"
+}

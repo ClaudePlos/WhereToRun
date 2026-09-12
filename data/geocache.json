@@ -302,6 +302,66 @@
   "CZ|zlin city": {
     "at": "2026-09-04T11:30:01.450Z"
   },
+  "DE|berlin": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "name": "Berlin, Deutschland"
+  },
+  "DE|bissendorf": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 52.2356115,
+    "lon": 8.1688165,
+    "name": "Bissendorf, Landkreis Osnabrück, Niedersachsen, 49143, Deutschland"
+  },
+  "DE|coesfeld": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 51.9458943,
+    "lon": 7.1691108,
+    "name": "Coesfeld, Kreis Coesfeld, Nordrhein-Westfalen, 48653, Deutschland"
+  },
+  "DE|kaiserslautern": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 49.4432174,
+    "lon": 7.7689951,
+    "name": "Kaiserslautern, Rheinland-Pfalz, Deutschland"
+  },
+  "DE|menden": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 51.43779,
+    "lon": 7.7953822,
+    "name": "Menden (Sauerland), Märkischer Kreis, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|münchen": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 48.1371079,
+    "lon": 11.5753822,
+    "name": "München, Bayern, Deutschland"
+  },
+  "DE|oldenburg/holstein": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 54.2922574,
+    "lon": 10.8809805,
+    "name": "Oldenburg in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23758, Deutschland"
+  },
+  "DE|sprockhövel": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 51.3666572,
+    "lon": 7.2485905,
+    "name": "Sprockhövel, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen, 45549, Deutschland"
+  },
+  "DE|suhl": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 50.6086518,
+    "lon": 10.6926437,
+    "name": "Suhl, Thüringen, Deutschland"
+  },
+  "DE|werl": {
+    "at": "2026-09-12T10:56:17.596Z",
+    "lat": 51.5533457,
+    "lon": 7.9155558,
+    "name": "Werl, Kreis Soest, Nordrhein-Westfalen, 59457, Deutschland"
+  },
   "EE|alutaguse": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 59.1508089,

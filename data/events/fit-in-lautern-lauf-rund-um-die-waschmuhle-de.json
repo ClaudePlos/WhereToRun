@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fit in Lautern Lauf - Rund um die Waschmühle is a ultramarathon. Location: Kaiserslautern, Germany. Date: Saturday, 19 September 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kaiserslautern, Germany, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Fit in Lautern Lauf - Rund um die Waschmühle to ultramaraton. Lokalizacja: Kaiserslautern, Niemcy. Termin: sobota, 19 września 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kaiserslautern, Niemcy, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kaiserslautern",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fit in Lautern Lauf - Rund um die Waschmühle",
+  "registrationUrl": null,
+  "slug": "fit-in-lautern-lauf-rund-um-die-waschmuhle-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "128774",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128774"
+  },
+  "start": {
+    "lat": 49.443217,
+    "lon": 7.768995,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

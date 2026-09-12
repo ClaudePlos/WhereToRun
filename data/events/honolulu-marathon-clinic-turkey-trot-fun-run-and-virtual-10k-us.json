@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Honolulu Marathon Clinic Turkey Trot Fun Run and Virtual 10K is a road race. Location: Honolulu, United States. Date: Thursday, 26 November 2026. Distances: other, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Honolulu, United States, Thursday, 26 November 2026"
+    },
+    "pl": {
+      "description": "Honolulu Marathon Clinic Turkey Trot Fun Run and Virtual 10K to bieg uliczny. Lokalizacja: Honolulu, Stany Zjednoczone. Termin: czwartek, 26 listopada 2026. Dystanse: other, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Honolulu, Stany Zjednoczone, czwartek, 26 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "Honolulu Marathon Clinic Turkey Trot Fun Run and Virtual 10K",
+  "registrationUrl": "https://runsignup.com/Race/HI/Honolulu/TurkeyTrot10Milerand5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "honolulu-marathon-clinic-turkey-trot-fun-run-and-virtual-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "honolulu-marathon-clinic-turkey-trot-fun-run-and-virtual-10k-hi",
+    "url": "https://runsignup.com/Race/HI/Honolulu/TurkeyTrot10Milerand5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 21.28,
+    "lon": -157.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/HI/Honolulu/TurkeyTrot10Milerand5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

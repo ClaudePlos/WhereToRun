@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunset 6/12/24 Hour Endurance Challenge is a road race. Location: Benton, United States. Date: Friday, 27 November 2026. Distances: u100m, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Benton, United States, Friday, 27 November 2026"
+    },
+    "pl": {
+      "description": "Sunset 6/12/24 Hour Endurance Challenge to bieg uliczny. Lokalizacja: Benton, Stany Zjednoczone. Termin: piątek, 27 listopada 2026. Dystanse: u100m, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Benton, Stany Zjednoczone, piątek, 27 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Benton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Sunset 6/12/24 Hour Endurance Challenge",
+  "registrationUrl": "https://runsignup.com/Race/AR/Benton/Sunset61224HourEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunset-6-12-24-hour-endurance-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "sunset-6-12-24-hour-endurance-challenge-ar",
+    "url": "https://runsignup.com/Race/AR/Benton/Sunset61224HourEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.56,
+    "lon": -92.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/AR/Benton/Sunset61224HourEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

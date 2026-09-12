@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Südthüringentrail - Heldentrail 65 km is a ultramarathon. Location: Suhl, Germany. Date: Saturday, 12 September 2026. Distances: 65 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Suhl, Germany, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Südthüringentrail - Heldentrail 65 km to ultramaraton. Lokalizacja: Suhl, Niemcy. Termin: sobota, 12 września 2026. Dystanse: 65 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Suhl, Niemcy, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "65 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Suhl",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Südthüringentrail - Heldentrail 65 km",
+  "registrationUrl": null,
+  "slug": "sudthuringentrail-heldentrail-65-km-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "123488",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123488"
+  },
+  "start": {
+    "lat": 50.608652,
+    "lon": 10.692644,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

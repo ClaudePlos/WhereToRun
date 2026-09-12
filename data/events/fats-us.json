@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "FATS is a ultramarathon. Location: North Augusta, United States. Date: Sunday, 1 November 2026. Distances: 50 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — North Augusta, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "FATS to ultramaraton. Lokalizacja: North Augusta, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 50 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — North Augusta, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Augusta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "FATS",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67183",
+  "slug": "fats-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "1971",
+    "url": "https://ultrasignup.com/register.aspx?did=67183"
+  },
+  "start": {
+    "lat": 33.6082,
+    "lon": -82.0801,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.facebook.com/FATS50K/"
+}

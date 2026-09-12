@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Space Coast Marathon & Half Marathon is a road race. Location: Cocoa, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cocoa, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Space Coast Marathon & Half Marathon to bieg uliczny. Lokalizacja: Cocoa, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cocoa, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cocoa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Space Coast Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/FL/Cocoa/SpaceCoastMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "space-coast-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "space-coast-marathon-half-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/Cocoa/SpaceCoastMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.37,
+    "lon": -80.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/FL/Cocoa/SpaceCoastMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

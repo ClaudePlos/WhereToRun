@@ -13,8 +13,8 @@
   "date": "2026-11-01",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Fire on the Mountain 50K Trail Race",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6296",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64370",
   "slug": "fire-on-the-mountain-50k-trail-race-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
-    "id": "runraceusa",
-    "ref": "fire-on-the-mountain-50k-trail-race-md",
-    "url": "https://ultrasignup.com/register.aspx?eid=6296"
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "6296",
+    "url": "https://ultrasignup.com/register.aspx?did=64370"
   },
   "start": {
-    "lat": 39.63,
-    "lon": -78.43,
+    "lat": 39.6267,
+    "lon": -78.4313,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=6296"
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "http://2lowerunco.com"
 }

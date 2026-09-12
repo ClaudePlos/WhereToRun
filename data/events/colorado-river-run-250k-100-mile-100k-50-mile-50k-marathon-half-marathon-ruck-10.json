@@ -1,0 +1,59 @@
+{
+  "content": {
+    "en": {
+      "description": "Colorado River Run 250K • 100 Mile • 100K • 50 Mile • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Kids 1K is a road race. Location: Cedar Creek, United States. Date: Friday, 27 November 2026. Distances: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cedar Creek, United States, Friday, 27 November 2026"
+    },
+    "pl": {
+      "description": "Colorado River Run 250K • 100 Mile • 100K • 50 Mile • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Kids 1K to bieg uliczny. Lokalizacja: Cedar Creek, Stany Zjednoczone. Termin: piątek, 27 listopada 2026. Dystanse: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cedar Creek, Stany Zjednoczone, piątek, 27 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Colorado River Run 250K • 100 Mile • 100K • 50 Mile • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Kids 1K",
+  "registrationUrl": "https://runsignup.com/Race/TX/CedarCreek/ColoradoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "colorado-river-run-250k-100-mile-100k-50-mile-50k-marathon-half-marathon-ruck-10",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "colorado-river-run-250k-100-mile-100k-50-mile-50k-marathon-half",
+    "url": "https://runsignup.com/Race/TX/CedarCreek/ColoradoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.1,
+    "lon": -97.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/TX/CedarCreek/ColoradoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pie Gobbler 5K, 10K, 13.1M, & 26.2M at Williamsburg, VA (47) is a road race. Location: Williamsburg, United States. Date: Saturday, 21 November 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Williamsburg, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Pie Gobbler 5K, 10K, 13.1M, & 26.2M at Williamsburg, VA (47) to bieg uliczny. Lokalizacja: Williamsburg, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Williamsburg, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Pie Gobbler 5K, 10K, 13.1M, & 26.2M at Williamsburg, VA (47)",
+  "registrationUrl": "https://runsignup.com/Race/VA/Williamsburg/Freedom112725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "pie-gobbler-5k-10k-13-1m-26-2m-at-williamsburg-va-47-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "pie-gobbler-5k-10k-13-1m-26-2m-at-williamsburg-va-47-va",
+    "url": "https://runsignup.com/Race/VA/Williamsburg/Freedom112725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.32,
+    "lon": -76.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/VA/Williamsburg/Freedom112725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

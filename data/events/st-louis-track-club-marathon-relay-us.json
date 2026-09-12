@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Louis Track Club Marathon Relay is a road race. Location: Saint Louis, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Saint Louis, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "St. Louis Track Club Marathon Relay to bieg uliczny. Lokalizacja: Saint Louis, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Saint Louis, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saint Louis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "St. Louis Track Club Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/MO/SaintLouis/MarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "st-louis-track-club-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "st-louis-track-club-marathon-relay-mo",
+    "url": "https://runsignup.com/Race/MO/SaintLouis/MarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.62,
+    "lon": -90.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/MO/SaintLouis/MarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

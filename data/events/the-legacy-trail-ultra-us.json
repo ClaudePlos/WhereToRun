@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Legacy Trail Ultra is a ultramarathon. Location: Sarasota, United States. Date: Sunday, 22 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sarasota, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "The Legacy Trail Ultra to ultramaraton. Lokalizacja: Sarasota, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sarasota, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sarasota",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "The Legacy Trail Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15332",
+  "slug": "the-legacy-trail-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "the-legacy-trail-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=15332"
+  },
+  "start": {
+    "lat": 27.33,
+    "lon": -82.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15332"
+}

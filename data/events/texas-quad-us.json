@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Texas Quad is a road race. Location: Dallas, United States. Date: Thursday, 26 November 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dallas, United States, Thursday, 26 November 2026"
+    },
+    "pl": {
+      "description": "Texas Quad to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: czwartek, 26 listopada 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, czwartek, 26 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Texas Quad",
+  "registrationUrl": "https://runsignup.com/Race/TX/Dallas/TexasQuad?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "texas-quad-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "texas-quad-tx",
+    "url": "https://runsignup.com/Race/TX/Dallas/TexasQuad?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.87,
+    "lon": -96.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/TX/Dallas/TexasQuad?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

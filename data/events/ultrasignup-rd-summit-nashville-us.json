@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UltraSignup RD Summit - Nashville is a road race. Location: Nashville, United States. Date: Wednesday, 4 November 2026. Distances: RD Summit. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Nashville, United States, Wednesday, 4 November 2026"
+    },
+    "pl": {
+      "description": "UltraSignup RD Summit - Nashville to bieg uliczny. Lokalizacja: Nashville, Stany Zjednoczone. Termin: środa, 4 listopada 2026. Dystanse: RD Summit. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Nashville, Stany Zjednoczone, środa, 4 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "RD Summit"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nashville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "UltraSignup RD Summit - Nashville",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68442",
+  "slug": "ultrasignup-rd-summit-nashville-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "20920",
+    "url": "https://ultrasignup.com/register.aspx?did=68442"
+  },
+  "start": {
+    "lat": 36.1627,
+    "lon": -86.7816,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "http://www.ultrasignup.com"
+}

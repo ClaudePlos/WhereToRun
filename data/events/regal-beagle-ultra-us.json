@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Regal Beagle Ultra is a ultramarathon. Location: Akron, United States. Date: Sunday, 22 November 2026. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Akron, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Regal Beagle Ultra to ultramaraton. Lokalizacja: Akron, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Akron, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Akron",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Regal Beagle Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8155",
+  "slug": "regal-beagle-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "regal-beagle-ultra-oh",
+    "url": "https://ultrasignup.com/register.aspx?eid=8155"
+  },
+  "start": {
+    "lat": 41.18,
+    "lon": -81.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8155"
+}

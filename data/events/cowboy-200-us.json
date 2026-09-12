@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-02T17:10:51.476Z",
-  "date": "2026-09-26",
+  "date": "2026-09-25",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km"
+    "321.9 km"
   ],
   "endDate": "2026-09-28",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63470",
   "slug": "cowboy-200-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:29.398Z",
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
     "id": "ultrasignup",
     "ref": "14951",
     "url": "https://ultrasignup.com/register.aspx?did=63470"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
   "website": "https://ultraversesupplements.com/our-races/the-cowboy-200"
 }

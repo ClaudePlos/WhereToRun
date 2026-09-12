@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Monument Valley Veterans Marathon & Half Marathon is a road race. Location: Monument Valley, United States. Date: Saturday, 21 November 2026. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Monument Valley, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Monument Valley Veterans Marathon & Half Marathon to bieg uliczny. Lokalizacja: Monument Valley, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Monument Valley, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Monument Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Monument Valley Veterans Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/UT/MonumentValley/MonumentValleyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "monument-valley-veterans-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "monument-valley-veterans-marathon-half-marathon-ut",
+    "url": "https://runsignup.com/Race/UT/MonumentValley/MonumentValleyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.06,
+    "lon": -110.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/UT/MonumentValley/MonumentValleyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

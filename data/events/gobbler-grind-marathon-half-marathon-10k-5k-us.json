@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Gobbler Grind Marathon, Half Marathon, 10K & 5K is a road race. Location: Overland Park, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Overland Park, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Gobbler Grind Marathon, Half Marathon, 10K & 5K to bieg uliczny. Lokalizacja: Overland Park, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Overland Park, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Overland Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Gobbler Grind Marathon, Half Marathon, 10K & 5K",
+  "registrationUrl": "https://runsignup.com/Race/KS/OverlandPark/GobblerGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gobbler-grind-marathon-half-marathon-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "gobbler-grind-marathon-half-marathon-10k-5k-ks",
+    "url": "https://runsignup.com/Race/KS/OverlandPark/GobblerGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.93,
+    "lon": -94.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/KS/OverlandPark/GobblerGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

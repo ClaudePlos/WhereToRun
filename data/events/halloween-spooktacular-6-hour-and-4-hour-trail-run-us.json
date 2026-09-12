@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "HALLOWEEN SPOOKTACULAR 6 HOUR AND 4 HOUR TRAIL RUN is a ultramarathon. Location: Newport Coast, United States. Date: Saturday, 31 October 2026. Distances: 6 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Newport Coast, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "HALLOWEEN SPOOKTACULAR 6 HOUR AND 4 HOUR TRAIL RUN to ultramaraton. Lokalizacja: Newport Coast, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 6 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Newport Coast, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newport Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "HALLOWEEN SPOOKTACULAR 6 HOUR AND 4 HOUR TRAIL RUN",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65356",
+  "slug": "halloween-spooktacular-6-hour-and-4-hour-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "20010",
+    "url": "https://ultrasignup.com/register.aspx?did=65356"
+  },
+  "start": {
+    "lat": 33.6052,
+    "lon": -117.804,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.sunshinetrailracing.com/Home.php"
+}

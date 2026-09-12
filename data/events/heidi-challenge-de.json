@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Heidi-Challenge is a ultramarathon. Location: Berlin, Germany. Date: 10 October 2026 – 14 October 2026. Distances: 316 km, 5Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Berlin, Germany, 10 October 2026 – 14 October 2026"
+    },
+    "pl": {
+      "description": "Heidi-Challenge to ultramaraton. Lokalizacja: Berlin, Niemcy. Termin: 10 października 2026 – 14 października 2026. Dystanse: 316 km, 5Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Berlin, Niemcy, 10 października 2026 – 14 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "316 km",
+    "5Etappen"
+  ],
+  "endDate": "2026-10-14",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Heidi-Challenge",
+  "registrationUrl": null,
+  "slug": "heidi-challenge-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.956Z",
+    "id": "duv",
+    "ref": "123672",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123672"
+  },
+  "start": {
+    "lat": 52.517389,
+    "lon": 13.395131,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Midwest Ultra Trail Classic is a ultramarathon. Location: Knob Noster, United States. Date: Saturday, 21 November 2026. Distances: 10 km, 21.1 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Knob Noster, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "The Midwest Ultra Trail Classic to ultramaraton. Lokalizacja: Knob Noster, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 10 km, 21.1 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Knob Noster, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Knob Noster",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "The Midwest Ultra Trail Classic",
+  "registrationUrl": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-midwest-ultra-trail-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "the-midwest-ultra-trail-classic-mo",
+    "url": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.77,
+    "lon": -93.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

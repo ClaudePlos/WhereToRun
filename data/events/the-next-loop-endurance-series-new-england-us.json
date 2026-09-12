@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop Endurance Series | New England is a road race. Location: Wrentham, United States. Date: Saturday, 31 October 2026. Distances: 50 Mile Challenge, 40 Mile Challenge, The Next Loop Hourly Challenge, The Next 12HR Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wrentham, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "The Next Loop Endurance Series | New England to bieg uliczny. Lokalizacja: Wrentham, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 50 Mile Challenge, 40 Mile Challenge, The Next Loop Hourly Challenge, The Next 12HR Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wrentham, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 Mile Challenge",
+    "40 Mile Challenge",
+    "The Next Loop Hourly Challenge",
+    "The Next 12HR Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wrentham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "The Next Loop Endurance Series | New England",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68566",
+  "slug": "the-next-loop-endurance-series-new-england-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "19941",
+    "url": "https://ultrasignup.com/register.aspx?did=68566"
+  },
+  "start": {
+    "lat": 42.0557,
+    "lon": -71.3404,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.everfurther.net/40-50-mile-challenge-ne"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Schledehausener Berglauf is a ultramarathon. Location: Bissendorf, Germany. Date: Saturday, 12 September 2026. Distances: 10 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bissendorf, Germany, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Schledehausener Berglauf to ultramaraton. Lokalizacja: Bissendorf, Niemcy. Termin: sobota, 12 września 2026. Dystanse: 10 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bissendorf, Niemcy, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bissendorf",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Schledehausener Berglauf",
+  "registrationUrl": null,
+  "slug": "schledehausener-berglauf-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "127957",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=127957"
+  },
+  "start": {
+    "lat": 52.235612,
+    "lon": 8.168817,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

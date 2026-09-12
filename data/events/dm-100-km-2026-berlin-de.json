@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "DM 100 km 2026 - Berlin is a ultramarathon. Location: Berlin, Germany. Date: Saturday, 12 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Berlin, Germany, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "DM 100 km 2026 - Berlin to ultramaraton. Lokalizacja: Berlin, Niemcy. Termin: sobota, 12 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Berlin, Niemcy, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "DM 100 km 2026 - Berlin",
+  "registrationUrl": null,
+  "slug": "dm-100-km-2026-berlin-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "124537",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124537"
+  },
+  "start": {
+    "lat": 52.517389,
+    "lon": 13.395131,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

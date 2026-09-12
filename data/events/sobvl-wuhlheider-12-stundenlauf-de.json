@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "SOBVL - Wuhlheider 12 Stundenlauf is a ultramarathon. Location: Berlin, Germany. Date: Saturday, 24 October 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Berlin, Germany, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "SOBVL - Wuhlheider 12 Stundenlauf to ultramaraton. Lokalizacja: Berlin, Niemcy. Termin: sobota, 24 października 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Berlin, Niemcy, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "SOBVL - Wuhlheider 12 Stundenlauf",
+  "registrationUrl": null,
+  "slug": "sobvl-wuhlheider-12-stundenlauf-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.957Z",
+    "id": "duv",
+    "ref": "123099",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123099"
+  },
+  "start": {
+    "lat": 52.517389,
+    "lon": 13.395131,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

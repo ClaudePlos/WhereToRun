@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Mount Laguna Trail Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3353",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68029",
   "slug": "mount-laguna-trail-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
-    "id": "runraceusa",
-    "ref": "mount-laguna-trail-marathon-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=3353"
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "3353",
+    "url": "https://ultrasignup.com/register.aspx?did=68029"
   },
   "start": {
-    "lat": 32.86,
-    "lon": -116.42,
+    "lat": 32.8572,
+    "lon": -116.423,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "trail",
+    "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3353"
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "http://www.runmountlaguna.com"
 }

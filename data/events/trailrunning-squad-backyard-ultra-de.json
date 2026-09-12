@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trailrunning Squad Backyard Ultra is a ultramarathon. Location: Menden, Germany. Date: Friday, 18 September 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Menden, Germany, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Trailrunning Squad Backyard Ultra to ultramaraton. Lokalizacja: Menden, Niemcy. Termin: piątek, 18 września 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Menden, Niemcy, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Menden",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trailrunning Squad Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "trailrunning-squad-backyard-ultra-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "133457",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133457"
+  },
+  "start": {
+    "lat": 51.43779,
+    "lon": 7.795382,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

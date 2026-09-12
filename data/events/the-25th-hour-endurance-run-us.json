@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The 25th Hour Endurance Run is a road race. Location: Old Fort, United States. Date: Saturday, 31 October 2026. Distances: 25 Hour Endurance Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Old Fort, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "The 25th Hour Endurance Run to bieg uliczny. Lokalizacja: Old Fort, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 25 Hour Endurance Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Old Fort, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "25 Hour Endurance Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Old Fort",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "The 25th Hour Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66186",
+  "slug": "the-25th-hour-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "20228",
+    "url": "https://ultrasignup.com/register.aspx?did=66186"
+  },
+  "start": {
+    "lat": 35.646,
+    "lon": -82.1934,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.facebook.com/relentlessrunningevents"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "United Way of Marathon County Turkey Trot 2026 is a road race. Location: Wausau, United States. Date: Thursday, 26 November 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wausau, United States, Thursday, 26 November 2026"
+    },
+    "pl": {
+      "description": "United Way of Marathon County Turkey Trot 2026 to bieg uliczny. Lokalizacja: Wausau, Stany Zjednoczone. Termin: czwartek, 26 listopada 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wausau, Stany Zjednoczone, czwartek, 26 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wausau",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "United Way of Marathon County Turkey Trot 2026",
+  "registrationUrl": "https://runsignup.com/Race/WI/Wausau/unitedwaymcturkeytrot?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "united-way-of-marathon-county-turkey-trot-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "united-way-of-marathon-county-turkey-trot-2026-wi",
+    "url": "https://runsignup.com/Race/WI/Wausau/unitedwaymcturkeytrot?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.97,
+    "lon": -89.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/WI/Wausau/unitedwaymcturkeytrot?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

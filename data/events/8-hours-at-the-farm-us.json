@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "8 Hours at the Farm is a ultramarathon. Location: Brookfield, United States. Date: Sunday, 1 November 2026. Distances: 8 h, 4 h, 5 km, 5K Canicross. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brookfield, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "8 Hours at the Farm to ultramaraton. Lokalizacja: Brookfield, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 8 h, 4 h, 5 km, 5K Canicross. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brookfield, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "4 h",
+    "5 km",
+    "5K Canicross"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brookfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "8 Hours at the Farm",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64751",
+  "slug": "8-hours-at-the-farm-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "14372",
+    "url": "https://ultrasignup.com/register.aspx?did=64751"
+  },
+  "start": {
+    "lat": 41.4683,
+    "lon": -73.3813,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.steependurance.com/8hours-at-the-farm.html"
+}

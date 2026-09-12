@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Philadelphia Marathon- Students Run Philly Style is a road race. Location: Philadelphia, United States. Date: Saturday, 21 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Philadelphia, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Philadelphia Marathon- Students Run Philly Style to bieg uliczny. Lokalizacja: Philadelphia, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Philadelphia, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Philadelphia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Philadelphia Marathon- Students Run Philly Style",
+  "registrationUrl": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "philadelphia-marathon-students-run-philly-style-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "philadelphia-marathon-students-run-philly-style-pa",
+    "url": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.95,
+    "lon": -75.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

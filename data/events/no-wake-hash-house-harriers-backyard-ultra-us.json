@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "NO WAKE HASH HOUSE HARRIERS BACKYARD ULTRA is a ultramarathon. Location: Beaufort, United States. Date: Saturday, 21 November 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Beaufort, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "NO WAKE HASH HOUSE HARRIERS BACKYARD ULTRA to ultramaraton. Lokalizacja: Beaufort, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Beaufort, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beaufort",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "NO WAKE HASH HOUSE HARRIERS BACKYARD ULTRA",
+  "registrationUrl": "https://runsignup.com/Race/NC/Beaufort/NOWAKEHASHHOUSEHARRIERSBACKYARDULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "no-wake-hash-house-harriers-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "no-wake-hash-house-harriers-backyard-ultra-nc",
+    "url": "https://runsignup.com/Race/NC/Beaufort/NOWAKEHASHHOUSEHARRIERSBACKYARDULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.76,
+    "lon": -76.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/NC/Beaufort/NOWAKEHASHHOUSEHARRIERSBACKYARDULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sri Chinmoy Peace-Mile 6-Stunden Lauf München is a ultramarathon. Location: München, Germany. Date: Saturday, 12 September 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — München, Germany, Saturday, 12 September 2026"
+    },
+    "pl": {
+      "description": "Sri Chinmoy Peace-Mile 6-Stunden Lauf München to ultramaraton. Lokalizacja: München, Niemcy. Termin: sobota, 12 września 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — München, Niemcy, sobota, 12 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "München",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sri Chinmoy Peace-Mile 6-Stunden Lauf München",
+  "registrationUrl": null,
+  "slug": "sri-chinmoy-peace-mile-6-stunden-lauf-munchen-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "122373",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122373"
+  },
+  "start": {
+    "lat": 48.137108,
+    "lon": 11.575382,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

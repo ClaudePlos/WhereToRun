@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Spendenlauf des TV Hasslinghausen is a ultramarathon. Location: Sprockhövel, Germany. Date: Sunday, 13 September 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sprockhövel, Germany, Sunday, 13 September 2026"
+    },
+    "pl": {
+      "description": "Spendenlauf des TV Hasslinghausen to ultramaraton. Lokalizacja: Sprockhövel, Niemcy. Termin: niedziela, 13 września 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sprockhövel, Niemcy, niedziela, 13 września 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-09-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sprockhövel",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Spendenlauf des TV Hasslinghausen",
+  "registrationUrl": null,
+  "slug": "spendenlauf-des-tv-hasslinghausen-de",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:44.955Z",
+    "id": "duv",
+    "ref": "122431",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122431"
+  },
+  "start": {
+    "lat": 51.366657,
+    "lon": 7.248591,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": null
+}

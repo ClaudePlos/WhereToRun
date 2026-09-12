@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Summit Backyard Ultra (Last Person Standing) is a ultramarathon. Location: Marble Falls, United States. Date: Saturday, 21 November 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marble Falls, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Summit Backyard Ultra (Last Person Standing) to ultramaraton. Lokalizacja: Marble Falls, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marble Falls, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marble Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Summit Backyard Ultra (Last Person Standing)",
+  "registrationUrl": "https://runsignup.com/Race/TX/MarbleFalls/SummitBackyardUltraLastPersonStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "summit-backyard-ultra-last-person-standing-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "summit-backyard-ultra-last-person-standing-tx",
+    "url": "https://runsignup.com/Race/TX/MarbleFalls/SummitBackyardUltraLastPersonStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.58,
+    "lon": -98.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/TX/MarbleFalls/SummitBackyardUltraLastPersonStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -13,10 +13,11 @@
   "date": "2026-10-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
     "21.1 km",
     "10 km",
+    "10K Ruck",
     "5 km"
   ],
   "endDate": null,
@@ -31,25 +32,25 @@
   },
   "manual": false,
   "name": "HARVEST TRAIL RUNNING FESTIVAL",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20684",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67671",
   "slug": "harvest-trail-running-festival-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
-    "id": "runraceusa",
-    "ref": "harvest-trail-running-festival-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=20684"
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "20684",
+    "url": "https://ultrasignup.com/register.aspx?did=67671"
   },
   "start": {
-    "lat": 33.16,
-    "lon": -96.36,
+    "lat": 33.1622,
+    "lon": -96.3593,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20684"
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://www.texasoutlawrunning.com/races"
 }

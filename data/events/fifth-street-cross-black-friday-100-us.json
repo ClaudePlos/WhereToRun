@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Fifth Street Cross - Black Friday 100 is a road race. Location: Emmaus, United States. Date: Friday, 27 November 2026. Distances: 10 km, 21.1 km, 42.2 km, u50k, ultra, u100k, u100m, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Emmaus, United States, Friday, 27 November 2026"
+    },
+    "pl": {
+      "description": "Fifth Street Cross - Black Friday 100 to bieg uliczny. Lokalizacja: Emmaus, Stany Zjednoczone. Termin: piątek, 27 listopada 2026. Dystanse: 10 km, 21.1 km, 42.2 km, u50k, ultra, u100k, u100m, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Emmaus, Stany Zjednoczone, piątek, 27 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "ultra",
+    "u100k",
+    "u100m",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Emmaus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Fifth Street Cross - Black Friday 100",
+  "registrationUrl": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fifth-street-cross-black-friday-100-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "fifth-street-cross-black-friday-100-pa",
+    "url": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.53,
+    "lon": -75.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "US Trail Running Conference is a trail race. Location: Nashville, United States. Date: 5 November 2026 – 7 November 2026. Distances: 3-Day Conference. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Nashville, United States, 5 November 2026 – 7 November 2026"
+    },
+    "pl": {
+      "description": "US Trail Running Conference to bieg trailowy. Lokalizacja: Nashville, Stany Zjednoczone. Termin: 5 listopada 2026 – 7 listopada 2026. Dystanse: 3-Day Conference. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Nashville, Stany Zjednoczone, 5 listopada 2026 – 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "3-Day Conference"
+  ],
+  "endDate": "2026-11-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nashville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "US Trail Running Conference",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63727",
+  "slug": "us-trail-running-conference-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:25.204Z",
+    "id": "ultrasignup",
+    "ref": "19581",
+    "url": "https://ultrasignup.com/register.aspx?did=63727"
+  },
+  "start": {
+    "lat": 36.1578,
+    "lon": -86.7777,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://ustrailrunningconference.com/"
+}

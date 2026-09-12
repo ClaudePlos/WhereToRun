@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Ultras Turkey Trot 5k is a ultramarathon. Location: Lake Wales, United States. Date: Thursday, 26 November 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake Wales, United States, Thursday, 26 November 2026"
+    },
+    "pl": {
+      "description": "Ultra Ultras Turkey Trot 5k to ultramaraton. Lokalizacja: Lake Wales, Stany Zjednoczone. Termin: czwartek, 26 listopada 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake Wales, Stany Zjednoczone, czwartek, 26 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Wales",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Ultra Ultras Turkey Trot 5k",
+  "registrationUrl": "https://runsignup.com/Race/FL/LakeWales/UltraUltrasTurkeyTrot5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ultra-ultras-turkey-trot-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "ultra-ultras-turkey-trot-5k-fl",
+    "url": "https://runsignup.com/Race/FL/LakeWales/UltraUltrasTurkeyTrot5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.9,
+    "lon": -81.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://runsignup.com/Race/FL/LakeWales/UltraUltrasTurkeyTrot5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

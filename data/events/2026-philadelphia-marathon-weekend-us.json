@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Philadelphia Marathon Weekend is a road race. Location: Philadelphia, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Philadelphia, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "2026 Philadelphia Marathon Weekend to bieg uliczny. Lokalizacja: Philadelphia, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Philadelphia, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-12T10:56:17.596Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Philadelphia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "2026 Philadelphia Marathon Weekend",
+  "registrationUrl": "https://raceroster.com/events/2026/111834/2026-philadelphia-marathon-weekend",
+  "slug": "2026-philadelphia-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "id": "runraceusa",
+    "ref": "2026-philadelphia-marathon-weekend-pa",
+    "url": "https://raceroster.com/events/2026/111834/2026-philadelphia-marathon-weekend"
+  },
+  "start": {
+    "lat": 39.97,
+    "lon": -75.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "website": "https://raceroster.com/events/2026/111834/2026-philadelphia-marathon-weekend"
+}
