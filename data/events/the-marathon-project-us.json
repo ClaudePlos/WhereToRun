@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Marathon Project is a road race. Location: Chandler, United States. Date: Saturday, 12 December 2026. Distances: 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chandler, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "The Marathon Project to bieg uliczny. Lokalizacja: Chandler, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chandler, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chandler",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "The Marathon Project",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Chandler/TheMarathonProject?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-marathon-project-us",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:18.499Z",
+    "id": "runraceusa",
+    "ref": "the-marathon-project-az",
+    "url": "https://runsignup.com/Race/AZ/Chandler/TheMarathonProject?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.31,
+    "lon": -111.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": "https://runsignup.com/Race/AZ/Chandler/TheMarathonProject?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

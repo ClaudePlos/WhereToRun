@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Alutaguse Bee Ultra is a ultramarathon. Location: Alutaguse, Estonia. Date: Saturday, 1 May 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Alutaguse, Estonia, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Alutaguse Bee Ultra to ultramaraton. Lokalizacja: Alutaguse, Estonia. Termin: sobota, 1 maja 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Alutaguse, Estonia, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alutaguse",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Alutaguse Bee Ultra",
+  "registrationUrl": null,
+  "slug": "alutaguse-bee-ultra-ee",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:30.918Z",
+    "id": "duv",
+    "ref": "132099",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132099"
+  },
+  "start": {
+    "lat": 59.150809,
+    "lon": 27.481186,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard ultra Lusa Pedas is a ultramarathon. Location: Jekabpils, Latvia. Date: 17 April 2027 – 18 April 2027. Distances: 39 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Jekabpils, Latvia, 17 April 2027 – 18 April 2027"
+    },
+    "pl": {
+      "description": "Backyard ultra Lusa Pedas to ultramaraton. Lokalizacja: Jekabpils, Łotwa. Termin: 17 kwietnia 2027 – 18 kwietnia 2027. Dystanse: 39 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Jekabpils, Łotwa, 17 kwietnia 2027 – 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "39 h"
+  ],
+  "endDate": "2027-04-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jekabpils",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard ultra Lusa Pedas",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-lusa-pedas-lv",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:30.918Z",
+    "id": "duv",
+    "ref": "132021",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132021"
+  },
+  "start": {
+    "lat": 56.495864,
+    "lon": 25.868775,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": null
+}

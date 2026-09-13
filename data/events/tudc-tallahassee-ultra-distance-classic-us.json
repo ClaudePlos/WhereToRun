@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "TUDC Tallahassee Ultra Distance Classic is a ultramarathon. Location: Tallahassee, United States. Date: Saturday, 12 December 2026. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tallahassee, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "TUDC Tallahassee Ultra Distance Classic to ultramaraton. Lokalizacja: Tallahassee, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tallahassee, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tallahassee",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "TUDC Tallahassee Ultra Distance Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20862",
+  "slug": "tudc-tallahassee-ultra-distance-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:18.499Z",
+    "id": "runraceusa",
+    "ref": "tudc-tallahassee-ultra-distance-classic-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=20862"
+  },
+  "start": {
+    "lat": 30.34,
+    "lon": -84.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20862"
+}

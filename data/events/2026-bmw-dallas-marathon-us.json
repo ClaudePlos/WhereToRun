@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 BMW Dallas Marathon is a road race. Location: Dallas, United States. Date: Sunday, 13 December 2026. Distances: 1.6 km, 5 km, 10 km, 21.1 km, 42.2 km, u50k, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Dallas, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "2026 BMW Dallas Marathon to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 1.6 km, 5 km, 10 km, 21.1 km, 42.2 km, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "2026 BMW Dallas Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon",
+  "slug": "2026-bmw-dallas-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:18.499Z",
+    "id": "runraceusa",
+    "ref": "2026-bmw-dallas-marathon-tx",
+    "url": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon"
+  },
+  "start": {
+    "lat": 32.7813,
+    "lon": -96.8019,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon"
+}

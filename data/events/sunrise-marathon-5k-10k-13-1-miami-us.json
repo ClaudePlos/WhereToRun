@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon 5K/10K/13.1 MIAMI is a road race. Location: Key Biscayne, United States. Date: Saturday, 12 December 2026. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Key Biscayne, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Sunrise Marathon 5K/10K/13.1 MIAMI to bieg uliczny. Lokalizacja: Key Biscayne, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Key Biscayne, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Key Biscayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon 5K/10K/13.1 MIAMI",
+  "registrationUrl": "https://runsignup.com/Race/FL/KeyBiscayne/SunriseMarathon5K10KMIAMI320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-5k-10k-13-1-miami-us",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:18.499Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-5k-10k-13-1-miami-key-biscayne-fl-2027-03-20",
+    "url": "https://runsignup.com/Race/FL/KeyBiscayne/SunriseMarathon5K10KMIAMI320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 25.69,
+    "lon": -80.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": "https://runsignup.com/Race/FL/KeyBiscayne/SunriseMarathon5K10KMIAMI320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

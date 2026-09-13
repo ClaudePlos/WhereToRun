@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Taliharja Vanakuri Winter Ultra Endurance Race - 101km is a ultramarathon. Location: Saaremaa, Estonia. Date: 9 January 2027 – 10 January 2027. Distances: 101 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Saaremaa, Estonia, 9 January 2027 – 10 January 2027"
+    },
+    "pl": {
+      "description": "Taliharja Vanakuri Winter Ultra Endurance Race - 101km to ultramaraton. Lokalizacja: Saaremaa, Estonia. Termin: 9 stycznia 2027 – 10 stycznia 2027. Dystanse: 101 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Saaremaa, Estonia, 9 stycznia 2027 – 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "101 km"
+  ],
+  "endDate": "2027-01-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saaremaa",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Taliharja Vanakuri Winter Ultra Endurance Race - 101km",
+  "registrationUrl": null,
+  "slug": "taliharja-vanakuri-winter-ultra-endurance-race-101km-ee",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:30.918Z",
+    "id": "duv",
+    "ref": "135429",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135429"
+  },
+  "start": {
+    "lat": 57.801286,
+    "lon": 27.139681,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": null
+}

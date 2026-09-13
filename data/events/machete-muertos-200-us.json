@@ -10,10 +10,13 @@
     }
   },
   "createdAt": "2026-09-10T11:30:18.139Z",
-  "date": "2026-10-28",
+  "date": "2026-10-30",
   "dateStatus": "confirmed",
   "distances": [
-    "321.9 km"
+    "160.9 km",
+    "80.5 km",
+    "32.2 km",
+    "16.1 km"
   ],
   "endDate": "2026-11-01",
   "featured": false,
@@ -30,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64060",
   "slug": "machete-muertos-200-us",
   "source": {
-    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "fetchedAt": "2026-09-13T16:58:17.784Z",
     "id": "ultrasignup",
     "ref": "16404",
     "url": "https://ultrasignup.com/register.aspx?did=64060"
@@ -46,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
   "website": "https://www.machetemadness.com/"
 }

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Baylor Scott & White College Station Marathon + Half Marathon is a road race. Location: College Station, United States. Date: Sunday, 13 December 2026. Distances: 21.1 km, 42.2 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — College Station, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "2026 Baylor Scott & White College Station Marathon + Half Marathon to bieg uliczny. Lokalizacja: College Station, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 21.1 km, 42.2 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — College Station, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T16:58:09.062Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "College Station",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "2026 Baylor Scott & White College Station Marathon + Half Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/113570/2026-baylor-scott-and-white-college-station-marathon-half-marathon",
+  "slug": "2026-baylor-scott-white-college-station-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T16:58:18.499Z",
+    "id": "runraceusa",
+    "ref": "2026-baylor-scott-white-college-station-marathon-half-marathon-tx",
+    "url": "https://raceroster.com/events/2026/113570/2026-baylor-scott-and-white-college-station-marathon-half-marathon"
+  },
+  "start": {
+    "lat": 30.6,
+    "lon": -96.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T16:58:09.062Z",
+  "website": "https://raceroster.com/events/2026/113570/2026-baylor-scott-and-white-college-station-marathon-half-marathon"
+}
