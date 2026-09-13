@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Chance Marathon and Half Marathon is a road race. Location: Bellingham, United States. Date: Thursday, 31 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bellingham, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Last Chance Marathon and Half Marathon to bieg uliczny. Lokalizacja: Bellingham, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bellingham, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bellingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Last Chance Marathon and Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Bellingham/LastChanceMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-chance-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "last-chance-marathon-and-half-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Bellingham/LastChanceMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.75,
+    "lon": -122.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/WA/Bellingham/LastChanceMarathonAndHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

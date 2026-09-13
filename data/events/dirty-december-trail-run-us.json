@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Dirty December Trail Run is a trail race. Location: San Diego, United States. Date: Sunday, 20 December 2026. Distances: 42.2 km, 21.1 km, 10 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Diego, United States, Sunday, 20 December 2026"
+    },
+    "pl": {
+      "description": "Dirty December Trail Run to bieg trailowy. Lokalizacja: San Diego, Stany Zjednoczone. Termin: niedziela, 20 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 10 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Diego, Stany Zjednoczone, niedziela, 20 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Dirty December Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5044",
+  "slug": "dirty-december-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "dirty-december-trail-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=5044"
+  },
+  "start": {
+    "lat": 32.93,
+    "lon": -116.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5044"
+}

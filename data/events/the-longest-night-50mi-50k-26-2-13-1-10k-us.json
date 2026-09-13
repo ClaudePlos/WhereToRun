@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Longest Night (50mi - 50k - 26.2 - 13.1 - 10k) is a road race. Location: Greenville, United States. Date: Saturday, 19 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greenville, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "The Longest Night (50mi - 50k - 26.2 - 13.1 - 10k) to bieg uliczny. Lokalizacja: Greenville, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greenville, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "The Longest Night (50mi - 50k - 26.2 - 13.1 - 10k)",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greenville/TheLongestNightTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-longest-night-50mi-50k-26-2-13-1-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "the-longest-night-50mi-50k-26-2-13-1-10k-sc",
+    "url": "https://runsignup.com/Race/SC/Greenville/TheLongestNightTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.83,
+    "lon": -82.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/SC/Greenville/TheLongestNightTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

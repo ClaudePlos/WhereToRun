@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Out with the Old 1/2 Marathon, 10K, and 5K is a road race. Location: Las Vegas, United States. Date: Saturday, 19 December 2026. Distances: 5 km, 10 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Out with the Old 1/2 Marathon, 10K, and 5K to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Out with the Old 1/2 Marathon, 10K, and 5K",
+  "registrationUrl": "https://runsignup.com/Race/NV/LasVegas/OutwiththeOld?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "out-with-the-old-1-2-marathon-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "out-with-the-old-1-2-marathon-10k-and-5k-nv",
+    "url": "https://runsignup.com/Race/NV/LasVegas/OutwiththeOld?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.09,
+    "lon": -115.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/NV/LasVegas/OutwiththeOld?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

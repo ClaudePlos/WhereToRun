@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Holiday 5K, 10K, 13.1M & 26.2M at Homestead, FL (52) is a road race. Location: Homestead, United States. Date: Saturday, 26 December 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Homestead, United States, Saturday, 26 December 2026"
+    },
+    "pl": {
+      "description": "Holiday 5K, 10K, 13.1M & 26.2M at Homestead, FL (52) to bieg uliczny. Lokalizacja: Homestead, Stany Zjednoczone. Termin: sobota, 26 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Homestead, Stany Zjednoczone, sobota, 26 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Homestead",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Holiday 5K, 10K, 13.1M & 26.2M at Homestead, FL (52)",
+  "registrationUrl": "https://runsignup.com/Race/FL/Homestead/Homestead122725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "holiday-5k-10k-13-1m-26-2m-at-homestead-fl-52-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "holiday-5k-10k-13-1m-26-2m-at-homestead-fl-52-fl",
+    "url": "https://runsignup.com/Race/FL/Homestead/Homestead122725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 25.53,
+    "lon": -80.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/FL/Homestead/Homestead122725?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

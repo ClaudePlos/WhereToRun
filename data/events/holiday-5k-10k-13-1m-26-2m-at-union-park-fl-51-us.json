@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Holiday 5K ,10K, 13.1M & 26.2M at Union Park, FL (51) is a road race. Location: Union Park, United States. Date: Saturday, 19 December 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Union Park, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Holiday 5K ,10K, 13.1M & 26.2M at Union Park, FL (51) to bieg uliczny. Lokalizacja: Union Park, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Union Park, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Union Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Holiday 5K ,10K, 13.1M & 26.2M at Union Park, FL (51)",
+  "registrationUrl": "https://runsignup.com/Race/FL/UnionPark/51UnionParkFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "holiday-5k-10k-13-1m-26-2m-at-union-park-fl-51-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "holiday-5k-10k-13-1m-26-2m-at-union-park-fl-51-fl",
+    "url": "https://runsignup.com/Race/FL/UnionPark/51UnionParkFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.59,
+    "lon": -81.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/FL/UnionPark/51UnionParkFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

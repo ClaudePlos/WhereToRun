@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mel Williams Memorial Seashore 50K is a road race. Location: Virginia Beach, United States. Date: Sunday, 13 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Virginia Beach, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Mel Williams Memorial Seashore 50K to bieg uliczny. Lokalizacja: Virginia Beach, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Virginia Beach, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Virginia Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Mel Williams Memorial Seashore 50K",
+  "registrationUrl": "https://runsignup.com/Race/VA/VirginiaBeach/seashore50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mel-williams-memorial-seashore-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "mel-williams-memorial-seashore-50k-va",
+    "url": "https://runsignup.com/Race/VA/VirginiaBeach/seashore50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.86,
+    "lon": -76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/VA/VirginiaBeach/seashore50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

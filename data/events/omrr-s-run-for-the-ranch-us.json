@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "OMRR's Run for the Ranch is a road race. Location: Springfield, United States. Date: Saturday, 19 December 2026. Distances: ultra, 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Springfield, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "OMRR's Run for the Ranch to bieg uliczny. Lokalizacja: Springfield, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: ultra, 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Springfield, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Springfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "OMRR's Run for the Ranch",
+  "registrationUrl": "https://runsignup.com/Race/MO/Springfield/OMRRsRunfortheRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "omrr-s-run-for-the-ranch-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "omrr-s-run-for-the-ranch-mo",
+    "url": "https://runsignup.com/Race/MO/Springfield/OMRRsRunfortheRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.17,
+    "lon": -93.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/MO/Springfield/OMRRsRunfortheRanch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

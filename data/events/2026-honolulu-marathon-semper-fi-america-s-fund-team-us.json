@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Honolulu Marathon Semper Fi & America's Fund Team is a road race. Location: Honolulu, United States. Date: Sunday, 13 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Honolulu, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "2026 Honolulu Marathon Semper Fi & America's Fund Team to bieg uliczny. Lokalizacja: Honolulu, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Honolulu, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "2026 Honolulu Marathon Semper Fi & America's Fund Team",
+  "registrationUrl": "https://runsignup.com/Race/HI/Honolulu/HonoluluMarathonSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-honolulu-marathon-semper-fi-america-s-fund-team-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "2026-honolulu-marathon-semper-fi-america-s-fund-team-hi",
+    "url": "https://runsignup.com/Race/HI/Honolulu/HonoluluMarathonSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 21.3,
+    "lon": -157.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/HI/Honolulu/HonoluluMarathonSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Texas Double is a road race. Location: Dallas, United States. Date: Saturday, 19 December 2026. Distances: 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dallas, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Texas Double to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Texas Double",
+  "registrationUrl": "https://runsignup.com/Race/TX/Dallas/TexasDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "texas-double-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "texas-double-tx",
+    "url": "https://runsignup.com/Race/TX/Dallas/TexasDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.87,
+    "lon": -96.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/TX/Dallas/TexasDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

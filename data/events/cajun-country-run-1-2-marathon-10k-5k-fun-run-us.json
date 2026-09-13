@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cajun Country Run (1/2 Marathon, 10k, 5k & Fun Run) is a road race. Location: Lafayette, United States. Date: Saturday, 19 December 2026. Distances: 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lafayette, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Cajun Country Run (1/2 Marathon, 10k, 5k & Fun Run) to bieg uliczny. Lokalizacja: Lafayette, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lafayette, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lafayette",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Cajun Country Run (1/2 Marathon, 10k, 5k & Fun Run)",
+  "registrationUrl": "https://runsignup.com/Race/LA/Lafayette/CajunCountryRun12Marathon10k5k2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cajun-country-run-1-2-marathon-10k-5k-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "cajun-country-run-1-2-marathon-10k-5k-fun-run-la",
+    "url": "https://runsignup.com/Race/LA/Lafayette/CajunCountryRun12Marathon10k5k2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.24,
+    "lon": -92.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/LA/Lafayette/CajunCountryRun12Marathon10k5k2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

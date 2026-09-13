@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Holiday Five is a road race. Location: Winter Park, United States. Date: Sunday, 27 December 2026. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Winter Park, United States, Sunday, 27 December 2026"
+    },
+    "pl": {
+      "description": "Holiday Five to bieg uliczny. Lokalizacja: Winter Park, Stany Zjednoczone. Termin: niedziela, 27 grudnia 2026. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Winter Park, Stany Zjednoczone, niedziela, 27 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winter Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Holiday Five",
+  "registrationUrl": "https://runsignup.com/Race/FL/WinterPark/HolidayFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "holiday-five-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "holiday-five-fl",
+    "url": "https://runsignup.com/Race/FL/WinterPark/HolidayFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.6,
+    "lon": -81.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/FL/WinterPark/HolidayFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

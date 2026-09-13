@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Dragon Trails 50k & 10K is a trail race. Location: San Antonio, United States. Date: Sunday, 13 December 2026. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Antonio, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Dragon Trails 50k & 10K to bieg trailowy. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Antonio, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Dragon Trails 50k & 10K",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/DragonTrails10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dragon-trails-50k-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "dragon-trails-50k-10k-tx",
+    "url": "https://runsignup.com/Race/TX/SanAntonio/DragonTrails10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.35,
+    "lon": -98.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/DragonTrails10K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

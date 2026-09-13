@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "16th Annual Round the Bay Relay and Ultra is a ultramarathon. Location: Fort Walton Beach, United States. Date: Sunday, 27 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fort Walton Beach, United States, Sunday, 27 December 2026"
+    },
+    "pl": {
+      "description": "16th Annual Round the Bay Relay and Ultra to ultramaraton. Lokalizacja: Fort Walton Beach, Stany Zjednoczone. Termin: niedziela, 27 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fort Walton Beach, Stany Zjednoczone, niedziela, 27 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Walton Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "16th Annual Round the Bay Relay and Ultra",
+  "registrationUrl": "https://runsignup.com/Race/FL/FortWaltonBeach/RoundTheBayRelayAndUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "16th-annual-round-the-bay-relay-and-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "16th-annual-round-the-bay-relay-and-ultra-fl",
+    "url": "https://runsignup.com/Race/FL/FortWaltonBeach/RoundTheBayRelayAndUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.42,
+    "lon": -86.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/FL/FortWaltonBeach/RoundTheBayRelayAndUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

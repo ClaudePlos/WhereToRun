@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Across the Years is a road race. Location: Peoria, United States. Date: Monday, 28 December 2026. Distances: u100p, u100m, u100k, ultra, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Peoria, United States, Monday, 28 December 2026"
+    },
+    "pl": {
+      "description": "Across the Years to bieg uliczny. Lokalizacja: Peoria, Stany Zjednoczone. Termin: poniedziałek, 28 grudnia 2026. Dystanse: u100p, u100m, u100k, ultra, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Peoria, Stany Zjednoczone, poniedziałek, 28 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m",
+    "u100k",
+    "ultra",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Peoria",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Across the Years",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1414",
+  "slug": "across-the-years-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "across-the-years-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=1414"
+  },
+  "start": {
+    "lat": 33.63,
+    "lon": -112.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1414"
+}

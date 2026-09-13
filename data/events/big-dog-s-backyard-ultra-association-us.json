@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Dog's Backyard Ultra Association is a ultramarathon. Location: Bell Buckle, United States. Date: Thursday, 31 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bell Buckle, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Big Dog's Backyard Ultra Association to ultramaraton. Lokalizacja: Bell Buckle, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bell Buckle, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bell Buckle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Big Dog's Backyard Ultra Association",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17420",
+  "slug": "big-dog-s-backyard-ultra-association-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "big-dog-s-backyard-ultra-association-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=17420"
+  },
+  "start": {
+    "lat": 35.59,
+    "lon": -86.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17420"
+}

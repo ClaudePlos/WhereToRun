@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Texas Ultra Series is a ultramarathon. Location: Multiple Cities, United States. Date: Thursday, 31 December 2026. Distances: 10 km, u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Multiple Cities, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "2027 Texas Ultra Series to ultramaraton. Lokalizacja: Multiple Cities, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: 10 km, u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Multiple Cities, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "10 km",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Multiple Cities",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "2027 Texas Ultra Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17047",
+  "slug": "2027-texas-ultra-series-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "2027-texas-ultra-series-multiple-cities-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=17047"
+  },
+  "start": {
+    "lat": 30.17,
+    "lon": -97.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17047"
+}

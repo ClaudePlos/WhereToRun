@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Star of Texas 50 Miler • 50K • Marathon • Half Marathon • 10K • 5K •  Speedyard (Fastest One Standing) is a road race. Location: Spicewood, United States. Date: Sunday, 13 December 2026. Distances: 42.2 km, u50k, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Spicewood, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Star of Texas 50 Miler • 50K • Marathon • Half Marathon • 10K • 5K •  Speedyard (Fastest One Standing) to bieg uliczny. Lokalizacja: Spicewood, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 42.2 km, u50k, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Spicewood, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "u50k",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spicewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Star of Texas 50 Miler • 50K • Marathon • Half Marathon • 10K • 5K •  Speedyard (Fastest One Standing)",
+  "registrationUrl": "https://runsignup.com/Race/TX/Spicewood/PaceBendMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "star-of-texas-50-miler-50k-marathon-half-marathon-10k-5k-speedyard-fastest-one-s",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "star-of-texas-50-miler-50k-marathon-half-marathon-10k-5k-speedyard",
+    "url": "https://runsignup.com/Race/TX/Spicewood/PaceBendMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.39,
+    "lon": -98.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/TX/Spicewood/PaceBendMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

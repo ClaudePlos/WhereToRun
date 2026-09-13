@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Palmetto Bluff Buffalo Run 10K, 30K, 50K Ultra and Relay is a ultramarathon. Location: Bluffton, United States. Date: Sunday, 13 December 2026. Distances: 10 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bluffton, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Palmetto Bluff Buffalo Run 10K, 30K, 50K Ultra and Relay to ultramaraton. Lokalizacja: Bluffton, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 10 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bluffton, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bluffton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Palmetto Bluff Buffalo Run 10K, 30K, 50K Ultra and Relay",
+  "registrationUrl": "https://runsignup.com/Race/SC/Bluffton/PalmettoBluffBuffaloRun10K30K50KUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "palmetto-bluff-buffalo-run-10k-30k-50k-ultra-and-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "palmetto-bluff-buffalo-run-10k-30k-50k-ultra-and-relay-sc",
+    "url": "https://runsignup.com/Race/SC/Bluffton/PalmettoBluffBuffaloRun10K30K50KUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.25,
+    "lon": -80.87,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://runsignup.com/Race/SC/Bluffton/PalmettoBluffBuffaloRun10K30K50KUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

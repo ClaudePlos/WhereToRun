@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tucson Marathon Events is a road race. Location: Tucson, United States. Date: Sunday, 13 December 2026. Distances: 42.2 km, 21.1 km, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Tucson, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Tucson Marathon Events to bieg uliczny. Lokalizacja: Tucson, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 42.2 km, 21.1 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Tucson, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T22:23:08.200Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tucson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Tucson Marathon Events",
+  "registrationUrl": "https://raceroster.com/events/2026/113655/tucson-marathon-events",
+  "slug": "tucson-marathon-events-us",
+  "source": {
+    "fetchedAt": "2026-09-13T22:23:17.679Z",
+    "id": "runraceusa",
+    "ref": "tucson-marathon-events-az",
+    "url": "https://raceroster.com/events/2026/113655/tucson-marathon-events"
+  },
+  "start": {
+    "lat": 32.2217,
+    "lon": -110.9265,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T22:23:08.200Z",
+  "website": "https://raceroster.com/events/2026/113655/tucson-marathon-events"
+}
