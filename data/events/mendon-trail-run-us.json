@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mendon Trail Run is a ultramarathon. Location: Mendon, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mendon, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mendon Trail Run to ultramaraton. Lokalizacja: Mendon, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mendon, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mendon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Mendon Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66673",
+  "slug": "mendon-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "1342",
+    "url": "https://ultrasignup.com/register.aspx?did=66673"
+  },
+  "start": {
+    "lat": 43.0271,
+    "lon": -77.5598,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "http://roc.us.orienteering.org/mtr/"
+}

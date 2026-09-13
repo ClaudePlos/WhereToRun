@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Topo Trail Marathon Races is a trail race. Location: Bethel, United States. Date: Sunday, 6 December 2026. Distances: 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Bethel, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Topo Trail Marathon Races to bieg trailowy. Lokalizacja: Bethel, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Bethel, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bethel",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Topo Trail Marathon Races",
+  "registrationUrl": "https://runsignup.com/Race/OH/Bethel/TopoTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "topo-trail-marathon-races-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "topo-trail-marathon-races-oh",
+    "url": "https://runsignup.com/Race/OH/Bethel/TopoTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.1,
+    "lon": -84.15,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/OH/Bethel/TopoTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

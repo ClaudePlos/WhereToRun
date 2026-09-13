@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pinhoti is a road race. Location: Sylacauga, United States. Date: Saturday, 7 November 2026. Distances: Pinhoti 100. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sylacauga, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Pinhoti to bieg uliczny. Lokalizacja: Sylacauga, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: Pinhoti 100. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sylacauga, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Pinhoti 100"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sylacauga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Pinhoti",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64129",
+  "slug": "pinhoti-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "314",
+    "url": "https://ultrasignup.com/register.aspx?did=64129"
+  },
+  "start": {
+    "lat": 33.1784,
+    "lon": -86.2513,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "http://www.pinhotitrailseries.com"
+}

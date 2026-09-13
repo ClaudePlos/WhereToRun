@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Beast of the East 100 is a road race. Location: Kings Mountain, United States. Date: Saturday, 12 December 2026. Distances: u100m, u100k, u50m, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kings Mountain, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Beast of the East 100 to bieg uliczny. Lokalizacja: Kings Mountain, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u100m, u100k, u50m, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kings Mountain, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kings Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Beast of the East 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8781",
+  "slug": "beast-of-the-east-100-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "beast-of-the-east-100-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=8781"
+  },
+  "start": {
+    "lat": 35.17,
+    "lon": -81.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8781"
+}

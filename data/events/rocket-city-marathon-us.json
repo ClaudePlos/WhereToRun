@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Rocket City Marathon is a road race. Location: Huntsville, United States. Date: Saturday, 12 December 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Rocket City Marathon to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Rocket City Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/RocketCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rocket-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "rocket-city-marathon-al",
+    "url": "https://runsignup.com/Race/AL/Huntsville/RocketCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.73,
+    "lon": -86.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/AL/Huntsville/RocketCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

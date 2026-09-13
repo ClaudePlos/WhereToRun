@@ -17,6 +17,7 @@
     "100k Relay",
     "50 km",
     "25 km",
+    "Virtual 25k-10k or 5k",
     "10 km",
     "5 km"
   ],
@@ -35,7 +36,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64442",
   "slug": "mujeres-and-marigolds-us",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.124Z",
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
     "id": "ultrasignup",
     "ref": "19756",
     "url": "https://ultrasignup.com/register.aspx?did=64442"
@@ -51,6 +52,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
   "website": "https://www.riseracingco.com/mujeres-marigolds"
 }

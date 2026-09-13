@@ -14,7 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km",
+    "Half-Marathon",
     "10 km"
   ],
   "endDate": null,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Lithia Loop",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2064",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67918",
   "slug": "lithia-loop-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
-    "id": "runraceusa",
-    "ref": "lithia-loop-or",
-    "url": "https://ultrasignup.com/register.aspx?eid=2064"
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "2064",
+    "url": "https://ultrasignup.com/register.aspx?did=67918"
   },
   "start": {
-    "lat": 42.19,
-    "lon": -122.72,
+    "lat": 42.1881,
+    "lon": -122.716,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2064"
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://roguevalleyrunners.com/pages/lithia-loop-trail-marathon"
 }

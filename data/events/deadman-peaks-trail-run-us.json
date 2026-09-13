@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Deadman Peaks Trail Run is a ultramarathon. Location: Cuba, United States. Date: Saturday, 7 November 2026. Distances: Backbone 100, Backbone 100 relay, 85.3 km, 53 Mile 2 Person Relay, 55 km, 30 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cuba, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Deadman Peaks Trail Run to ultramaraton. Lokalizacja: Cuba, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: Backbone 100, Backbone 100 relay, 85.3 km, 53 Mile 2 Person Relay, 55 km, 30 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cuba, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backbone 100",
+    "Backbone 100 relay",
+    "85.3 km",
+    "53 Mile 2 Person Relay",
+    "55 km",
+    "30 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cuba",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Deadman Peaks Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66229",
+  "slug": "deadman-peaks-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "1938",
+    "url": "https://ultrasignup.com/register.aspx?did=66229"
+  },
+  "start": {
+    "lat": 35.9729,
+    "lon": -107.007,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "http://racenm.com"
+}

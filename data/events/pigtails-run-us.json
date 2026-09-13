@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "PIGTAILS RUN is a road race. Location: Maple Valley, United States. Date: Saturday, 12 December 2026. Distances: u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Maple Valley, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "PIGTAILS RUN to bieg uliczny. Lokalizacja: Maple Valley, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Maple Valley, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Maple Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "PIGTAILS RUN",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2074",
+  "slug": "pigtails-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "pigtails-run-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=2074"
+  },
+  "start": {
+    "lat": 47.39,
+    "lon": -122.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2074"
+}

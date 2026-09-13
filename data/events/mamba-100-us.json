@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mamba 100 is a ultramarathon. Location: Memphis, United States. Date: 6 November 2026 – 7 November 2026. Distances: 160.9 km, 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Memphis, United States, 6 November 2026 – 7 November 2026"
+    },
+    "pl": {
+      "description": "Mamba 100 to ultramaraton. Lokalizacja: Memphis, Stany Zjednoczone. Termin: 6 listopada 2026 – 7 listopada 2026. Dystanse: 160.9 km, 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Memphis, Stany Zjednoczone, 6 listopada 2026 – 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km"
+  ],
+  "endDate": "2026-11-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Memphis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Mamba 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64240",
+  "slug": "mamba-100-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "16262",
+    "url": "https://ultrasignup.com/register.aspx?did=64240"
+  },
+  "start": {
+    "lat": 35.1186,
+    "lon": -89.8064,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "http://www.mambatrailrunners.com"
+}

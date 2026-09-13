@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Magnolia Magic River Trail Run is a trail race. Location: Pilot Hill, United States. Date: Saturday, 12 December 2026. Distances: u50k, 42.2 km, other, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pilot Hill, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Magnolia Magic River Trail Run to bieg trailowy. Lokalizacja: Pilot Hill, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k, 42.2 km, other, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pilot Hill, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pilot Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Magnolia Magic River Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19960",
+  "slug": "magnolia-magic-river-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "magnolia-magic-river-trail-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=19960"
+  },
+  "start": {
+    "lat": 38.83,
+    "lon": -120.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19960"
+}

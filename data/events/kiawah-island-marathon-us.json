@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Kiawah Island Marathon is a road race. Location: Kiawah Island, United States. Date: Friday, 11 December 2026. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kiawah Island, United States, Friday, 11 December 2026"
+    },
+    "pl": {
+      "description": "Kiawah Island Marathon to bieg uliczny. Lokalizacja: Kiawah Island, Stany Zjednoczone. Termin: piątek, 11 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kiawah Island, Stany Zjednoczone, piątek, 11 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kiawah Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Kiawah Island Marathon",
+  "registrationUrl": "https://runsignup.com/Race/SC/KiawahIsland/KiawahMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "kiawah-island-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "kiawah-island-marathon-sc",
+    "url": "https://runsignup.com/Race/SC/KiawahIsland/KiawahMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.79,
+    "lon": -80.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/SC/KiawahIsland/KiawahMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

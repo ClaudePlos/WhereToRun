@@ -13,7 +13,7 @@
   "date": "2026-11-06",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Last Man Standing"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Barn Creek Backyard Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16780",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64174",
   "slug": "barn-creek-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
-    "id": "runraceusa",
-    "ref": "barn-creek-backyard-ultra-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=16780"
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "16780",
+    "url": "https://ultrasignup.com/register.aspx?did=64174"
   },
   "start": {
-    "lat": 36.37,
-    "lon": -84.86,
+    "lat": 36.3656,
+    "lon": -84.8592,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16780"
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://thelongrun865.com/barn-creek-backyard-ultra"
 }

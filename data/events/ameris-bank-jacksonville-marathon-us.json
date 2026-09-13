@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ameris Bank Jacksonville Marathon is a road race. Location: Jacksonville, United States. Date: Saturday, 12 December 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Jacksonville, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Ameris Bank Jacksonville Marathon to bieg uliczny. Lokalizacja: Jacksonville, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Jacksonville, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jacksonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Ameris Bank Jacksonville Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/129638/ameris-bank-jacksonville-marathon",
+  "slug": "ameris-bank-jacksonville-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "ameris-bank-jacksonville-marathon-fl",
+    "url": "https://raceroster.com/events/2026/129638/ameris-bank-jacksonville-marathon"
+  },
+  "start": {
+    "lat": 30.3449,
+    "lon": -81.6831,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://raceroster.com/events/2026/129638/ameris-bank-jacksonville-marathon"
+}

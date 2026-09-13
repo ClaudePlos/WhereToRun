@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Masochist Trail Run is a ultramarathon. Location: Montebello, United States. Date: Saturday, 7 November 2026. Distances: 100 km, 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Montebello, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mountain Masochist Trail Run to ultramaraton. Lokalizacja: Montebello, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 100 km, 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Montebello, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montebello",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Mountain Masochist Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64461",
+  "slug": "mountain-masochist-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:32.903Z",
+    "id": "ultrasignup",
+    "ref": "82",
+    "url": "https://ultrasignup.com/register.aspx?did=64461"
+  },
+  "start": {
+    "lat": 37.8528,
+    "lon": -79.1316,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runmmtr.com/"
+}

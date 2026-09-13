@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ignite Trail Marathon is a trail race. Location: Albion, United States. Date: Saturday, 12 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Albion, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Ignite Trail Marathon to bieg trailowy. Lokalizacja: Albion, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Albion, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albion",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Ignite Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IN/Albion/IgniteTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ignite-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "ignite-trail-marathon-in",
+    "url": "https://runsignup.com/Race/IN/Albion/IgniteTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.35,
+    "lon": -85.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/IN/Albion/IgniteTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

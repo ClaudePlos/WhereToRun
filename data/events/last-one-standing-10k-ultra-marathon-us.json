@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last One Standing 10K+ Ultra Marathon is a ultramarathon. Location: Saint George, United States. Date: Friday, 11 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Saint George, United States, Friday, 11 December 2026"
+    },
+    "pl": {
+      "description": "Last One Standing 10K+ Ultra Marathon to ultramaraton. Lokalizacja: Saint George, Stany Zjednoczone. Termin: piątek, 11 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Saint George, Stany Zjednoczone, piątek, 11 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saint George",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Last One Standing 10K+ Ultra Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9333",
+  "slug": "last-one-standing-10k-ultra-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "last-one-standing-10k-ultra-marathon-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=9333"
+  },
+  "start": {
+    "lat": 37.07,
+    "lon": -113.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9333"
+}

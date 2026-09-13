@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "PhoMo 50k is a road race. Location: Phoenix, United States. Date: Saturday, 12 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Phoenix, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "PhoMo 50k to bieg uliczny. Lokalizacja: Phoenix, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Phoenix, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Phoenix",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "PhoMo 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17796",
+  "slug": "phomo-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "phomo-50k-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=17796"
+  },
+  "start": {
+    "lat": 33.6,
+    "lon": -112.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17796"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Irving Frost Marathon Social Run is a road race. Location: Irving, United States. Date: Tuesday, 8 December 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Irving, United States, Tuesday, 8 December 2026"
+    },
+    "pl": {
+      "description": "Irving Frost Marathon Social Run to bieg uliczny. Lokalizacja: Irving, Stany Zjednoczone. Termin: wtorek, 8 grudnia 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Irving, Stany Zjednoczone, wtorek, 8 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Irving",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Irving Frost Marathon Social Run",
+  "registrationUrl": "https://runsignup.com/Race/TX/Irving/IrvingFrostMarathonSocialRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "irving-frost-marathon-social-run-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "irving-frost-marathon-social-run-tx",
+    "url": "https://runsignup.com/Race/TX/Irving/IrvingFrostMarathonSocialRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.87,
+    "lon": -96.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/TX/Irving/IrvingFrostMarathonSocialRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

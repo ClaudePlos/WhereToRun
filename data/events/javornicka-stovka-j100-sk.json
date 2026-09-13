@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Javornicka stovka (J100) is a ultramarathon. Location: Cadca, Slovakia. Date: 10 October 2026 – 11 October 2026. Distances: 105 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Cadca, Slovakia, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "Javornicka stovka (J100) to ultramaraton. Lokalizacja: Cadca, Słowacja. Termin: 10 października 2026 – 11 października 2026. Dystanse: 105 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Cadca, Słowacja, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "105 km"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cadca",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Javornicka stovka (J100)",
+  "registrationUrl": null,
+  "slug": "javornicka-stovka-j100-sk",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:46.747Z",
+    "id": "duv",
+    "ref": "135736",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135736"
+  },
+  "start": {
+    "lat": 49.437515,
+    "lon": 18.789604,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": null
+}

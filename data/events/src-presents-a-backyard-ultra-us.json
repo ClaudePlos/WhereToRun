@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "SRC Presents: A Backyard Ultra is a ultramarathon. Location: Hauppauge, United States. Date: Saturday, 12 December 2026. Distances: ultra, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hauppauge, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "SRC Presents: A Backyard Ultra to ultramaraton. Lokalizacja: Hauppauge, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: ultra, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hauppauge, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hauppauge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "SRC Presents: A Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NY/Hauppauge/SRCBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "src-presents-a-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "src-presents-a-backyard-ultra-ny",
+    "url": "https://runsignup.com/Race/NY/Hauppauge/SRCBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.82,
+    "lon": -73.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/NY/Hauppauge/SRCBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

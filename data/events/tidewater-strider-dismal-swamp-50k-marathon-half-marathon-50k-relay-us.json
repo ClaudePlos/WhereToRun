@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tidewater Strider Dismal Swamp 50K / Marathon /Half Marathon/50K Relay is a road race. Location: Chesapeake, United States. Date: Sunday, 6 December 2026. Distances: u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chesapeake, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Tidewater Strider Dismal Swamp 50K / Marathon /Half Marathon/50K Relay to bieg uliczny. Lokalizacja: Chesapeake, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chesapeake, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-13T12:01:25.177Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chesapeake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Tidewater Strider Dismal Swamp 50K / Marathon /Half Marathon/50K Relay",
+  "registrationUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tidewater-strider-dismal-swamp-50k-marathon-half-marathon-50k-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-13T12:01:34.232Z",
+    "id": "runraceusa",
+    "ref": "tidewater-strider-dismal-swamp-50k-marathon-half-marathon-50k-relay-va",
+    "url": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.64,
+    "lon": -76.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-13T12:01:25.177Z",
+  "website": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
