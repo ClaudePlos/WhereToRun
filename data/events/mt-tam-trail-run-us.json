@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Mt. Tam Trail Run is a ultramarathon. Location: Stinson Beach, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 30 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stinson Beach, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Mt. Tam Trail Run to ultramaraton. Lokalizacja: Stinson Beach, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 30 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stinson Beach, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stinson Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mt. Tam Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66933",
+  "slug": "mt-tam-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:20.517Z",
+    "id": "ultrasignup",
+    "ref": "3546",
+    "url": "https://ultrasignup.com/register.aspx?did=66933"
+  },
+  "start": {
+    "lat": 37.8984,
+    "lon": -122.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://insidetrail.com/calendar/mt-tam-trail-run/"
+}

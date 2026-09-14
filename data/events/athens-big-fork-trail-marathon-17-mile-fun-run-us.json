@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Athens Big Fork Trail Marathon & 17 Mile Fun Run is a trail race. Location: Mena, United States. Date: Saturday, 9 January 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Mena, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Athens Big Fork Trail Marathon & 17 Mile Fun Run to bieg trailowy. Lokalizacja: Mena, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Mena, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Athens Big Fork Trail Marathon & 17 Mile Fun Run",
+  "registrationUrl": "https://runsignup.com/Race/AR/Mena/AthensBigForkTrailMarathon17MileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "athens-big-fork-trail-marathon-17-mile-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "athens-big-fork-trail-marathon-17-mile-fun-run-ar",
+    "url": "https://runsignup.com/Race/AR/Mena/AthensBigForkTrailMarathon17MileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.58,
+    "lon": -94.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/AR/Mena/AthensBigForkTrailMarathon17MileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

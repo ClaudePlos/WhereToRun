@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "16th Annual Vista View 360 Ultramarathon & Relay is a road race. Location: Davie, United States. Date: Sunday, 3 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Davie, United States, Sunday, 3 January 2027"
+    },
+    "pl": {
+      "description": "16th Annual Vista View 360 Ultramarathon & Relay to bieg uliczny. Lokalizacja: Davie, Stany Zjednoczone. Termin: niedziela, 3 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Davie, Stany Zjednoczone, niedziela, 3 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Davie",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "16th Annual Vista View 360 Ultramarathon & Relay",
+  "registrationUrl": "https://runsignup.com/Race/FL/Davie/VistaView360UltramarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "16th-annual-vista-view-360-ultramarathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "16th-annual-vista-view-360-ultramarathon-relay-fl",
+    "url": "https://runsignup.com/Race/FL/Davie/VistaView360UltramarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 26.07,
+    "lon": -80.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/FL/Davie/VistaView360UltramarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

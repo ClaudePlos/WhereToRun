@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Azalea Trail Challenge is a trail race. Location: Alexandria, United States. Date: Saturday, 2 January 2027. Distances: u50m, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Alexandria, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Wild Azalea Trail Challenge to bieg trailowy. Lokalizacja: Alexandria, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: u50m, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Alexandria, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alexandria",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Wild Azalea Trail Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4229",
+  "slug": "wild-azalea-trail-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "wild-azalea-trail-challenge-la",
+    "url": "https://ultrasignup.com/register.aspx?eid=4229"
+  },
+  "start": {
+    "lat": 31.24,
+    "lon": -92.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4229"
+}

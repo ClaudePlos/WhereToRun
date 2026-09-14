@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Revolution Run - New Years Day Morning is a road race. Location: Kearns, United States. Date: Friday, 1 January 2027. Distances: ultra, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kearns, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Revolution Run - New Years Day Morning to bieg uliczny. Lokalizacja: Kearns, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: ultra, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kearns, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kearns",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Revolution Run - New Years Day Morning",
+  "registrationUrl": "https://runsignup.com/Race/UT/Kearns/NewYearsRevolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "revolution-run-new-years-day-morning-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "revolution-run-new-years-day-morning-ut",
+    "url": "https://runsignup.com/Race/UT/Kearns/NewYearsRevolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.65,
+    "lon": -112.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/UT/Kearns/NewYearsRevolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

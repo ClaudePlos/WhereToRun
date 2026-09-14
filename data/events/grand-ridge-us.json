@@ -13,10 +13,12 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "21.1 km",
-    "other"
+    "1",
+    "2 Marathon",
+    "8 km",
+    "Kids Race"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +32,25 @@
   },
   "manual": false,
   "name": "Grand Ridge",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2254",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64096",
   "slug": "grand-ridge-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
-    "id": "runraceusa",
-    "ref": "grand-ridge-wa",
-    "url": "https://ultrasignup.com/register.aspx?eid=2254"
+    "fetchedAt": "2026-09-14T13:00:20.517Z",
+    "id": "ultrasignup",
+    "ref": "2254",
+    "url": "https://ultrasignup.com/register.aspx?did=64096"
   },
   "start": {
-    "lat": 47.53,
+    "lat": 47.5318,
     "lon": -121.98,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2254"
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://www.evergreentrailruns.com/grand-ridge-2/"
 }

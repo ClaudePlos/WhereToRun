@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Frozen Sasquatch Trail 50k/25k is a trail race. Location: Charleston, United States. Date: Saturday, 9 January 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Charleston, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Frozen Sasquatch Trail 50k/25k to bieg trailowy. Lokalizacja: Charleston, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Charleston, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Charleston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Frozen Sasquatch Trail 50k/25k",
+  "registrationUrl": "https://runsignup.com/Race/WV/Charleston/FrozenSasquatchTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "frozen-sasquatch-trail-50k-25k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "frozen-sasquatch-trail-50k-25k-wv",
+    "url": "https://runsignup.com/Race/WV/Charleston/FrozenSasquatchTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.33,
+    "lon": -81.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/WV/Charleston/FrozenSasquatchTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

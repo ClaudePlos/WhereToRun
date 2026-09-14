@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cuesta X Trail - CXT-100 is a ultramarathon. Location: Nakorn Ratchasima, Thailand. Date: 7 November 2026 – 8 November 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nakorn Ratchasima, Thailand, 7 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "Cuesta X Trail - CXT-100 to ultramaraton. Lokalizacja: Nakorn Ratchasima, Tajlandia. Termin: 7 listopada 2026 – 8 listopada 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nakorn Ratchasima, Tajlandia, 7 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nakorn Ratchasima",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Cuesta X Trail - CXT-100",
+  "registrationUrl": null,
+  "slug": "cuesta-x-trail-cxt-100-th",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:36.779Z",
+    "id": "duv",
+    "ref": "134020",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134020"
+  },
+  "start": {
+    "lat": 14.884425,
+    "lon": 101.904629,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": null
+}

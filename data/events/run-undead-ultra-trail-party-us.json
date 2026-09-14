@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Undead Ultra Trail Party is a ultramarathon. Location: Pelham, United States. Date: Thursday, 31 December 2026. Distances: u100m, u100k, u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pelham, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Run Undead Ultra Trail Party to ultramaraton. Lokalizacja: Pelham, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: u100m, u100k, u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pelham, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Run Undead Ultra Trail Party",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15177",
+  "slug": "run-undead-ultra-trail-party-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "run-undead-ultra-trail-party-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=15177"
+  },
+  "start": {
+    "lat": 33.32,
+    "lon": -86.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15177"
+}

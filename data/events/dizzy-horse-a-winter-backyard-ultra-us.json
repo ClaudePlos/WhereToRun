@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dizzy Horse, A Winter Backyard Ultra is a ultramarathon. Location: Idaho Falls, United States. Date: Friday, 8 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Idaho Falls, United States, Friday, 8 January 2027"
+    },
+    "pl": {
+      "description": "Dizzy Horse, A Winter Backyard Ultra to ultramaraton. Lokalizacja: Idaho Falls, Stany Zjednoczone. Termin: piątek, 8 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Idaho Falls, Stany Zjednoczone, piątek, 8 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Idaho Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Dizzy Horse, A Winter Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/ID/IdahoFalls/DizzyHorse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dizzy-horse-a-winter-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "dizzy-horse-a-winter-backyard-ultra-id",
+    "url": "https://runsignup.com/Race/ID/IdahoFalls/DizzyHorse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.48,
+    "lon": -112.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/ID/IdahoFalls/DizzyHorse?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

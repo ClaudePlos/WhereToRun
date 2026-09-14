@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tuscobia Winter Ultra is a ultramarathon. Location: Rice Lake-Park Falls, United States. Date: Friday, 1 January 2027. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rice Lake-Park Falls, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Tuscobia Winter Ultra to ultramaraton. Lokalizacja: Rice Lake-Park Falls, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rice Lake-Park Falls, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rice Lake-Park Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Tuscobia Winter Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2017",
+  "slug": "tuscobia-winter-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "tuscobia-winter-ultra-wi",
+    "url": "https://ultrasignup.com/register.aspx?eid=2017"
+  },
+  "start": {
+    "lat": 45.52,
+    "lon": -91.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2017"
+}

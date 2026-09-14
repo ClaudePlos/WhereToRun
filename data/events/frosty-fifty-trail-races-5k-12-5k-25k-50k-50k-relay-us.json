@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Frosty Fifty Trail Races 5K|12.5K|25K|50K|50K Relay is a trail race. Location: Winston Salem, United States. Date: Friday, 8 January 2027. Distances: 5 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Winston Salem, United States, Friday, 8 January 2027"
+    },
+    "pl": {
+      "description": "Frosty Fifty Trail Races 5K|12.5K|25K|50K|50K Relay to bieg trailowy. Lokalizacja: Winston Salem, Stany Zjednoczone. Termin: piątek, 8 stycznia 2027. Dystanse: 5 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Winston Salem, Stany Zjednoczone, piątek, 8 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winston Salem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Frosty Fifty Trail Races 5K|12.5K|25K|50K|50K Relay",
+  "registrationUrl": "https://runsignup.com/Race/NC/WinstonSalem/SalemLakeshoreFrostyFifty50k25kand50kRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "frosty-fifty-trail-races-5k-12-5k-25k-50k-50k-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "frosty-fifty-trail-races-5k-12-5k-25k-50k-50k-relay-nc",
+    "url": "https://runsignup.com/Race/NC/WinstonSalem/SalemLakeshoreFrostyFifty50k25kand50kRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.04,
+    "lon": -80.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/NC/WinstonSalem/SalemLakeshoreFrostyFifty50k25kand50kRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

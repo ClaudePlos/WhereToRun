@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Florida Outlaw Ultra is a ultramarathon. Location: Ocklawaha, United States. Date: Saturday, 2 January 2027. Distances: u50k, u100k, ultra, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ocklawaha, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Florida Outlaw Ultra to ultramaraton. Lokalizacja: Ocklawaha, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: u50k, u100k, ultra, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ocklawaha, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "u100k",
+    "ultra",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ocklawaha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Florida Outlaw Ultra",
+  "registrationUrl": "https://runsignup.com/Race/FL/Ocklawaha/FloridaOutlawUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "florida-outlaw-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "florida-outlaw-ultra-fl",
+    "url": "https://runsignup.com/Race/FL/Ocklawaha/FloridaOutlawUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.06,
+    "lon": -81.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/FL/Ocklawaha/FloridaOutlawUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

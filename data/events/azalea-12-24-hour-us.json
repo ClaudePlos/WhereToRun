@@ -13,9 +13,10 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "ultra"
+    "80.5 km",
+    "50 km",
+    "24 h",
+    "12 h"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Azalea 12/24 Hour",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4551",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66047",
   "slug": "azalea-12-24-hour-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
-    "id": "runraceusa",
-    "ref": "azalea-12-24-hour-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=4551"
+    "fetchedAt": "2026-09-14T13:00:20.517Z",
+    "id": "ultrasignup",
+    "ref": "4551",
+    "url": "https://ultrasignup.com/register.aspx?did=66047"
   },
   "start": {
-    "lat": 29.64,
-    "lon": -81.65,
+    "lat": 29.6357,
+    "lon": -81.6466,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4551"
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://www.facebook.com/groups/239391159778885/"
 }

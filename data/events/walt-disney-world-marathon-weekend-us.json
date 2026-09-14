@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Walt Disney World® Marathon Weekend is a road race. Location: Lake Buena Vista, United States. Date: Wednesday, 6 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Lake Buena Vista, United States, Wednesday, 6 January 2027"
+    },
+    "pl": {
+      "description": "Walt Disney World® Marathon Weekend to bieg uliczny. Lokalizacja: Lake Buena Vista, Stany Zjednoczone. Termin: środa, 6 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Lake Buena Vista, Stany Zjednoczone, środa, 6 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Buena Vista",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Walt Disney World® Marathon Weekend",
+  "registrationUrl": "https://raceroster.com/events/2027/117384/walt-disney-world-marathon-weekend",
+  "slug": "walt-disney-world-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "walt-disney-world-marathon-weekend-fl",
+    "url": "https://raceroster.com/events/2027/117384/walt-disney-world-marathon-weekend"
+  },
+  "start": {
+    "lat": 28.3936,
+    "lon": -81.5387,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://raceroster.com/events/2027/117384/walt-disney-world-marathon-weekend"
+}

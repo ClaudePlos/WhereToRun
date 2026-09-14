@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run the River: Rio Colorado Ultra Slam™ is a ultramarathon. Location: Spicewood, United States. Date: Friday, 1 January 2027. Distances: u100p. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Spicewood, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Run the River: Rio Colorado Ultra Slam™ to ultramaraton. Lokalizacja: Spicewood, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: u100p. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Spicewood, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spicewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Run the River: Rio Colorado Ultra Slam™",
+  "registrationUrl": "https://runsignup.com/Race/TX/Spicewood/RioColoradoUltraSlam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-the-river-rio-colorado-ultra-slam-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "run-the-river-rio-colorado-ultra-slam-tx",
+    "url": "https://runsignup.com/Race/TX/Spicewood/RioColoradoUltraSlam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.39,
+    "lon": -98.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/TX/Spicewood/RioColoradoUltraSlam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

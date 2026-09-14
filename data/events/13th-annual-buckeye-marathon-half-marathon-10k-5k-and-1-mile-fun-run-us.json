@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "13th Annual Buckeye Marathon, Half Marathon, 10K, 5K and 1 Mile Fun Run is a road race. Location: Buckeye, United States. Date: Saturday, 9 January 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Buckeye, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "13th Annual Buckeye Marathon, Half Marathon, 10K, 5K and 1 Mile Fun Run to bieg uliczny. Lokalizacja: Buckeye, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Buckeye, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Buckeye",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "13th Annual Buckeye Marathon, Half Marathon, 10K, 5K and 1 Mile Fun Run",
+  "registrationUrl": "https://raceroster.com/events/2027/138627/13th-annual-buckeye-marathon-half-marathon-10k-5k-and-1-mile-fun-run",
+  "slug": "13th-annual-buckeye-marathon-half-marathon-10k-5k-and-1-mile-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "13th-annual-buckeye-marathon-half-marathon-10k-5k-and-1-mile-fun-run",
+    "url": "https://raceroster.com/events/2027/138627/13th-annual-buckeye-marathon-half-marathon-10k-5k-and-1-mile-fun-run"
+  },
+  "start": {
+    "lat": 33.3703,
+    "lon": -112.5838,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://raceroster.com/events/2027/138627/13th-annual-buckeye-marathon-half-marathon-10k-5k-and-1-mile-fun-run"
+}

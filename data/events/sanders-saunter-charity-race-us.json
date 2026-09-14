@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Sanders' Saunter Charity Race is a ultramarathon. Location: Lawrence, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 25 km, 10 km, $250 HERO, $500 HERO, $750 HERO. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lawrence, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Sanders' Saunter Charity Race to ultramaraton. Lokalizacja: Lawrence, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 25 km, 10 km, $250 HERO, $500 HERO, $750 HERO. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lawrence, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km",
+    "$250 HERO",
+    "$500 HERO",
+    "$750 HERO"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lawrence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Sanders' Saunter Charity Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65230",
+  "slug": "sanders-saunter-charity-race-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:20.517Z",
+    "id": "ultrasignup",
+    "ref": "2954",
+    "url": "https://ultrasignup.com/register.aspx?did=65230"
+  },
+  "start": {
+    "lat": 38.9397,
+    "lon": -95.3407,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "http://trailhawks.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fever Dream Ultra is a ultramarathon. Location: Harriman, United States. Date: Saturday, 9 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Harriman, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Fever Dream Ultra to ultramaraton. Lokalizacja: Harriman, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Harriman, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Harriman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Fever Dream Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20696",
+  "slug": "fever-dream-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "fever-dream-ultra-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=20696"
+  },
+  "start": {
+    "lat": 35.88,
+    "lon": -84.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20696"
+}

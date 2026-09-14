@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Phutajor Trail is a ultramarathon. Location: Kapong, Thailand. Date: Sunday, 29 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kapong, Thailand, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "Phutajor Trail to ultramaraton. Lokalizacja: Kapong, Tajlandia. Termin: niedziela, 29 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kapong, Tajlandia, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-11-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kapong",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Phutajor Trail",
+  "registrationUrl": null,
+  "slug": "phutajor-trail-th",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:36.779Z",
+    "id": "duv",
+    "ref": "134023",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134023"
+  },
+  "start": {
+    "lat": 8.688035,
+    "lon": 98.408194,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": null
+}

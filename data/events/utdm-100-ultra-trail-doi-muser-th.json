@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Utdm 100 Ultra-Trail Doi Muser is a ultramarathon. Location: Mae Sot City, Thailand. Date: 18 September 2026 – 20 September 2026. Distances: 160 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mae Sot City, Thailand, 18 September 2026 – 20 September 2026"
+    },
+    "pl": {
+      "description": "Utdm 100 Ultra-Trail Doi Muser to ultramaraton. Lokalizacja: Mae Sot City, Tajlandia. Termin: 18 września 2026 – 20 września 2026. Dystanse: 160 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mae Sot City, Tajlandia, 18 września 2026 – 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-09-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mae Sot City",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Utdm 100 Ultra-Trail Doi Muser",
+  "registrationUrl": null,
+  "slug": "utdm-100-ultra-trail-doi-muser-th",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:36.779Z",
+    "id": "duv",
+    "ref": "133976",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133976"
+  },
+  "start": {
+    "lat": 16.714992,
+    "lon": 98.569553,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": null
+}

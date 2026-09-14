@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Avalon Benefit 50 Mile/50K Run is a road race. Location: Avalon, United States. Date: Saturday, 9 January 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Avalon, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Avalon Benefit 50 Mile/50K Run to bieg uliczny. Lokalizacja: Avalon, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Avalon, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Avalon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Avalon Benefit 50 Mile/50K Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/Avalon/Avalonbenefitrun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "avalon-benefit-50-mile-50k-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "avalon-benefit-50-mile-50k-run-ca",
+    "url": "https://runsignup.com/Race/CA/Avalon/Avalonbenefitrun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.33,
+    "lon": -118.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/CA/Avalon/Avalonbenefitrun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

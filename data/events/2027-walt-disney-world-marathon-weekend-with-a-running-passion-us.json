@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 WALT DISNEY WORLD® Marathon Weekend With A Running Passion is a road race. Location: Orlando, United States. Date: Thursday, 7 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km, ultra, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Orlando, United States, Thursday, 7 January 2027"
+    },
+    "pl": {
+      "description": "2027 WALT DISNEY WORLD® Marathon Weekend With A Running Passion to bieg uliczny. Lokalizacja: Orlando, Stany Zjednoczone. Termin: czwartek, 7 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, ultra, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Orlando, Stany Zjednoczone, czwartek, 7 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "ultra",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Orlando",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "2027 WALT DISNEY WORLD® Marathon Weekend With A Running Passion",
+  "registrationUrl": "https://runsignup.com/Race/FL/Orlando/2025WALTDISNEYWORLDMarathonARunningPassion?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-walt-disney-world-marathon-weekend-with-a-running-passion-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "2027-walt-disney-world-marathon-weekend-with-a-running-passion-fl",
+    "url": "https://runsignup.com/Race/FL/Orlando/2025WALTDISNEYWORLDMarathonARunningPassion?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.38,
+    "lon": -81.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/FL/Orlando/2025WALTDISNEYWORLDMarathonARunningPassion?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

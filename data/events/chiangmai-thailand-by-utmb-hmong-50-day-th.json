@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chiangmai Thailand by UTMB - HMONG 50-DAY is a ultramarathon. Location: Chiang Mai, Thailand. Date: 5 December 2026 – 6 December 2026. Distances: 63 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Chiang Mai, Thailand, 5 December 2026 – 6 December 2026"
+    },
+    "pl": {
+      "description": "Chiangmai Thailand by UTMB - HMONG 50-DAY to ultramaraton. Lokalizacja: Chiang Mai, Tajlandia. Termin: 5 grudnia 2026 – 6 grudnia 2026. Dystanse: 63 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Chiang Mai, Tajlandia, 5 grudnia 2026 – 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "63 km"
+  ],
+  "endDate": "2026-12-06",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chiangmai Thailand by UTMB - HMONG 50-DAY",
+  "registrationUrl": null,
+  "slug": "chiangmai-thailand-by-utmb-hmong-50-day-th",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:36.779Z",
+    "id": "duv",
+    "ref": "135704",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135704"
+  },
+  "start": {
+    "lat": 18.788278,
+    "lon": 98.98588,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": null
+}

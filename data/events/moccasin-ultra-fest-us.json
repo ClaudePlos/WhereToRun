@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Moccasin Ultra Fest is a ultramarathon. Location: Memphis, United States. Date: Thursday, 31 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Memphis, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Moccasin Ultra Fest to ultramaraton. Lokalizacja: Memphis, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Memphis, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Memphis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Moccasin Ultra Fest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17920",
+  "slug": "moccasin-ultra-fest-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "moccasin-ultra-fest-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=17920"
+  },
+  "start": {
+    "lat": 35.12,
+    "lon": -89.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17920"
+}

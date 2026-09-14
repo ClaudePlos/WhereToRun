@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Walt Disney World® Marathon Weekend is a road race. Location: Orlando, United States. Date: Wednesday, 6 January 2027. Distances: 10 km, 21.1 km, 42.2 km, u50m, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Orlando, United States, Wednesday, 6 January 2027"
+    },
+    "pl": {
+      "description": "2027 Walt Disney World® Marathon Weekend to bieg uliczny. Lokalizacja: Orlando, Stany Zjednoczone. Termin: środa, 6 stycznia 2027. Dystanse: 10 km, 21.1 km, 42.2 km, u50m, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Orlando, Stany Zjednoczone, środa, 6 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Orlando",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "2027 Walt Disney World® Marathon Weekend",
+  "registrationUrl": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-walt-disney-world-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "2027-walt-disney-world-marathon-weekend-orlando-fl",
+    "url": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.38,
+    "lon": -81.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

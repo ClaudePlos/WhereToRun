@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Canyon of the Eagles New Year's Trail Challenge · (100K & 50K ULTRA, Marathon, 13.1M Run & Ruck, 10K & 5K • Last Standing) is a ultramarathon. Location: Burnet, United States. Date: Friday, 1 January 2027. Distances: u100k, u50k, ultra, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Burnet, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Canyon of the Eagles New Year's Trail Challenge · (100K & 50K ULTRA, Marathon, 13.1M Run & Ruck, 10K & 5K • Last Standing) to ultramaraton. Lokalizacja: Burnet, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: u100k, u50k, ultra, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Burnet, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T13:00:11.188Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "ultra",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burnet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Canyon of the Eagles New Year's Trail Challenge · (100K & 50K ULTRA, Marathon, 13.1M Run & Ruck, 10K & 5K • Last Standing)",
+  "registrationUrl": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "canyon-of-the-eagles-new-year-s-trail-challenge-100k-50k-ultra-marathon-13-1m-ru",
+  "source": {
+    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "id": "runraceusa",
+    "ref": "canyon-of-the-eagles-new-year-s-trail-challenge-100k-50k-ultra",
+    "url": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.78,
+    "lon": -98.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "website": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
