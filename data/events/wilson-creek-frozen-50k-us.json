@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Wilson Creek Frozen 50k is a road race. Location: Melba, United States. Date: Saturday, 23 January 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Melba, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Wilson Creek Frozen 50k to bieg uliczny. Lokalizacja: Melba, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Melba, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Melba",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Wilson Creek Frozen 50k",
+  "registrationUrl": "https://runsignup.com/Race/ID/Melba/WilsonCreekFrozen50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wilson-creek-frozen-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "wilson-creek-frozen-50k-id",
+    "url": "https://runsignup.com/Race/ID/Melba/WilsonCreekFrozen50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.38,
+    "lon": -116.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/ID/Melba/WilsonCreekFrozen50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

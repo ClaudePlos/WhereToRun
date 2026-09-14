@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Redding Marathon Events is a road race. Location: Redding, United States. Date: Sunday, 17 January 2027. Distances: 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Redding, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "The Redding Marathon Events to bieg uliczny. Lokalizacja: Redding, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Redding, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Redding",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "The Redding Marathon Events",
+  "registrationUrl": "https://runsignup.com/Race/CA/Redding/TheReddingMarathonEvents?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-redding-marathon-events-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "the-redding-marathon-events-ca",
+    "url": "https://runsignup.com/Race/CA/Redding/TheReddingMarathonEvents?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.56,
+    "lon": -122.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/CA/Redding/TheReddingMarathonEvents?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

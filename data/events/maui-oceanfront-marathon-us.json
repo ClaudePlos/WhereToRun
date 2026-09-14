@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Maui Oceanfront Marathon is a road race. Location: Lahaina, United States. Date: Sunday, 17 January 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Lahaina, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "Maui Oceanfront Marathon to bieg uliczny. Lokalizacja: Lahaina, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Lahaina, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lahaina",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "Maui Oceanfront Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/82264/maui-oceanfront-marathon",
+  "slug": "maui-oceanfront-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "maui-oceanfront-marathon-hi",
+    "url": "https://raceroster.com/events/2027/82264/maui-oceanfront-marathon"
+  },
+  "start": {
+    "lat": 20.9174,
+    "lon": -156.6772,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://raceroster.com/events/2027/82264/maui-oceanfront-marathon"
+}

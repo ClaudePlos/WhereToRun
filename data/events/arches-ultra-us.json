@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Arches Ultra is a ultramarathon. Location: Moab, United States. Date: Saturday, 30 January 2027. Distances: u50m, u50k, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moab, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Arches Ultra to ultramaraton. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: u50m, u50k, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moab, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Arches Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7810",
+  "slug": "arches-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "arches-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=7810"
+  },
+  "start": {
+    "lat": 38.66,
+    "lon": -109.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=7810"
+}

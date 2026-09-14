@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Death Valley Borax Marathon, Half Marathon, & 10K is a road race. Location: Death Valley, United States. Date: Saturday, 30 January 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Death Valley, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "2027 Death Valley Borax Marathon, Half Marathon, & 10K to bieg uliczny. Lokalizacja: Death Valley, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Death Valley, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Death Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Death Valley Borax Marathon, Half Marathon, & 10K",
+  "registrationUrl": "https://raceroster.com/events/2027/140579/2027-death-valley-borax-marathon-half-marathon-and-10k",
+  "slug": "2027-death-valley-borax-marathon-half-marathon-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "2027-death-valley-borax-marathon-half-marathon-10k-ca",
+    "url": "https://raceroster.com/events/2027/140579/2027-death-valley-borax-marathon-half-marathon-and-10k"
+  },
+  "start": {
+    "lat": 36.4672,
+    "lon": -116.8937,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://raceroster.com/events/2027/140579/2027-death-valley-borax-marathon-half-marathon-and-10k"
+}

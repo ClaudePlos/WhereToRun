@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Rock Canyon Marathon, 1/2, and 5K is a trail race. Location: Las Vegas, United States. Date: Saturday, 23 January 2027. Distances: 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Las Vegas, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Red Rock Canyon Marathon, 1/2, and 5K to bieg trailowy. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Las Vegas, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Red Rock Canyon Marathon, 1/2, and 5K",
+  "registrationUrl": "https://runsignup.com/Race/NV/LasVegas/RedRockCanyon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "red-rock-canyon-marathon-1-2-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "red-rock-canyon-marathon-1-2-and-5k-nv",
+    "url": "https://runsignup.com/Race/NV/LasVegas/RedRockCanyon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.17,
+    "lon": -115.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/NV/LasVegas/RedRockCanyon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

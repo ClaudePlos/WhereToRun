@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Lost Dutchman Marathon, Half Marathon, 10K and 8K is a road race. Location: Apache Junction, United States. Date: Sunday, 17 January 2027. Distances: 42.2 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Apache Junction, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "Lost Dutchman Marathon, Half Marathon, 10K and 8K to bieg uliczny. Lokalizacja: Apache Junction, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Apache Junction, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Apache Junction",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Lost Dutchman Marathon, Half Marathon, 10K and 8K",
+  "registrationUrl": "https://raceroster.com/events/2027/112614/lost-dutchman-marathon-half-marathon-10k-and-8k",
+  "slug": "lost-dutchman-marathon-half-marathon-10k-and-8k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "lost-dutchman-marathon-half-marathon-10k-and-8k-az",
+    "url": "https://raceroster.com/events/2027/112614/lost-dutchman-marathon-half-marathon-10k-and-8k"
+  },
+  "start": {
+    "lat": 33.4001,
+    "lon": -111.5028,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://raceroster.com/events/2027/112614/lost-dutchman-marathon-half-marathon-10k-and-8k"
+}

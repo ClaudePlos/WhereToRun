@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Icebox 480/240 is a ultramarathon. Location: River Falls, United States. Date: Saturday, 7 November 2026. Distances: 8 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — River Falls, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Icebox 480/240 to ultramaraton. Lokalizacja: River Falls, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 8 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — River Falls, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "River Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Icebox 480/240",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64332",
+  "slug": "icebox-480-240-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:00.896Z",
+    "id": "ultrasignup",
+    "ref": "5033",
+    "url": "https://ultrasignup.com/register.aspx?did=64332"
+  },
+  "start": {
+    "lat": 44.9368,
+    "lon": -92.5366,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://www.stcroixrunningcompany.com/icebox480"
+}

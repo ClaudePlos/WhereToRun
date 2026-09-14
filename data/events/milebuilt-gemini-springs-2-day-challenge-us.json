@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "MileBuilt Gemini Springs 2-Day Challenge is a road race. Location: DeBary, United States. Date: Saturday, 23 January 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — DeBary, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "MileBuilt Gemini Springs 2-Day Challenge to bieg uliczny. Lokalizacja: DeBary, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — DeBary, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "DeBary",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "MileBuilt Gemini Springs 2-Day Challenge",
+  "registrationUrl": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSprings2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "milebuilt-gemini-springs-2-day-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "milebuilt-gemini-springs-2-day-challenge-fl",
+    "url": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSprings2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.88,
+    "lon": -81.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSprings2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

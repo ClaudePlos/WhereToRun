@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Hoot'n Bulldog Track Ultra is a ultramarathon. Location: Mirimar, United States. Date: Friday, 29 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mirimar, United States, Friday, 29 January 2027"
+    },
+    "pl": {
+      "description": "The Hoot'n Bulldog Track Ultra to ultramaraton. Lokalizacja: Mirimar, Stany Zjednoczone. Termin: piątek, 29 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mirimar, Stany Zjednoczone, piątek, 29 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mirimar",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "The Hoot'n Bulldog Track Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17510",
+  "slug": "the-hoot-n-bulldog-track-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "the-hoot-n-bulldog-track-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=17510"
+  },
+  "start": {
+    "lat": 25.99,
+    "lon": -80.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17510"
+}

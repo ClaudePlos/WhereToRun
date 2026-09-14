@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sun Marathon - 26.2 - 13.1 - 10K - 5K is a road race. Location: Santa Clara, United States. Date: Saturday, 23 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Santa Clara, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Sun Marathon - 26.2 - 13.1 - 10K - 5K to bieg uliczny. Lokalizacja: Santa Clara, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Santa Clara, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Santa Clara",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Sun Marathon - 26.2 - 13.1 - 10K - 5K",
+  "registrationUrl": "https://runsignup.com/Race/UT/SantaClara/SunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sun-marathon-26-2-13-1-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "sun-marathon-26-2-13-1-10k-5k-ut",
+    "url": "https://runsignup.com/Race/UT/SantaClara/SunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.13,
+    "lon": -113.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/UT/SantaClara/SunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

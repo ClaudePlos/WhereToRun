@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Coo-Wah-Chobee 50k-25k-5k is a road race. Location: Venice, United States. Date: Saturday, 30 January 2027. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Venice, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Coo-Wah-Chobee 50k-25k-5k to bieg uliczny. Lokalizacja: Venice, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Venice, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Venice",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Coo-Wah-Chobee 50k-25k-5k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17551",
+  "slug": "coo-wah-chobee-50k-25k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "coo-wah-chobee-50k-25k-5k-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=17551"
+  },
+  "start": {
+    "lat": 27.13,
+    "lon": -82.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17551"
+}

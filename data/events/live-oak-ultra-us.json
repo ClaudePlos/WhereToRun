@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Live Oak Ultra is a ultramarathon. Location: Biloxi, United States. Date: Saturday, 30 January 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Biloxi, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Live Oak Ultra to ultramaraton. Lokalizacja: Biloxi, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Biloxi, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Biloxi",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Live Oak Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18345",
+  "slug": "live-oak-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "live-oak-ultra-ms",
+    "url": "https://ultrasignup.com/register.aspx?eid=18345"
+  },
+  "start": {
+    "lat": 30.4,
+    "lon": -88.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18345"
+}

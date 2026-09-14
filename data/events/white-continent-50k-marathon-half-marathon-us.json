@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "White Continent 50k, Marathon & Half-Marathon is a road race. Location: Minneapolis, United States. Date: Monday, 18 January 2027. Distances: u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minneapolis, United States, Monday, 18 January 2027"
+    },
+    "pl": {
+      "description": "White Continent 50k, Marathon & Half-Marathon to bieg uliczny. Lokalizacja: Minneapolis, Stany Zjednoczone. Termin: poniedziałek, 18 stycznia 2027. Dystanse: u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minneapolis, Stany Zjednoczone, poniedziałek, 18 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minneapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "White Continent 50k, Marathon & Half-Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MN/Minneapolis/WhiteContinent50kMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "white-continent-50k-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "white-continent-50k-marathon-half-marathon-mn",
+    "url": "https://runsignup.com/Race/MN/Minneapolis/WhiteContinent50kMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.12,
+    "lon": -93.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/MN/Minneapolis/WhiteContinent50kMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

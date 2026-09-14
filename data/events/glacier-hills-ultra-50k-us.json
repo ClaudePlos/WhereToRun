@@ -13,9 +13,9 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other",
-    "21.1 km"
+    "50 km",
+    "30 km",
+    "20 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Glacier Hills Ultra 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5247",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65080",
   "slug": "glacier-hills-ultra-50k-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
-    "id": "runraceusa",
-    "ref": "glacier-hills-ultra-50k-sd",
-    "url": "https://ultrasignup.com/register.aspx?eid=5247"
+    "fetchedAt": "2026-09-14T23:07:00.896Z",
+    "id": "ultrasignup",
+    "ref": "5247",
+    "url": "https://ultrasignup.com/register.aspx?did=65080"
   },
   "start": {
-    "lat": 43.23,
-    "lon": -96.58,
+    "lat": 43.2258,
+    "lon": -96.579,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5247"
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://site-d4tu5lepp.godaddysites.com/"
 }

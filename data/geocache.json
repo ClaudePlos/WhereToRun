@@ -215,6 +215,9 @@
   "BR|canindé, ce": {
     "at": "2026-09-06T11:05:36.029Z"
   },
+  "BR|capao da canoa, rs": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
   "BR|cascavel, pr": {
     "at": "2026-09-14T18:39:01.162Z"
   },
@@ -236,6 +239,12 @@
   "BR|gramado, rs": {
     "at": "2026-09-06T11:05:36.029Z"
   },
+  "BR|ilhabela, sp": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
+  "BR|ipeuna, sp": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
   "BR|jacutinga, mg": {
     "at": "2026-09-14T18:39:01.162Z"
   },
@@ -248,8 +257,17 @@
   "BR|mangaratiba, rj": {
     "at": "2026-09-03T22:37:31.083Z"
   },
+  "BR|maringa, pr": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
   "BR|morro da garca, mg": {
     "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|mucuge, chapada diamantina": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
+  "BR|natal, rn": {
+    "at": "2026-09-14T23:06:54.508Z"
   },
   "BR|nova lima, mg": {
     "at": "2026-09-14T18:39:01.162Z"
@@ -268,6 +286,12 @@
   },
   "BR|paulo lopes, sc": {
     "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|petropolis, rj": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
+  "BR|ponta grossa, pr": {
+    "at": "2026-09-14T23:06:54.508Z"
   },
   "BR|pontal do paraná": {
     "at": "2026-09-03T22:37:31.083Z",
@@ -290,6 +314,9 @@
   "BR|santo andré, sp": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|santo angelo, rs": {
+    "at": "2026-09-14T23:06:54.508Z"
+  },
   "BR|sao bernardo do campo, sp": {
     "at": "2026-09-14T18:39:01.162Z"
   },
@@ -301,6 +328,9 @@
   },
   "BR|sao lourenco (mg)": {
     "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|sao paulo, sp": {
+    "at": "2026-09-14T23:06:54.508Z"
   },
   "BR|timon, ma": {
     "at": "2026-09-03T17:03:15.961Z"

@@ -13,10 +13,10 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50k",
-    "other"
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "16.1 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +30,25 @@
   },
   "manual": false,
   "name": "Mountaineer Rumble 10 Mile-50K-100K-100 Miler",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10840",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64655",
   "slug": "mountaineer-rumble-10-mile-50k-100k-100-miler-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
-    "id": "runraceusa",
-    "ref": "mountaineer-rumble-10-mile-50k-100k-100-miler-sc",
-    "url": "https://ultrasignup.com/register.aspx?eid=10840"
+    "fetchedAt": "2026-09-14T23:07:00.896Z",
+    "id": "ultrasignup",
+    "ref": "10840",
+    "url": "https://ultrasignup.com/register.aspx?did=64655"
   },
   "start": {
-    "lat": 35.15,
-    "lon": -81.35,
+    "lat": 35.1485,
+    "lon": -81.3472,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=10840"
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://www.facebook.com/Mountaineer-Rumble-420009962132503/"
 }

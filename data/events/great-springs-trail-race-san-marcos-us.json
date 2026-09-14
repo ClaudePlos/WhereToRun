@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Great Springs Trail Race - San Marcos is a trail race. Location: San Marcos, United States. Date: Saturday, 23 January 2027. Distances: 42.2 km, 21.1 km, 10 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Marcos, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Great Springs Trail Race - San Marcos to bieg trailowy. Lokalizacja: San Marcos, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Marcos, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Marcos",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Great Springs Trail Race - San Marcos",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanMarcos/TheGreatSpringsTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "great-springs-trail-race-san-marcos-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "great-springs-trail-race-san-marcos-tx",
+    "url": "https://runsignup.com/Race/TX/SanMarcos/TheGreatSpringsTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.88,
+    "lon": -97.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/TX/SanMarcos/TheGreatSpringsTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

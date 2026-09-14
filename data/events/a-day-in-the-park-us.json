@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "A Day in the Park is a ultramarathon. Location: Lebanon, United States. Date: Saturday, 7 November 2026. Distances: 24 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lebanon, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "A Day in the Park to ultramaraton. Lokalizacja: Lebanon, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 24 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lebanon, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lebanon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "A Day in the Park",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65469",
+  "slug": "a-day-in-the-park-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:00.896Z",
+    "id": "ultrasignup",
+    "ref": "17325",
+    "url": "https://ultrasignup.com/register.aspx?did=65469"
+  },
+  "start": {
+    "lat": 39.4582,
+    "lon": -84.2194,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "http://www.empowerultras.com"
+}

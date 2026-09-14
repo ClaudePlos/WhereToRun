@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Monroe Cross Trail 50 Mile Ultra is a ultramarathon. Location: DeBary, United States. Date: Saturday, 23 January 2027. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — DeBary, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Monroe Cross Trail 50 Mile Ultra to ultramaraton. Lokalizacja: DeBary, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — DeBary, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "DeBary",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Monroe Cross Trail 50 Mile Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14616",
+  "slug": "monroe-cross-trail-50-mile-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "monroe-cross-trail-50-mile-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=14616"
+  },
+  "start": {
+    "lat": 28.87,
+    "lon": -81.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14616"
+}

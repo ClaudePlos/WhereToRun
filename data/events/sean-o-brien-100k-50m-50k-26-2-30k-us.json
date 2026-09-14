@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Sean O'Brien 100K/50M/50K/26.2/30K is a road race. Location: Calabasas, United States. Date: Saturday, 30 January 2027. Distances: u100k, u50m, u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Calabasas, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Sean O'Brien 100K/50M/50K/26.2/30K to bieg uliczny. Lokalizacja: Calabasas, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: u100k, u50m, u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Calabasas, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calabasas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sean O'Brien 100K/50M/50K/26.2/30K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4040",
+  "slug": "sean-o-brien-100k-50m-50k-26-2-30k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "sean-o-brien-100k-50m-50k-26-2-30k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=4040"
+  },
+  "start": {
+    "lat": 34.1,
+    "lon": -118.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4040"
+}

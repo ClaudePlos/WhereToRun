@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 All Day Running Co. Clearwater Marathon & Running Festival is a road race. Location: Clearwater, United States. Date: Saturday, 30 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Clearwater, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "2027 All Day Running Co. Clearwater Marathon & Running Festival to bieg uliczny. Lokalizacja: Clearwater, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Clearwater, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clearwater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "2027 All Day Running Co. Clearwater Marathon & Running Festival",
+  "registrationUrl": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027",
+  "slug": "2027-all-day-running-co-clearwater-marathon-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "2027-all-day-running-co-clearwater-marathon-running-festival-fl",
+    "url": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027"
+  },
+  "start": {
+    "lat": 27.96,
+    "lon": -82.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027"
+}

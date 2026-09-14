@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Beach Marathon, Half Marathon & Safari 5K is a road race. Location: Gulf Shores, United States. Date: Saturday, 30 January 2027. Distances: 42.2 km, 21.1 km, other, 1.6 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gulf Shores, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Big Beach Marathon, Half Marathon & Safari 5K to bieg uliczny. Lokalizacja: Gulf Shores, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 42.2 km, 21.1 km, other, 1.6 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gulf Shores, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "1.6 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gulf Shores",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Big Beach Marathon, Half Marathon & Safari 5K",
+  "registrationUrl": "https://runsignup.com/Race/AL/GulfShores/BigBeachMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "big-beach-marathon-half-marathon-safari-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "big-beach-marathon-half-marathon-safari-5k-al",
+    "url": "https://runsignup.com/Race/AL/GulfShores/BigBeachMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.27,
+    "lon": -87.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/AL/GulfShores/BigBeachMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

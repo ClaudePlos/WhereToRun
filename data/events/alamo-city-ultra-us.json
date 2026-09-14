@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Alamo City Ultra is a ultramarathon. Location: San Antonio, United States. Date: Saturday, 23 January 2027. Distances: u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Antonio, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Alamo City Ultra to ultramaraton. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Antonio, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T23:06:54.508Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Alamo City Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/AlamoCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "alamo-city-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "id": "runraceusa",
+    "ref": "alamo-city-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/SanAntonio/AlamoCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.65,
+    "lon": -98.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/AlamoCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
