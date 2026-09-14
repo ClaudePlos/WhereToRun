@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mobile Marathon is a road race. Location: Mobile, United States. Date: Sunday, 10 January 2027. Distances: 42.2 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mobile, United States, Sunday, 10 January 2027"
+    },
+    "pl": {
+      "description": "Mobile Marathon to bieg uliczny. Lokalizacja: Mobile, Stany Zjednoczone. Termin: niedziela, 10 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mobile, Stany Zjednoczone, niedziela, 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mobile",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Mobile Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AL/Mobile/MobileALMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mobile-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "mobile-marathon-al",
+    "url": "https://runsignup.com/Race/AL/Mobile/MobileALMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.69,
+    "lon": -88.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/AL/Mobile/MobileALMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

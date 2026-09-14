@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tsali Ultra is a ultramarathon. Location: Bryson City, United States. Date: Saturday, 16 January 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bryson City, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Tsali Ultra to ultramaraton. Lokalizacja: Bryson City, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bryson City, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bryson City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Tsali Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NC/BrysonCity/TsaliUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tsali-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "tsali-ultra-nc",
+    "url": "https://runsignup.com/Race/NC/BrysonCity/TsaliUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.37,
+    "lon": -83.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/NC/BrysonCity/TsaliUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

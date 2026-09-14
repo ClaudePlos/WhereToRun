@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Croix 40 Winter Ultra is a ultramarathon. Location: Hinckley, United States. Date: Saturday, 9 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hinckley, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "St. Croix 40 Winter Ultra to ultramaraton. Lokalizacja: Hinckley, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hinckley, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hinckley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "St. Croix 40 Winter Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9184",
+  "slug": "st-croix-40-winter-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "st-croix-40-winter-ultra-mn",
+    "url": "https://ultrasignup.com/register.aspx?eid=9184"
+  },
+  "start": {
+    "lat": 45.96,
+    "lon": -92.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9184"
+}

@@ -179,6 +179,15 @@
     "lon": 3.2779667,
     "name": "Wingene, Tielt, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
   },
+  "BR|aiuruoca, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
+  "BR|alagoa, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
+  "BR|baependi, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
   "BR|barra do chui, rs": {
     "at": "2026-09-03T17:03:15.961Z"
   },
@@ -206,11 +215,17 @@
   "BR|canindé, ce": {
     "at": "2026-09-06T11:05:36.029Z"
   },
+  "BR|cascavel, pr": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
   "BR|caxias do sul": {
     "at": "2026-09-06T11:05:36.029Z",
     "lat": -29.1685045,
     "lon": -51.1796385,
     "name": "Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "BR|chui, rs": {
+    "at": "2026-09-14T18:39:01.162Z"
   },
   "BR|florianopolis, sc": {
     "at": "2026-09-03T22:37:31.083Z"
@@ -220,6 +235,9 @@
   },
   "BR|gramado, rs": {
     "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|jacutinga, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
   },
   "BR|macae, rj": {
     "at": "2026-09-03T17:03:15.961Z",
@@ -233,11 +251,20 @@
   "BR|morro da garca, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|nova lima, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
+  "BR|nova trento, sc": {
+    "at": "2026-09-14T18:39:01.162Z"
+  },
   "BR|paraopeba, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
   "BR|paraty, rj": {
     "at": "2026-09-03T22:37:31.083Z"
+  },
+  "BR|passa quatro, mg": {
+    "at": "2026-09-14T18:39:01.162Z"
   },
   "BR|paulo lopes, sc": {
     "at": "2026-09-03T22:37:31.083Z"
@@ -262,6 +289,9 @@
   },
   "BR|santo andré, sp": {
     "at": "2026-09-03T17:03:15.961Z"
+  },
+  "BR|sao bernardo do campo, sp": {
+    "at": "2026-09-14T18:39:01.162Z"
   },
   "BR|sao lourenco": {
     "at": "2026-09-03T22:37:31.083Z",

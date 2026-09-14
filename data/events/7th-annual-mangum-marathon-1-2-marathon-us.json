@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "7th Annual Mangum Marathon & 1/2 Marathon is a road race. Location: Ellerbe, United States. Date: Saturday, 16 January 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ellerbe, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "7th Annual Mangum Marathon & 1/2 Marathon to bieg uliczny. Lokalizacja: Ellerbe, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ellerbe, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ellerbe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "7th Annual Mangum Marathon & 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NC/Ellerbe/MangumMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "7th-annual-mangum-marathon-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "7th-annual-mangum-marathon-1-2-marathon-nc",
+    "url": "https://runsignup.com/Race/NC/Ellerbe/MangumMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.09,
+    "lon": -79.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/NC/Ellerbe/MangumMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

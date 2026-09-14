@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MAD Backyard Ultra is a ultramarathon. Location: East Ridge, United States. Date: Saturday, 16 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — East Ridge, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "MAD Backyard Ultra to ultramaraton. Lokalizacja: East Ridge, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — East Ridge, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "East Ridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "MAD Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14300",
+  "slug": "mad-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "mad-backyard-ultra-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=14300"
+  },
+  "start": {
+    "lat": 35,
+    "lon": -85.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14300"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "San Diego 50 & Trail Runs is a trail race. Location: Escondido, United States. Date: Saturday, 9 January 2027. Distances: u50m, 42.2 km, 21.1 km, other, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Escondido, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "San Diego 50 & Trail Runs to bieg trailowy. Lokalizacja: Escondido, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: u50m, 42.2 km, 21.1 km, other, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Escondido, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Escondido",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "San Diego 50 & Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/CA/Escondido/SanDiego50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "san-diego-50-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "san-diego-50-trail-runs-ca",
+    "url": "https://runsignup.com/Race/CA/Escondido/SanDiego50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.11,
+    "lon": -117.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/CA/Escondido/SanDiego50?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

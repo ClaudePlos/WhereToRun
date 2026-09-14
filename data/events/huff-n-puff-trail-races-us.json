@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Huff N' Puff Trail Races is a trail race. Location: Jackson, United States. Date: Saturday, 16 January 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Jackson, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Huff N' Puff Trail Races to bieg trailowy. Lokalizacja: Jackson, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Jackson, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jackson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Huff N' Puff Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5220",
+  "slug": "huff-n-puff-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "huff-n-puff-trail-races-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=5220"
+  },
+  "start": {
+    "lat": 33.24,
+    "lon": -83.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5220"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Crystal Springs Trail Run is a trail race. Location: Woodside, United States. Date: Sunday, 17 January 2027. Distances: other, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Woodside, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "Crystal Springs Trail Run to bieg trailowy. Lokalizacja: Woodside, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: other, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Woodside, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Woodside",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Crystal Springs Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/Woodside/CrystalSpringsWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "crystal-springs-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "crystal-springs-trail-run-ca",
+    "url": "https://runsignup.com/Race/CA/Woodside/CrystalSpringsWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.42,
+    "lon": -122.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/CA/Woodside/CrystalSpringsWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,60 @@
+{
+  "content": {
+    "en": {
+      "description": "Lost Pines Endurance Fest 5K to 250K is a road race. Location: Bastrop, United States. Date: Saturday, 16 January 2027. Distances: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 5 km, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bastrop, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Lost Pines Endurance Fest 5K to 250K to bieg uliczny. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: u100p, u100m, u100k, u50m, u50k, 42.2 km, 21.1 km, 5 km, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bastrop, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Lost Pines Endurance Fest 5K to 250K",
+  "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lost-pines-endurance-fest-5k-to-250k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "lost-pines-endurance-fest-5k-to-250k-tx",
+    "url": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.14,
+    "lon": -97.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

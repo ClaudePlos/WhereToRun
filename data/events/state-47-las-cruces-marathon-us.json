@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "State 47 Las Cruces Marathon is a road race. Location: Las Cruces, United States. Date: Saturday, 9 January 2027. Distances: 5 km, 42.2 km, 21.1 km, other, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Cruces, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "State 47 Las Cruces Marathon to bieg uliczny. Lokalizacja: Las Cruces, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 5 km, 42.2 km, 21.1 km, other, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Cruces, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Cruces",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "State 47 Las Cruces Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/114382/state-47-las-cruces-marathon",
+  "slug": "state-47-las-cruces-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "state-47-las-cruces-marathon-nm",
+    "url": "https://raceroster.com/events/2027/114382/state-47-las-cruces-marathon"
+  },
+  "start": {
+    "lat": 32.32,
+    "lon": -106.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://raceroster.com/events/2027/114382/state-47-las-cruces-marathon"
+}

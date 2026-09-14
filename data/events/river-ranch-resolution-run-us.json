@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "River Ranch Resolution Run is a road race. Location: Liberty Hill, United States. Date: Saturday, 9 January 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Liberty Hill, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "River Ranch Resolution Run to bieg uliczny. Lokalizacja: Liberty Hill, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Liberty Hill, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Liberty Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "River Ranch Resolution Run",
+  "registrationUrl": "https://runsignup.com/Race/TX/LibertyHill/RiverRanchResolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "river-ranch-resolution-run-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "river-ranch-resolution-run-tx",
+    "url": "https://runsignup.com/Race/TX/LibertyHill/RiverRanchResolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.05,
+    "lon": -97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/TX/LibertyHill/RiverRanchResolutionRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

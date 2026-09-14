@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backbone Trail Ultra is a ultramarathon. Location: Santa Monica Mountains, United States. Date: Saturday, 16 January 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Santa Monica Mountains, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Backbone Trail Ultra to ultramaraton. Lokalizacja: Santa Monica Mountains, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Santa Monica Mountains, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Santa Monica Mountains",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Backbone Trail Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3479",
+  "slug": "backbone-trail-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "backbone-trail-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=3479"
+  },
+  "start": {
+    "lat": 34.05,
+    "lon": -118.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3479"
+}

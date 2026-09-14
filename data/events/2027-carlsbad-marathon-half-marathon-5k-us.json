@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 CARLSBAD MARATHON, HALF MARATHON & 5K is a road race. Location: Carlsbad, United States. Date: Sunday, 17 January 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Carlsbad, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "2027 CARLSBAD MARATHON, HALF MARATHON & 5K to bieg uliczny. Lokalizacja: Carlsbad, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Carlsbad, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Carlsbad",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 CARLSBAD MARATHON, HALF MARATHON & 5K",
+  "registrationUrl": "https://raceroster.com/events/2027/114126/2027-carlsbad-marathon-half-marathon-and-5k",
+  "slug": "2027-carlsbad-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "2027-carlsbad-marathon-half-marathon-5k-ca",
+    "url": "https://raceroster.com/events/2027/114126/2027-carlsbad-marathon-half-marathon-and-5k"
+  },
+  "start": {
+    "lat": 33.16,
+    "lon": -117.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://raceroster.com/events/2027/114126/2027-carlsbad-marathon-half-marathon-and-5k"
+}

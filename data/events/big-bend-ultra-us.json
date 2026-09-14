@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Bend Ultra is a ultramarathon. Location: Terlingua, United States. Date: Sunday, 17 January 2027. Distances: 10 km, 21.1 km, other, u50k, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Terlingua, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "Big Bend Ultra to ultramaraton. Lokalizacja: Terlingua, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 10 km, 21.1 km, other, u50k, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Terlingua, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "other",
+    "u50k",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Terlingua",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Big Bend Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/Terlingua/BigBendUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "big-bend-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "big-bend-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/Terlingua/BigBendUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.32,
+    "lon": -103.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/TX/Terlingua/BigBendUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Harbison 50k & 25k Trail Race is a trail race. Location: Columbia, United States. Date: Saturday, 16 January 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Columbia, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Harbison 50k & 25k Trail Race to bieg trailowy. Lokalizacja: Columbia, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Columbia, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Harbison 50k & 25k Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/SC/Columbia/Harbison25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "harbison-50k-25k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "harbison-50k-25k-trail-race-sc",
+    "url": "https://runsignup.com/Race/SC/Columbia/Harbison25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.07,
+    "lon": -81.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/SC/Columbia/Harbison25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

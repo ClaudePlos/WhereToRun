@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The FTC Mary Andrews Marathon: 13.1 & 26.2 is a road race. Location: Hawthorne, United States. Date: Saturday, 16 January 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hawthorne, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "The FTC Mary Andrews Marathon: 13.1 & 26.2 to bieg uliczny. Lokalizacja: Hawthorne, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hawthorne, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hawthorne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "The FTC Mary Andrews Marathon: 13.1 & 26.2",
+  "registrationUrl": "https://runsignup.com/Race/FL/Hawthorne/FTCmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-ftc-mary-andrews-marathon-13-1-26-2-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "the-ftc-mary-andrews-marathon-13-1-26-2-fl",
+    "url": "https://runsignup.com/Race/FL/Hawthorne/FTCmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.57,
+    "lon": -82.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/FL/Hawthorne/FTCmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

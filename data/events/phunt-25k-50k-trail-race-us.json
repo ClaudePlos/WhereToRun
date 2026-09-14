@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "PHUNT 25K/50K TRAIL RACE is a trail race. Location: Elkton, United States. Date: Saturday, 16 January 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Elkton, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "PHUNT 25K/50K TRAIL RACE to bieg trailowy. Lokalizacja: Elkton, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Elkton, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elkton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "PHUNT 25K/50K TRAIL RACE",
+  "registrationUrl": "https://runsignup.com/Race/MD/Elkton/PHUNTTRAILRACE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "phunt-25k-50k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "phunt-25k-50k-trail-race-md",
+    "url": "https://runsignup.com/Race/MD/Elkton/PHUNTTRAILRACE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.63,
+    "lon": -75.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/MD/Elkton/PHUNTTRAILRACE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

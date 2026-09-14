@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Louisiana Marathon is a road race. Location: Baton Rouge, United States. Date: Saturday, 16 January 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Baton Rouge, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "The Louisiana Marathon to bieg uliczny. Lokalizacja: Baton Rouge, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Baton Rouge, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Baton Rouge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "The Louisiana Marathon",
+  "registrationUrl": "https://runsignup.com/Race/LA/BatonRouge/TheLouisianaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-louisiana-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "the-louisiana-marathon-la",
+    "url": "https://runsignup.com/Race/LA/BatonRouge/TheLouisianaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.44,
+    "lon": -91.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/LA/BatonRouge/TheLouisianaMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

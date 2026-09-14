@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Southern Tour Ultra is a ultramarathon. Location: Wilmington, United States. Date: Friday, 15 January 2027. Distances: u100m, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wilmington, United States, Friday, 15 January 2027"
+    },
+    "pl": {
+      "description": "Southern Tour Ultra to ultramaraton. Lokalizacja: Wilmington, Stany Zjednoczone. Termin: piątek, 15 stycznia 2027. Dystanse: u100m, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wilmington, Stany Zjednoczone, piątek, 15 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-14T18:39:01.162Z",
+  "date": "2027-01-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wilmington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Southern Tour Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NC/Wilmington/SouthernTourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "southern-tour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "id": "runraceusa",
+    "ref": "southern-tour-ultra-nc",
+    "url": "https://runsignup.com/Race/NC/Wilmington/SouthernTourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.3,
+    "lon": -77.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "website": "https://runsignup.com/Race/NC/Wilmington/SouthernTourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
