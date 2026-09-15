@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Urgent Care of Berwick Love Chocolate is a road race. Location: Savannah, United States. Date: Friday, 12 February 2027. Distances: 10 km, 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Savannah, United States, Friday, 12 February 2027"
+    },
+    "pl": {
+      "description": "Urgent Care of Berwick Love Chocolate to bieg uliczny. Lokalizacja: Savannah, Stany Zjednoczone. Termin: piątek, 12 lutego 2027. Dystanse: 10 km, 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Savannah, Stany Zjednoczone, piątek, 12 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Savannah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Urgent Care of Berwick Love Chocolate",
+  "registrationUrl": "https://runsignup.com/Race/GA/Savannah/TheLoveChocolateHalf10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "urgent-care-of-berwick-love-chocolate-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "urgent-care-of-berwick-love-chocolate-ga",
+    "url": "https://runsignup.com/Race/GA/Savannah/TheLoveChocolateHalf10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32,
+    "lon": -81.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/GA/Savannah/TheLoveChocolateHalf10k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

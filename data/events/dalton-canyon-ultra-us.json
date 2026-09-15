@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Dalton Canyon Ultra is a ultramarathon. Location: Glendora, United States. Date: Saturday, 6 February 2027. Distances: u50k, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Glendora, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Dalton Canyon Ultra to ultramaraton. Lokalizacja: Glendora, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u50k, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Glendora, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glendora",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Dalton Canyon Ultra",
+  "registrationUrl": "https://runsignup.com/Race/CA/Glendora/DaltonCanyonUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dalton-canyon-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "dalton-canyon-ultra-ca",
+    "url": "https://runsignup.com/Race/CA/Glendora/DaltonCanyonUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.15,
+    "lon": -117.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/CA/Glendora/DaltonCanyonUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

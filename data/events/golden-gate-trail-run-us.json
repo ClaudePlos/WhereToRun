@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Golden Gate Trail Run is a trail race. Location: Sausalito, United States. Date: Saturday, 6 February 2027. Distances: other, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Sausalito, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Golden Gate Trail Run to bieg trailowy. Lokalizacja: Sausalito, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: other, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Sausalito, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sausalito",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Golden Gate Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/Sausalito/GoldenGateWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "golden-gate-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "golden-gate-trail-run-ca",
+    "url": "https://runsignup.com/Race/CA/Sausalito/GoldenGateWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.86,
+    "lon": -122.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/CA/Sausalito/GoldenGateWinterTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

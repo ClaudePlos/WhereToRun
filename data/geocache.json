@@ -551,6 +551,63 @@
     "lon": 27.4177638,
     "name": "Saariselkä, Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, 99830, Suomi / Finland"
   },
+  "GB|bardwell": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 52.3266392,
+    "lon": 0.8492547,
+    "name": "Bardwell, West Suffolk, Suffolk, England, United Kingdom"
+  },
+  "GB|brentwood": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 51.6201654,
+    "lon": 0.3018662,
+    "name": "Brentwood, Essex, England, CM14 4RW, United Kingdom"
+  },
+  "GB|grasmere": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 54.4593879,
+    "lon": -3.0243657,
+    "name": "Grasmere, Westmorland and Furness, England, LA22 9SY, United Kingdom"
+  },
+  "GB|guisborough": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 54.5359551,
+    "lon": -1.051085,
+    "name": "Guisborough, Redcar and Cleveland, Tees Valley, England, United Kingdom"
+  },
+  "GB|hathersage": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 53.3297914,
+    "lon": -1.6545464,
+    "name": "Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, United Kingdom"
+  },
+  "GB|hawes": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 54.3041258,
+    "lon": -2.1965261,
+    "name": "Hawes, North Yorkshire, York and North Yorkshire, England, United Kingdom"
+  },
+  "GB|london": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "name": "Greater London, England, United Kingdom"
+  },
+  "GB|sheffield": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 53.3806626,
+    "lon": -1.4702278,
+    "name": "Sheffield, South Yorkshire, England, United Kingdom"
+  },
+  "GB|stocksfield": {
+    "at": "2026-09-15T11:52:51.618Z",
+    "lat": 54.9469188,
+    "lon": -1.9143613,
+    "name": "Stocksfield, Northumberland, North East, England, NE43 7ND, United Kingdom"
+  },
+  "GB|vatersay, hebrides": {
+    "at": "2026-09-15T11:52:51.618Z"
+  },
   "GR|athens": {
     "at": "2026-09-07T18:15:31.685Z",
     "lat": 37.9755648,

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Monterey Ultra is a ultramarathon. Location: Monterey, United States. Date: Saturday, 6 February 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Monterey, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Monterey Ultra to ultramaraton. Lokalizacja: Monterey, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Monterey, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Monterey",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Monterey Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16928",
+  "slug": "monterey-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "monterey-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=16928"
+  },
+  "start": {
+    "lat": 36.59,
+    "lon": -121.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16928"
+}

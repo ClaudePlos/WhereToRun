@@ -10,11 +10,10 @@
     }
   },
   "createdAt": "2026-09-03T22:37:31.083Z",
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km",
-    "80.5 km"
+    "50 km"
   ],
   "endDate": "2026-10-11",
   "featured": false,
@@ -31,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63696",
   "slug": "midstate-massive-ultra-trail-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:00.896Z",
+    "fetchedAt": "2026-09-15T11:53:00.350Z",
     "id": "ultrasignup",
     "ref": "10336",
     "url": "https://ultrasignup.com/register.aspx?did=63696"
@@ -47,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
   "website": "https://www.newenglandraceevents.com/midstate-massive-ultra-trail"
 }

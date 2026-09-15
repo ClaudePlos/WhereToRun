@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Frozen 50K is a road race. Location: Cassadaga, United States. Date: Saturday, 6 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cassadaga, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Frozen 50K to bieg uliczny. Lokalizacja: Cassadaga, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cassadaga, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cassadaga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Frozen 50K",
+  "registrationUrl": "https://runsignup.com/Race/NY/Cassadaga/Frozen50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "frozen-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "frozen-50k-ny",
+    "url": "https://runsignup.com/Race/NY/Cassadaga/Frozen50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.35,
+    "lon": -79.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/NY/Cassadaga/Frozen50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

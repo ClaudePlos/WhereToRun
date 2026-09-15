@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "The Hamsterwheel is a ultramarathon. Location: New Boston, United States. Date: Saturday, 7 November 2026. Distances: 30 h, 30hrs Relay, 24 h, 24hrs Relay, 12 h, 12hrs Relay, 6 h, 6hrs Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — New Boston, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Hamsterwheel to ultramaraton. Lokalizacja: New Boston, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 30 h, 30hrs Relay, 24 h, 24hrs Relay, 12 h, 12hrs Relay, 6 h, 6hrs Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — New Boston, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "30 h",
+    "30hrs Relay",
+    "24 h",
+    "24hrs Relay",
+    "12 h",
+    "12hrs Relay",
+    "6 h",
+    "6hrs Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Boston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "The Hamsterwheel",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64960",
+  "slug": "the-hamsterwheel-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.350Z",
+    "id": "ultrasignup",
+    "ref": "5025",
+    "url": "https://ultrasignup.com/register.aspx?did=64960"
+  },
+  "start": {
+    "lat": 42.9821,
+    "lon": -71.6824,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "http://www.facebook.com/hmstrwheel"
+}

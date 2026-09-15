@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Holiday Lake 50K++ is a road race. Location: Appomattox, United States. Date: Saturday, 13 February 2027. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Appomattox, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Holiday Lake 50K++ to bieg uliczny. Lokalizacja: Appomattox, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Appomattox, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Appomattox",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Holiday Lake 50K++",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=113",
+  "slug": "holiday-lake-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "holiday-lake-50k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=113"
+  },
+  "start": {
+    "lat": 37.39,
+    "lon": -78.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=113"
+}

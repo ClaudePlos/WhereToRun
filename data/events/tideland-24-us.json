@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tideland 24 is a ultramarathon. Location: Cedar Point, United States. Date: Saturday, 7 November 2026. Distances: 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cedar Point, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Tideland 24 to ultramaraton. Lokalizacja: Cedar Point, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cedar Point, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Tideland 24",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64043",
+  "slug": "tideland-24-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.350Z",
+    "id": "ultrasignup",
+    "ref": "5759",
+    "url": "https://ultrasignup.com/register.aspx?did=64043"
+  },
+  "start": {
+    "lat": 34.6917,
+    "lon": -77.0869,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "http://www.tideland24.com"
+}

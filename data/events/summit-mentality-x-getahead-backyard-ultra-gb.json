@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Summit Mentality X Getahead – BackYard Ultra is a ultramarathon. Location: Brentwood, United Kingdom. Date: Friday, 18 September 2026. Distances: 23 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Brentwood, United Kingdom, Friday, 18 September 2026"
+    },
+    "pl": {
+      "description": "Summit Mentality X Getahead – BackYard Ultra to ultramaraton. Lokalizacja: Brentwood, Wielka Brytania. Termin: piątek, 18 września 2026. Dystanse: 23 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Brentwood, Wielka Brytania, piątek, 18 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2026-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "23 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brentwood",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Summit Mentality X Getahead – BackYard Ultra",
+  "registrationUrl": null,
+  "slug": "summit-mentality-x-getahead-backyard-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:17.407Z",
+    "id": "duv",
+    "ref": "134965",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134965"
+  },
+  "start": {
+    "lat": 51.620165,
+    "lon": 0.301866,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": null
+}

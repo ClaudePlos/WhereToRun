@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "North Texas Ultra is a ultramarathon. Location: Jacksboro, United States. Date: Saturday, 6 February 2027. Distances: u100k, u50m, u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jacksboro, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "North Texas Ultra to ultramaraton. Lokalizacja: Jacksboro, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u100k, u50m, u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jacksboro, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50m",
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jacksboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "North Texas Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15978",
+  "slug": "north-texas-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "north-texas-ultra-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=15978"
+  },
+  "start": {
+    "lat": 33.24,
+    "lon": -98.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15978"
+}

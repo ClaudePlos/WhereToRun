@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "DONNA Marathon Weekend is a road race. Location: Jacksonville Beach, United States. Date: Saturday, 6 February 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Jacksonville Beach, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "DONNA Marathon Weekend to bieg uliczny. Lokalizacja: Jacksonville Beach, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Jacksonville Beach, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jacksonville Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "DONNA Marathon Weekend",
+  "registrationUrl": "https://runsignup.com/Race/FL/JacksonvilleBeach/BreastCancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "donna-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "donna-marathon-weekend-fl",
+    "url": "https://runsignup.com/Race/FL/JacksonvilleBeach/BreastCancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.28,
+    "lon": -81.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/FL/JacksonvilleBeach/BreastCancerMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

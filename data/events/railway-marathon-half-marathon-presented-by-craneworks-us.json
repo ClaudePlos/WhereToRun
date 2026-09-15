@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Railway Marathon & Half Marathon presented by CraneWorks is a road race. Location: Fultondale, United States. Date: Saturday, 6 February 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, u50k, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fultondale, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Railway Marathon & Half Marathon presented by CraneWorks to bieg uliczny. Lokalizacja: Fultondale, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, u50k, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fultondale, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "u50k",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fultondale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Railway Marathon & Half Marathon presented by CraneWorks",
+  "registrationUrl": "https://runsignup.com/Race/AL/Fultondale/RailwayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "railway-marathon-half-marathon-presented-by-craneworks-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "railway-marathon-half-marathon-presented-by-craneworks-al",
+    "url": "https://runsignup.com/Race/AL/Fultondale/RailwayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.6,
+    "lon": -86.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/AL/Fultondale/RailwayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

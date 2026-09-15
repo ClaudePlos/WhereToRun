@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hagg Mud 50K/25K is a road race. Location: Gaston, United States. Date: Saturday, 13 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gaston, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Hagg Mud 50K/25K to bieg uliczny. Lokalizacja: Gaston, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gaston, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gaston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Hagg Mud 50K/25K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=126",
+  "slug": "hagg-mud-50k-25k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "hagg-mud-50k-25k-or",
+    "url": "https://ultrasignup.com/register.aspx?eid=126"
+  },
+  "start": {
+    "lat": 45.49,
+    "lon": -123.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=126"
+}

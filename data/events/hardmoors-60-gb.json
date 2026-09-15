@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hardmoors 60 is a ultramarathon. Location: Guisborough, United Kingdom. Date: Saturday, 19 September 2026. Distances: 101.4 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Guisborough, United Kingdom, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Hardmoors 60 to ultramaraton. Lokalizacja: Guisborough, Wielka Brytania. Termin: sobota, 19 września 2026. Dystanse: 101.4 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Guisborough, Wielka Brytania, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "101.4 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Guisborough",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Hardmoors 60",
+  "registrationUrl": null,
+  "slug": "hardmoors-60-gb",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:17.407Z",
+    "id": "duv",
+    "ref": "129288",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129288"
+  },
+  "start": {
+    "lat": 54.535955,
+    "lon": -1.051085,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": null
+}

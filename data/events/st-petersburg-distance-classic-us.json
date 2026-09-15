@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Petersburg Distance Classic is a road race. Location: Saint Petersburg, United States. Date: Sunday, 7 February 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Saint Petersburg, United States, Sunday, 7 February 2027"
+    },
+    "pl": {
+      "description": "St. Petersburg Distance Classic to bieg uliczny. Lokalizacja: Saint Petersburg, Stany Zjednoczone. Termin: niedziela, 7 lutego 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Saint Petersburg, Stany Zjednoczone, niedziela, 7 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saint Petersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "St. Petersburg Distance Classic",
+  "registrationUrl": "https://runsignup.com/Race/FL/SaintPetersburg/StPetersburgDistanceClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "st-petersburg-distance-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "st-petersburg-distance-classic-fl",
+    "url": "https://runsignup.com/Race/FL/SaintPetersburg/StPetersburgDistanceClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.77,
+    "lon": -82.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/FL/SaintPetersburg/StPetersburgDistanceClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

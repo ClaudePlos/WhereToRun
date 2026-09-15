@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Houston Ultra Trail is a ultramarathon. Location: Houston, United States. Date: Saturday, 13 February 2027. Distances: u50m, u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Houston, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Houston Ultra Trail to ultramaraton. Lokalizacja: Houston, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50m, u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Houston, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Houston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Houston Ultra Trail",
+  "registrationUrl": "https://runsignup.com/Race/TX/Houston/BayouTrailRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "houston-ultra-trail-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "houston-ultra-trail-tx",
+    "url": "https://runsignup.com/Race/TX/Houston/BayouTrailRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.77,
+    "lon": -95.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/TX/Houston/BayouTrailRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-03-20",
+  "date": "2027-01-16",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -30,17 +30,17 @@
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 SAN ANTONIO",
-  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-san-antonio-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
     "id": "runraceusa",
     "ref": "sunrise-marathon-5k-10k-13-1-san-antonio-san-antonio-tx-2027-03-20",
-    "url": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 29.44,
-    "lon": -98.49,
+    "lat": 29.54,
+    "lon": -98.42,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathon5K10KSANANTONIO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

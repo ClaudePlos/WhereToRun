@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sombrero Ultra Running Festival ( SURF ) is a ultramarathon. Location: middleburg, United States. Date: Friday, 12 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — middleburg, United States, Friday, 12 February 2027"
+    },
+    "pl": {
+      "description": "Sombrero Ultra Running Festival ( SURF ) to ultramaraton. Lokalizacja: middleburg, Stany Zjednoczone. Termin: piątek, 12 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — middleburg, Stany Zjednoczone, piątek, 12 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-02-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "middleburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Sombrero Ultra Running Festival ( SURF )",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18084",
+  "slug": "sombrero-ultra-running-festival-surf-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "sombrero-ultra-running-festival-surf-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=18084"
+  },
+  "start": {
+    "lat": 30,
+    "lon": -81.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18084"
+}

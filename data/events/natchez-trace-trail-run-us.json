@@ -13,8 +13,9 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
+    "80.5 km",
     "42.2 km",
+    "Rucking 13 Miles",
     "21.1 km"
   ],
   "endDate": null,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Natchez Trace Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5673",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65115",
   "slug": "natchez-trace-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
-    "id": "runraceusa",
-    "ref": "natchez-trace-trail-run-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=5673"
+    "fetchedAt": "2026-09-15T11:53:00.350Z",
+    "id": "ultrasignup",
+    "ref": "5673",
+    "url": "https://ultrasignup.com/register.aspx?did=65115"
   },
   "start": {
-    "lat": 35.87,
-    "lon": -87.04,
+    "lat": 35.8679,
+    "lon": -87.0351,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5673"
+  "type": "ultra",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "http://hardwinadventures.com/natchez-trace-trail-run/"
 }

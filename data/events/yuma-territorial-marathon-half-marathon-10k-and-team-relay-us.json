@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Yuma Territorial Marathon, Half Marathon, 10k and Team Relay is a road race. Location: Somerton, United States. Date: Saturday, 30 January 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Somerton, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Yuma Territorial Marathon, Half Marathon, 10k and Team Relay to bieg uliczny. Lokalizacja: Somerton, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Somerton, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Somerton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Yuma Territorial Marathon, Half Marathon, 10k and Team Relay",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Somerton/YumaTerritorialMarathonHalfMarathon10kandTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "yuma-territorial-marathon-half-marathon-10k-and-team-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "yuma-territorial-marathon-half-marathon-10k-and-team-relay-az",
+    "url": "https://runsignup.com/Race/AZ/Somerton/YumaTerritorialMarathonHalfMarathon10kandTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.56,
+    "lon": -114.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://runsignup.com/Race/AZ/Somerton/YumaTerritorialMarathonHalfMarathon10kandTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

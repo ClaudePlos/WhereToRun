@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "This ain't your Mothers 50k & Trail Marathon is a trail race. Location: Middleburg, United States. Date: Sunday, 31 January 2027. Distances: u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Middleburg, United States, Sunday, 31 January 2027"
+    },
+    "pl": {
+      "description": "This ain't your Mothers 50k & Trail Marathon to bieg trailowy. Lokalizacja: Middleburg, Stany Zjednoczone. Termin: niedziela, 31 stycznia 2027. Dystanse: u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Middleburg, Stany Zjednoczone, niedziela, 31 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-15T11:52:51.618Z",
+  "date": "2027-01-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Middleburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "This ain't your Mothers 50k & Trail Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14746",
+  "slug": "this-ain-t-your-mothers-50k-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-15T11:53:00.902Z",
+    "id": "runraceusa",
+    "ref": "this-ain-t-your-mothers-50k-trail-marathon-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=14746"
+  },
+  "start": {
+    "lat": 30.13,
+    "lon": -81.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T11:52:51.618Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14746"
+}
