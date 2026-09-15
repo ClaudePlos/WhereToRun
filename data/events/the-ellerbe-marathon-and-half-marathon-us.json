@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Ellerbe Marathon and Half Marathon is a road race. Location: Ellerbe, United States. Date: Saturday, 27 February 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ellerbe, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "The Ellerbe Marathon and Half Marathon to bieg uliczny. Lokalizacja: Ellerbe, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ellerbe, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ellerbe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "The Ellerbe Marathon and Half Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5988",
+  "slug": "the-ellerbe-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "the-ellerbe-marathon-and-half-marathon-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=5988"
+  },
+  "start": {
+    "lat": 35.07,
+    "lon": -79.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5988"
+}

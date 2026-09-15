@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sandhills Trail Race Series (30 Hour - 50k - 25k - 7.5 Mile) is a trail race. Location: Columbia, United States. Date: Saturday, 20 February 2027. Distances: u100m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Columbia, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Sandhills Trail Race Series (30 Hour - 50k - 25k - 7.5 Mile) to bieg trailowy. Lokalizacja: Columbia, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u100m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Columbia, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Sandhills Trail Race Series (30 Hour - 50k - 25k - 7.5 Mile)",
+  "registrationUrl": "https://runsignup.com/Race/SC/Columbia/Sandhills?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sandhills-trail-race-series-30-hour-50k-25k-7-5-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "sandhills-trail-race-series-30-hour-50k-25k-7-5-mile-sc",
+    "url": "https://runsignup.com/Race/SC/Columbia/Sandhills?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.09,
+    "lon": -80.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/SC/Columbia/Sandhills?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

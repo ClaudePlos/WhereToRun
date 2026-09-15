@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Taco Bell 50K Knoxville is a road race. Location: Knoxville, United States. Date: Saturday, 27 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Knoxville, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Taco Bell 50K Knoxville to bieg uliczny. Lokalizacja: Knoxville, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Knoxville, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Knoxville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Taco Bell 50K Knoxville",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19739",
+  "slug": "taco-bell-50k-knoxville-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "taco-bell-50k-knoxville-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=19739"
+  },
+  "start": {
+    "lat": 35.95,
+    "lon": -83.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19739"
+}

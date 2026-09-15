@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dark Horse 24/48hr Ultra Run is a ultramarathon. Location: Aiken, United States. Date: Friday, 26 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Aiken, United States, Friday, 26 February 2027"
+    },
+    "pl": {
+      "description": "Dark Horse 24/48hr Ultra Run to ultramaraton. Lokalizacja: Aiken, Stany Zjednoczone. Termin: piątek, 26 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Aiken, Stany Zjednoczone, piątek, 26 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aiken",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Dark Horse 24/48hr Ultra Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19302",
+  "slug": "dark-horse-24-48hr-ultra-run-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "dark-horse-24-48hr-ultra-run-sc",
+    "url": "https://ultrasignup.com/register.aspx?eid=19302"
+  },
+  "start": {
+    "lat": 33.65,
+    "lon": -81.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19302"
+}

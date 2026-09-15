@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Florida ANVIL Ultra Triathlon is a triathlon. Location: Clermont, United States. Date: Friday, 26 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Clermont, United States, Friday, 26 February 2027"
+    },
+    "pl": {
+      "description": "Florida ANVIL Ultra Triathlon to triatlon. Lokalizacja: Clermont, Stany Zjednoczone. Termin: piątek, 26 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Clermont, Stany Zjednoczone, piątek, 26 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clermont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Florida ANVIL Ultra Triathlon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19410",
+  "slug": "florida-anvil-ultra-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "florida-anvil-ultra-triathlon-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=19410"
+  },
+  "start": {
+    "lat": 28.44,
+    "lon": -81.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19410"
+}

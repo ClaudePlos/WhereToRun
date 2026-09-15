@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Huddingeleden 50 miles is a ultramarathon. Location: Huddinge, Sweden. Date: Saturday, 14 November 2026. Distances: 82 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Huddinge, Sweden, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Huddingeleden 50 miles to ultramaraton. Lokalizacja: Huddinge, Szwecja. Termin: sobota, 14 listopada 2026. Dystanse: 82 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Huddinge, Szwecja, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "82 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huddinge",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Huddingeleden 50 miles",
+  "registrationUrl": null,
+  "slug": "huddingeleden-50-miles-se",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:44.358Z",
+    "id": "duv",
+    "ref": "135412",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135412"
+  },
+  "start": {
+    "lat": 59.216667,
+    "lon": 18,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": null
+}

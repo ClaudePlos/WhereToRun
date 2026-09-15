@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Swamp 10k/30k/50k Trail Race is a trail race. Location: Palm Coast, United States. Date: Saturday, 27 February 2027. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Palm Coast, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Swamp 10k/30k/50k Trail Race to bieg trailowy. Lokalizacja: Palm Coast, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Palm Coast, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palm Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Swamp 10k/30k/50k Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5275",
+  "slug": "swamp-10k-30k-50k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "swamp-10k-30k-50k-trail-race-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=5275"
+  },
+  "start": {
+    "lat": 29.47,
+    "lon": -81.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5275"
+}

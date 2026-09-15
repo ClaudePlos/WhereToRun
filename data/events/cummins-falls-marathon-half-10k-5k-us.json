@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cummins Falls Marathon, Half, 10K, 5K is a road race. Location: Cookeville, United States. Date: Saturday, 27 February 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cookeville, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Cummins Falls Marathon, Half, 10K, 5K to bieg uliczny. Lokalizacja: Cookeville, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cookeville, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cookeville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Cummins Falls Marathon, Half, 10K, 5K",
+  "registrationUrl": "https://runsignup.com/Race/TN/Cookeville/CumminsFallsMarathonHalf10K5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cummins-falls-marathon-half-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "cummins-falls-marathon-half-10k-5k-tn",
+    "url": "https://runsignup.com/Race/TN/Cookeville/CumminsFallsMarathonHalf10K5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.22,
+    "lon": -85.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/TN/Cookeville/CumminsFallsMarathonHalf10K5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

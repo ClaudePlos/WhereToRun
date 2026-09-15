@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Moab Red Hot Ultra is a ultramarathon. Location: Moab, United States. Date: Saturday, 27 February 2027. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moab, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Moab Red Hot Ultra to ultramaraton. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moab, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Moab Red Hot Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=119",
+  "slug": "moab-red-hot-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "moab-red-hot-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=119"
+  },
+  "start": {
+    "lat": 38.6,
+    "lon": -109.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=119"
+}

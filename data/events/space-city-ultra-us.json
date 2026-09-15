@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Space City Ultra is a ultramarathon. Location: Sugar Land, United States. Date: Saturday, 27 February 2027. Distances: u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sugar Land, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Space City Ultra to ultramaraton. Lokalizacja: Sugar Land, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sugar Land, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sugar Land",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Space City Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "space-city-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "space-city-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.58,
+    "lon": -95.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

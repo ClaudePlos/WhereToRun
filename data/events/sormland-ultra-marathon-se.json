@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sörmland Ultra Marathon is a ultramarathon. Location: Stockholm, Sweden. Date: Saturday, 10 October 2026. Distances: 51 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Stockholm, Sweden, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Sörmland Ultra Marathon to ultramaraton. Lokalizacja: Stockholm, Szwecja. Termin: sobota, 10 października 2026. Dystanse: 51 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Stockholm, Szwecja, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "51 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sörmland Ultra Marathon",
+  "registrationUrl": null,
+  "slug": "sormland-ultra-marathon-se",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:44.358Z",
+    "id": "duv",
+    "ref": "130367",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130367"
+  },
+  "start": {
+    "lat": 59.325117,
+    "lon": 18.071094,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": null
+}

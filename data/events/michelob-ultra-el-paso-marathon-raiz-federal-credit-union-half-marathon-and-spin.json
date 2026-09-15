@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Michelob Ultra El Paso Marathon, Raiz Federal Credit Union Half Marathon, and Spine & Rehab Specialists 5K Run/Walk is a ultramarathon. Location: El Paso, United States. Date: Saturday, 27 February 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — El Paso, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Michelob Ultra El Paso Marathon, Raiz Federal Credit Union Half Marathon, and Spine & Rehab Specialists 5K Run/Walk to ultramaraton. Lokalizacja: El Paso, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — El Paso, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "El Paso",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Michelob Ultra El Paso Marathon, Raiz Federal Credit Union Half Marathon, and Spine & Rehab Specialists 5K Run/Walk",
+  "registrationUrl": "https://runsignup.com/Race/TX/ElPaso/ElPasoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "michelob-ultra-el-paso-marathon-raiz-federal-credit-union-half-marathon-and-spin",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "michelob-ultra-el-paso-marathon-raiz-federal-credit-union-half",
+    "url": "https://runsignup.com/Race/TX/ElPaso/ElPasoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.76,
+    "lon": -106.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/TX/ElPaso/ElPasoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

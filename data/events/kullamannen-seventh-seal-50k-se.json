@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kullamannen Seventh Seal 50K is a ultramarathon. Location: Båstad, Sweden. Date: Saturday, 31 October 2026. Distances: 53 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Båstad, Sweden, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Kullamannen Seventh Seal 50K to ultramaraton. Lokalizacja: Båstad, Szwecja. Termin: sobota, 31 października 2026. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Båstad, Szwecja, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Båstad",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kullamannen Seventh Seal 50K",
+  "registrationUrl": null,
+  "slug": "kullamannen-seventh-seal-50k-se",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:44.358Z",
+    "id": "duv",
+    "ref": "130361",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130361"
+  },
+  "start": {
+    "lat": 56.426896,
+    "lon": 12.860879,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": null
+}

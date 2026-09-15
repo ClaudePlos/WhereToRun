@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Willapa Trail Festival is a ultramarathon. Location: Chehalis, United States. Date: Saturday, 7 November 2026. Distances: 160.9 km, 80.5 km, 50 km, 25 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chehalis, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Willapa Trail Festival to ultramaraton. Lokalizacja: Chehalis, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 160.9 km, 80.5 km, 50 km, 25 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chehalis, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chehalis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Willapa Trail Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65641",
+  "slug": "willapa-trail-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.179Z",
+    "id": "ultrasignup",
+    "ref": "15098",
+    "url": "https://ultrasignup.com/register.aspx?did=65641"
+  },
+  "start": {
+    "lat": 46.6316,
+    "lon": -123.234,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://olytrailrunners.com/willapa_trail_festival/"
+}

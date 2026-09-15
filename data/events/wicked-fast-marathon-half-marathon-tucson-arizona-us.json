@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "WICKED FAST MARATHON & HALF MARATHON TUCSON, ARIZONA is a road race. Location: Tucson, United States. Date: Saturday, 27 February 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tucson, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "WICKED FAST MARATHON & HALF MARATHON TUCSON, ARIZONA to bieg uliczny. Lokalizacja: Tucson, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tucson, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tucson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "WICKED FAST MARATHON & HALF MARATHON TUCSON, ARIZONA",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Tucson/WICKEDFASTMARATHONHALFMARATHONTUCSONARIZONA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wicked-fast-marathon-half-marathon-tucson-arizona-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "wicked-fast-marathon-half-marathon-tucson-arizona-az",
+    "url": "https://runsignup.com/Race/AZ/Tucson/WICKEDFASTMARATHONHALFMARATHONTUCSONARIZONA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.6,
+    "lon": -110.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/AZ/Tucson/WICKEDFASTMARATHONHALFMARATHONTUCSONARIZONA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

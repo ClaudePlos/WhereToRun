@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Dirt Ultra is a ultramarathon. Location: Provencal, United States. Date: Saturday, 20 February 2027. Distances: u100k, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Provencal, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Red Dirt Ultra to ultramaraton. Lokalizacja: Provencal, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u100k, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Provencal, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Provencal",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Red Dirt Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6015",
+  "slug": "red-dirt-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "red-dirt-ultra-la",
+    "url": "https://ultrasignup.com/register.aspx?eid=6015"
+  },
+  "start": {
+    "lat": 31.48,
+    "lon": -93.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6015"
+}

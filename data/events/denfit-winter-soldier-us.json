@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "DENFIT Winter Soldier is a road race. Location: Cape Vincent, United States. Date: Saturday, 27 February 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cape Vincent, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "DENFIT Winter Soldier to bieg uliczny. Lokalizacja: Cape Vincent, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cape Vincent, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cape Vincent",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "DENFIT Winter Soldier",
+  "registrationUrl": "https://runsignup.com/Race/NY/CapeVincent/DENFITWinterSoldier?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "denfit-winter-soldier-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "denfit-winter-soldier-ny",
+    "url": "https://runsignup.com/Race/NY/CapeVincent/DENFITWinterSoldier?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.12,
+    "lon": -76.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/NY/CapeVincent/DENFITWinterSoldier?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

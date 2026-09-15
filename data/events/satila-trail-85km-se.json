@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sätila Trail 85km is a ultramarathon. Location: Sätila, Sweden. Date: Saturday, 7 November 2026. Distances: 85 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sätila, Sweden, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Sätila Trail 85km to ultramaraton. Lokalizacja: Sätila, Szwecja. Termin: sobota, 7 listopada 2026. Dystanse: 85 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sätila, Szwecja, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "85 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sätila",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sätila Trail 85km",
+  "registrationUrl": null,
+  "slug": "satila-trail-85km-se",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:44.358Z",
+    "id": "duv",
+    "ref": "130884",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130884"
+  },
+  "start": {
+    "lat": 57.541234,
+    "lon": 12.435089,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": null
+}

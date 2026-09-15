@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Miner 49er is a ultramarathon. Location: Dubuque, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dubuque, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Miner 49er to ultramaraton. Lokalizacja: Dubuque, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dubuque, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dubuque",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Miner 49er",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66245",
+  "slug": "miner-49er-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.179Z",
+    "id": "ultrasignup",
+    "ref": "8636",
+    "url": "https://ultrasignup.com/register.aspx?did=66245"
+  },
+  "start": {
+    "lat": 42.4591,
+    "lon": -90.6641,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://www.facebook.com/Miner-49er-50k-25k-Endurance-Runs-319469775225029/"
+}

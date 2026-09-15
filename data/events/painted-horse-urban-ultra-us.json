@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Painted Horse Urban Ultra is a ultramarathon. Location: Ocala, United States. Date: Saturday, 27 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ocala, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Painted Horse Urban Ultra to ultramaraton. Lokalizacja: Ocala, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ocala, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ocala",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Painted Horse Urban Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12697",
+  "slug": "painted-horse-urban-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "painted-horse-urban-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=12697"
+  },
+  "start": {
+    "lat": 29.11,
+    "lon": -82.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=12697"
+}

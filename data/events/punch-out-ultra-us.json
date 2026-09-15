@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Punch Out Ultra is a ultramarathon. Location: Molino, United States. Date: Saturday, 27 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Molino, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Punch Out Ultra to ultramaraton. Lokalizacja: Molino, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Molino, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Molino",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Punch Out Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19482",
+  "slug": "punch-out-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "punch-out-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=19482"
+  },
+  "start": {
+    "lat": 30.78,
+    "lon": -87.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19482"
+}

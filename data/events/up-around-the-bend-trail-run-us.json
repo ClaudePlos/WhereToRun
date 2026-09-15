@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Up Around The Bend Trail Run is a trail race. Location: Bend, United States. Date: Saturday, 20 February 2027. Distances: u50m, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Bend, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Up Around The Bend Trail Run to bieg trailowy. Lokalizacja: Bend, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50m, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Bend, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T22:52:27.272Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Up Around The Bend Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/TX/Bend/UpAroundTheBendTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "up-around-the-bend-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "id": "runraceusa",
+    "ref": "up-around-the-bend-trail-run-tx",
+    "url": "https://runsignup.com/Race/TX/Bend/UpAroundTheBendTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.11,
+    "lon": -98.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "website": "https://runsignup.com/Race/TX/Bend/UpAroundTheBendTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

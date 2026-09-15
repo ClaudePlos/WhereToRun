@@ -1325,6 +1325,12 @@
     "lon": 14.55,
     "name": "Bromölla kommun, Skåne län, Sverige"
   },
+  "SE|båstad": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 56.4268963,
+    "lon": 12.8608789,
+    "name": "Båstad, Båstads kommun, Skåne län, 269 36, Sverige"
+  },
   "SE|fiskebäckskil": {
     "at": "2026-09-15T17:40:53.953Z",
     "lat": 58.2456466,
@@ -1334,11 +1340,26 @@
   "SE|gripholms slott, mariefred": {
     "at": "2026-09-07T12:45:22.898Z"
   },
+  "SE|hallshuk": {
+    "at": "2026-09-15T22:52:27.272Z"
+  },
   "SE|hemmesta": {
     "at": "2026-09-15T17:40:53.953Z",
     "lat": 59.3221081,
     "lon": 18.4862711,
     "name": "Hemmesta, Värmdö kommun, Stockholms län, 139 30, Sverige"
+  },
+  "SE|huddinge": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 59.216667,
+    "lon": 18,
+    "name": "Huddinge kommun, Stockholms län, Sverige"
+  },
+  "SE|höganäs": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 56.2,
+    "lon": 12.566667,
+    "name": "Höganäs kommun, Skåne län, Sverige"
   },
   "SE|kisa": {
     "at": "2026-09-15T17:40:53.953Z",
@@ -1370,14 +1391,44 @@
     "lon": 24.1063507,
     "name": "Marielund, Haparanda, Haparanda kommun, Norrbottens län, 953 36, Sverige"
   },
+  "SE|rönninge": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 59.1939891,
+    "lon": 17.7484631,
+    "name": "Rönninge, Salems kommun, Stockholms län, 144 61, Sverige"
+  },
+  "SE|sandviken": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 60.6218652,
+    "lon": 16.7759991,
+    "name": "Sandviken, Sandvikens kommun, Gävleborgs län, 811 39, Sverige"
+  },
+  "SE|stockholm": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "name": "Stockholm, Stockholms kommun, Stockholms län, 111 29, Sverige"
+  },
   "SE|svartbäcksmåla, nybro": {
     "at": "2026-09-07T12:45:22.898Z"
+  },
+  "SE|sätila": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 57.5412344,
+    "lon": 12.4350893,
+    "name": "Sätila, Marks kommun, Västra Götalands län, 511 69, Sverige"
   },
   "SE|tvååker": {
     "at": "2026-09-07T12:45:22.898Z",
     "lat": 57.0413621,
     "lon": 12.3991052,
     "name": "Tvååker, Varbergs kommun, Hallands län, 432 78, Sverige"
+  },
+  "SE|ulricehamn": {
+    "at": "2026-09-15T22:52:27.272Z",
+    "lat": 57.7913848,
+    "lon": 13.4130426,
+    "name": "Ulricehamn, Ulricehamns kommun, Västra Götalands län, 523 30, Sverige"
   },
   "SE|värmdö, stockholm": {
     "at": "2026-09-15T17:40:53.953Z"
@@ -1387,6 +1438,9 @@
     "lat": 59.6110992,
     "lon": 16.5463679,
     "name": "Västerås, Västerås kommun, Västmanlands län, 721 01, Sverige"
+  },
+  "SE|väven, umeå": {
+    "at": "2026-09-15T22:52:27.272Z"
   },
   "SI|ljubljana": {
     "at": "2026-09-02T11:28:34.543Z",
