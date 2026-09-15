@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Limhamn September Backyard Ultra is a ultramarathon. Location: Limhamn, Sweden. Date: Saturday, 19 September 2026. Distances: 25 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Limhamn, Sweden, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Limhamn September Backyard Ultra to ultramaraton. Lokalizacja: Limhamn, Szwecja. Termin: sobota, 19 września 2026. Dystanse: 25 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Limhamn, Szwecja, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "25 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Limhamn",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Limhamn September Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "limhamn-september-backyard-ultra-se",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130360",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130360"
+  },
+  "start": {
+    "lat": 55.583283,
+    "lon": 12.935781,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

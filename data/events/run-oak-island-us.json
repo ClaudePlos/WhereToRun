@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Oak Island is a road race. Location: Oak Island, United States. Date: Saturday, 13 February 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, ultra, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oak Island, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Run Oak Island to bieg uliczny. Lokalizacja: Oak Island, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, ultra, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oak Island, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "ultra",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oak Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Run Oak Island",
+  "registrationUrl": "https://runsignup.com/Race/NC/OakIsland/RunOakIsland?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-oak-island-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "run-oak-island-nc",
+    "url": "https://runsignup.com/Race/NC/OakIsland/RunOakIsland?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.92,
+    "lon": -78.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/NC/OakIsland/RunOakIsland?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

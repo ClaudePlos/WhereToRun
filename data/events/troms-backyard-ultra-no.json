@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tromsø Backyard Ultra is a ultramarathon. Location: Tromsø, Norway. Date: Saturday, 3 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tromsø, Norway, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Tromsø Backyard Ultra to ultramaraton. Lokalizacja: Tromsø, Norwegia. Termin: sobota, 3 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tromsø, Norwegia, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tromsø",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tromsø Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "troms-backyard-ultra-no",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130628",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130628"
+  },
+  "start": {
+    "lat": 69.651635,
+    "lon": 18.955859,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

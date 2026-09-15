@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "MATAGORDA: Gulf Coast Trail Running Festival is a trail race. Location: Matagorda, United States. Date: Saturday, 13 February 2027. Distances: other, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Matagorda, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "MATAGORDA: Gulf Coast Trail Running Festival to bieg trailowy. Lokalizacja: Matagorda, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: other, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Matagorda, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Matagorda",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "MATAGORDA: Gulf Coast Trail Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/TX/Matagorda/GulfCoastTrailRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "matagorda-gulf-coast-trail-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "matagorda-gulf-coast-trail-running-festival-tx",
+    "url": "https://runsignup.com/Race/TX/Matagorda/GulfCoastTrailRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.69,
+    "lon": -95.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/TX/Matagorda/GulfCoastTrailRunning?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

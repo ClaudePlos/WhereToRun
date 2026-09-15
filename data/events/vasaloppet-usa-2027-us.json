@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Vasaloppet USA 2027 is a road race. Location: Mora, United States. Date: Saturday, 13 February 2027. Distances: u50k, other, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mora, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Vasaloppet USA 2027 to bieg uliczny. Lokalizacja: Mora, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, other, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mora, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mora",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Vasaloppet USA 2027",
+  "registrationUrl": "https://runsignup.com/Race/MN/Mora/VasaloppetUSA2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "vasaloppet-usa-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "vasaloppet-usa-2027-mn",
+    "url": "https://runsignup.com/Race/MN/Mora/VasaloppetUSA2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.9,
+    "lon": -93.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/MN/Mora/VasaloppetUSA2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

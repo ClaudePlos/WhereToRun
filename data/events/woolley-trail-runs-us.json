@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Woolley Trail Runs is a trail race. Location: Sedro Woolley, United States. Date: Saturday, 13 February 2027. Distances: u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Sedro Woolley, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Woolley Trail Runs to bieg trailowy. Lokalizacja: Sedro Woolley, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Sedro Woolley, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sedro Woolley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Woolley Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/WA/SedroWoolley/WoolleyRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "woolley-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "woolley-trail-runs-wa",
+    "url": "https://runsignup.com/Race/WA/SedroWoolley/WoolleyRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.53,
+    "lon": -122.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/WA/SedroWoolley/WoolleyRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

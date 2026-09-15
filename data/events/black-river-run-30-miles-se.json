@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black River Run 30 Miles is a ultramarathon. Location: Västerås, Sweden. Date: Saturday, 19 September 2026. Distances: 48 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Västerås, Sweden, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Black River Run 30 Miles to ultramaraton. Lokalizacja: Västerås, Szwecja. Termin: sobota, 19 września 2026. Dystanse: 48 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Västerås, Szwecja, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Västerås",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Black River Run 30 Miles",
+  "registrationUrl": null,
+  "slug": "black-river-run-30-miles-se",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.685Z",
+    "id": "duv",
+    "ref": "130356",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130356"
+  },
+  "start": {
+    "lat": 59.611099,
+    "lon": 16.546368,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

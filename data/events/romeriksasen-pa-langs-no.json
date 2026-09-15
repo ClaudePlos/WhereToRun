@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Romeriksåsen på langs is a ultramarathon. Location: Gjerdrum, Norway. Date: Saturday, 26 June 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gjerdrum, Norway, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Romeriksåsen på langs to ultramaraton. Lokalizacja: Gjerdrum, Norwegia. Termin: sobota, 26 czerwca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gjerdrum, Norwegia, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gjerdrum",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Romeriksåsen på langs",
+  "registrationUrl": null,
+  "slug": "romeriksasen-pa-langs-no",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "134185",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134185"
+  },
+  "start": {
+    "lat": 60.078777,
+    "lon": 11.020612,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hagemanns Rundbaneløp is a ultramarathon. Location: Svelvik, Norway. Date: Saturday, 3 October 2026. Distances: 53 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Svelvik, Norway, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Hagemanns Rundbaneløp to ultramaraton. Lokalizacja: Svelvik, Norwegia. Termin: sobota, 3 października 2026. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Svelvik, Norwegia, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Svelvik",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Hagemanns Rundbaneløp",
+  "registrationUrl": null,
+  "slug": "hagemanns-rundbanel-p-no",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130627",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130627"
+  },
+  "start": {
+    "lat": 59.613521,
+    "lon": 10.409107,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

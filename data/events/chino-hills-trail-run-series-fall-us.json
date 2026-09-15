@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Chino Hills Trail Run Series Fall is a ultramarathon. Location: Brea, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brea, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Chino Hills Trail Run Series Fall to ultramaraton. Lokalizacja: Brea, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brea, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brea",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Chino Hills Trail Run Series Fall",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68097",
+  "slug": "chino-hills-trail-run-series-fall-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:01.768Z",
+    "id": "ultrasignup",
+    "ref": "6404",
+    "url": "https://ultrasignup.com/register.aspx?did=68097"
+  },
+  "start": {
+    "lat": 33.9202,
+    "lon": -117.827,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://www.chinohillstrailrun.com/"
+}

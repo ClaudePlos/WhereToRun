@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cheraw 24 Hour is a road race. Location: Cheraw, United States. Date: Saturday, 20 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cheraw, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Cheraw 24 Hour to bieg uliczny. Lokalizacja: Cheraw, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cheraw, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cheraw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Cheraw 24 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16625",
+  "slug": "cheraw-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "cheraw-24-hour-sc",
+    "url": "https://ultrasignup.com/register.aspx?eid=16625"
+  },
+  "start": {
+    "lat": 34.64,
+    "lon": -79.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16625"
+}

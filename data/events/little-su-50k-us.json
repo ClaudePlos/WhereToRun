@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Little Su 50K is a road race. Location: Big Lake, United States. Date: Sunday, 14 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Big Lake, United States, Sunday, 14 February 2027"
+    },
+    "pl": {
+      "description": "Little Su 50K to bieg uliczny. Lokalizacja: Big Lake, Stany Zjednoczone. Termin: niedziela, 14 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Big Lake, Stany Zjednoczone, niedziela, 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Little Su 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=117",
+  "slug": "little-su-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "little-su-50k-ak",
+    "url": "https://ultrasignup.com/register.aspx?eid=117"
+  },
+  "start": {
+    "lat": 61.55,
+    "lon": -149.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=117"
+}

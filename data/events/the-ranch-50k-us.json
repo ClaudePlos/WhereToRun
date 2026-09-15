@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Ranch 50k is a road race. Location: Escondido, United States. Date: Saturday, 13 February 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Escondido, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "The Ranch 50k to bieg uliczny. Lokalizacja: Escondido, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Escondido, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Escondido",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "The Ranch 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10882",
+  "slug": "the-ranch-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "the-ranch-50k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=10882"
+  },
+  "start": {
+    "lat": 33.17,
+    "lon": -117.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10882"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "MileBuilt 2-Day Bridge Challenge is a trail race. Location: Winter Park, United States. Date: Saturday, 20 February 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Winter Park, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "MileBuilt 2-Day Bridge Challenge to bieg trailowy. Lokalizacja: Winter Park, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Winter Park, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winter Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "MileBuilt 2-Day Bridge Challenge",
+  "registrationUrl": "https://runsignup.com/Race/FL/WinterPark/MileBuilt2DayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "milebuilt-2-day-bridge-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "milebuilt-2-day-bridge-challenge-fl",
+    "url": "https://runsignup.com/Race/FL/WinterPark/MileBuilt2DayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.6,
+    "lon": -81.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/FL/WinterPark/MileBuilt2DayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

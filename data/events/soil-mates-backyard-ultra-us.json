@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Soil Mates Backyard Ultra is a ultramarathon. Location: Thomaston, United States. Date: Saturday, 13 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Thomaston, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Soil Mates Backyard Ultra to ultramaraton. Lokalizacja: Thomaston, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Thomaston, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Thomaston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Soil Mates Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20914",
+  "slug": "soil-mates-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "soil-mates-backyard-ultra-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=20914"
+  },
+  "start": {
+    "lat": 32.89,
+    "lon": -84.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20914"
+}

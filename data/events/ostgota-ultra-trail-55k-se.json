@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Östgöta Ultra Trail 55K is a ultramarathon. Location: Kisa, Sweden. Date: Saturday, 26 September 2026. Distances: 55 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kisa, Sweden, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Östgöta Ultra Trail 55K to ultramaraton. Lokalizacja: Kisa, Szwecja. Termin: sobota, 26 września 2026. Dystanse: 55 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kisa, Szwecja, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "55 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kisa",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Östgöta Ultra Trail 55K",
+  "registrationUrl": null,
+  "slug": "ostgota-ultra-trail-55k-se",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130370",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130370"
+  },
+  "start": {
+    "lat": 57.987502,
+    "lon": 15.622841,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

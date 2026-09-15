@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Phoenix Phearsome Phour Ultra is a ultramarathon. Location: Phoenix, United States. Date: Saturday, 20 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Phoenix, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Phoenix Phearsome Phour Ultra to ultramaraton. Lokalizacja: Phoenix, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Phoenix, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Phoenix",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Phoenix Phearsome Phour Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20819",
+  "slug": "phoenix-phearsome-phour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "phoenix-phearsome-phour-ultra-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=20819"
+  },
+  "start": {
+    "lat": 33.54,
+    "lon": -112,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20819"
+}

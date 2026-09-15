@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Angry Tortoise 25K/50K is a road race. Location: Bryceville, United States. Date: Saturday, 20 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bryceville, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Angry Tortoise 25K/50K to bieg uliczny. Lokalizacja: Bryceville, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bryceville, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bryceville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Angry Tortoise 25K/50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4928",
+  "slug": "angry-tortoise-25k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "angry-tortoise-25k-50k-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=4928"
+  },
+  "start": {
+    "lat": 30.4,
+    "lon": -81.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4928"
+}

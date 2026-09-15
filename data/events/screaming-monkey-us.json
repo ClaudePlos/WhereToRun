@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Screaming Monkey is a ultramarathon. Location: Keithville, United States. Date: Saturday, 7 November 2026. Distances: 160.9 km, 100 km, 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Keithville, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Screaming Monkey to ultramaraton. Lokalizacja: Keithville, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 160.9 km, 100 km, 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Keithville, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Keithville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Screaming Monkey",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65766",
+  "slug": "screaming-monkey-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:01.768Z",
+    "id": "ultrasignup",
+    "ref": "9749",
+    "url": "https://ultrasignup.com/register.aspx?did=65766"
+  },
+  "start": {
+    "lat": 32.2592,
+    "lon": -93.9439,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://www.radracingevents.com"
+}

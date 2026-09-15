@@ -149,6 +149,12 @@
     "lon": 4.754358,
     "name": "Bierbeek, Leuven, Vlaams-Brabant, Vlaanderen, 3360, België / Belgique / Belgien"
   },
+  "BE|chaumont-gistoux": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 50.6839808,
+    "lon": 4.6974182,
+    "name": "Chaumont-Gistoux, Nivelles, Brabant wallon, Wallonie, 1325, België / Belgique / Belgien"
+  },
   "BE|eupen": {
     "at": "2026-09-07T12:45:22.898Z",
     "lat": 50.6305665,
@@ -1313,14 +1319,56 @@
     "lon": 20.4568974,
     "name": "Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија"
   },
+  "SE|bromölla": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 56.116667,
+    "lon": 14.55,
+    "name": "Bromölla kommun, Skåne län, Sverige"
+  },
+  "SE|fiskebäckskil": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 58.2456466,
+    "lon": 11.4566294,
+    "name": "Fiskebäckskil, Lysekils kommun, Västra Götalands län, 451 78, Sverige"
+  },
   "SE|gripholms slott, mariefred": {
     "at": "2026-09-07T12:45:22.898Z"
+  },
+  "SE|hemmesta": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 59.3221081,
+    "lon": 18.4862711,
+    "name": "Hemmesta, Värmdö kommun, Stockholms län, 139 30, Sverige"
+  },
+  "SE|kisa": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 57.9875021,
+    "lon": 15.622841,
+    "name": "Kisa, Kinda kommun, Östergötlands län, 590 37, Sverige"
+  },
+  "SE|limhamn": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 55.5832831,
+    "lon": 12.9357813,
+    "name": "Limhamn, Gamla Limhamn, Väster, Malmö, Malmö kommun, Skåne län, 216 14, Sverige"
+  },
+  "SE|ljungby": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 56.8325886,
+    "lon": 13.9359916,
+    "name": "Ljungby, Ljungby kommun, Kronobergs län, 341 43, Sverige"
   },
   "SE|lund": {
     "at": "2026-09-07T12:45:22.898Z",
     "lat": 55.7029296,
     "lon": 13.1929449,
     "name": "Lund, Lunds kommun, Skåne län, Sverige"
+  },
+  "SE|mattila": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 65.8528742,
+    "lon": 24.1063507,
+    "name": "Marielund, Haparanda, Haparanda kommun, Norrbottens län, 953 36, Sverige"
   },
   "SE|svartbäcksmåla, nybro": {
     "at": "2026-09-07T12:45:22.898Z"
@@ -1330,6 +1378,15 @@
     "lat": 57.0413621,
     "lon": 12.3991052,
     "name": "Tvååker, Varbergs kommun, Hallands län, 432 78, Sverige"
+  },
+  "SE|värmdö, stockholm": {
+    "at": "2026-09-15T17:40:53.953Z"
+  },
+  "SE|västerås": {
+    "at": "2026-09-15T17:40:53.953Z",
+    "lat": 59.6110992,
+    "lon": 16.5463679,
+    "name": "Västerås, Västerås kommun, Västmanlands län, 721 01, Sverige"
   },
   "SI|ljubljana": {
     "at": "2026-09-02T11:28:34.543Z",

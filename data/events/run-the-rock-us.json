@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run The Rock is a ultramarathon. Location: Terrebonne, United States. Date: 7 November 2026 – 8 November 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Terrebonne, United States, 7 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "Run The Rock to ultramaraton. Lokalizacja: Terrebonne, Stany Zjednoczone. Termin: 7 listopada 2026 – 8 listopada 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Terrebonne, Stany Zjednoczone, 7 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Terrebonne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Run The Rock",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64164",
+  "slug": "run-the-rock-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:01.768Z",
+    "id": "ultrasignup",
+    "ref": "7861",
+    "url": "https://ultrasignup.com/register.aspx?did=64164"
+  },
+  "start": {
+    "lat": 44.3682,
+    "lon": -121.141,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://www.alpinerunning.co/run-the-rock-50"
+}

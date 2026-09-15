@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Febapple Frozen 50M, 50K, 20M, 10M is a road race. Location: South Orange, United States. Date: Saturday, 20 February 2027. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Orange, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Febapple Frozen 50M, 50K, 20M, 10M to bieg uliczny. Lokalizacja: South Orange, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Orange, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Orange",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Febapple Frozen 50M, 50K, 20M, 10M",
+  "registrationUrl": "https://runsignup.com/Race/NJ/SouthOrange/Febapple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "febapple-frozen-50m-50k-20m-10m-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "febapple-frozen-50m-50k-20m-10m-nj",
+    "url": "https://runsignup.com/Race/NJ/SouthOrange/Febapple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.75,
+    "lon": -74.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/NJ/SouthOrange/Febapple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dam to Dam 100k Relay is a road race. Location: Lexington, United States. Date: Saturday, 20 February 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lexington, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Dam to Dam 100k Relay to bieg uliczny. Lokalizacja: Lexington, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lexington, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lexington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Dam to Dam 100k Relay",
+  "registrationUrl": "https://raceroster.com/events/2027/140655/dam-to-dam-100k-relay",
+  "slug": "dam-to-dam-100k-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "dam-to-dam-100k-relay-sc",
+    "url": "https://raceroster.com/events/2027/140655/dam-to-dam-100k-relay"
+  },
+  "start": {
+    "lat": 33.97,
+    "lon": -81.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://raceroster.com/events/2027/140655/dam-to-dam-100k-relay"
+}

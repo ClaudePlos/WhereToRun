@@ -14,6 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "50 km",
+    "Virtual 50k-25k-10k-5k",
     "25 km",
     "10 km",
     "5 km"
@@ -33,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65934",
   "slug": "lost-souls-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-09T11:33:09.194Z",
+    "fetchedAt": "2026-09-15T17:41:01.768Z",
     "id": "ultrasignup",
     "ref": "20162",
     "url": "https://ultrasignup.com/register.aspx?did=65934"
@@ -49,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
   "website": "https://www.riseracingco.com/lost-souls-trail-run"
 }

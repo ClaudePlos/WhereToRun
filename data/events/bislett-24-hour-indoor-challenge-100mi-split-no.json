@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bislett 24 Hour Indoor Challenge - 100mi Split is a ultramarathon. Location: Oslo, Norway. Date: 21 November 2026 – 22 November 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Oslo, Norway, 21 November 2026 – 22 November 2026"
+    },
+    "pl": {
+      "description": "Bislett 24 Hour Indoor Challenge - 100mi Split to ultramaraton. Lokalizacja: Oslo, Norwegia. Termin: 21 listopada 2026 – 22 listopada 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Oslo, Norwegia, 21 listopada 2026 – 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-11-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oslo",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bislett 24 Hour Indoor Challenge - 100mi Split",
+  "registrationUrl": null,
+  "slug": "bislett-24-hour-indoor-challenge-100mi-split-no",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130612",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130612"
+  },
+  "start": {
+    "lat": 59.91333,
+    "lon": 10.73897,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

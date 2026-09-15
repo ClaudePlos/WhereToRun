@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mattila Trail Run is a ultramarathon. Location: Mattila, Sweden. Date: Saturday, 26 September 2026. Distances: 48 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mattila, Sweden, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mattila Trail Run to ultramaraton. Lokalizacja: Mattila, Szwecja. Termin: sobota, 26 września 2026. Dystanse: 48 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mattila, Szwecja, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mattila",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mattila Trail Run",
+  "registrationUrl": null,
+  "slug": "mattila-trail-run-se",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:16.686Z",
+    "id": "duv",
+    "ref": "130250",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130250"
+  },
+  "start": {
+    "lat": 65.852874,
+    "lon": 24.106351,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": null
+}

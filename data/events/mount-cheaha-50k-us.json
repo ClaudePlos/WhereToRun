@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount Cheaha 50K is a road race. Location: Delta, United States. Date: Saturday, 20 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Delta, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Mount Cheaha 50K to bieg uliczny. Lokalizacja: Delta, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Delta, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Delta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Mount Cheaha 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=125",
+  "slug": "mount-cheaha-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "mount-cheaha-50k-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=125"
+  },
+  "start": {
+    "lat": 33.48,
+    "lon": -85.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=125"
+}

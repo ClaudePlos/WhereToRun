@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Palm Desert 1/2 Marathon & 5K is a road race. Location: Palm Desert, United States. Date: Sunday, 14 February 2027. Distances: 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Palm Desert, United States, Sunday, 14 February 2027"
+    },
+    "pl": {
+      "description": "Palm Desert 1/2 Marathon & 5K to bieg uliczny. Lokalizacja: Palm Desert, Stany Zjednoczone. Termin: niedziela, 14 lutego 2027. Dystanse: 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Palm Desert, Stany Zjednoczone, niedziela, 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palm Desert",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Palm Desert 1/2 Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/CA/PalmDesert/PalmDesertHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "palm-desert-1-2-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "palm-desert-1-2-marathon-5k-ca",
+    "url": "https://runsignup.com/Race/CA/PalmDesert/PalmDesertHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.72,
+    "lon": -116.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/CA/PalmDesert/PalmDesertHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

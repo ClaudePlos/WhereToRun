@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Florida Five (Five Days, Five Different Locations, Five Distances to choose from) is a road race. Location: Apopka, United States. Date: Thursday, 18 February 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Apopka, United States, Thursday, 18 February 2027"
+    },
+    "pl": {
+      "description": "Florida Five (Five Days, Five Different Locations, Five Distances to choose from) to bieg uliczny. Lokalizacja: Apopka, Stany Zjednoczone. Termin: czwartek, 18 lutego 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Apopka, Stany Zjednoczone, czwartek, 18 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Apopka",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Florida Five (Five Days, Five Different Locations, Five Distances to choose from)",
+  "registrationUrl": "https://runsignup.com/Race/FL/Apopka/FloridaFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "florida-five-five-days-five-different-locations-five-distances-to-choose-from-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "florida-five-five-days-five-different-locations-five-distances-to",
+    "url": "https://runsignup.com/Race/FL/Apopka/FloridaFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.64,
+    "lon": -81.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://runsignup.com/Race/FL/Apopka/FloridaFive?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

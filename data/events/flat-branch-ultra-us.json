@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Flat Branch Ultra is a ultramarathon. Location: Columbia, United States. Date: Saturday, 20 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Columbia, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Flat Branch Ultra to ultramaraton. Lokalizacja: Columbia, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Columbia, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-15T17:40:53.953Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Flat Branch Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14812",
+  "slug": "flat-branch-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-15T17:41:03.109Z",
+    "id": "runraceusa",
+    "ref": "flat-branch-ultra-mo",
+    "url": "https://ultrasignup.com/register.aspx?eid=14812"
+  },
+  "start": {
+    "lat": 38.95,
+    "lon": -92.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14812"
+}
