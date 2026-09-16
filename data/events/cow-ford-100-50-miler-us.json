@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Cow Ford 100 / 50 Miler is a road race. Location: JACKSONVILLE, United States. Date: Saturday, 20 March 2027. Distances: u100m, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — JACKSONVILLE, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Cow Ford 100 / 50 Miler to bieg uliczny. Lokalizacja: JACKSONVILLE, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u100m, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — JACKSONVILLE, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "JACKSONVILLE",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Cow Ford 100 / 50 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19813",
+  "slug": "cow-ford-100-50-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "cow-ford-100-50-miler-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=19813"
+  },
+  "start": {
+    "lat": 30.32,
+    "lon": -81.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19813"
+}

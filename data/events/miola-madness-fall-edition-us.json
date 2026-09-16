@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Miola Madness - Fall Edition is a ultramarathon. Location: Paola, United States. Date: Saturday, 7 November 2026. Distances: 12 h, 10 km, 9 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Paola, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Miola Madness - Fall Edition to ultramaraton. Lokalizacja: Paola, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 12 h, 10 km, 9 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Paola, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "10 km",
+    "9 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Paola",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Miola Madness - Fall Edition",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64646",
+  "slug": "miola-madness-fall-edition-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:48.137Z",
+    "id": "ultrasignup",
+    "ref": "15415",
+    "url": "https://ultrasignup.com/register.aspx?did=64646"
+  },
+  "start": {
+    "lat": 38.5884,
+    "lon": -94.8459,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://www.facebook.com/midwestenduranceraceco"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Keweenaw Ultramarathon is a ultramarathon. Location: Houghton, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Houghton, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Keweenaw Ultramarathon to ultramaraton. Lokalizacja: Houghton, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Houghton, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Houghton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Keweenaw Ultramarathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65020",
+  "slug": "keweenaw-ultramarathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:48.137Z",
+    "id": "ultrasignup",
+    "ref": "15846",
+    "url": "https://ultrasignup.com/register.aspx?did=65020"
+  },
+  "start": {
+    "lat": 47.108,
+    "lon": -88.5521,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://www.involvement.mtu.edu/organization/kumc"
+}

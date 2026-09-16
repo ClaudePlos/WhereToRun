@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Fort Smith Marathon,  Half Marathon, 5 Leg Marathon Relay, & 2 Leg Half Marathon Relay is a road race. Location: Fort Smith, United States. Date: Sunday, 21 March 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Smith, United States, Sunday, 21 March 2027"
+    },
+    "pl": {
+      "description": "Fort Smith Marathon,  Half Marathon, 5 Leg Marathon Relay, & 2 Leg Half Marathon Relay to bieg uliczny. Lokalizacja: Fort Smith, Stany Zjednoczone. Termin: niedziela, 21 marca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Smith, Stany Zjednoczone, niedziela, 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Smith",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Fort Smith Marathon,  Half Marathon, 5 Leg Marathon Relay, & 2 Leg Half Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/AR/FortSmith/FortSmithMarathonHalfRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fort-smith-marathon-half-marathon-5-leg-marathon-relay-2-leg-half-marathon-relay",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "fort-smith-marathon-half-marathon-5-leg-marathon-relay-2-leg-half",
+    "url": "https://runsignup.com/Race/AR/FortSmith/FortSmithMarathonHalfRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.37,
+    "lon": -94.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/AR/FortSmith/FortSmithMarathonHalfRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

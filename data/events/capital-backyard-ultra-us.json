@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Capital Backyard Ultra is a ultramarathon. Location: Lorton, United States. Date: Saturday, 20 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lorton, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Capital Backyard Ultra to ultramaraton. Lokalizacja: Lorton, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lorton, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lorton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Capital Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10802",
+  "slug": "capital-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "capital-backyard-ultra-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=10802"
+  },
+  "start": {
+    "lat": 38.67,
+    "lon": -77.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10802"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pirate's Cove 6/12/24 hour Run/Hike is a road race. Location: Lake Cuyamaca, United States. Date: Friday, 19 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lake Cuyamaca, United States, Friday, 19 March 2027"
+    },
+    "pl": {
+      "description": "Pirate's Cove 6/12/24 hour Run/Hike to bieg uliczny. Lokalizacja: Lake Cuyamaca, Stany Zjednoczone. Termin: piątek, 19 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lake Cuyamaca, Stany Zjednoczone, piątek, 19 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Cuyamaca",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Pirate's Cove 6/12/24 hour Run/Hike",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5193",
+  "slug": "pirate-s-cove-6-12-24-hour-run-hike-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "pirate-s-cove-6-12-24-hour-run-hike-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=5193"
+  },
+  "start": {
+    "lat": 32.99,
+    "lon": -116.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5193"
+}

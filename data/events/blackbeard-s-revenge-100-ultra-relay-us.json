@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Blackbeard's Revenge 100 Ultra & Relay is a ultramarathon. Location: Corolla, United States. Date: Saturday, 20 March 2027. Distances: u100m, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Corolla, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Blackbeard's Revenge 100 Ultra & Relay to ultramaraton. Lokalizacja: Corolla, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u100m, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Corolla, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Corolla",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Blackbeard's Revenge 100 Ultra & Relay",
+  "registrationUrl": "https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "blackbeard-s-revenge-100-ultra-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "blackbeard-s-revenge-100-ultra-relay-nc",
+    "url": "https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.32,
+    "lon": -75.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

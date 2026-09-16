@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "First Call 5K, 10K, & 1/2 Marathon is a road race. Location: Waukesha, United States. Date: Sunday, 21 March 2027. Distances: 5 km, 10 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Waukesha, United States, Sunday, 21 March 2027"
+    },
+    "pl": {
+      "description": "First Call 5K, 10K, & 1/2 Marathon to bieg uliczny. Lokalizacja: Waukesha, Stany Zjednoczone. Termin: niedziela, 21 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Waukesha, Stany Zjednoczone, niedziela, 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waukesha",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "First Call 5K, 10K, & 1/2 Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Waukesha/FristCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "first-call-5k-10k-1-2-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "first-call-5k-10k-1-2-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Waukesha/FristCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43,
+    "lon": -88.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/WI/Waukesha/FristCall?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

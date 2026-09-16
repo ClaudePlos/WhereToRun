@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bootlegger 100 Mile Trail Race is a trail race. Location: Flovilla, United States. Date: Saturday, 20 March 2027. Distances: u100m, u50m, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Flovilla, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "The Bootlegger 100 Mile Trail Race to bieg trailowy. Lokalizacja: Flovilla, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u100m, u50m, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Flovilla, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flovilla",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "The Bootlegger 100 Mile Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15144",
+  "slug": "the-bootlegger-100-mile-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "the-bootlegger-100-mile-trail-race-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=15144"
+  },
+  "start": {
+    "lat": 33.25,
+    "lon": -83.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15144"
+}

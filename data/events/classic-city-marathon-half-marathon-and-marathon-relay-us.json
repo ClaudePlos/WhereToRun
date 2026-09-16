@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Classic City Marathon, Half Marathon, and Marathon Relay is a road race. Location: Athens, United States. Date: Saturday, 20 March 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Athens, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Classic City Marathon, Half Marathon, and Marathon Relay to bieg uliczny. Lokalizacja: Athens, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Athens, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Classic City Marathon, Half Marathon, and Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/GA/Athens/ClassicCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "classic-city-marathon-half-marathon-and-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "classic-city-marathon-half-marathon-and-marathon-relay-ga",
+    "url": "https://runsignup.com/Race/GA/Athens/ClassicCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.98,
+    "lon": -83.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/GA/Athens/ClassicCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Oakland Marathon is a road race. Location: Oakland, United States. Date: Sunday, 21 March 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Oakland, United States, Sunday, 21 March 2027"
+    },
+    "pl": {
+      "description": "2027 Oakland Marathon to bieg uliczny. Lokalizacja: Oakland, Stany Zjednoczone. Termin: niedziela, 21 marca 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Oakland, Stany Zjednoczone, niedziela, 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oakland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Oakland Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/118186/2027-oakland-marathon",
+  "slug": "2027-oakland-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "2027-oakland-marathon-ca",
+    "url": "https://raceroster.com/events/2027/118186/2027-oakland-marathon"
+  },
+  "start": {
+    "lat": 37.8044,
+    "lon": -122.2708,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://raceroster.com/events/2027/118186/2027-oakland-marathon"
+}

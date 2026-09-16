@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Grasslands Trail Run is a trail race. Location: Alvord, United States. Date: Saturday, 20 March 2027. Distances: u100m, u50m, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Alvord, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Grasslands Trail Run to bieg trailowy. Lokalizacja: Alvord, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u100m, u50m, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Alvord, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alvord",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Grasslands Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=142",
+  "slug": "grasslands-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "grasslands-trail-run-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=142"
+  },
+  "start": {
+    "lat": 33.42,
+    "lon": -97.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=142"
+}

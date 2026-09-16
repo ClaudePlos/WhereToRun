@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Asheville Marathon and Half is a road race. Location: Asheville, United States. Date: Saturday, 20 March 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Asheville, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Asheville Marathon and Half to bieg uliczny. Lokalizacja: Asheville, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Asheville, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Asheville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Asheville Marathon and Half",
+  "registrationUrl": "https://raceroster.com/events/2027/116987/asheville-marathon-and-half",
+  "slug": "asheville-marathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "asheville-marathon-and-half-nc",
+    "url": "https://raceroster.com/events/2027/116987/asheville-marathon-and-half"
+  },
+  "start": {
+    "lat": 35.6203,
+    "lon": -82.5286,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://raceroster.com/events/2027/116987/asheville-marathon-and-half"
+}

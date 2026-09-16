@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Squirrel 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (11) is a road race. Location: Bettendorf, United States. Date: Saturday, 20 March 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bettendorf, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Squirrel 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (11) to bieg uliczny. Lokalizacja: Bettendorf, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bettendorf, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bettendorf",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Squirrel 5K, 10K, 13.1M & 26.2M at Bettendorf, IA (11)",
+  "registrationUrl": "https://runsignup.com/Race/IA/Bettendorf/Middle12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "squirrel-5k-10k-13-1m-26-2m-at-bettendorf-ia-11-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "squirrel-5k-10k-13-1m-26-2m-at-bettendorf-ia-11-ia",
+    "url": "https://runsignup.com/Race/IA/Bettendorf/Middle12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.55,
+    "lon": -90.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/IA/Bettendorf/Middle12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -986,6 +986,9 @@
     "lon": 11.1016457,
     "name": "Velo Veronese, Verona, Veneto, 37030, Italia"
   },
+  "JP|aichi pref.": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
   "JP|akiruno, tokyo pref.": {
     "at": "2026-09-16T17:38:01.758Z"
   },
@@ -1034,6 +1037,9 @@
   "JP|joetsu city, niigata pref.": {
     "at": "2026-09-08T11:27:32.075Z"
   },
+  "JP|kagawa prefecture": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
   "JP|kawaba, gunma pref.": {
     "at": "2026-09-02T17:10:51.476Z"
   },
@@ -1051,6 +1057,9 @@
   },
   "JP|koinobori park, shimanto, kochi pref.": {
     "at": "2026-09-16T17:38:01.758Z"
+  },
+  "JP|komono, mie pref.": {
+    "at": "2026-09-16T22:54:39.061Z"
   },
   "JP|koriyama, fukushima pref.": {
     "at": "2026-09-02T22:37:18.569Z"
@@ -1085,6 +1094,9 @@
   "JP|myoko, niigata pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|nagahama, shiga pref.": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
   "JP|nagano": {
     "at": "2026-09-02T22:37:18.569Z",
     "lat": 36.6485851,
@@ -1093,6 +1105,9 @@
   },
   "JP|naka, tokushima": {
     "at": "2026-09-16T17:38:01.758Z"
+  },
+  "JP|nakato, manno, kagawa pref": {
+    "at": "2026-09-16T22:54:39.061Z"
   },
   "JP|niigata pref.": {
     "at": "2026-09-05T16:05:51.348Z"
@@ -1106,6 +1121,9 @@
     "lon": 135.5014539,
     "name": "大阪市, 大阪府, 日本"
   },
+  "JP|saitama ken": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
   "JP|semboku, akita pref.": {
     "at": "2026-09-05T16:05:51.348Z"
   },
@@ -1118,6 +1136,15 @@
   "JP|shimanto, kochi pref.": {
     "at": "2026-09-16T17:38:01.758Z"
   },
+  "JP|shinjo, okayama pref.": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
+  "JP|shiroishi city, miyagi pref.": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
+  "JP|shiroishi, miyagi": {
+    "at": "2026-09-16T22:54:39.061Z"
+  },
   "JP|shizuoka pref.": {
     "at": "2026-09-05T16:05:51.348Z"
   },
@@ -1126,6 +1153,9 @@
     "lat": 35.6768601,
     "lon": 139.7638947,
     "name": "東京都, 日本"
+  },
+  "JP|tsurugashima  city": {
+    "at": "2026-09-16T22:54:39.061Z"
   },
   "JP|yanaizu, fukushima": {
     "at": "2026-09-16T17:38:01.758Z"

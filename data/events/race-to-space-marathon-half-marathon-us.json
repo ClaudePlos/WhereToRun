@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Race to Space Marathon & Half Marathon is a road race. Location: Huntsville, United States. Date: Saturday, 20 March 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Race to Space Marathon & Half Marathon to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Race to Space Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/RaceToSpaceHSV?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "race-to-space-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "race-to-space-marathon-half-marathon-al",
+    "url": "https://runsignup.com/Race/AL/Huntsville/RaceToSpaceHSV?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.74,
+    "lon": -86.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/AL/Huntsville/RaceToSpaceHSV?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

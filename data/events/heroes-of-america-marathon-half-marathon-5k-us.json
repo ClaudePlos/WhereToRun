@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Heroes of America Marathon/Half Marathon/5K is a road race. Location: Columbus, United States. Date: Saturday, 20 March 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Columbus, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Heroes of America Marathon/Half Marathon/5K to bieg uliczny. Lokalizacja: Columbus, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Columbus, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Heroes of America Marathon/Half Marathon/5K",
+  "registrationUrl": "https://runsignup.com/Race/GA/Columbus/HeroesofAmericaMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "heroes-of-america-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "heroes-of-america-marathon-half-marathon-5k-ga",
+    "url": "https://runsignup.com/Race/GA/Columbus/HeroesofAmericaMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.47,
+    "lon": -84.98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/GA/Columbus/HeroesofAmericaMarathonHalfMarathonand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

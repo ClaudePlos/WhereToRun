@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Bluebonnet Trail Run 50 Miler • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Last Standing is a trail race. Location: Marble Falls, United States. Date: Saturday, 27 March 2027. Distances: u50k, ultra, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Marble Falls, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Bluebonnet Trail Run 50 Miler • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Last Standing to bieg trailowy. Lokalizacja: Marble Falls, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: u50k, ultra, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Marble Falls, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "ultra",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marble Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Bluebonnet Trail Run 50 Miler • 50K • Marathon • Half Marathon & Ruck • 10K • 5K • Last Standing",
+  "registrationUrl": "https://runsignup.com/Race/TX/MarbleFalls/BluebonnetTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bluebonnet-trail-run-50-miler-50k-marathon-half-marathon-ruck-10k-5k-last-standi",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "bluebonnet-trail-run-50-miler-50k-marathon-half-marathon-ruck-10k-5k",
+    "url": "https://runsignup.com/Race/TX/MarbleFalls/BluebonnetTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.58,
+    "lon": -98.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/TX/MarbleFalls/BluebonnetTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "TOLEDO MINI MARATHON is a road race. Location: Toledo, United States. Date: Saturday, 20 March 2027. Distances: 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Toledo, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "TOLEDO MINI MARATHON to bieg uliczny. Lokalizacja: Toledo, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Toledo, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Toledo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "TOLEDO MINI MARATHON",
+  "registrationUrl": "https://runsignup.com/Race/OH/Toledo/ToledoMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "toledo-mini-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "toledo-mini-marathon-oh",
+    "url": "https://runsignup.com/Race/OH/Toledo/ToledoMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.66,
+    "lon": -83.52,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/OH/Toledo/ToledoMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

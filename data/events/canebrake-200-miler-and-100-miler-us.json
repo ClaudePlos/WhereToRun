@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Canebrake 200 Miler and 100 Miler is a road race. Location: Atlanta, United States. Date: Monday, 22 March 2027. Distances: u100p, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Atlanta, United States, Monday, 22 March 2027"
+    },
+    "pl": {
+      "description": "Canebrake 200 Miler and 100 Miler to bieg uliczny. Lokalizacja: Atlanta, Stany Zjednoczone. Termin: poniedziałek, 22 marca 2027. Dystanse: u100p, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Atlanta, Stany Zjednoczone, poniedziałek, 22 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Atlanta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Canebrake 200 Miler and 100 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15192",
+  "slug": "canebrake-200-miler-and-100-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "canebrake-200-miler-and-100-miler-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=15192"
+  },
+  "start": {
+    "lat": 33.75,
+    "lon": -84.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15192"
+}

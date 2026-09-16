@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Redwood (Spring) Trail Run is a trail race. Location: Oakland, United States. Date: Saturday, 20 March 2027. Distances: other, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Oakland, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Redwood (Spring) Trail Run to bieg trailowy. Lokalizacja: Oakland, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: other, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Oakland, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oakland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Redwood (Spring) Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/Oakland/RedwoodSpringTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "redwood-spring-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "redwood-spring-trail-run-ca",
+    "url": "https://runsignup.com/Race/CA/Oakland/RedwoodSpringTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.79,
+    "lon": -122.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://runsignup.com/Race/CA/Oakland/RedwoodSpringTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

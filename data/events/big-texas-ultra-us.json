@@ -10,42 +10,46 @@
     }
   },
   "createdAt": "2026-09-10T17:00:18.063Z",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "other"
+    "100K Championship (Qualifiers Only)",
+    "100 km",
+    "50 km",
+    "15K Saturday",
+    "15K RUCK Saturday"
   ],
   "endDate": null,
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Georgetown",
+    "city": "Johnson City",
     "country": "United States",
     "countryCode": "US",
     "region": "TX"
   },
   "manual": false,
   "name": "Big Texas Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16075",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65135",
   "slug": "big-texas-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
-    "id": "runraceusa",
-    "ref": "big-texas-ultra-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=16075"
+    "fetchedAt": "2026-09-16T22:54:48.137Z",
+    "id": "ultrasignup",
+    "ref": "16075",
+    "url": "https://ultrasignup.com/register.aspx?did=65135"
   },
   "start": {
-    "lat": 30.68,
-    "lon": -97.76,
+    "lat": 30.2806,
+    "lon": -98.2264,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16075"
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://www.texasoutlawrunning.com/bigtexas"
 }

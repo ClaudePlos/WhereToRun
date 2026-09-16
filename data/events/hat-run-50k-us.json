@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "HAT Run 50k is a road race. Location: Havre de Grace, United States. Date: Saturday, 20 March 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Havre de Grace, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "HAT Run 50k to bieg uliczny. Lokalizacja: Havre de Grace, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Havre de Grace, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Havre de Grace",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "HAT Run 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1124",
+  "slug": "hat-run-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "hat-run-50k-md",
+    "url": "https://ultrasignup.com/register.aspx?eid=1124"
+  },
+  "start": {
+    "lat": 39.6,
+    "lon": -76.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1124"
+}

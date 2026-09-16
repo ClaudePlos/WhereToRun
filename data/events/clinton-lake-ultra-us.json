@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Clinton Lake Ultra is a ultramarathon. Location: DeWitt, United States. Date: Saturday, 27 March 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — DeWitt, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Clinton Lake Ultra to ultramaraton. Lokalizacja: DeWitt, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — DeWitt, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T22:54:39.061Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "DeWitt",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Clinton Lake Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=147",
+  "slug": "clinton-lake-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T22:54:49.121Z",
+    "id": "runraceusa",
+    "ref": "clinton-lake-ultra-il",
+    "url": "https://ultrasignup.com/register.aspx?eid=147"
+  },
+  "start": {
+    "lat": 40.19,
+    "lon": -88.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T22:54:39.061Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=147"
+}
