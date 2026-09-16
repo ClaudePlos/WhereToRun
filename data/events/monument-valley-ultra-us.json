@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Monument Valley Ultra is a ultramarathon. Location: Monument Valley, United States. Date: Saturday, 13 March 2027. Distances: u50k, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Monument Valley, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Monument Valley Ultra to ultramaraton. Lokalizacja: Monument Valley, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: u50k, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Monument Valley, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Monument Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Monument Valley Ultra",
+  "registrationUrl": "https://runsignup.com/Race/UT/MonumentValley/mvu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "monument-valley-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "monument-valley-ultra-ut",
+    "url": "https://runsignup.com/Race/UT/MonumentValley/mvu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.06,
+    "lon": -110.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/UT/MonumentValley/mvu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

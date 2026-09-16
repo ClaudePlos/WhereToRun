@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "White Pine Thaw Marathon Relay is a road race. Location: Comstock Park, United States. Date: Sunday, 7 March 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Comstock Park, United States, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "White Pine Thaw Marathon Relay to bieg uliczny. Lokalizacja: Comstock Park, Stany Zjednoczone. Termin: niedziela, 7 marca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Comstock Park, Stany Zjednoczone, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Comstock Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "White Pine Thaw Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/MI/ComstockPark/WhitePineThawMarathonTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "white-pine-thaw-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "white-pine-thaw-marathon-relay-mi",
+    "url": "https://runsignup.com/Race/MI/ComstockPark/WhitePineThawMarathonTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.06,
+    "lon": -85.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/MI/ComstockPark/WhitePineThawMarathonTeamRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

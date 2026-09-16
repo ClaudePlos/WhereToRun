@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Llama Experience Ultra is a ultramarathon. Location: Hendersonville, United States. Date: Saturday, 13 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hendersonville, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Llama Experience Ultra to ultramaraton. Lokalizacja: Hendersonville, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hendersonville, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hendersonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Llama Experience Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17288",
+  "slug": "llama-experience-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "llama-experience-ultra-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=17288"
+  },
+  "start": {
+    "lat": 35.43,
+    "lon": -82.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17288"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Catalina Island Marathon, 10K, 5K is a road race. Location: Avalon, United States. Date: Saturday, 13 March 2027. Distances: 42.2 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Avalon, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Catalina Island Marathon, 10K, 5K to bieg uliczny. Lokalizacja: Avalon, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 42.2 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Avalon, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Avalon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Catalina Island Marathon, 10K, 5K",
+  "registrationUrl": "https://runsignup.com/Race/CA/Avalon/Catalinaislandmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "catalina-island-marathon-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "catalina-island-marathon-10k-5k-ca",
+    "url": "https://runsignup.com/Race/CA/Avalon/Catalinaislandmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.33,
+    "lon": -118.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/CA/Avalon/Catalinaislandmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

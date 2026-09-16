@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Des Moines St. Paddy's Half Marathon, 5K & Marathon Run/Walk is a road race. Location: Des Moines, United States. Date: Saturday, 13 March 2027. Distances: 5 km, 21.1 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Des Moines, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Des Moines St. Paddy's Half Marathon, 5K & Marathon Run/Walk to bieg uliczny. Lokalizacja: Des Moines, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 5 km, 21.1 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Des Moines, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Des Moines",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Des Moines St. Paddy's Half Marathon, 5K & Marathon Run/Walk",
+  "registrationUrl": "https://runsignup.com/Race/IA/DesMoines/DesMoinesStPaddys5kRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "des-moines-st-paddy-s-half-marathon-5k-marathon-run-walk-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "des-moines-st-paddy-s-half-marathon-5k-marathon-run-walk-ia",
+    "url": "https://runsignup.com/Race/IA/DesMoines/DesMoinesStPaddys5kRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.59,
+    "lon": -93.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/IA/DesMoines/DesMoinesStPaddys5kRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

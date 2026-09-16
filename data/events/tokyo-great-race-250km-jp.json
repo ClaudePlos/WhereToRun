@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tokyo Great Race 250km is a ultramarathon. Location: Tokyo, Japan. Date: 6 November 2026 – 8 November 2026. Distances: 244 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tokyo, Japan, 6 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "Tokyo Great Race 250km to ultramaraton. Lokalizacja: Tokyo, Japonia. Termin: 6 listopada 2026 – 8 listopada 2026. Dystanse: 244 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tokyo, Japonia, 6 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2026-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "244 km"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tokyo Great Race 250km",
+  "registrationUrl": null,
+  "slug": "tokyo-great-race-250km-jp",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:22.338Z",
+    "id": "duv",
+    "ref": "133067",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133067"
+  },
+  "start": {
+    "lat": 35.67686,
+    "lon": 139.763895,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": null
+}

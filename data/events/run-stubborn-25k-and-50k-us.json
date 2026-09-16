@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Stubborn 25k and 50k is a road race. Location: Fayetteville, United States. Date: Saturday, 13 March 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fayetteville, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Run Stubborn 25k and 50k to bieg uliczny. Lokalizacja: Fayetteville, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fayetteville, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fayetteville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Run Stubborn 25k and 50k",
+  "registrationUrl": "https://runsignup.com/Race/NC/Fayetteville/RunStubborn25kAnd50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-stubborn-25k-and-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "run-stubborn-25k-and-50k-nc",
+    "url": "https://runsignup.com/Race/NC/Fayetteville/RunStubborn25kAnd50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.13,
+    "lon": -78.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/NC/Fayetteville/RunStubborn25kAnd50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

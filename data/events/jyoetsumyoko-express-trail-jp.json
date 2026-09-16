@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Jyoetsumyoko Express Trail is a ultramarathon. Location: Joetsu, Japan. Date: Saturday, 24 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Joetsu, Japan, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Jyoetsumyoko Express Trail to ultramaraton. Lokalizacja: Joetsu, Japonia. Termin: sobota, 24 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Joetsu, Japonia, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Joetsu",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Jyoetsumyoko Express Trail",
+  "registrationUrl": null,
+  "slug": "jyoetsumyoko-express-trail-jp",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:22.338Z",
+    "id": "duv",
+    "ref": "133136",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133136"
+  },
+  "start": {
+    "lat": 37.147882,
+    "lon": 138.23595,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": null
+}

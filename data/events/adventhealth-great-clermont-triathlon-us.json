@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "AdventHealth Great Clermont Triathlon is a triathlon. Location: Clermont, United States. Date: Sunday, 7 March 2027. Distances: u50k, 42.2 km, other, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Clermont, United States, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "AdventHealth Great Clermont Triathlon to triatlon. Lokalizacja: Clermont, Stany Zjednoczone. Termin: niedziela, 7 marca 2027. Dystanse: u50k, 42.2 km, other, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Clermont, Stany Zjednoczone, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clermont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "AdventHealth Great Clermont Triathlon",
+  "registrationUrl": "https://runsignup.com/Race/FL/Clermont/GreatClermontTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "adventhealth-great-clermont-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "adventhealth-great-clermont-triathlon-fl",
+    "url": "https://runsignup.com/Race/FL/Clermont/GreatClermontTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.55,
+    "lon": -81.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/FL/Clermont/GreatClermontTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

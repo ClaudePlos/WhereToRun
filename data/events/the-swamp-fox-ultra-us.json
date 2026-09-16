@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Swamp Fox Ultra is a ultramarathon. Location: McClellanville, United States. Date: Saturday, 6 March 2027. Distances: u100m, u50m, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — McClellanville, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "The Swamp Fox Ultra to ultramaraton. Lokalizacja: McClellanville, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u100m, u50m, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — McClellanville, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McClellanville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "The Swamp Fox Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6583",
+  "slug": "the-swamp-fox-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "the-swamp-fox-ultra-sc",
+    "url": "https://ultrasignup.com/register.aspx?eid=6583"
+  },
+  "start": {
+    "lat": 33.04,
+    "lon": -79.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6583"
+}

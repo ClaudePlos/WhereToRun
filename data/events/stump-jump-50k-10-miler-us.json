@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Stump Jump 50k & 10 Miler is a road race. Location: Chattanooga, United States. Date: Saturday, 6 March 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chattanooga, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Stump Jump 50k & 10 Miler to bieg uliczny. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chattanooga, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Stump Jump 50k & 10 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=299",
+  "slug": "stump-jump-50k-10-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "stump-jump-50k-10-miler-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=299"
+  },
+  "start": {
+    "lat": 35.16,
+    "lon": -85.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=299"
+}

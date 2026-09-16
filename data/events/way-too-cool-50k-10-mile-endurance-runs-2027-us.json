@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Way Too Cool 50K & 10 Mile Endurance Runs 2027 is a road race. Location: Cool, United States. Date: Saturday, 6 March 2027. Distances: other, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Cool, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Way Too Cool 50K & 10 Mile Endurance Runs 2027 to bieg uliczny. Lokalizacja: Cool, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Cool, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cool",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Way Too Cool 50K & 10 Mile Endurance Runs 2027",
+  "registrationUrl": "https://raceroster.com/events/2027/118078/way-too-cool-50k-and-10-mile-endurance-runs-2027",
+  "slug": "way-too-cool-50k-10-mile-endurance-runs-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "way-too-cool-50k-10-mile-endurance-runs-2027-ca",
+    "url": "https://raceroster.com/events/2027/118078/way-too-cool-50k-and-10-mile-endurance-runs-2027"
+  },
+  "start": {
+    "lat": 38.8923,
+    "lon": -120.9802,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://raceroster.com/events/2027/118078/way-too-cool-50k-and-10-mile-endurance-runs-2027"
+}

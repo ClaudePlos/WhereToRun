@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Marin Ultra Challenge is a ultramarathon. Location: Sausalito, United States. Date: Saturday, 13 March 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sausalito, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Marin Ultra Challenge to ultramaraton. Lokalizacja: Sausalito, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sausalito, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sausalito",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Marin Ultra Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3387",
+  "slug": "marin-ultra-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "marin-ultra-challenge-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=3387"
+  },
+  "start": {
+    "lat": 37.83,
+    "lon": -122.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3387"
+}

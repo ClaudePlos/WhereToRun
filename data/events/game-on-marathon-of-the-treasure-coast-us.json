@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Game On! Marathon of the Treasure Coast is a road race. Location: Stuart, United States. Date: Sunday, 7 March 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stuart, United States, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "Game On! Marathon of the Treasure Coast to bieg uliczny. Lokalizacja: Stuart, Stany Zjednoczone. Termin: niedziela, 7 marca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stuart, Stany Zjednoczone, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stuart",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Game On! Marathon of the Treasure Coast",
+  "registrationUrl": "https://runsignup.com/Race/FL/Stuart/MarathonoftheTreasureCoast?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "game-on-marathon-of-the-treasure-coast-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "game-on-marathon-of-the-treasure-coast-fl",
+    "url": "https://runsignup.com/Race/FL/Stuart/MarathonoftheTreasureCoast?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.2,
+    "lon": -80.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/FL/Stuart/MarathonoftheTreasureCoast?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tombstone 30k/50k/50 mile is a road race. Location: Valparaiso, United States. Date: Saturday, 13 March 2027. Distances: other, u50k, u50m. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Valparaiso, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Tombstone 30k/50k/50 mile to bieg uliczny. Lokalizacja: Valparaiso, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: other, u50k, u50m. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Valparaiso, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valparaiso",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Tombstone 30k/50k/50 mile",
+  "registrationUrl": "https://raceroster.com/events/2027/118875/tombstone-30k50k50-mile",
+  "slug": "tombstone-30k-50k-50-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "tombstone-30k-50k-50-mile-in",
+    "url": "https://raceroster.com/events/2027/118875/tombstone-30k50k50-mile"
+  },
+  "start": {
+    "lat": 41.4706,
+    "lon": -87.0783,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://raceroster.com/events/2027/118875/tombstone-30k50k50-mile"
+}

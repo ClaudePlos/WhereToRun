@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Where Da Gold At? Backyard Ultra is a ultramarathon. Location: Saraland, United States. Date: Saturday, 13 March 2027. Distances: ultra. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Saraland, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Where Da Gold At? Backyard Ultra to ultramaraton. Lokalizacja: Saraland, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Saraland, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saraland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Where Da Gold At? Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20721",
+  "slug": "where-da-gold-at-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "where-da-gold-at-backyard-ultra-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=20721"
+  },
+  "start": {
+    "lat": 30.8332,
+    "lon": -88.0934,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20721"
+}

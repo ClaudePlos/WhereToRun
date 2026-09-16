@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Old Baldy Ultra is a ultramarathon. Location: Concan, United States. Date: Saturday, 6 March 2027. Distances: u50k, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Concan, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Old Baldy Ultra to ultramaraton. Lokalizacja: Concan, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Concan, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Concan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Old Baldy Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17029",
+  "slug": "old-baldy-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "old-baldy-ultra-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=17029"
+  },
+  "start": {
+    "lat": 29.59,
+    "lon": -99.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17029"
+}

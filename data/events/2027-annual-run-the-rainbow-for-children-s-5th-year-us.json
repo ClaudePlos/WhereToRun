@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Annual Run the Rainbow for Children's - 5th Year is a road race. Location: Jackson, United States. Date: Saturday, 13 March 2027. Distances: 42.2 km, u50k, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Jackson, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "2027 Annual Run the Rainbow for Children's - 5th Year to bieg uliczny. Lokalizacja: Jackson, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 42.2 km, u50k, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Jackson, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "u50k",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jackson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "2027 Annual Run the Rainbow for Children's - 5th Year",
+  "registrationUrl": "https://raceroster.com/events/2027/119386/2027-annual-run-the-rainbow-for-childrens-5th-year",
+  "slug": "2027-annual-run-the-rainbow-for-children-s-5th-year-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "2027-annual-run-the-rainbow-for-children-s-5th-year-ms",
+    "url": "https://raceroster.com/events/2027/119386/2027-annual-run-the-rainbow-for-childrens-5th-year"
+  },
+  "start": {
+    "lat": 32.2988,
+    "lon": -90.1848,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://raceroster.com/events/2027/119386/2027-annual-run-the-rainbow-for-childrens-5th-year"
+}

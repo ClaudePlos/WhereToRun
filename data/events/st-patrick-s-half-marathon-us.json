@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Patrick’s Half & Marathon is a road race. Location: Washington, United States. Date: Sunday, 14 March 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Washington, United States, Sunday, 14 March 2027"
+    },
+    "pl": {
+      "description": "St. Patrick’s Half & Marathon to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: niedziela, 14 marca 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, niedziela, 14 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "St. Patrick’s Half & Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/138980/st-patricks-half-and-marathon",
+  "slug": "st-patrick-s-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "st-patrick-s-half-marathon-dc",
+    "url": "https://raceroster.com/events/2027/138980/st-patricks-half-and-marathon"
+  },
+  "start": {
+    "lat": 38.91,
+    "lon": -77.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://raceroster.com/events/2027/138980/st-patricks-half-and-marathon"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Dark Side 8 Hour Ultra is a ultramarathon. Location: Clarksburg, United States. Date: Saturday, 6 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Clarksburg, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "The Dark Side 8 Hour Ultra to ultramaraton. Lokalizacja: Clarksburg, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Clarksburg, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clarksburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "The Dark Side 8 Hour Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14825",
+  "slug": "the-dark-side-8-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "the-dark-side-8-hour-ultra-md",
+    "url": "https://ultrasignup.com/register.aspx?eid=14825"
+  },
+  "start": {
+    "lat": 39.25,
+    "lon": -77.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14825"
+}

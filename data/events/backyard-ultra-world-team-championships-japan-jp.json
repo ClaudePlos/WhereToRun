@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra World Team Championships - Japan is a ultramarathon. Location: Tokyo, Japan. Date: 17 October 2026 – 21 October 2026. Distances: 96 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tokyo, Japan, 17 October 2026 – 21 October 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra World Team Championships - Japan to ultramaraton. Lokalizacja: Tokyo, Japonia. Termin: 17 października 2026 – 21 października 2026. Dystanse: 96 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tokyo, Japonia, 17 października 2026 – 21 października 2026"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "96 h"
+  ],
+  "endDate": "2026-10-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra World Team Championships - Japan",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-world-team-championships-japan-jp",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:22.338Z",
+    "id": "duv",
+    "ref": "133057",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133057"
+  },
+  "start": {
+    "lat": 35.67686,
+    "lon": 139.763895,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Mountain 50K, 30K, Trail Half is a trail race. Location: Ivins, United States. Date: Saturday, 6 March 2027. Distances: u50k, other, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ivins, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Red Mountain 50K, 30K, Trail Half to bieg trailowy. Lokalizacja: Ivins, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, other, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ivins, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ivins",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Red Mountain 50K, 30K, Trail Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=195",
+  "slug": "red-mountain-50k-30k-trail-half-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "red-mountain-50k-30k-trail-half-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=195"
+  },
+  "start": {
+    "lat": 37.16,
+    "lon": -113.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=195"
+}

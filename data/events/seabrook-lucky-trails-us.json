@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Seabrook Lucky Trails is a trail race. Location: Seabrook, United States. Date: Friday, 12 March 2027. Distances: other, 5 km, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Seabrook, United States, Friday, 12 March 2027"
+    },
+    "pl": {
+      "description": "Seabrook Lucky Trails to bieg trailowy. Lokalizacja: Seabrook, Stany Zjednoczone. Termin: piątek, 12 marca 2027. Dystanse: other, 5 km, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Seabrook, Stany Zjednoczone, piątek, 12 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seabrook",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Seabrook Lucky Trails",
+  "registrationUrl": "https://runsignup.com/Race/TX/Seabrook/SeabrookLuckyTrails?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "seabrook-lucky-trails-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "seabrook-lucky-trails-tx",
+    "url": "https://runsignup.com/Race/TX/Seabrook/SeabrookLuckyTrails?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.58,
+    "lon": -95.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/TX/Seabrook/SeabrookLuckyTrails?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

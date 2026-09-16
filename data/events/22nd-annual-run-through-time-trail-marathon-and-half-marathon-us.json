@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "22nd Annual Run Through Time Trail Marathon and Half Marathon is a trail race. Location: Salida, United States. Date: Saturday, 13 March 2027. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Salida, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "22nd Annual Run Through Time Trail Marathon and Half Marathon to bieg trailowy. Lokalizacja: Salida, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Salida, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salida",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "22nd Annual Run Through Time Trail Marathon and Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CO/Salida/RunThroughTime?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "22nd-annual-run-through-time-trail-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:10.008Z",
+    "id": "runraceusa",
+    "ref": "22nd-annual-run-through-time-trail-marathon-and-half-marathon-co",
+    "url": "https://runsignup.com/Race/CO/Salida/RunThroughTime?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.53,
+    "lon": -106,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://runsignup.com/Race/CO/Salida/RunThroughTime?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

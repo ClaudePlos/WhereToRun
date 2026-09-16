@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "THE MAMMOTH is a road race. Location: Mammoth Lakes, United States. Date: Friday, 2 October 2026. Distances: the MAMMOTH. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mammoth Lakes, United States, Friday, 2 October 2026"
+    },
+    "pl": {
+      "description": "THE MAMMOTH to bieg uliczny. Lokalizacja: Mammoth Lakes, Stany Zjednoczone. Termin: piątek, 2 października 2026. Dystanse: the MAMMOTH. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mammoth Lakes, Stany Zjednoczone, piątek, 2 października 2026"
+    }
+  },
+  "createdAt": "2026-09-16T17:38:01.758Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "the MAMMOTH"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mammoth Lakes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "THE MAMMOTH",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64319",
+  "slug": "the-mammoth-us",
+  "source": {
+    "fetchedAt": "2026-09-16T17:38:09.181Z",
+    "id": "ultrasignup",
+    "ref": "18408",
+    "url": "https://ultrasignup.com/register.aspx?did=64319"
+  },
+  "start": {
+    "lat": 37.6485,
+    "lon": -118.972,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T17:38:01.758Z",
+  "website": "https://www.themammoth200.com"
+}
