@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Coyote Ugly 30k & 50k is a road race. Location: Ellijay, United States. Date: Saturday, 6 March 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ellijay, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Coyote Ugly 30k & 50k to bieg uliczny. Lokalizacja: Ellijay, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ellijay, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ellijay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Coyote Ugly 30k & 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15918",
+  "slug": "coyote-ugly-30k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "coyote-ugly-30k-50k-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=15918"
+  },
+  "start": {
+    "lat": 34.8,
+    "lon": -84.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15918"
+}

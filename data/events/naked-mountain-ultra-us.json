@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Naked Mountain Ultra is a ultramarathon. Location: Albemarle, United States. Date: Saturday, 6 March 2027. Distances: u50m, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Albemarle, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Naked Mountain Ultra to ultramaraton. Lokalizacja: Albemarle, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50m, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Albemarle, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albemarle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Naked Mountain Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14075",
+  "slug": "naked-mountain-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "naked-mountain-ultra-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=14075"
+  },
+  "start": {
+    "lat": 35.38,
+    "lon": -80.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14075"
+}

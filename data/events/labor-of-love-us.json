@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Labor of Love is a road race. Location: Las Vegas, United States. Date: Saturday, 6 March 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Labor of Love to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Labor of Love",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1639",
+  "slug": "labor-of-love-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "labor-of-love-nv",
+    "url": "https://ultrasignup.com/register.aspx?eid=1639"
+  },
+  "start": {
+    "lat": 36.02,
+    "lon": -115.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1639"
+}

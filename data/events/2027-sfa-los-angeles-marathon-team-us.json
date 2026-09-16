@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 SFA Los Angeles Marathon Team is a road race. Location: Los Angeles, United States. Date: Friday, 5 March 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Los Angeles, United States, Friday, 5 March 2027"
+    },
+    "pl": {
+      "description": "2027 SFA Los Angeles Marathon Team to bieg uliczny. Lokalizacja: Los Angeles, Stany Zjednoczone. Termin: piątek, 5 marca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Los Angeles, Stany Zjednoczone, piątek, 5 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 SFA Los Angeles Marathon Team",
+  "registrationUrl": "https://runsignup.com/Race/CA/LosAngeles/SFALosAngelesMarathonTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-sfa-los-angeles-marathon-team-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "2027-sfa-los-angeles-marathon-team-ca",
+    "url": "https://runsignup.com/Race/CA/LosAngeles/SFALosAngelesMarathonTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.06,
+    "lon": -118.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/CA/LosAngeles/SFALosAngelesMarathonTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

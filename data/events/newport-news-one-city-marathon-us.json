@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Newport News One City Marathon is a road race. Location: Newport News, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Newport News, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Newport News One City Marathon to bieg uliczny. Lokalizacja: Newport News, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Newport News, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newport News",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Newport News One City Marathon",
+  "registrationUrl": "https://runsignup.com/Race/VA/NewportNews/OneCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "newport-news-one-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "newport-news-one-city-marathon-va",
+    "url": "https://runsignup.com/Race/VA/NewportNews/OneCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.08,
+    "lon": -76.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/VA/NewportNews/OneCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

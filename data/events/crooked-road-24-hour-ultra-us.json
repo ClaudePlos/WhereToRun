@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Crooked Road 24 Hour Ultra is a ultramarathon. Location: Rocky Mount, United States. Date: Saturday, 6 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rocky Mount, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Crooked Road 24 Hour Ultra to ultramaraton. Lokalizacja: Rocky Mount, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rocky Mount, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rocky Mount",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Crooked Road 24 Hour Ultra",
+  "registrationUrl": "https://runsignup.com/Race/VA/RockyMount/CrookedRoad24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "crooked-road-24-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "crooked-road-24-hour-ultra-va",
+    "url": "https://runsignup.com/Race/VA/RockyMount/CrookedRoad24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.99,
+    "lon": -79.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/VA/RockyMount/CrookedRoad24HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

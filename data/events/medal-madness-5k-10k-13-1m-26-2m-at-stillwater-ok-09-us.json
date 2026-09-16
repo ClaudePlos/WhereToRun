@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Medal Madness 5K, 10K, 13.1M, & 26.2M at Stillwater, OK (09) is a road race. Location: Stillwater, United States. Date: Saturday, 6 March 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stillwater, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Medal Madness 5K, 10K, 13.1M, & 26.2M at Stillwater, OK (09) to bieg uliczny. Lokalizacja: Stillwater, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stillwater, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stillwater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Medal Madness 5K, 10K, 13.1M, & 26.2M at Stillwater, OK (09)",
+  "registrationUrl": "https://runsignup.com/Race/OK/Stillwater/Boomer3125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "medal-madness-5k-10k-13-1m-26-2m-at-stillwater-ok-09-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "medal-madness-5k-10k-13-1m-26-2m-at-stillwater-ok-09-ok",
+    "url": "https://runsignup.com/Race/OK/Stillwater/Boomer3125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.14,
+    "lon": -97.06,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/OK/Stillwater/Boomer3125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

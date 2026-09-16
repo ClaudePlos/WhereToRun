@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Combos(R) Marathon and Half Marathon is a road race. Location: Albany, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Albany, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Combos(R) Marathon and Half Marathon to bieg uliczny. Lokalizacja: Albany, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Albany, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albany",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Combos(R) Marathon and Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "combos-r-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "combos-r-marathon-and-half-marathon-ga",
+    "url": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.57,
+    "lon": -84.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

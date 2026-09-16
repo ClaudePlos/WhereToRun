@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Great Springs Trail Race - Austin is a trail race. Location: Del Valle, United States. Date: Saturday, 6 March 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Del Valle, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Great Springs Trail Race - Austin to bieg trailowy. Lokalizacja: Del Valle, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Del Valle, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Del Valle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Great Springs Trail Race - Austin",
+  "registrationUrl": "https://runsignup.com/Race/TX/DelValle/GreatSpringsTrailRaceAustin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "great-springs-trail-race-austin-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "great-springs-trail-race-austin-tx",
+    "url": "https://runsignup.com/Race/TX/DelValle/GreatSpringsTrailRaceAustin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.17,
+    "lon": -97.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/TX/DelValle/GreatSpringsTrailRaceAustin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

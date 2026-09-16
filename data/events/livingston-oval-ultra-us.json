@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Livingston Oval Ultra is a ultramarathon. Location: Livingston, United States. Date: Saturday, 6 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Livingston, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Livingston Oval Ultra to ultramaraton. Lokalizacja: Livingston, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Livingston, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Livingston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Livingston Oval Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16706",
+  "slug": "livingston-oval-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "livingston-oval-ultra-nj",
+    "url": "https://ultrasignup.com/register.aspx?eid=16706"
+  },
+  "start": {
+    "lat": 40.78,
+    "lon": -74.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16706"
+}

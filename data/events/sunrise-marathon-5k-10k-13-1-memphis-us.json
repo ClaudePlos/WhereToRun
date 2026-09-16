@@ -10,11 +10,12 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-01-16",
+  "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
     "10 km",
+    "21.1 km",
     "1.6 km"
   ],
   "endDate": null,
@@ -29,13 +30,13 @@
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 MEMPHIS",
-  "registrationUrl": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-memphis-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
     "id": "runraceusa",
     "ref": "sunrise-marathon-5k-10k-13-1-memphis-memphis-tn-2027-03-20",
-    "url": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 35.14,
@@ -48,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

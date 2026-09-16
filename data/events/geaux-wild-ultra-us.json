@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Geaux Wild Ultra is a ultramarathon. Location: Doyline, United States. Date: Saturday, 6 March 2027. Distances: u100m, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Doyline, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Geaux Wild Ultra to ultramaraton. Lokalizacja: Doyline, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u100m, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Doyline, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Doyline",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Geaux Wild Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17623",
+  "slug": "geaux-wild-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "geaux-wild-ultra-la",
+    "url": "https://ultrasignup.com/register.aspx?eid=17623"
+  },
+  "start": {
+    "lat": 32.44,
+    "lon": -93.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17623"
+}

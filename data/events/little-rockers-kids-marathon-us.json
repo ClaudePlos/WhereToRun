@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Little Rockers Kids Marathon is a road race. Location: Little Rock, United States. Date: Saturday, 6 March 2027. Distances: 1.6 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Little Rock, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Little Rockers Kids Marathon to bieg uliczny. Lokalizacja: Little Rock, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 1.6 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Little Rock, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Little Rock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Little Rockers Kids Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/117996/little-rockers-kids-marathon",
+  "slug": "little-rockers-kids-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "little-rockers-kids-marathon-ar",
+    "url": "https://raceroster.com/events/2027/117996/little-rockers-kids-marathon"
+  },
+  "start": {
+    "lat": 34.751,
+    "lon": -92.3455,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://raceroster.com/events/2027/117996/little-rockers-kids-marathon"
+}

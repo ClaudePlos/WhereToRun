@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Will Rogers 24 Hour/12 Hours/6 Hour is a road race. Location: Pacific Palisades, United States. Date: Saturday, 27 February 2027. Distances: u100m, u100k, u50m, u50k, other, ultra, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pacific Palisades, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Will Rogers 24 Hour/12 Hours/6 Hour to bieg uliczny. Lokalizacja: Pacific Palisades, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: u100m, u100k, u50m, u50k, other, ultra, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pacific Palisades, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "other",
+    "ultra",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pacific Palisades",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Will Rogers 24 Hour/12 Hours/6 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19727",
+  "slug": "will-rogers-24-hour-12-hours-6-hour-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "will-rogers-24-hour-12-hours-6-hour-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=19727"
+  },
+  "start": {
+    "lat": 34.05,
+    "lon": -118.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19727"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Zydeco Marathon - 26.2 Full | 13.1 Half | Team Relay | 5k | 1 Mile is a road race. Location: Lafayette, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lafayette, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "2027 Zydeco Marathon - 26.2 Full | 13.1 Half | Team Relay | 5k | 1 Mile to bieg uliczny. Lokalizacja: Lafayette, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lafayette, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lafayette",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "2027 Zydeco Marathon - 26.2 Full | 13.1 Half | Team Relay | 5k | 1 Mile",
+  "registrationUrl": "https://runsignup.com/Race/LA/Lafayette/ZydecoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-zydeco-marathon-26-2-full-13-1-half-team-relay-5k-1-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "2027-zydeco-marathon-26-2-full-13-1-half-team-relay-5k-1-mile-la",
+    "url": "https://runsignup.com/Race/LA/Lafayette/ZydecoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.24,
+    "lon": -92.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/LA/Lafayette/ZydecoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

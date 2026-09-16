@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "ChesCo Race Fest is a road race. Location: Wayne, United States. Date: Saturday, 6 March 2027. Distances: 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wayne, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "ChesCo Race Fest to bieg uliczny. Lokalizacja: Wayne, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wayne, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "ChesCo Race Fest",
+  "registrationUrl": "https://runsignup.com/Race/PA/Wayne/ChesCoRaceFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "chesco-race-fest-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "chesco-race-fest-pa",
+    "url": "https://runsignup.com/Race/PA/Wayne/ChesCoRaceFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.06,
+    "lon": -75.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/PA/Wayne/ChesCoRaceFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

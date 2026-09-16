@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "No Man's 50K is a road race. Location: Triangle, United States. Date: Saturday, 6 March 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Triangle, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "No Man's 50K to bieg uliczny. Lokalizacja: Triangle, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Triangle, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Triangle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "No Man's 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9627",
+  "slug": "no-man-s-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "no-man-s-50k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=9627"
+  },
+  "start": {
+    "lat": 38.56,
+    "lon": -77.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9627"
+}

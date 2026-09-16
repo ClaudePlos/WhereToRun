@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Crazy Desert Trail Race is a trail race. Location: San Angelo, United States. Date: Saturday, 6 March 2027. Distances: u100k, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Angelo, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Crazy Desert Trail Race to bieg trailowy. Lokalizacja: San Angelo, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u100k, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Angelo, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Angelo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Crazy Desert Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAngelo/CrazyDesert?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "crazy-desert-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "crazy-desert-trail-race-tx",
+    "url": "https://runsignup.com/Race/TX/SanAngelo/CrazyDesert?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.48,
+    "lon": -100.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/TX/SanAngelo/CrazyDesert?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

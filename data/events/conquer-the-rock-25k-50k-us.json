@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Conquer the Rock 25k & 50k is a road race. Location: Pickens, United States. Date: Saturday, 6 March 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pickens, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Conquer the Rock 25k & 50k to bieg uliczny. Lokalizacja: Pickens, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pickens, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pickens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Conquer the Rock 25k & 50k",
+  "registrationUrl": "https://runsignup.com/Race/SC/Pickens/ConquertheRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "conquer-the-rock-25k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "conquer-the-rock-25k-50k-sc",
+    "url": "https://runsignup.com/Race/SC/Pickens/ConquertheRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.9,
+    "lon": -82.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://runsignup.com/Race/SC/Pickens/ConquertheRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

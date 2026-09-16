@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The 2027 Cowtown Race Weekend is a road race. Location: Fort Worth, United States. Date: Sunday, 28 February 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Fort Worth, United States, Sunday, 28 February 2027"
+    },
+    "pl": {
+      "description": "The 2027 Cowtown Race Weekend to bieg uliczny. Lokalizacja: Fort Worth, Stany Zjednoczone. Termin: niedziela, 28 lutego 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Fort Worth, Stany Zjednoczone, niedziela, 28 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2027-02-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Worth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The 2027 Cowtown Race Weekend",
+  "registrationUrl": "https://raceroster.com/events/2027/115574/the-2027-cowtown-race-weekend",
+  "slug": "the-2027-cowtown-race-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "id": "runraceusa",
+    "ref": "the-2027-cowtown-race-weekend-tx",
+    "url": "https://raceroster.com/events/2027/115574/the-2027-cowtown-race-weekend"
+  },
+  "start": {
+    "lat": 32.7714,
+    "lon": -97.2915,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "https://raceroster.com/events/2027/115574/the-2027-cowtown-race-weekend"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Florida Trail Run is a ultramarathon. Location: White Springs, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — White Springs, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Wild Florida Trail Run to ultramaraton. Lokalizacja: White Springs, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — White Springs, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-16T11:47:14.247Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "White Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Wild Florida Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64193",
+  "slug": "wild-florida-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-16T11:47:20.755Z",
+    "id": "ultrasignup",
+    "ref": "10413",
+    "url": "https://ultrasignup.com/register.aspx?did=64193"
+  },
+  "start": {
+    "lat": 30.3265,
+    "lon": -82.7485,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "website": "http://runbumtours.com"
+}
