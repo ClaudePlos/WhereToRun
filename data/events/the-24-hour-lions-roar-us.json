@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The 24 Hour Lions Roar is a road race. Location: Columbia, United States. Date: Friday, 16 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Columbia, United States, Friday, 16 April 2027"
+    },
+    "pl": {
+      "description": "The 24 Hour Lions Roar to bieg uliczny. Lokalizacja: Columbia, Stany Zjednoczone. Termin: piątek, 16 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Columbia, Stany Zjednoczone, piątek, 16 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "The 24 Hour Lions Roar",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9413",
+  "slug": "the-24-hour-lions-roar-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "the-24-hour-lions-roar-mo",
+    "url": "https://ultrasignup.com/register.aspx?eid=9413"
+  },
+  "start": {
+    "lat": 38.88,
+    "lon": -92.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9413"
+}

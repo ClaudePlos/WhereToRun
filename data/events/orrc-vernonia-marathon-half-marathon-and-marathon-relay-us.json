@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "ORRC Vernonia Marathon,  Half Marathon, and Marathon Relay is a road race. Location: Banks, United States. Date: Sunday, 11 April 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Banks, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "ORRC Vernonia Marathon,  Half Marathon, and Marathon Relay to bieg uliczny. Lokalizacja: Banks, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Banks, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Banks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "ORRC Vernonia Marathon,  Half Marathon, and Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/OR/Banks/ORRCVernoniaMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "orrc-vernonia-marathon-half-marathon-and-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "orrc-vernonia-marathon-half-marathon-and-marathon-relay-or",
+    "url": "https://runsignup.com/Race/OR/Banks/ORRCVernoniaMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.65,
+    "lon": -123.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/OR/Banks/ORRCVernoniaMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

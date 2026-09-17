@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountains-to-Sea Trail 13M & 50K Challenge is a trail race. Location: Durham, United States. Date: Sunday, 11 April 2027. Distances: 21.1 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Durham, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "Mountains-to-Sea Trail 13M & 50K Challenge to bieg trailowy. Lokalizacja: Durham, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: 21.1 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Durham, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Durham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Mountains-to-Sea Trail 13M & 50K Challenge",
+  "registrationUrl": "https://runsignup.com/Race/NC/Durham/MountainstoSeaTrail12M50KChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mountains-to-sea-trail-13m-50k-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "mountains-to-sea-trail-13m-50k-challenge-nc",
+    "url": "https://runsignup.com/Race/NC/Durham/MountainstoSeaTrail12M50KChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.09,
+    "lon": -78.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/NC/Durham/MountainstoSeaTrail12M50KChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

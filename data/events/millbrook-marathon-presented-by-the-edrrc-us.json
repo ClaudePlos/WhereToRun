@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Millbrook Marathon presented by the EDRRC is a road race. Location: Millbrook, United States. Date: Sunday, 11 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Millbrook, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "Millbrook Marathon presented by the EDRRC to bieg uliczny. Lokalizacja: Millbrook, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Millbrook, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Millbrook",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Millbrook Marathon presented by the EDRRC",
+  "registrationUrl": "https://runsignup.com/Race/NY/Millbrook/MillbrookMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "millbrook-marathon-presented-by-the-edrrc-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "millbrook-marathon-presented-by-the-edrrc-ny",
+    "url": "https://runsignup.com/Race/NY/Millbrook/MillbrookMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.78,
+    "lon": -73.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/NY/Millbrook/MillbrookMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "NoCo Urban Ultra & Relay is a ultramarathon. Location: Bellvue, United States. Date: Sunday, 11 April 2027. Distances: u50m, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bellvue, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "NoCo Urban Ultra & Relay to ultramaraton. Lokalizacja: Bellvue, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: u50m, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bellvue, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bellvue",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "NoCo Urban Ultra & Relay",
+  "registrationUrl": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "noco-urban-ultra-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "noco-urban-ultra-relay-co",
+    "url": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.63,
+    "lon": -105.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

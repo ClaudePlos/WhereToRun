@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Atacama Crossing (Chile) is a ultramarathon. Location: San Pedro de Atacama, Chile. Date: 21 March 2027 – 27 March 2027. Distances: 250 km, 6Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — San Pedro de Atacama, Chile, 21 March 2027 – 27 March 2027"
+    },
+    "pl": {
+      "description": "Atacama Crossing (Chile) to ultramaraton. Lokalizacja: San Pedro de Atacama, Chile. Termin: 21 marca 2027 – 27 marca 2027. Dystanse: 250 km, 6Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — San Pedro de Atacama, Chile, 21 marca 2027 – 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-03-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "250 km",
+    "6Etappen"
+  ],
+  "endDate": "2027-03-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Pedro de Atacama",
+    "country": "Chile",
+    "countryCode": "CL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Atacama Crossing (Chile)",
+  "registrationUrl": null,
+  "slug": "atacama-crossing-chile-cl",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:58.228Z",
+    "id": "duv",
+    "ref": "118233",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=118233"
+  },
+  "start": {
+    "lat": -23.354549,
+    "lon": -67.902657,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": null
+}

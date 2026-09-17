@@ -422,6 +422,12 @@
     "lon": -123.7156641,
     "name": "BC Hydro - Duncan Maintenance Depot, 6494, South End, North Cowichan, Cowichan Valley Regional District, British Columbia, Canada"
   },
+  "CA|gaspe": {
+    "at": "2026-09-17T22:50:40.759Z",
+    "lat": 48.8317223,
+    "lon": -64.4837569,
+    "name": "Gaspé, La Côte-de-Gaspé, Gaspésie–Îles-de-la-Madeleine, Québec, Canada"
+  },
   "CA|golden, bc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
@@ -434,17 +440,35 @@
   "CA|lethbridge, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|london, on": {
+    "at": "2026-09-17T22:50:40.759Z"
+  },
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
   "CA|riding mountain national park, mb": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|riverview": {
+    "at": "2026-09-17T22:50:40.759Z",
+    "lat": 46.0612076,
+    "lon": -64.8033246,
+    "name": "Town of Riverview, Albert County, New Brunswick / Nouveau-Brunswick, Canada"
+  },
   "CA|searchmont resort": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|tadoussac, quebec": {
+    "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|vernon, bc": {
+    "at": "2026-09-17T22:50:40.759Z"
+  },
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CL|chillan, nuble": {
+    "at": "2026-09-17T22:50:40.759Z"
   },
   "CL|estancia el kark, torres del paine": {
     "at": "2026-09-17T17:38:14.220Z"
@@ -454,6 +478,24 @@
     "lat": -37.4113358,
     "lon": -72.4795037,
     "name": "Las Trancas, Los Ángeles, Provincia de Bío-Bío, Región del Biobío, Chile"
+  },
+  "CL|neltume, los rios": {
+    "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CL|ovalle": {
+    "at": "2026-09-17T22:50:40.759Z",
+    "lat": -30.6030819,
+    "lon": -71.2029894,
+    "name": "Ovalle, Provincia de Limarí, Región de Coquimbo, Chile"
+  },
+  "CL|san pedro de atacama": {
+    "at": "2026-09-17T22:50:40.759Z",
+    "lat": -23.3545489,
+    "lon": -67.9026571,
+    "name": "San Pedro de Atacama, Provincia de El Loa, Región de Antofagasta, Chile"
+  },
+  "CL|union glacier, antarctica": {
+    "at": "2026-09-17T22:50:40.759Z"
   },
   "CN|antu county": {
     "at": "2026-09-11T11:31:46.015Z",

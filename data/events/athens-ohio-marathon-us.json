@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Athens Ohio Marathon is a road race. Location: Athens, United States. Date: Sunday, 11 April 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Athens, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "Athens Ohio Marathon to bieg uliczny. Lokalizacja: Athens, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Athens, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Athens Ohio Marathon",
+  "registrationUrl": "https://runsignup.com/Race/OH/Athens/AthensOhioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "athens-ohio-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "athens-ohio-marathon-oh",
+    "url": "https://runsignup.com/Race/OH/Athens/AthensOhioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.32,
+    "lon": -82.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/OH/Athens/AthensOhioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

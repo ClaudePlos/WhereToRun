@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Yareta Trail Run is a ultramarathon. Location: Ovalle, Chile. Date: Saturday, 3 April 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ovalle, Chile, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Yareta Trail Run to ultramaraton. Lokalizacja: Ovalle, Chile. Termin: sobota, 3 kwietnia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ovalle, Chile, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ovalle",
+    "country": "Chile",
+    "countryCode": "CL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Yareta Trail Run",
+  "registrationUrl": null,
+  "slug": "yareta-trail-run-cl",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:58.228Z",
+    "id": "duv",
+    "ref": "131576",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131576"
+  },
+  "start": {
+    "lat": -30.603082,
+    "lon": -71.202989,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": null
+}

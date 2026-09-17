@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ALABAMA ANVIL ULTRA TRIATHLON is a triathlon. Location: Pelham, United States. Date: Friday, 16 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Pelham, United States, Friday, 16 April 2027"
+    },
+    "pl": {
+      "description": "ALABAMA ANVIL ULTRA TRIATHLON to triatlon. Lokalizacja: Pelham, Stany Zjednoczone. Termin: piątek, 16 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Pelham, Stany Zjednoczone, piątek, 16 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "ALABAMA ANVIL ULTRA TRIATHLON",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20366",
+  "slug": "alabama-anvil-ultra-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "alabama-anvil-ultra-triathlon-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=20366"
+  },
+  "start": {
+    "lat": 33.33,
+    "lon": -86.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20366"
+}

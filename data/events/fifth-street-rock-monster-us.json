@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Fifth Street Rock Monster is a road race. Location: Mertztown, United States. Date: Sunday, 11 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mertztown, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "Fifth Street Rock Monster to bieg uliczny. Lokalizacja: Mertztown, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mertztown, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mertztown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Fifth Street Rock Monster",
+  "registrationUrl": "https://runsignup.com/Race/PA/Mertztown/FifthStreetRockMonster?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fifth-street-rock-monster-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "fifth-street-rock-monster-pa",
+    "url": "https://runsignup.com/Race/PA/Mertztown/FifthStreetRockMonster?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.5,
+    "lon": -75.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/PA/Mertztown/FifthStreetRockMonster?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

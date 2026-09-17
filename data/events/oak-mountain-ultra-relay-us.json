@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Oak Mountain Ultra Relay is a ultramarathon. Location: Pelham, United States. Date: Friday, 16 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pelham, United States, Friday, 16 April 2027"
+    },
+    "pl": {
+      "description": "Oak Mountain Ultra Relay to ultramaraton. Lokalizacja: Pelham, Stany Zjednoczone. Termin: piątek, 16 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pelham, Stany Zjednoczone, piątek, 16 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Oak Mountain Ultra Relay",
+  "registrationUrl": "https://runsignup.com/Race/AL/Pelham/OakMountainUltraRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "oak-mountain-ultra-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "oak-mountain-ultra-relay-al",
+    "url": "https://runsignup.com/Race/AL/Pelham/OakMountainUltraRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.29,
+    "lon": -86.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://runsignup.com/Race/AL/Pelham/OakMountainUltraRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

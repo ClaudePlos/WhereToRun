@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Helenback Race Series is a road race. Location: Helen, United States. Date: Saturday, 17 April 2027. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Helen, United States, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "Helenback Race Series to bieg uliczny. Lokalizacja: Helen, Stany Zjednoczone. Termin: sobota, 17 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Helen, Stany Zjednoczone, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Helen",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Helenback Race Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6346",
+  "slug": "helenback-race-series-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "helenback-race-series-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=6346"
+  },
+  "start": {
+    "lat": 34.7,
+    "lon": -83.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6346"
+}

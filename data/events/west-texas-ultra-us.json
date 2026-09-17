@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "West Texas Ultra is a ultramarathon. Location: Fritch, United States. Date: Friday, 16 April 2027. Distances: 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fritch, United States, Friday, 16 April 2027"
+    },
+    "pl": {
+      "description": "West Texas Ultra to ultramaraton. Lokalizacja: Fritch, Stany Zjednoczone. Termin: piątek, 16 kwietnia 2027. Dystanse: 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fritch, Stany Zjednoczone, piątek, 16 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fritch",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "West Texas Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16813",
+  "slug": "west-texas-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "west-texas-ultra-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=16813"
+  },
+  "start": {
+    "lat": 35.65,
+    "lon": -101.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16813"
+}

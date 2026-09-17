@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Grind on the Grid Backyard Ultra is a ultramarathon. Location: Wingate, United States. Date: Saturday, 17 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wingate, United States, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "Grind on the Grid Backyard Ultra to ultramaraton. Lokalizacja: Wingate, Stany Zjednoczone. Termin: sobota, 17 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wingate, Stany Zjednoczone, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wingate",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Grind on the Grid Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14498",
+  "slug": "grind-on-the-grid-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "grind-on-the-grid-backyard-ultra-in",
+    "url": "https://ultrasignup.com/register.aspx?eid=14498"
+  },
+  "start": {
+    "lat": 40.21,
+    "lon": -87.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14498"
+}

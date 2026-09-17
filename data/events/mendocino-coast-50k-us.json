@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mendocino Coast 50K is a road race. Location: Mendocino, United States. Date: Saturday, 17 April 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mendocino, United States, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "Mendocino Coast 50K to bieg uliczny. Lokalizacja: Mendocino, Stany Zjednoczone. Termin: sobota, 17 kwietnia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mendocino, Stany Zjednoczone, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mendocino",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mendocino Coast 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5214",
+  "slug": "mendocino-coast-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "id": "runraceusa",
+    "ref": "mendocino-coast-50k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=5214"
+  },
+  "start": {
+    "lat": 39.3,
+    "lon": -123.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5214"
+}

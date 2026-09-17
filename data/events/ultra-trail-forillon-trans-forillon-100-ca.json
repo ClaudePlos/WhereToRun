@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Trail Forillon (Trans-Forillon 100) is a ultramarathon. Location: Gaspe, Canada. Date: 19 September 2026 – 20 September 2026. Distances: 100 km, 2Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gaspe, Canada, 19 September 2026 – 20 September 2026"
+    },
+    "pl": {
+      "description": "Ultra Trail Forillon (Trans-Forillon 100) to ultramaraton. Lokalizacja: Gaspe, Kanada. Termin: 19 września 2026 – 20 września 2026. Dystanse: 100 km, 2Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gaspe, Kanada, 19 września 2026 – 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-17T22:50:40.759Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "2Etappen"
+  ],
+  "endDate": "2026-09-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gaspe",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Trail Forillon (Trans-Forillon 100)",
+  "registrationUrl": null,
+  "slug": "ultra-trail-forillon-trans-forillon-100-ca",
+  "source": {
+    "fetchedAt": "2026-09-17T22:50:58.229Z",
+    "id": "duv",
+    "ref": "127884",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=127884"
+  },
+  "start": {
+    "lat": 48.831722,
+    "lon": -64.483757,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "website": null
+}
