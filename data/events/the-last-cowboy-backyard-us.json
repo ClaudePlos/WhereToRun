@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Last Cowboy Backyard is a road race. Location: O'Neill, United States. Date: Saturday, 7 November 2026. Distances: Last Runner Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — O'Neill, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Last Cowboy Backyard to bieg uliczny. Lokalizacja: O'Neill, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: Last Runner Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — O'Neill, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Runner Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "O'Neill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "The Last Cowboy Backyard",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64040",
+  "slug": "the-last-cowboy-backyard-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:14.581Z",
+    "id": "ultrasignup",
+    "ref": "18475",
+    "url": "https://ultrasignup.com/register.aspx?did=64040"
+  },
+  "start": {
+    "lat": 42.4521,
+    "lon": -98.6489,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://ultraversesupplements.com/our-races/the-last-cowboy"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Two Rivers Marathon Race Festival: Marathon, Half Marathon, 10K and 5K is a road race. Location: Lackawaxen, United States. Date: Saturday, 3 April 2027. Distances: u50m, 42.2 km, 21.1 km, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lackawaxen, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Two Rivers Marathon Race Festival: Marathon, Half Marathon, 10K and 5K to bieg uliczny. Lokalizacja: Lackawaxen, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50m, 42.2 km, 21.1 km, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lackawaxen, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lackawaxen",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Two Rivers Marathon Race Festival: Marathon, Half Marathon, 10K and 5K",
+  "registrationUrl": "https://runsignup.com/Race/PA/Lackawaxen/TwoRiversMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "two-rivers-marathon-race-festival-marathon-half-marathon-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "two-rivers-marathon-race-festival-marathon-half-marathon-10k-and-5k-pa",
+    "url": "https://runsignup.com/Race/PA/Lackawaxen/TwoRiversMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.48,
+    "lon": -74.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/PA/Lackawaxen/TwoRiversMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Micro: micrOTQ is a road race. Location: Valley Cottage, United States. Date: Sunday, 28 March 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Valley Cottage, United States, Sunday, 28 March 2027"
+    },
+    "pl": {
+      "description": "The Micro: micrOTQ to bieg uliczny. Lokalizacja: Valley Cottage, Stany Zjednoczone. Termin: niedziela, 28 marca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Valley Cottage, Stany Zjednoczone, niedziela, 28 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valley Cottage",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "The Micro: micrOTQ",
+  "registrationUrl": "https://runsignup.com/Race/NY/ValleyCottage/MicrOTQ?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-micro-microtq-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "the-micro-microtq-ny",
+    "url": "https://runsignup.com/Race/NY/ValleyCottage/MicrOTQ?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.12,
+    "lon": -73.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/NY/ValleyCottage/MicrOTQ?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

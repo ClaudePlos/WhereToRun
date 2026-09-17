@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Bakersfield Marathon Health & Wellness Expo & Finish Line Village is a road race. Location: Bakersfield, United States. Date: Saturday, 3 April 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bakersfield, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "2027 Bakersfield Marathon Health & Wellness Expo & Finish Line Village to bieg uliczny. Lokalizacja: Bakersfield, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bakersfield, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bakersfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Bakersfield Marathon Health & Wellness Expo & Finish Line Village",
+  "registrationUrl": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonExpoCelebrationVillage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-bakersfield-marathon-health-wellness-expo-finish-line-village-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "2027-bakersfield-marathon-health-wellness-expo-finish-line-village-ca",
+    "url": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonExpoCelebrationVillage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.39,
+    "lon": -119.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonExpoCelebrationVillage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

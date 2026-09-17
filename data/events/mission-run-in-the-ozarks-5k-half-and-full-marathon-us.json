@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mission Run in the Ozarks 5K, Half, and Full Marathon is a road race. Location: Mountain View, United States. Date: Saturday, 27 March 2027. Distances: 5 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mountain View, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Mission Run in the Ozarks 5K, Half, and Full Marathon to bieg uliczny. Lokalizacja: Mountain View, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: 5 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mountain View, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mountain View",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Mission Run in the Ozarks 5K, Half, and Full Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AR/MountainView/MissionRunInTheOzarks?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mission-run-in-the-ozarks-5k-half-and-full-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "mission-run-in-the-ozarks-5k-half-and-full-marathon-ar",
+    "url": "https://runsignup.com/Race/AR/MountainView/MissionRunInTheOzarks?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.82,
+    "lon": -92.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/AR/MountainView/MissionRunInTheOzarks?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bullshit Backyard Ultra is a ultramarathon. Location: Lenoxville, United States. Date: Saturday, 3 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lenoxville, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "The Bullshit Backyard Ultra to ultramaraton. Lokalizacja: Lenoxville, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lenoxville, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lenoxville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "The Bullshit Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14952",
+  "slug": "the-bullshit-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "the-bullshit-backyard-ultra-pa",
+    "url": "https://ultrasignup.com/register.aspx?eid=14952"
+  },
+  "start": {
+    "lat": 41.66,
+    "lon": -75.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14952"
+}

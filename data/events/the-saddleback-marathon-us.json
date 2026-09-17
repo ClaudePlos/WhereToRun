@@ -14,7 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "other",
+    "25 km",
     "21.1 km",
     "10 km"
   ],
@@ -30,25 +30,25 @@
   },
   "manual": false,
   "name": "The Saddleback Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17123",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=61716",
   "slug": "the-saddleback-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
-    "id": "runraceusa",
-    "ref": "the-saddleback-marathon-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=17123"
+    "fetchedAt": "2026-09-17T11:51:14.581Z",
+    "id": "ultrasignup",
+    "ref": "17123",
+    "url": "https://ultrasignup.com/register.aspx?did=61716"
   },
   "start": {
-    "lat": 33.77,
-    "lon": -117.68,
+    "lat": 33.7659,
+    "lon": -117.678,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17123"
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://otrraces.com/saddleback-marathon"
 }

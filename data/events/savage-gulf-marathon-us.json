@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Savage Gulf Marathon is a road race. Location: Coalmont, United States. Date: Saturday, 27 March 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Coalmont, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Savage Gulf Marathon to bieg uliczny. Lokalizacja: Coalmont, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Coalmont, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coalmont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Savage Gulf Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3155",
+  "slug": "savage-gulf-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "savage-gulf-marathon-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=3155"
+  },
+  "start": {
+    "lat": 35.45,
+    "lon": -85.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3155"
+}

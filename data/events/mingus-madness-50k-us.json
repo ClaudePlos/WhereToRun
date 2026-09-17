@@ -13,7 +13,7 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Mingus Madness 50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17867",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67783",
   "slug": "mingus-madness-50k-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
-    "id": "runraceusa",
-    "ref": "mingus-madness-50k-az",
-    "url": "https://ultrasignup.com/register.aspx?eid=17867"
+    "fetchedAt": "2026-09-17T11:51:14.581Z",
+    "id": "ultrasignup",
+    "ref": "17867",
+    "url": "https://ultrasignup.com/register.aspx?did=67783"
   },
   "start": {
-    "lat": 34.61,
-    "lon": -112.31,
+    "lat": 34.6097,
+    "lon": -112.315,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17867"
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://mingusmadness.wordpress.com"
 }

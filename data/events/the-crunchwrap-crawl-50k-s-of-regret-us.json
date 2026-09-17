@@ -13,8 +13,8 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra",
-    "u50k"
+    "42 Miles (the 8th Taco Bell!)",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "The Crunchwrap Crawl, 50K's of regret!",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19537",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66618",
   "slug": "the-crunchwrap-crawl-50k-s-of-regret-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
-    "id": "runraceusa",
-    "ref": "the-crunchwrap-crawl-50k-s-of-regret-wa",
-    "url": "https://ultrasignup.com/register.aspx?eid=19537"
+    "fetchedAt": "2026-09-17T11:51:14.581Z",
+    "id": "ultrasignup",
+    "ref": "19537",
+    "url": "https://ultrasignup.com/register.aspx?did=66618"
   },
   "start": {
-    "lat": 46.18,
-    "lon": -119.19,
+    "lat": 46.1787,
+    "lon": -119.188,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19537"
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://www.facebook.com/nomadtrailrunners"
 }

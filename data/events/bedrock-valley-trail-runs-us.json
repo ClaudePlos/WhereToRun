@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Bedrock Valley Trail Runs is a trail race. Location: Hemet, United States. Date: Saturday, 3 April 2027. Distances: 42.2 km, 21.1 km, other, 10 km, 5 km, 1.6 km, u50m, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Hemet, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Bedrock Valley Trail Runs to bieg trailowy. Lokalizacja: Hemet, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, other, 10 km, 5 km, 1.6 km, u50m, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Hemet, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "u50m",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hemet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Bedrock Valley Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bedrock-valley-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "bedrock-valley-trail-runs-ca",
+    "url": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.74,
+    "lon": -117.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

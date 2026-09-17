@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Carpe Diem - Carpe Noctem Half Marathon and 10K - MI is a road race. Location: Commerce Township, United States. Date: Saturday, 3 April 2027. Distances: 21.1 km, 42.2 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Commerce Township, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Carpe Diem - Carpe Noctem Half Marathon and 10K - MI to bieg uliczny. Lokalizacja: Commerce Township, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 21.1 km, 42.2 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Commerce Township, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Commerce Township",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Carpe Diem - Carpe Noctem Half Marathon and 10K - MI",
+  "registrationUrl": "https://runsignup.com/Race/MI/CommerceTownship/CarpeDiemCarpeNoctemTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "carpe-diem-carpe-noctem-half-marathon-and-10k-mi-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "carpe-diem-carpe-noctem-half-marathon-and-10k-mi-mi",
+    "url": "https://runsignup.com/Race/MI/CommerceTownship/CarpeDiemCarpeNoctemTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.58,
+    "lon": -83.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/MI/CommerceTownship/CarpeDiemCarpeNoctemTrivium?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Panther City Ultra is a ultramarathon. Location: Fort Worth, United States. Date: Saturday, 3 April 2027. Distances: u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fort Worth, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Panther City Ultra to ultramaraton. Lokalizacja: Fort Worth, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fort Worth, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Worth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Panther City Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/FortWorth/PantherCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "panther-city-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "panther-city-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/FortWorth/PantherCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.78,
+    "lon": -97.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/TX/FortWorth/PantherCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

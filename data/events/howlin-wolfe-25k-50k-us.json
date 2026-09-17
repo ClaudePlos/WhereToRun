@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Howlin' Wolfe 25k/50k is a road race. Location: Slade, United States. Date: Saturday, 27 March 2027. Distances: other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Slade, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Howlin' Wolfe 25k/50k to bieg uliczny. Lokalizacja: Slade, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Slade, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Slade",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Howlin' Wolfe 25k/50k",
+  "registrationUrl": "https://runsignup.com/Race/KY/Slade/HowlinWolfe25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "howlin-wolfe-25k-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "howlin-wolfe-25k-50k-ky",
+    "url": "https://runsignup.com/Race/KY/Slade/HowlinWolfe25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.8,
+    "lon": -83.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/KY/Slade/HowlinWolfe25k50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

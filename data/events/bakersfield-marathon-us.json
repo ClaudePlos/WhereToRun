@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Bakersfield Marathon is a road race. Location: Bakersfield, United States. Date: Saturday, 3 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bakersfield, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Bakersfield Marathon to bieg uliczny. Lokalizacja: Bakersfield, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bakersfield, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bakersfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Bakersfield Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bakersfield-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "bakersfield-marathon-ca",
+    "url": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.39,
+    "lon": -119.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/CA/Bakersfield/BakersfieldMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

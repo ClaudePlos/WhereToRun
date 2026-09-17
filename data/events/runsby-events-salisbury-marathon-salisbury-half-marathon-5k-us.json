@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "RunSBY Events (Salisbury Marathon/Salisbury Half Marathon/5k) is a road race. Location: Salisbury, United States. Date: Saturday, 3 April 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Salisbury, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "RunSBY Events (Salisbury Marathon/Salisbury Half Marathon/5k) to bieg uliczny. Lokalizacja: Salisbury, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Salisbury, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salisbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "RunSBY Events (Salisbury Marathon/Salisbury Half Marathon/5k)",
+  "registrationUrl": "https://runsignup.com/Race/MD/Salisbury/runsby?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "runsby-events-salisbury-marathon-salisbury-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "runsby-events-salisbury-marathon-salisbury-half-marathon-5k-md",
+    "url": "https://runsignup.com/Race/MD/Salisbury/runsby?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.38,
+    "lon": -75.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/MD/Salisbury/runsby?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

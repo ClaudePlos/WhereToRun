@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Oak Mountain 50K is a trail race. Location: Pelham, United States. Date: Saturday, 3 April 2027. Distances: u50k, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pelham, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Oak Mountain 50K to bieg trailowy. Lokalizacja: Pelham, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50k, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pelham, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Oak Mountain 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=31",
+  "slug": "oak-mountain-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "oak-mountain-50k-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=31"
+  },
+  "start": {
+    "lat": 33.32,
+    "lon": -86.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=31"
+}

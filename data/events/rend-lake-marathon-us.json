@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rend Lake Marathon is a road race. Location: Benton, United States. Date: Saturday, 27 March 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Benton, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Rend Lake Marathon to bieg uliczny. Lokalizacja: Benton, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Benton, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Benton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Rend Lake Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IL/Benton/RendLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rend-lake-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "rend-lake-marathon-il",
+    "url": "https://runsignup.com/Race/IL/Benton/RendLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38,
+    "lon": -88.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/IL/Benton/RendLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

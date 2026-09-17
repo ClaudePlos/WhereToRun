@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Picnic Island Ultra is a ultramarathon. Location: Jupiter, United States. Date: Sunday, 28 March 2027. Distances: ultra, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jupiter, United States, Sunday, 28 March 2027"
+    },
+    "pl": {
+      "description": "Picnic Island Ultra to ultramaraton. Lokalizacja: Jupiter, Stany Zjednoczone. Termin: niedziela, 28 marca 2027. Dystanse: ultra, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jupiter, Stany Zjednoczone, niedziela, 28 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-03-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jupiter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Picnic Island Ultra",
+  "registrationUrl": "https://runsignup.com/Race/FL/Jupiter/PicnicIslandUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "picnic-island-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "picnic-island-ultra-fl",
+    "url": "https://runsignup.com/Race/FL/Jupiter/PicnicIslandUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 26.92,
+    "lon": -80.21,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/FL/Jupiter/PicnicIslandUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

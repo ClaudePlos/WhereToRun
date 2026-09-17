@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Helotes Beer Garden Run: 5K, 1/2 Marathon, and 2-Person Relay is a road race. Location: Helotes, United States. Date: Saturday, 3 April 2027. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Helotes, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Helotes Beer Garden Run: 5K, 1/2 Marathon, and 2-Person Relay to bieg uliczny. Lokalizacja: Helotes, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Helotes, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Helotes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Helotes Beer Garden Run: 5K, 1/2 Marathon, and 2-Person Relay",
+  "registrationUrl": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "helotes-beer-garden-run-5k-1-2-marathon-and-2-person-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "helotes-beer-garden-run-5k-1-2-marathon-and-2-person-relay-tx",
+    "url": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.65,
+    "lon": -98.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

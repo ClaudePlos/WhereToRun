@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Ultras Fools 4ish Mile is a ultramarathon. Location: Lakeland, United States. Date: Thursday, 1 April 2027. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakeland, United States, Thursday, 1 April 2027"
+    },
+    "pl": {
+      "description": "Ultra Ultras Fools 4ish Mile to ultramaraton. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: czwartek, 1 kwietnia 2027. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakeland, Stany Zjednoczone, czwartek, 1 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Ultra Ultras Fools 4ish Mile",
+  "registrationUrl": "https://runsignup.com/Race/FL/Lakeland/UltraUltrasFools5kMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ultra-ultras-fools-4ish-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "ultra-ultras-fools-4ish-mile-fl",
+    "url": "https://runsignup.com/Race/FL/Lakeland/UltraUltrasFools5kMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.01,
+    "lon": -81.95,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/FL/Lakeland/UltraUltrasFools5kMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

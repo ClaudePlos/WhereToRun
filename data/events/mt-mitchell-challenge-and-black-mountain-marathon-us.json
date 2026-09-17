@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Mt Mitchell Challenge and Black Mountain Marathon is a trail race. Location: Black Mountain, United States. Date: Saturday, 3 April 2027. Distances: other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Black Mountain, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Mt Mitchell Challenge and Black Mountain Marathon to bieg trailowy. Lokalizacja: Black Mountain, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Black Mountain, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Black Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Mt Mitchell Challenge and Black Mountain Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=123",
+  "slug": "mt-mitchell-challenge-and-black-mountain-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "mt-mitchell-challenge-and-black-mountain-marathon-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=123"
+  },
+  "start": {
+    "lat": 35.62,
+    "lon": -82.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=123"
+}

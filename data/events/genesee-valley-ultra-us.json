@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Genesee Valley Ultra is a ultramarathon. Location: Parkton, United States. Date: Saturday, 3 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Parkton, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Genesee Valley Ultra to ultramaraton. Lokalizacja: Parkton, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Parkton, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T11:51:05.899Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Parkton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Genesee Valley Ultra",
+  "registrationUrl": "https://runsignup.com/Race/MD/Parkton/24hrsatGenesseeValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "genesee-valley-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "id": "runraceusa",
+    "ref": "genesee-valley-ultra-md",
+    "url": "https://runsignup.com/Race/MD/Parkton/24hrsatGenesseeValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.64,
+    "lon": -76.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "website": "https://runsignup.com/Race/MD/Parkton/24hrsatGenesseeValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
