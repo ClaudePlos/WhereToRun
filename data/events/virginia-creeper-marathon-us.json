@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Virginia Creeper Marathon is a road race. Location: Abingdon, United States. Date: Sunday, 4 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Abingdon, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "Virginia Creeper Marathon to bieg uliczny. Lokalizacja: Abingdon, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Abingdon, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Abingdon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Virginia Creeper Marathon",
+  "registrationUrl": "https://runsignup.com/Race/VA/Abingdon/VirginiaCreeperMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "virginia-creeper-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "virginia-creeper-marathon-va",
+    "url": "https://runsignup.com/Race/VA/Abingdon/VirginiaCreeperMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.62,
+    "lon": -82.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/VA/Abingdon/VirginiaCreeperMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

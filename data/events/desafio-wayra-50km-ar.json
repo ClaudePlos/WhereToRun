@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Desafio Wayra 50km is a ultramarathon. Location: Lago Puelo, Argentina. Date: Saturday, 12 December 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lago Puelo, Argentina, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Desafio Wayra 50km to ultramaraton. Lokalizacja: Lago Puelo, Argentyna. Termin: sobota, 12 grudnia 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lago Puelo, Argentyna, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lago Puelo",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Desafio Wayra 50km",
+  "registrationUrl": null,
+  "slug": "desafio-wayra-50km-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131301",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131301"
+  },
+  "start": {
+    "lat": -42.060312,
+    "lon": -71.597933,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

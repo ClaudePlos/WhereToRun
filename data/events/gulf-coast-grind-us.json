@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Gulf Coast Grind is a road race. Location: Freeport, United States. Date: Saturday, 10 April 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Freeport, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Gulf Coast Grind to bieg uliczny. Lokalizacja: Freeport, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Freeport, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freeport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Gulf Coast Grind",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7921",
+  "slug": "gulf-coast-grind-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "gulf-coast-grind-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=7921"
+  },
+  "start": {
+    "lat": 28.99,
+    "lon": -95.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=7921"
+}

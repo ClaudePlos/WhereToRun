@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "ROCovery #OMAAT 24-Hour Run/Walk Challenge is a road race. Location: Fairport, United States. Date: Saturday, 10 April 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fairport, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "ROCovery #OMAAT 24-Hour Run/Walk Challenge to bieg uliczny. Lokalizacja: Fairport, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fairport, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fairport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "ROCovery #OMAAT 24-Hour Run/Walk Challenge",
+  "registrationUrl": "https://runsignup.com/Race/NY/Fairport/ROCoveryOMAAT?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rocovery-omaat-24-hour-run-walk-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "rocovery-omaat-24-hour-run-walk-challenge-ny",
+    "url": "https://runsignup.com/Race/NY/Fairport/ROCoveryOMAAT?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.09,
+    "lon": -77.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/NY/Fairport/ROCoveryOMAAT?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

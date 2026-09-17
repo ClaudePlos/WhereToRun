@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Desert Peak Ultra is a ultramarathon. Location: Oracle, United States. Date: Saturday, 10 April 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Oracle, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Desert Peak Ultra to ultramaraton. Lokalizacja: Oracle, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Oracle, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oracle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Desert Peak Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19392",
+  "slug": "desert-peak-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "desert-peak-ultra-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=19392"
+  },
+  "start": {
+    "lat": 32.55,
+    "lon": -110.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19392"
+}

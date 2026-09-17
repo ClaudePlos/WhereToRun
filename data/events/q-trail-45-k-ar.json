@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Q Trail 45 K is a ultramarathon. Location: Esquel, Argentina. Date: Sunday, 6 December 2026. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Esquel, Argentina, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Q Trail 45 K to ultramaraton. Lokalizacja: Esquel, Argentyna. Termin: niedziela, 6 grudnia 2026. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Esquel, Argentyna, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Esquel",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Q Trail 45 K",
+  "registrationUrl": null,
+  "slug": "q-trail-45-k-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131300",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131300"
+  },
+  "start": {
+    "lat": -42.917305,
+    "lon": -71.321651,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

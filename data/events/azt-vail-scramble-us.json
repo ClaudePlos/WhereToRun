@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "AZT Vail Scramble is a road race. Location: Vail, United States. Date: Sunday, 4 April 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Vail, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "AZT Vail Scramble to bieg uliczny. Lokalizacja: Vail, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Vail, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vail",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "AZT Vail Scramble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5134",
+  "slug": "azt-vail-scramble-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "azt-vail-scramble-az",
+    "url": "https://ultrasignup.com/register.aspx?eid=5134"
+  },
+  "start": {
+    "lat": 32.01,
+    "lon": -110.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5134"
+}

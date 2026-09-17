@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Patagonia Run 100 Millas is a ultramarathon. Location: San Martin de los Andes, Argentina. Date: 9 April 2027 – 11 April 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — San Martin de los Andes, Argentina, 9 April 2027 – 11 April 2027"
+    },
+    "pl": {
+      "description": "Patagonia Run 100 Millas to ultramaraton. Lokalizacja: San Martin de los Andes, Argentyna. Termin: 9 kwietnia 2027 – 11 kwietnia 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — San Martin de los Andes, Argentyna, 9 kwietnia 2027 – 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-04-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Martin de los Andes",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Patagonia Run 100 Millas",
+  "registrationUrl": null,
+  "slug": "patagonia-run-100-millas-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131187",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131187"
+  },
+  "start": {
+    "lat": -40.156879,
+    "lon": -71.352559,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

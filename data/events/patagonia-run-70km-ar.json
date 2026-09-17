@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Patagonia Run 70km is a ultramarathon. Location: San Martin de los Andes, Argentina. Date: 10 April 2027 – 11 April 2027. Distances: 72 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — San Martin de los Andes, Argentina, 10 April 2027 – 11 April 2027"
+    },
+    "pl": {
+      "description": "Patagonia Run 70km to ultramaraton. Lokalizacja: San Martin de los Andes, Argentyna. Termin: 10 kwietnia 2027 – 11 kwietnia 2027. Dystanse: 72 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — San Martin de los Andes, Argentyna, 10 kwietnia 2027 – 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "72 km"
+  ],
+  "endDate": "2027-04-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Martin de los Andes",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Patagonia Run 70km",
+  "registrationUrl": null,
+  "slug": "patagonia-run-70km-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131189",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131189"
+  },
+  "start": {
+    "lat": -40.156879,
+    "lon": -71.352559,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

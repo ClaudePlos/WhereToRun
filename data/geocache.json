@@ -1,4 +1,10 @@
 {
+  "AR|bariloche": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -41.1334781,
+    "lon": -71.3101474,
+    "name": "San Carlos de Bariloche, Municipio de San Carlos de Bariloche, Departamento Bariloche, Río Negro, 8400, Argentina"
+  },
   "AR|buenos aires": {
     "at": "2026-09-09T11:33:01.537Z",
     "lat": -34.6095579,
@@ -23,11 +29,47 @@
   "AR|el soberbio, misiones": {
     "at": "2026-09-09T11:33:01.537Z"
   },
+  "AR|esquel": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -42.9173055,
+    "lon": -71.3216508,
+    "name": "Municipio de Esquel, Departamento Futaleufú, Chubut, U9200, Argentina"
+  },
+  "AR|huerta grande, cordoba": {
+    "at": "2026-09-17T17:38:14.220Z"
+  },
   "AR|ita ibate": {
     "at": "2026-09-09T11:33:01.537Z",
     "lat": -27.4258419,
     "lon": -57.3381058,
     "name": "Municipio de Itá Ibaté, Departamento General Paz, Corrientes, 3480, Argentina"
+  },
+  "AR|lago puelo": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -42.0603116,
+    "lon": -71.597933,
+    "name": "Lago Puelo, Municipio de Lago Puelo, Departamento Cushamen, Chubut, U8431, Argentina"
+  },
+  "AR|puan, prcia de bs as": {
+    "at": "2026-09-17T17:38:14.220Z"
+  },
+  "AR|quilmes": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -34.7244434,
+    "lon": -58.2588168,
+    "name": "Quilmes, Partido de Quilmes, Buenos Aires, Argentina"
+  },
+  "AR|salta": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -24.7892946,
+    "lon": -65.4103194,
+    "name": "Salta, Capital, Salta, Argentina"
+  },
+  "AR|san martin de los andes": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -40.1568791,
+    "lon": -71.3525588,
+    "name": "Municipio de San Martín de los Andes, Departamento Lácar, Neuquén, Argentina"
   },
   "AR|santa rosa, la pampa": {
     "at": "2026-09-09T11:33:01.537Z"
@@ -403,6 +445,15 @@
   },
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CL|estancia el kark, torres del paine": {
+    "at": "2026-09-17T17:38:14.220Z"
+  },
+  "CL|las trancas": {
+    "at": "2026-09-17T17:38:14.220Z",
+    "lat": -37.4113358,
+    "lon": -72.4795037,
+    "name": "Las Trancas, Los Ángeles, Provincia de Bío-Bío, Región del Biobío, Chile"
   },
   "CN|antu county": {
     "at": "2026-09-11T11:31:46.015Z",

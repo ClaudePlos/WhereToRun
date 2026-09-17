@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "NOLI INDIAN SCHOOL TRAIL RACES is a trail race. Location: San Jacinto, United States. Date: Saturday, 10 April 2027. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — San Jacinto, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "NOLI INDIAN SCHOOL TRAIL RACES to bieg trailowy. Lokalizacja: San Jacinto, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — San Jacinto, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Jacinto",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "NOLI INDIAN SCHOOL TRAIL RACES",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17613",
+  "slug": "noli-indian-school-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "noli-indian-school-trail-races-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=17613"
+  },
+  "start": {
+    "lat": 33.8,
+    "lon": -116.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17613"
+}

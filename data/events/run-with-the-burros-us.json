@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run with the Burros is a road race. Location: Ridgecrest, United States. Date: Saturday, 10 April 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ridgecrest, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Run with the Burros to bieg uliczny. Lokalizacja: Ridgecrest, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ridgecrest, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ridgecrest",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Run with the Burros",
+  "registrationUrl": "https://www.californiabreakfastburritos.org/general-8",
+  "slug": "run-with-the-burros-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "run-with-the-burros-ca",
+    "url": "https://www.californiabreakfastburritos.org/general-8"
+  },
+  "start": {
+    "lat": 35.57,
+    "lon": -117.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://www.californiabreakfastburritos.org/general-8"
+}

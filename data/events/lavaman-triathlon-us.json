@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Lavaman Triathlon is a triathlon. Location: Waikoloa, United States. Date: Sunday, 4 April 2027. Distances: u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Waikoloa, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "Lavaman Triathlon to triatlon. Lokalizacja: Waikoloa, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Waikoloa, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waikoloa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "Lavaman Triathlon",
+  "registrationUrl": "https://runsignup.com/Race/HI/Waikoloa/LavamanTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lavaman-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "lavaman-triathlon-hi",
+    "url": "https://runsignup.com/Race/HI/Waikoloa/LavamanTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 19.97,
+    "lon": -155.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/HI/Waikoloa/LavamanTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

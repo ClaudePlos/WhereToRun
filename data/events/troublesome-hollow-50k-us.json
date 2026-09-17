@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Troublesome Hollow 50K is a road race. Location: bristol, United States. Date: Saturday, 10 April 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — bristol, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Troublesome Hollow 50K to bieg uliczny. Lokalizacja: bristol, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — bristol, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "bristol",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Troublesome Hollow 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15170",
+  "slug": "troublesome-hollow-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "troublesome-hollow-50k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=15170"
+  },
+  "start": {
+    "lat": 36.68,
+    "lon": -82.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15170"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop Endurance Series | Shreveport is a road race. Location: Keithville, United States. Date: Saturday, 10 October 2026. Distances: The Next Loop 50M  Challenge, The Next Loop 40M  Challenge, The Next Loop Hourly Challenge, The Ne. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Keithville, United States, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "The Next Loop Endurance Series | Shreveport to bieg uliczny. Lokalizacja: Keithville, Stany Zjednoczone. Termin: sobota, 10 października 2026. Dystanse: The Next Loop 50M  Challenge, The Next Loop 40M  Challenge, The Next Loop Hourly Challenge, The Ne. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Keithville, Stany Zjednoczone, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "The Next Loop 50M  Challenge",
+    "The Next Loop 40M  Challenge",
+    "The Next Loop Hourly Challenge",
+    "The Ne"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Keithville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "The Next Loop Endurance Series | Shreveport",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68828",
+  "slug": "the-next-loop-endurance-series-shreveport-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:22.367Z",
+    "id": "ultrasignup",
+    "ref": "21035",
+    "url": "https://ultrasignup.com/register.aspx?did=68828"
+  },
+  "start": {
+    "lat": 32.2592,
+    "lon": -93.9439,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "http://www.everfurther.net"
+}

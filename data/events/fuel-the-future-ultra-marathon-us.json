@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "“FUEL THE FUTURE” Ultra Marathon is a ultramarathon. Location: Simpsonville, United States. Date: Saturday, 3 April 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Simpsonville, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "“FUEL THE FUTURE” Ultra Marathon to ultramaraton. Lokalizacja: Simpsonville, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Simpsonville, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Simpsonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "“FUEL THE FUTURE” Ultra Marathon",
+  "registrationUrl": "https://runsignup.com/Race/SC/Simpsonville/FUELTHEFUTUREUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fuel-the-future-ultra-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "fuel-the-future-ultra-marathon-sc",
+    "url": "https://runsignup.com/Race/SC/Simpsonville/FUELTHEFUTUREUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.7,
+    "lon": -82.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/SC/Simpsonville/FUELTHEFUTUREUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bariloche Running Ultra Trail (BRUT) 60 km is a ultramarathon. Location: Bariloche, Argentina. Date: Sunday, 29 November 2026. Distances: 60 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bariloche, Argentina, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "Bariloche Running Ultra Trail (BRUT) 60 km to ultramaraton. Lokalizacja: Bariloche, Argentyna. Termin: niedziela, 29 listopada 2026. Dystanse: 60 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bariloche, Argentyna, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bariloche",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bariloche Running Ultra Trail (BRUT) 60 km",
+  "registrationUrl": null,
+  "slug": "bariloche-running-ultra-trail-brut-60-km-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131287",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131287"
+  },
+  "start": {
+    "lat": -41.133478,
+    "lon": -71.310147,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

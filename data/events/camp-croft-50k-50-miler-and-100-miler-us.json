@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Camp Croft 50K, 50 Miler, and 100 Miler is a road race. Location: Spartanburg, United States. Date: Saturday, 10 April 2027. Distances: u100m, u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Spartanburg, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Camp Croft 50K, 50 Miler, and 100 Miler to bieg uliczny. Lokalizacja: Spartanburg, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u100m, u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Spartanburg, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spartanburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Camp Croft 50K, 50 Miler, and 100 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16534",
+  "slug": "camp-croft-50k-50-miler-and-100-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "camp-croft-50k-50-miler-and-100-miler-sc",
+    "url": "https://ultrasignup.com/register.aspx?eid=16534"
+  },
+  "start": {
+    "lat": 34.87,
+    "lon": -81.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16534"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Yakima River Canyon Marathon and Half-Marathon is a trail race. Location: Yakima, United States. Date: Saturday, 3 April 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Yakima, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Yakima River Canyon Marathon and Half-Marathon to bieg trailowy. Lokalizacja: Yakima, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Yakima, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yakima",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Yakima River Canyon Marathon and Half-Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Yakima/YakimaRiverCanyonMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "yakima-river-canyon-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "yakima-river-canyon-marathon-and-half-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Yakima/YakimaRiverCanyonMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.62,
+    "lon": -120.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/WA/Yakima/YakimaRiverCanyonMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

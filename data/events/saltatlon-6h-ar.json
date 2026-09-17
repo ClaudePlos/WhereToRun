@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Saltatlon 6h is a ultramarathon. Location: Salta, Argentina. Date: Saturday, 28 November 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Salta, Argentina, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Saltatlon 6h to ultramaraton. Lokalizacja: Salta, Argentyna. Termin: sobota, 28 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Salta, Argentyna, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salta",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Saltatlon 6h",
+  "registrationUrl": null,
+  "slug": "saltatlon-6h-ar",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "124594",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124594"
+  },
+  "start": {
+    "lat": -24.789295,
+    "lon": -65.410319,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

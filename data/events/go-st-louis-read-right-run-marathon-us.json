@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "GO! St. Louis Read, Right & Run Marathon® is a road race. Location: St. Louis, United States. Date: Saturday, 10 April 2027. Distances: 1.6 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — St. Louis, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "GO! St. Louis Read, Right & Run Marathon® to bieg uliczny. Lokalizacja: St. Louis, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: 1.6 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — St. Louis, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Louis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "GO! St. Louis Read, Right & Run Marathon®",
+  "registrationUrl": "https://runsignup.com/Race/MO/StLouis/GOStLouisReadRightRunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "go-st-louis-read-right-run-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "go-st-louis-read-right-run-marathon-mo",
+    "url": "https://runsignup.com/Race/MO/StLouis/GOStLouisReadRightRunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.62,
+    "lon": -90.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/MO/StLouis/GOStLouisReadRightRunMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

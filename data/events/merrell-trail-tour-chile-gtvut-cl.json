@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Merrell Trail Tour Chile  GTVUT is a ultramarathon. Location: Las Trancas, Chile. Date: Saturday, 21 November 2026. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Las Trancas, Chile, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Merrell Trail Tour Chile  GTVUT to ultramaraton. Lokalizacja: Las Trancas, Chile. Termin: sobota, 21 listopada 2026. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Las Trancas, Chile, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Trancas",
+    "country": "Chile",
+    "countryCode": "CL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Merrell Trail Tour Chile  GTVUT",
+  "registrationUrl": null,
+  "slug": "merrell-trail-tour-chile-gtvut-cl",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
+    "id": "duv",
+    "ref": "131559",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131559"
+  },
+  "start": {
+    "lat": -37.411336,
+    "lon": -72.479504,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": null
+}

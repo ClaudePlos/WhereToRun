@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Full Circle Trail Race is a trail race. Location: Lewisville, United States. Date: Saturday, 10 April 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Lewisville, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Full Circle Trail Race to bieg trailowy. Lokalizacja: Lewisville, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Lewisville, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lewisville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Full Circle Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/TX/Lewisville/FullCircleTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "full-circle-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "full-circle-trail-race-tx",
+    "url": "https://runsignup.com/Race/TX/Lewisville/FullCircleTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.05,
+    "lon": -97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/TX/Lewisville/FullCircleTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Man Memorial March is a trail race. Location: Gatlinburg, United States. Date: Friday, 9 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Gatlinburg, United States, Friday, 9 April 2027"
+    },
+    "pl": {
+      "description": "Mountain Man Memorial March to bieg trailowy. Lokalizacja: Gatlinburg, Stany Zjednoczone. Termin: piątek, 9 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Gatlinburg, Stany Zjednoczone, piątek, 9 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-17T17:38:14.220Z",
+  "date": "2027-04-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gatlinburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Mountain Man Memorial March",
+  "registrationUrl": "https://runsignup.com/Race/TN/Gatlinburg/MountainManMemorialMarch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mountain-man-memorial-march-us",
+  "source": {
+    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "id": "runraceusa",
+    "ref": "mountain-man-memorial-march-tn",
+    "url": "https://runsignup.com/Race/TN/Gatlinburg/MountainManMemorialMarch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.73,
+    "lon": -83.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "website": "https://runsignup.com/Race/TN/Gatlinburg/MountainManMemorialMarch?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

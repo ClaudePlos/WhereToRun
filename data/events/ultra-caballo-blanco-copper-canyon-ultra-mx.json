@@ -13,7 +13,7 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km"
+    "80.5 km"
   ],
   "endDate": "2027-03-07",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "ultra-caballo-blanco-copper-canyon-ultra-mx",
   "source": {
-    "fetchedAt": "2026-09-09T11:33:25.015Z",
+    "fetchedAt": "2026-09-17T17:38:38.765Z",
     "id": "duv",
-    "ref": "130638",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130638"
+    "ref": "130639",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130639"
   },
   "start": {
     "lat": 27.212308,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "updatedAt": "2026-09-17T17:38:14.220Z",
   "website": null
 }
