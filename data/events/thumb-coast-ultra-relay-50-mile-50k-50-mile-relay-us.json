@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Thumb Coast Ultra & Relay - 50 Mile, 50K, & 50 Mile Relay is a ultramarathon. Location: Caseville, United States. Date: Saturday, 24 April 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Caseville, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Thumb Coast Ultra & Relay - 50 Mile, 50K, & 50 Mile Relay to ultramaraton. Lokalizacja: Caseville, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Caseville, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Caseville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Thumb Coast Ultra & Relay - 50 Mile, 50K, & 50 Mile Relay",
+  "registrationUrl": "https://runsignup.com/Race/MI/Caseville/ThumbCoastUltra50Mileand50Kilometer?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "thumb-coast-ultra-relay-50-mile-50k-50-mile-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "thumb-coast-ultra-relay-50-mile-50k-50-mile-relay-mi",
+    "url": "https://runsignup.com/Race/MI/Caseville/ThumbCoastUltra50Mileand50Kilometer?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.94,
+    "lon": -83.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/MI/Caseville/ThumbCoastUltra50Mileand50Kilometer?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

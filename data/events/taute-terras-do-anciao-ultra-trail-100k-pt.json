@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TAUTE – Terras do Ancião Ultra Trail 100k is a ultramarathon. Location: Ansiao, Portugal. Date: 19 February 2027 – 21 February 2027. Distances: 107 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ansiao, Portugal, 19 February 2027 – 21 February 2027"
+    },
+    "pl": {
+      "description": "TAUTE – Terras do Ancião Ultra Trail 100k to ultramaraton. Lokalizacja: Ansiao, Portugalia. Termin: 19 lutego 2027 – 21 lutego 2027. Dystanse: 107 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ansiao, Portugalia, 19 lutego 2027 – 21 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-02-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "107 km"
+  ],
+  "endDate": "2027-02-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ansiao",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "region": null
+  },
+  "manual": false,
+  "name": "TAUTE – Terras do Ancião Ultra Trail 100k",
+  "registrationUrl": null,
+  "slug": "taute-terras-do-anciao-ultra-trail-100k-pt",
+  "source": {
+    "fetchedAt": "2026-09-18T17:06:15.735Z",
+    "id": "duv",
+    "ref": "135432",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135432"
+  },
+  "start": {
+    "lat": 39.911377,
+    "lon": -8.435986,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": null
+}

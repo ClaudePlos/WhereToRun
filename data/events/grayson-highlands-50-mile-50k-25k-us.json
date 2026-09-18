@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Grayson Highlands 50 Mile / 50k / 25k is a road race. Location: Mouth of Wilson, United States. Date: Saturday, 1 May 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mouth of Wilson, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Grayson Highlands 50 Mile / 50k / 25k to bieg uliczny. Lokalizacja: Mouth of Wilson, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mouth of Wilson, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mouth of Wilson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Grayson Highlands 50 Mile / 50k / 25k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4793",
+  "slug": "grayson-highlands-50-mile-50k-25k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "grayson-highlands-50-mile-50k-25k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=4793"
+  },
+  "start": {
+    "lat": 36.62,
+    "lon": -81.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4793"
+}

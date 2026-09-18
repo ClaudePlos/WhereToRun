@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "MERCY HEALTH GLASS CITY MARATHON is a road race. Location: Toledo, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Toledo, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "MERCY HEALTH GLASS CITY MARATHON to bieg uliczny. Lokalizacja: Toledo, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Toledo, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Toledo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "MERCY HEALTH GLASS CITY MARATHON",
+  "registrationUrl": "https://runsignup.com/Race/OH/Toledo/GlassCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mercy-health-glass-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "mercy-health-glass-city-marathon-oh",
+    "url": "https://runsignup.com/Race/OH/Toledo/GlassCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.67,
+    "lon": -83.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/OH/Toledo/GlassCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

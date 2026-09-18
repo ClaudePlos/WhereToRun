@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Shiprock Marathon is a road race. Location: Shiprock, United States. Date: Friday, 30 April 2027. Distances: u50k, other, 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Shiprock, United States, Friday, 30 April 2027"
+    },
+    "pl": {
+      "description": "Shiprock Marathon to bieg uliczny. Lokalizacja: Shiprock, Stany Zjednoczone. Termin: piątek, 30 kwietnia 2027. Dystanse: u50k, other, 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Shiprock, Stany Zjednoczone, piątek, 30 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shiprock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Shiprock Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NM/Shiprock/ShiprockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "shiprock-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "shiprock-marathon-nm",
+    "url": "https://runsignup.com/Race/NM/Shiprock/ShiprockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.66,
+    "lon": -108.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/NM/Shiprock/ShiprockMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

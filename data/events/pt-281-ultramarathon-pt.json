@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "PT 281+ Ultramarathon is a ultramarathon. Location: Belmonte, Portugal. Date: 15 July 2027 – 18 July 2027. Distances: 281 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Belmonte, Portugal, 15 July 2027 – 18 July 2027"
+    },
+    "pl": {
+      "description": "PT 281+ Ultramarathon to ultramaraton. Lokalizacja: Belmonte, Portugalia. Termin: 15 lipca 2027 – 18 lipca 2027. Dystanse: 281 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Belmonte, Portugalia, 15 lipca 2027 – 18 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-07-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "281 km"
+  ],
+  "endDate": "2027-07-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belmonte",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "region": null
+  },
+  "manual": false,
+  "name": "PT 281+ Ultramarathon",
+  "registrationUrl": null,
+  "slug": "pt-281-ultramarathon-pt",
+  "source": {
+    "fetchedAt": "2026-09-18T17:06:15.735Z",
+    "id": "duv",
+    "ref": "135648",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135648"
+  },
+  "start": {
+    "lat": 40.358326,
+    "lon": -7.351274,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": null
+}

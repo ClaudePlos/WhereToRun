@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2Slow4Boston Marathon, Half & 50K is a road race. Location: Greer, United States. Date: Sunday, 25 April 2027. Distances: 42.2 km, 21.1 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greer, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "2Slow4Boston Marathon, Half & 50K to bieg uliczny. Lokalizacja: Greer, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greer, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "2Slow4Boston Marathon, Half & 50K",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greer/2Slow4BostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2slow4boston-marathon-half-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "2slow4boston-marathon-half-50k-sc",
+    "url": "https://runsignup.com/Race/SC/Greer/2Slow4BostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.9,
+    "lon": -82.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/SC/Greer/2Slow4BostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

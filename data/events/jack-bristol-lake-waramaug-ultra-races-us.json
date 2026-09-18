@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Jack Bristol Lake Waramaug Ultra Races is a ultramarathon. Location: Kent, United States. Date: Sunday, 25 April 2027. Distances: u100k, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kent, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "Jack Bristol Lake Waramaug Ultra Races to ultramaraton. Lokalizacja: Kent, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: u100k, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kent, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kent",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Jack Bristol Lake Waramaug Ultra Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1440",
+  "slug": "jack-bristol-lake-waramaug-ultra-races-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "jack-bristol-lake-waramaug-ultra-races-ct",
+    "url": "https://ultrasignup.com/register.aspx?eid=1440"
+  },
+  "start": {
+    "lat": 41.71,
+    "lon": -73.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1440"
+}

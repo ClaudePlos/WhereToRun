@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Joensuu Night Run 12h is a ultramarathon. Location: Joensuu, Finland. Date: 14 November 2026 – 15 November 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Joensuu, Finland, 14 November 2026 – 15 November 2026"
+    },
+    "pl": {
+      "description": "Joensuu Night Run 12h to ultramaraton. Lokalizacja: Joensuu, Finlandia. Termin: 14 listopada 2026 – 15 listopada 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Joensuu, Finlandia, 14 listopada 2026 – 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": "2026-11-15",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Joensuu",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": null
+  },
+  "manual": false,
+  "name": "Joensuu Night Run 12h",
+  "registrationUrl": null,
+  "slug": "joensuu-night-run-12h-fi",
+  "source": {
+    "fetchedAt": "2026-09-18T17:06:15.735Z",
+    "id": "duv",
+    "ref": "134838",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134838"
+  },
+  "start": {
+    "lat": 62.600638,
+    "lon": 29.761976,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": null
+}

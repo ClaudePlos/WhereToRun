@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cornbelt Running Club 24 Hour Run is a road race. Location: Davenport, United States. Date: Saturday, 1 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Davenport, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Cornbelt Running Club 24 Hour Run to bieg uliczny. Lokalizacja: Davenport, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Davenport, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Davenport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Cornbelt Running Club 24 Hour Run",
+  "registrationUrl": "https://runsignup.com/Race/IA/Davenport/CornbeltRunningClub24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cornbelt-running-club-24-hour-run-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "cornbelt-running-club-24-hour-run-ia",
+    "url": "https://runsignup.com/Race/IA/Davenport/CornbeltRunningClub24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.57,
+    "lon": -90.6,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/IA/Davenport/CornbeltRunningClub24HourRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

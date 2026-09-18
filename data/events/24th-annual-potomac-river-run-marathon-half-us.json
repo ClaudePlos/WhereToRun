@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "24th Annual Potomac River Run Marathon & Half is a road race. Location: Washington, United States. Date: Saturday, 1 May 2027. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Washington, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "24th Annual Potomac River Run Marathon & Half to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "24th Annual Potomac River Run Marathon & Half",
+  "registrationUrl": "http://www.active.com/washington-dc/running/distance-running-races/24th-annual-potomac-river-run-marathon-and-half-2027-110042578",
+  "slug": "24th-annual-potomac-river-run-marathon-half-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "24th-annual-potomac-river-run-marathon-half-dc",
+    "url": "http://www.active.com/washington-dc/running/distance-running-races/24th-annual-potomac-river-run-marathon-and-half-2027-110042578"
+  },
+  "start": {
+    "lat": 38.92,
+    "lon": -77.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "http://www.active.com/washington-dc/running/distance-running-races/24th-annual-potomac-river-run-marathon-and-half-2027-110042578"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Skunk Ape 100 Mile Endurance Run is a road race. Location: Ocala, United States. Date: Saturday, 24 April 2027. Distances: u100m, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ocala, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Skunk Ape 100 Mile Endurance Run to bieg uliczny. Lokalizacja: Ocala, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u100m, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ocala, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ocala",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Skunk Ape 100 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16957",
+  "slug": "skunk-ape-100-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "skunk-ape-100-mile-endurance-run-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=16957"
+  },
+  "start": {
+    "lat": 29.1,
+    "lon": -82.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16957"
+}

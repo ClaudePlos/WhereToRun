@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cedar Rapids Marathon Weekend - Early Bird is a road race. Location: Cedar Rapids, United States. Date: Sunday, 25 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cedar Rapids, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "Cedar Rapids Marathon Weekend - Early Bird to bieg uliczny. Lokalizacja: Cedar Rapids, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cedar Rapids, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Cedar Rapids Marathon Weekend - Early Bird",
+  "registrationUrl": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekendEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cedar-rapids-marathon-weekend-early-bird-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "cedar-rapids-marathon-weekend-early-bird-ia",
+    "url": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekendEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.95,
+    "lon": -91.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekendEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

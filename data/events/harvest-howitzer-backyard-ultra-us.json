@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Harvest & Howitzer Backyard Ultra is a ultramarathon. Location: Placerville, United States. Date: Friday, 30 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Placerville, United States, Friday, 30 April 2027"
+    },
+    "pl": {
+      "description": "Harvest & Howitzer Backyard Ultra to ultramaraton. Lokalizacja: Placerville, Stany Zjednoczone. Termin: piątek, 30 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Placerville, Stany Zjednoczone, piątek, 30 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Placerville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Harvest & Howitzer Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20449",
+  "slug": "harvest-howitzer-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "harvest-howitzer-backyard-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=20449"
+  },
+  "start": {
+    "lat": 38.82,
+    "lon": -120.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20449"
+}

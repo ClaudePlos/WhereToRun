@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Thelma and Louise Marathon and Half is a road race. Location: Moab, United States. Date: Saturday, 24 April 2027. Distances: u50k, 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Moab, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Thelma and Louise Marathon and Half to bieg uliczny. Lokalizacja: Moab, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Moab, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Thelma and Louise Marathon and Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7984",
+  "slug": "thelma-and-louise-marathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "thelma-and-louise-marathon-and-half-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=7984"
+  },
+  "start": {
+    "lat": 38.42,
+    "lon": -109.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=7984"
+}

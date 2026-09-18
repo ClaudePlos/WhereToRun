@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Great Allegheny Ohiopyle Marathon Race Festival: Marathon, Half Marathon, 10K and 5K is a road race. Location: Ohiopyle, United States. Date: Saturday, 1 May 2027. Distances: 42.2 km, 21.1 km, 5 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ohiopyle, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Great Allegheny Ohiopyle Marathon Race Festival: Marathon, Half Marathon, 10K and 5K to bieg uliczny. Lokalizacja: Ohiopyle, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ohiopyle, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T17:05:45.373Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ohiopyle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Great Allegheny Ohiopyle Marathon Race Festival: Marathon, Half Marathon, 10K and 5K",
+  "registrationUrl": "https://runsignup.com/Race/PA/Ohiopyle/GreatAlleghenyOhiopyleMarathonRaceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "great-allegheny-ohiopyle-marathon-race-festival-marathon-half-marathon-10k-and-5",
+  "source": {
+    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "id": "runraceusa",
+    "ref": "great-allegheny-ohiopyle-marathon-race-festival-marathon-half",
+    "url": "https://runsignup.com/Race/PA/Ohiopyle/GreatAlleghenyOhiopyleMarathonRaceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.85,
+    "lon": -79.52,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "website": "https://runsignup.com/Race/PA/Ohiopyle/GreatAlleghenyOhiopyleMarathonRaceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
