@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Great Woods Marathon & 5k is a road race. Location: Mansfield, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mansfield, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Great Woods Marathon & 5k to bieg uliczny. Lokalizacja: Mansfield, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mansfield, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mansfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Great Woods Marathon & 5k",
+  "registrationUrl": "https://runsignup.com/Race/MA/Mansfield/GreatWoodsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "great-woods-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "great-woods-marathon-5k-ma",
+    "url": "https://runsignup.com/Race/MA/Mansfield/GreatWoodsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.02,
+    "lon": -71.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/MA/Mansfield/GreatWoodsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Garmin Olathe Marathon, Half Marathon and 10K in the land of Oz is a road race. Location: Olathe, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Olathe, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Garmin Olathe Marathon, Half Marathon and 10K in the land of Oz to bieg uliczny. Lokalizacja: Olathe, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Olathe, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Olathe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Garmin Olathe Marathon, Half Marathon and 10K in the land of Oz",
+  "registrationUrl": "https://runsignup.com/Race/KS/Olathe/GarminOlatheMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "garmin-olathe-marathon-half-marathon-and-10k-in-the-land-of-oz-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "garmin-olathe-marathon-half-marathon-and-10k-in-the-land-of-oz-ks",
+    "url": "https://runsignup.com/Race/KS/Olathe/GarminOlatheMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.87,
+    "lon": -94.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/KS/Olathe/GarminOlatheMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

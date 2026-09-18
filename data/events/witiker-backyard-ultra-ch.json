@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Witiker Backyard Ultra is a ultramarathon. Location: Zürich, Switzerland. Date: Thursday, 6 May 2027. Distances: 44 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zürich, Switzerland, Thursday, 6 May 2027"
+    },
+    "pl": {
+      "description": "Witiker Backyard Ultra to ultramaraton. Lokalizacja: Zürich, Szwajcaria. Termin: czwartek, 6 maja 2027. Dystanse: 44 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zürich, Szwajcaria, czwartek, 6 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-05-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "44 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Witiker Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "witiker-backyard-ultra-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "134709",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134709"
+  },
+  "start": {
+    "lat": 47.374449,
+    "lon": 8.541042,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

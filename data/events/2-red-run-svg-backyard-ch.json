@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2. Red Run SVG Backyard is a ultramarathon. Location: Rossa, Switzerland. Date: Saturday, 19 September 2026. Distances: 8 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Rossa, Switzerland, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "2. Red Run SVG Backyard to ultramaraton. Lokalizacja: Rossa, Szwajcaria. Termin: sobota, 19 września 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Rossa, Szwajcaria, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rossa",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "2. Red Run SVG Backyard",
+  "registrationUrl": null,
+  "slug": "2-red-run-svg-backyard-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "135845",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135845"
+  },
+  "start": {
+    "lat": 46.373415,
+    "lon": 9.12655,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

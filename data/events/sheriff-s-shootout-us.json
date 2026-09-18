@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sheriff's Shootout is a road race. Location: Mancos, United States. Date: Saturday, 7 November 2026. Distances: 12 Hour Jail Break, 12 Hour Team Jail Break, 6 Hour Team Pursuit, 6 Hour Pursuit. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mancos, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Sheriff's Shootout to bieg uliczny. Lokalizacja: Mancos, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 12 Hour Jail Break, 12 Hour Team Jail Break, 6 Hour Team Pursuit, 6 Hour Pursuit. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mancos, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 Hour Jail Break",
+    "12 Hour Team Jail Break",
+    "6 Hour Team Pursuit",
+    "6 Hour Pursuit"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mancos",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Sheriff's Shootout",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68698",
+  "slug": "sheriff-s-shootout-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "19373",
+    "url": "https://ultrasignup.com/register.aspx?did=68698"
+  },
+  "start": {
+    "lat": 37.4145,
+    "lon": -108.419,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://www.doloresbikehostel.com/sheriffsshootout"
+}

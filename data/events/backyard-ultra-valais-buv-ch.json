@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra Valais (BUV) is a ultramarathon. Location: Ardon, Switzerland. Date: 17 October 2026 – 19 October 2026. Distances: 48 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ardon, Switzerland, 17 October 2026 – 19 October 2026"
+    },
+    "pl": {
+      "description": "Backyard Ultra Valais (BUV) to ultramaraton. Lokalizacja: Ardon, Szwajcaria. Termin: 17 października 2026 – 19 października 2026. Dystanse: 48 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ardon, Szwajcaria, 17 października 2026 – 19 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-03-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 h"
+  ],
+  "endDate": "2027-03-28",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ardon",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Backyard Ultra Valais (BUV)",
+  "registrationUrl": null,
+  "slug": "backyard-ultra-valais-buv-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "131414",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131414"
+  },
+  "start": {
+    "lat": 46.210498,
+    "lon": 7.257611,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

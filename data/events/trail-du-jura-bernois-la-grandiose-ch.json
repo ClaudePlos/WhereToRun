@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail du Jura Bernois - La Grandiose is a ultramarathon. Location: Tramelan, Switzerland. Date: Saturday, 26 September 2026. Distances: 66 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tramelan, Switzerland, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Trail du Jura Bernois - La Grandiose to ultramaraton. Lokalizacja: Tramelan, Szwajcaria. Termin: sobota, 26 września 2026. Dystanse: 66 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tramelan, Szwajcaria, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "66 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tramelan",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail du Jura Bernois - La Grandiose",
+  "registrationUrl": null,
+  "slug": "trail-du-jura-bernois-la-grandiose-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "134722",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134722"
+  },
+  "start": {
+    "lat": 47.223677,
+    "lon": 7.103022,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rise Up Hero Trail Runs at Settlers Cabin Park - 50K, 25K, 8miler, 5K - A Last Trail Standing Event is a trail race. Location: Pittsburgh, United States. Date: Sunday, 18 April 2027. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pittsburgh, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Rise Up Hero Trail Runs at Settlers Cabin Park - 50K, 25K, 8miler, 5K - A Last Trail Standing Event to bieg trailowy. Lokalizacja: Pittsburgh, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pittsburgh, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pittsburgh",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Rise Up Hero Trail Runs at Settlers Cabin Park - 50K, 25K, 8miler, 5K - A Last Trail Standing Event",
+  "registrationUrl": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStandingRiseUpHero?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rise-up-hero-trail-runs-at-settlers-cabin-park-50k-25k-8miler-5k-a-last-trail-st",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "rise-up-hero-trail-runs-at-settlers-cabin-park-50k-25k-8miler-5k-a",
+    "url": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStandingRiseUpHero?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.43,
+    "lon": -80.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/PA/Pittsburgh/LastTrailStandingRiseUpHero?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

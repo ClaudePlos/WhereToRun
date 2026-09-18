@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Solstice Ultra is a ultramarathon. Location: Bern, Switzerland. Date: Saturday, 19 December 2026. Distances: 8:25h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bern, Switzerland, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Solstice Ultra to ultramaraton. Lokalizacja: Bern, Szwajcaria. Termin: sobota, 19 grudnia 2026. Dystanse: 8:25h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bern, Szwajcaria, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8:25h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bern",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Solstice Ultra",
+  "registrationUrl": null,
+  "slug": "solstice-ultra-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "133192",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133192"
+  },
+  "start": {
+    "lat": 46.948474,
+    "lon": 7.452175,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

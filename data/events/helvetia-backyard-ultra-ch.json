@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Helvetia Backyard Ultra is a ultramarathon. Location: Oberwil-Lieli, Switzerland. Date: Friday, 2 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Oberwil-Lieli, Switzerland, Friday, 2 October 2026"
+    },
+    "pl": {
+      "description": "Helvetia Backyard Ultra to ultramaraton. Lokalizacja: Oberwil-Lieli, Szwajcaria. Termin: piątek, 2 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Oberwil-Lieli, Szwajcaria, piątek, 2 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oberwil-Lieli",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Helvetia Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "helvetia-backyard-ultra-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "123095",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123095"
+  },
+  "start": {
+    "lat": 47.333899,
+    "lon": 8.38435,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

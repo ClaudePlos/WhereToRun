@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "7. Rundweg Winterthur Ultra is a ultramarathon. Location: Brütten, Switzerland. Date: Saturday, 3 October 2026. Distances: 61 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Brütten, Switzerland, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "7. Rundweg Winterthur Ultra to ultramaraton. Lokalizacja: Brütten, Szwajcaria. Termin: sobota, 3 października 2026. Dystanse: 61 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Brütten, Szwajcaria, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "61 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brütten",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "7. Rundweg Winterthur Ultra",
+  "registrationUrl": null,
+  "slug": "7-rundweg-winterthur-ultra-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "128330",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128330"
+  },
+  "start": {
+    "lat": 47.473149,
+    "lon": 8.675324,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

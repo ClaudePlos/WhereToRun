@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bergweg 100 is a ultramarathon. Location: Zürich, Switzerland. Date: 26 September 2026 – 27 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zürich, Switzerland, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Bergweg 100 to ultramaraton. Lokalizacja: Zürich, Szwajcaria. Termin: 26 września 2026 – 27 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zürich, Szwajcaria, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bergweg 100",
+  "registrationUrl": null,
+  "slug": "bergweg-100-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "134711",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134711"
+  },
+  "start": {
+    "lat": 47.374449,
+    "lon": 8.541042,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

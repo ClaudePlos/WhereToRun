@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T12:45:22.898Z",
-  "date": "2026-10-04",
+  "date": "2026-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "12 h"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "nesbyen-backyard-no",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:44.359Z",
+    "fetchedAt": "2026-09-18T11:27:06.945Z",
     "id": "duv",
-    "ref": "130818",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130818"
+    "ref": "130626",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130626"
   },
   "start": {
     "lat": 60.546824,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
   "website": null
 }

@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Liberty's Lost Treasure is a ultramarathon. Location: Guthrie, United States. Date: Saturday, 7 November 2026. Distances: 50 km, 50K Ruck, 25K Ruck, 25 km, 12.5 km, 12.5K Ruck, 5K Ruck, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Guthrie, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Liberty's Lost Treasure to ultramaraton. Lokalizacja: Guthrie, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 50 km, 50K Ruck, 25K Ruck, 25 km, 12.5 km, 12.5K Ruck, 5K Ruck, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Guthrie, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "50K Ruck",
+    "25K Ruck",
+    "25 km",
+    "12.5 km",
+    "12.5K Ruck",
+    "5K Ruck",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Guthrie",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Liberty's Lost Treasure",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64753",
+  "slug": "liberty-s-lost-treasure-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "18456",
+    "url": "https://ultrasignup.com/register.aspx?did=64753"
+  },
+  "start": {
+    "lat": 35.8789,
+    "lon": -97.4253,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://www.outlaw100.com"
+}

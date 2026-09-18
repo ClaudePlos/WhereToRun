@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Veterans' Honor Run: 22 Hours of Tribute is a road race. Location: Canton, United States. Date: 7 November 2026 – 8 November 2026. Distances: Virtual 22 Hour Ultra, 22 Hour Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Canton, United States, 7 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "Veterans' Honor Run: 22 Hours of Tribute to bieg uliczny. Lokalizacja: Canton, Stany Zjednoczone. Termin: 7 listopada 2026 – 8 listopada 2026. Dystanse: Virtual 22 Hour Ultra, 22 Hour Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Canton, Stany Zjednoczone, 7 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Virtual 22 Hour Ultra",
+    "22 Hour Ultra"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Veterans' Honor Run: 22 Hours of Tribute",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66785",
+  "slug": "veterans-honor-run-22-hours-of-tribute-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "17952",
+    "url": "https://ultrasignup.com/register.aspx?did=66785"
+  },
+  "start": {
+    "lat": 42.2991,
+    "lon": -83.491,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://everyoneneedsasteve.org/veterans-honor-run/"
+}

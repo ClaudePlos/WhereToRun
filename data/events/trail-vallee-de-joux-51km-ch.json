@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail Vallée de Joux 51km is a ultramarathon. Location: L'Abbaye, Switzerland. Date: Sunday, 11 October 2026. Distances: 58 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — L'Abbaye, Switzerland, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Trail Vallée de Joux 51km to ultramaraton. Lokalizacja: L'Abbaye, Szwajcaria. Termin: niedziela, 11 października 2026. Dystanse: 58 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — L'Abbaye, Szwajcaria, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "58 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "L'Abbaye",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail Vallée de Joux 51km",
+  "registrationUrl": null,
+  "slug": "trail-vallee-de-joux-51km-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "123893",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123893"
+  },
+  "start": {
+    "lat": 46.649272,
+    "lon": 6.318617,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

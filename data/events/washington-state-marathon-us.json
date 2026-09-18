@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Washington State Marathon is a road race. Location: Redmond, United States. Date: Sunday, 18 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Redmond, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Washington State Marathon to bieg uliczny. Lokalizacja: Redmond, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Redmond, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Redmond",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Washington State Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Redmond/WashingtonStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "washington-state-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "washington-state-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Redmond/WashingtonStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.67,
+    "lon": -122.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/WA/Redmond/WashingtonStateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

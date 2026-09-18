@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "24-Stundenlauf Aare-Insel Brugg is a ultramarathon. Location: Brugg, Switzerland. Date: Saturday, 24 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Brugg, Switzerland, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "24-Stundenlauf Aare-Insel Brugg to ultramaraton. Lokalizacja: Brugg, Szwajcaria. Termin: sobota, 24 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Brugg, Szwajcaria, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brugg",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "24-Stundenlauf Aare-Insel Brugg",
+  "registrationUrl": null,
+  "slug": "24-stundenlauf-aare-insel-brugg-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "131429",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131429"
+  },
+  "start": {
+    "lat": 47.482463,
+    "lon": 8.208566,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

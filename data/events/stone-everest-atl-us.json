@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Stone Everest ATL is a road race. Location: Stone Mountain, United States. Date: Saturday, 7 November 2026. Distances: 36 Ascents, 36 Ascents Relay, 21 Ascents. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stone Mountain, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Stone Everest ATL to bieg uliczny. Lokalizacja: Stone Mountain, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 36 Ascents, 36 Ascents Relay, 21 Ascents. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stone Mountain, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "36 Ascents",
+    "36 Ascents Relay",
+    "21 Ascents"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stone Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Stone Everest ATL",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67065",
+  "slug": "stone-everest-atl-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "19333",
+    "url": "https://ultrasignup.com/register.aspx?did=67065"
+  },
+  "start": {
+    "lat": 33.8106,
+    "lon": -84.1622,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://www.facebook.com/profile.php?id=61579908140722"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountains 2 Beach Marathon and Half is a trail race. Location: Ventura, United States. Date: Sunday, 18 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ventura, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Mountains 2 Beach Marathon and Half to bieg trailowy. Lokalizacja: Ventura, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ventura, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ventura",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mountains 2 Beach Marathon and Half",
+  "registrationUrl": "https://runsignup.com/Race/CA/Ventura/Mountains2BeachMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mountains-2-beach-marathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "mountains-2-beach-marathon-and-half-ca",
+    "url": "https://runsignup.com/Race/CA/Ventura/Mountains2BeachMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.33,
+    "lon": -119.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/CA/Ventura/Mountains2BeachMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

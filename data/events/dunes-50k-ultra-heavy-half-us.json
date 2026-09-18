@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Dunes 50K Ultra & Heavy Half is a ultramarathon. Location: Hobe Sound, United States. Date: Saturday, 24 April 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hobe Sound, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Dunes 50K Ultra & Heavy Half to ultramaraton. Lokalizacja: Hobe Sound, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hobe Sound, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hobe Sound",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Dunes 50K Ultra & Heavy Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5732",
+  "slug": "dunes-50k-ultra-heavy-half-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "dunes-50k-ultra-heavy-half-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=5732"
+  },
+  "start": {
+    "lat": 27,
+    "lon": -80.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5732"
+}

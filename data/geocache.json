@@ -467,6 +467,66 @@
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CH|ardon": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 46.2104977,
+    "lon": 7.2576107,
+    "name": "Ardon, Conthey, Valais central, Valais/Wallis, 1957, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|bern": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 46.9484742,
+    "lon": 7.4521749,
+    "name": "Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|brugg": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.4824633,
+    "lon": 8.2085662,
+    "name": "Brugg, Bezirk Brugg, Aargau, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|brütten": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.4731491,
+    "lon": 8.6753241,
+    "name": "Brütten, Bezirk Winterthur, Zürich, 8311, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|ettingen": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.4816164,
+    "lon": 7.5441378,
+    "name": "Ettingen, Bezirk Arlesheim, Basel-Landschaft, 4107, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|l'abbaye": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 46.6492716,
+    "lon": 6.3186169,
+    "name": "L'Abbaye, District du Jura-Nord vaudois, Vaud, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|oberwil-lieli": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.3338992,
+    "lon": 8.3843501,
+    "name": "Oberwil-Lieli, Bezirk Bremgarten, Aargau, 8966, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|rossa": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 46.3734148,
+    "lon": 9.12655,
+    "name": "Rossa, Moesa, Graubünden/Grischun/Grigioni, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|tramelan": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.223677,
+    "lon": 7.1030216,
+    "name": "Tramelan, Arrondissement administratif du Jura bernois, Région administrative du Jura bernois, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|zürich": {
+    "at": "2026-09-18T11:26:42.874Z",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "name": "Zürich, Bezirk Zürich, Zürich, Schweiz/Suisse/Svizzera/Svizra"
+  },
   "CL|chillan, nuble": {
     "at": "2026-09-17T22:50:40.759Z"
   },

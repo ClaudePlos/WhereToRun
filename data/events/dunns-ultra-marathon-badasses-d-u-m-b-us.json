@@ -13,10 +13,15 @@
   "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50k",
-    "other"
+    "160.9 km",
+    "100 km",
+    "100k Ruck",
+    "35 Miles Ruck",
+    "56.3 km",
+    "19.3 km",
+    "12 Miles Ruck",
+    "8k Ruck",
+    "8k Sunday"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +35,25 @@
   },
   "manual": false,
   "name": "Dunns Ultra Marathon Badasses - D.U.M.B.",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20180",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66020",
   "slug": "dunns-ultra-marathon-badasses-d-u-m-b-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
-    "id": "runraceusa",
-    "ref": "dunns-ultra-marathon-badasses-d-u-m-b-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=20180"
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "20180",
+    "url": "https://ultrasignup.com/register.aspx?did=66020"
   },
   "start": {
-    "lat": 29.53,
-    "lon": -81.59,
+    "lat": 29.5257,
+    "lon": -81.5891,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20180"
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://sombrerorunning.com/events"
 }

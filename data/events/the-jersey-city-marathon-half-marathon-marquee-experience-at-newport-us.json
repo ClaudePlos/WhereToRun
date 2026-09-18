@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Jersey City Marathon & Half Marathon Marquee Experience at Newport is a road race. Location: Jersey City, United States. Date: Sunday, 18 April 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Jersey City, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "The Jersey City Marathon & Half Marathon Marquee Experience at Newport to bieg uliczny. Lokalizacja: Jersey City, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Jersey City, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jersey City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "The Jersey City Marathon & Half Marathon Marquee Experience at Newport",
+  "registrationUrl": "https://runsignup.com/Race/NJ/JerseyCity/TheJerseyCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-jersey-city-marathon-half-marathon-marquee-experience-at-newport-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "the-jersey-city-marathon-half-marathon-marquee-experience-at-newport",
+    "url": "https://runsignup.com/Race/NJ/JerseyCity/TheJerseyCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.73,
+    "lon": -74.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/NJ/JerseyCity/TheJerseyCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

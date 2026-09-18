@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Elm Creek Backyard Ultra is a ultramarathon. Location: Maple Grove, United States. Date: Friday, 23 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Maple Grove, United States, Friday, 23 April 2027"
+    },
+    "pl": {
+      "description": "Elm Creek Backyard Ultra to ultramaraton. Lokalizacja: Maple Grove, Stany Zjednoczone. Termin: piątek, 23 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Maple Grove, Stany Zjednoczone, piątek, 23 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Maple Grove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Elm Creek Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14277",
+  "slug": "elm-creek-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "elm-creek-backyard-ultra-mn",
+    "url": "https://ultrasignup.com/register.aspx?eid=14277"
+  },
+  "start": {
+    "lat": 45.14,
+    "lon": -93.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14277"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Lewis & Clark Marathon, 1/2 Marathon, 5k and 1-Mile Fun Run is a road race. Location: Council Bluffs, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Council Bluffs, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Lewis & Clark Marathon, 1/2 Marathon, 5k and 1-Mile Fun Run to bieg uliczny. Lokalizacja: Council Bluffs, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Council Bluffs, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Council Bluffs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Lewis & Clark Marathon, 1/2 Marathon, 5k and 1-Mile Fun Run",
+  "registrationUrl": "https://runsignup.com/Race/IA/CouncilBluffs/LewisClarkMarathonMarathon5kAndMileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lewis-clark-marathon-1-2-marathon-5k-and-1-mile-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "lewis-clark-marathon-1-2-marathon-5k-and-1-mile-fun-run-ia",
+    "url": "https://runsignup.com/Race/IA/CouncilBluffs/LewisClarkMarathonMarathon5kAndMileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.23,
+    "lon": -95.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/IA/CouncilBluffs/LewisClarkMarathonMarathon5kAndMileFunRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "ROCKAWAY BEACH SPRING MARATHON, HALF MARATHON & 5K is a road race. Location: ROCKAWAY BEACH, United States. Date: Saturday, 17 April 2027. Distances: 21.1 km, 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — ROCKAWAY BEACH, United States, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "ROCKAWAY BEACH SPRING MARATHON, HALF MARATHON & 5K to bieg uliczny. Lokalizacja: ROCKAWAY BEACH, Stany Zjednoczone. Termin: sobota, 17 kwietnia 2027. Dystanse: 21.1 km, 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — ROCKAWAY BEACH, Stany Zjednoczone, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "ROCKAWAY BEACH",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "ROCKAWAY BEACH SPRING MARATHON, HALF MARATHON & 5K",
+  "registrationUrl": "https://runsignup.com/Race/NY/ROCKAWAYBEACH/SPRINGHALFMARATHONOR5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rockaway-beach-spring-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "rockaway-beach-spring-marathon-half-marathon-5k-ny",
+    "url": "https://runsignup.com/Race/NY/ROCKAWAYBEACH/SPRINGHALFMARATHONOR5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.61,
+    "lon": -73.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/NY/ROCKAWAYBEACH/SPRINGHALFMARATHONOR5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

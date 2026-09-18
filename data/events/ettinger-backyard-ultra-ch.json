@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ettinger Backyard Ultra is a ultramarathon. Location: Ettingen, Switzerland. Date: Saturday, 19 September 2026. Distances: 28 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ettingen, Switzerland, Saturday, 19 September 2026"
+    },
+    "pl": {
+      "description": "Ettinger Backyard Ultra to ultramaraton. Lokalizacja: Ettingen, Szwajcaria. Termin: sobota, 19 września 2026. Dystanse: 28 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ettingen, Szwajcaria, sobota, 19 września 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-09-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "28 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ettingen",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ettinger Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "ettinger-backyard-ultra-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "129922",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129922"
+  },
+  "start": {
+    "lat": 47.481616,
+    "lon": 7.544138,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}

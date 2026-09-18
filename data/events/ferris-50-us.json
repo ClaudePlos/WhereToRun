@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Ferris 50 is a ultramarathon. Location: Minden, United States. Date: Saturday, 7 November 2026. Distances: 80.5 km, 50 km, 15 km, 1.5k Kids Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Minden, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Ferris 50 to ultramaraton. Lokalizacja: Minden, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 80.5 km, 50 km, 15 km, 1.5k Kids Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Minden, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "15 km",
+    "1.5k Kids Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Ferris 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64282",
+  "slug": "ferris-50-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:50.379Z",
+    "id": "ultrasignup",
+    "ref": "18816",
+    "url": "https://ultrasignup.com/register.aspx?did=64282"
+  },
+  "start": {
+    "lat": 38.9048,
+    "lon": -119.677,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://visitcarsonvalley.org/ferris-fifty-endurance-run/"
+}

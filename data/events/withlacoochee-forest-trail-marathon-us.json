@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Withlacoochee Forest Trail Marathon is a trail race. Location: Hernando, United States. Date: Sunday, 18 April 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Hernando, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Withlacoochee Forest Trail Marathon to bieg trailowy. Lokalizacja: Hernando, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Hernando, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hernando",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Withlacoochee Forest Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/FL/Hernando/WithlacoocheeRiverRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "withlacoochee-forest-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-18T11:26:51.760Z",
+    "id": "runraceusa",
+    "ref": "withlacoochee-forest-trail-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/Hernando/WithlacoocheeRiverRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.92,
+    "lon": -82.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": "https://runsignup.com/Race/FL/Hernando/WithlacoocheeRiverRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

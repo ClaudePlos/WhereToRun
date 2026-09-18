@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Uetliberg Everesting 4424 Basecamp is a ultramarathon. Location: Zürich, Switzerland. Date: 3 October 2026 – 4 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zürich, Switzerland, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Uetliberg Everesting 4424 Basecamp to ultramaraton. Lokalizacja: Zürich, Szwajcaria. Termin: 3 października 2026 – 4 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zürich, Szwajcaria, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-18T11:26:42.874Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Uetliberg Everesting 4424 Basecamp",
+  "registrationUrl": null,
+  "slug": "uetliberg-everesting-4424-basecamp-ch",
+  "source": {
+    "fetchedAt": "2026-09-18T11:27:06.944Z",
+    "id": "duv",
+    "ref": "132668",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132668"
+  },
+  "start": {
+    "lat": 47.374449,
+    "lon": 8.541042,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T11:26:42.874Z",
+  "website": null
+}
