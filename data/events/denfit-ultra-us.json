@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "DENFIT ULTRA is a ultramarathon. Location: Cape Vincent, United States. Date: Sunday, 9 May 2027. Distances: u50k, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cape Vincent, United States, Sunday, 9 May 2027"
+    },
+    "pl": {
+      "description": "DENFIT ULTRA to ultramaraton. Lokalizacja: Cape Vincent, Stany Zjednoczone. Termin: niedziela, 9 maja 2027. Dystanse: u50k, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cape Vincent, Stany Zjednoczone, niedziela, 9 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cape Vincent",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "DENFIT ULTRA",
+  "registrationUrl": "https://runsignup.com/Race/NY/CapeVincent/DENFITULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "denfit-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "denfit-ultra-ny",
+    "url": "https://runsignup.com/Race/NY/CapeVincent/DENFITULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.12,
+    "lon": -76.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/NY/CapeVincent/DENFITULTRA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

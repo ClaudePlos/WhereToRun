@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Chicagoland Spring Marathon, Half Marathon & 10K is a road race. Location: Schaumburg, United States. Date: Sunday, 2 May 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Schaumburg, United States, Sunday, 2 May 2027"
+    },
+    "pl": {
+      "description": "Chicagoland Spring Marathon, Half Marathon & 10K to bieg uliczny. Lokalizacja: Schaumburg, Stany Zjednoczone. Termin: niedziela, 2 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Schaumburg, Stany Zjednoczone, niedziela, 2 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Schaumburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Chicagoland Spring Marathon, Half Marathon & 10K",
+  "registrationUrl": "https://runsignup.com/Race/IL/Schaumburg/ChicagolandSpringMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "chicagoland-spring-marathon-half-marathon-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "chicagoland-spring-marathon-half-marathon-10k-il",
+    "url": "https://runsignup.com/Race/IL/Schaumburg/ChicagolandSpringMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.06,
+    "lon": -88.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/IL/Schaumburg/ChicagolandSpringMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

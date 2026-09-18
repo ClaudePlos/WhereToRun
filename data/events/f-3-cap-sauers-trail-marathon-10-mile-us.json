@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "F^3 Cap Sauers Trail Marathon & 10 Mile is a trail race. Location: Palos Hills, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Palos Hills, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "F^3 Cap Sauers Trail Marathon & 10 Mile to bieg trailowy. Lokalizacja: Palos Hills, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Palos Hills, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palos Hills",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "F^3 Cap Sauers Trail Marathon & 10 Mile",
+  "registrationUrl": "https://runsignup.com/Race/IL/PalosHills/F3TrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "f-3-cap-sauers-trail-marathon-10-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "f-3-cap-sauers-trail-marathon-10-mile-il",
+    "url": "https://runsignup.com/Race/IL/PalosHills/F3TrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.7,
+    "lon": -87.83,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/IL/PalosHills/F3TrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

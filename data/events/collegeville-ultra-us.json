@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Collegeville Ultra is a ultramarathon. Location: Collegeville, United States. Date: Sunday, 2 May 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Collegeville, United States, Sunday, 2 May 2027"
+    },
+    "pl": {
+      "description": "Collegeville Ultra to ultramaraton. Lokalizacja: Collegeville, Stany Zjednoczone. Termin: niedziela, 2 maja 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Collegeville, Stany Zjednoczone, niedziela, 2 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Collegeville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Collegeville Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20121",
+  "slug": "collegeville-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "collegeville-ultra-mn",
+    "url": "https://ultrasignup.com/register.aspx?eid=20121"
+  },
+  "start": {
+    "lat": 45.59,
+    "lon": -94.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20121"
+}

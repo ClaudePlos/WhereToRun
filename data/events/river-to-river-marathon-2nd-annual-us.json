@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "River to River Marathon (2nd Annual) is a road race. Location: Louisiana, United States. Date: Saturday, 1 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Louisiana, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "River to River Marathon (2nd Annual) to bieg uliczny. Lokalizacja: Louisiana, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Louisiana, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Louisiana",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "River to River Marathon (2nd Annual)",
+  "registrationUrl": "https://runsignup.com/Race/IL/Louisiana/RiverToRiverMarathonNdAnnual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "river-to-river-marathon-2nd-annual-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "river-to-river-marathon-2nd-annual-il",
+    "url": "https://runsignup.com/Race/IL/Louisiana/RiverToRiverMarathonNdAnnual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.43,
+    "lon": -91.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/IL/Louisiana/RiverToRiverMarathonNdAnnual?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

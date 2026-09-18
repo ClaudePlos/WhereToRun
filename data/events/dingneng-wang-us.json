@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dingneng Wang is a road race. Location: San Diego, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Diego, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Dingneng Wang to bieg uliczny. Lokalizacja: San Diego, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Diego, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Dingneng Wang",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8642",
+  "slug": "dingneng-wang-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "dingneng-wang-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=8642"
+  },
+  "start": {
+    "lat": 32.94,
+    "lon": -117.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8642"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Wild West Marathon & Ultra is a ultramarathon. Location: Lone Pine, United States. Date: Saturday, 1 May 2027. Distances: u50m, u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lone Pine, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Wild Wild West Marathon & Ultra to ultramaraton. Lokalizacja: Lone Pine, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: u50m, u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lone Pine, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lone Pine",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Wild Wild West Marathon & Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=179",
+  "slug": "wild-wild-west-marathon-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "wild-wild-west-marathon-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=179"
+  },
+  "start": {
+    "lat": 36.56,
+    "lon": -118.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=179"
+}

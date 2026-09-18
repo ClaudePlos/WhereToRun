@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 500 Festival Running Events is a road race. Location: Indianapolis, United States. Date: Saturday, 8 May 2027. Distances: 21.1 km, 5 km, other, u50k, 10 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Indianapolis, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "2027 500 Festival Running Events to bieg uliczny. Lokalizacja: Indianapolis, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 21.1 km, 5 km, other, u50k, 10 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Indianapolis, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "other",
+    "u50k",
+    "10 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Indianapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "2027 500 Festival Running Events",
+  "registrationUrl": "https://raceroster.com/events/2027/118159/2027-500-festival-running-events",
+  "slug": "2027-500-festival-running-events-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "2027-500-festival-running-events-in",
+    "url": "https://raceroster.com/events/2027/118159/2027-500-festival-running-events"
+  },
+  "start": {
+    "lat": 39.77,
+    "lon": -86.15,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://raceroster.com/events/2027/118159/2027-500-festival-running-events"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TutHell 50K is a road race. Location: Sioux Falls, United States. Date: Saturday, 1 May 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sioux Falls, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "TutHell 50K to bieg uliczny. Lokalizacja: Sioux Falls, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sioux Falls, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sioux Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "TutHell 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18334",
+  "slug": "tuthell-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "tuthell-50k-sd",
+    "url": "https://ultrasignup.com/register.aspx?eid=18334"
+  },
+  "start": {
+    "lat": 43.51,
+    "lon": -96.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18334"
+}

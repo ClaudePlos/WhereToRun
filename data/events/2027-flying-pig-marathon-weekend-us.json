@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Flying Pig Marathon Weekend is a road race. Location: Cincinnati, United States. Date: Sunday, 2 May 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Cincinnati, United States, Sunday, 2 May 2027"
+    },
+    "pl": {
+      "description": "2027 Flying Pig Marathon Weekend to bieg uliczny. Lokalizacja: Cincinnati, Stany Zjednoczone. Termin: niedziela, 2 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Cincinnati, Stany Zjednoczone, niedziela, 2 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cincinnati",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "2027 Flying Pig Marathon Weekend",
+  "registrationUrl": "https://raceroster.com/events/2027/107466/2027-flying-pig-marathon-weekend",
+  "slug": "2027-flying-pig-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "2027-flying-pig-marathon-weekend-oh",
+    "url": "https://raceroster.com/events/2027/107466/2027-flying-pig-marathon-weekend"
+  },
+  "start": {
+    "lat": 39.1668,
+    "lon": -84.5382,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://raceroster.com/events/2027/107466/2027-flying-pig-marathon-weekend"
+}

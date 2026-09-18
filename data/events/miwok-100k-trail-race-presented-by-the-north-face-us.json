@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Miwok 100K Trail Race presented by The North Face is a trail race. Location: Stinson Beach, United States. Date: Saturday, 1 May 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Stinson Beach, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Miwok 100K Trail Race presented by The North Face to bieg trailowy. Lokalizacja: Stinson Beach, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Stinson Beach, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stinson Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Miwok 100K Trail Race presented by The North Face",
+  "registrationUrl": "https://runsignup.com/Race/CA/StinsonBeach/Miwok100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "miwok-100k-trail-race-presented-by-the-north-face-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "miwok-100k-trail-race-presented-by-the-north-face-ca",
+    "url": "https://runsignup.com/Race/CA/StinsonBeach/Miwok100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.9,
+    "lon": -122.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/CA/StinsonBeach/Miwok100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

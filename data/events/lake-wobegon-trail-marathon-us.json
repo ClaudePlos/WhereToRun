@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Wobegon Trail Marathon is a trail race. Location: Holdingford, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Holdingford, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Lake Wobegon Trail Marathon to bieg trailowy. Lokalizacja: Holdingford, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Holdingford, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holdingford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Lake Wobegon Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lake-wobegon-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "lake-wobegon-trail-marathon-mn",
+    "url": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.72,
+    "lon": -94.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

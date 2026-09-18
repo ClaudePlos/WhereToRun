@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Providence Rhode Races is a road race. Location: East Providence, United States. Date: Sunday, 2 May 2027. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — East Providence, United States, Sunday, 2 May 2027"
+    },
+    "pl": {
+      "description": "Providence Rhode Races to bieg uliczny. Lokalizacja: East Providence, Stany Zjednoczone. Termin: niedziela, 2 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — East Providence, Stany Zjednoczone, niedziela, 2 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-18T22:33:43.053Z",
+  "date": "2027-05-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "East Providence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "RI"
+  },
+  "manual": false,
+  "name": "Providence Rhode Races",
+  "registrationUrl": "https://runsignup.com/Race/RI/EastProvidence/ProvidenceRhodeRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "providence-rhode-races-us",
+  "source": {
+    "fetchedAt": "2026-09-18T22:33:50.689Z",
+    "id": "runraceusa",
+    "ref": "providence-rhode-races-ri",
+    "url": "https://runsignup.com/Race/RI/EastProvidence/ProvidenceRhodeRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.81,
+    "lon": -71.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-18T22:33:43.053Z",
+  "website": "https://runsignup.com/Race/RI/EastProvidence/ProvidenceRhodeRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
