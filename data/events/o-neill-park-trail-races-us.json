@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "O'Neill Park Trail Races is a trail race. Location: Trabuco Canyon, United States. Date: Saturday, 15 May 2027. Distances: u50k, 42.2 km, other, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Trabuco Canyon, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "O'Neill Park Trail Races to bieg trailowy. Lokalizacja: Trabuco Canyon, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u50k, 42.2 km, other, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Trabuco Canyon, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Trabuco Canyon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "O'Neill Park Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15860",
+  "slug": "o-neill-park-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "o-neill-park-trail-races-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=15860"
+  },
+  "start": {
+    "lat": 33.65,
+    "lon": -117.6,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15860"
+}

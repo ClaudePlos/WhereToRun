@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Infinitus is a road race. Location: Ripton, United States. Date: Thursday, 20 May 2027. Distances: 42.2 km, u100p. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ripton, United States, Thursday, 20 May 2027"
+    },
+    "pl": {
+      "description": "Infinitus to bieg uliczny. Lokalizacja: Ripton, Stany Zjednoczone. Termin: czwartek, 20 maja 2027. Dystanse: 42.2 km, u100p. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ripton, Stany Zjednoczone, czwartek, 20 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ripton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "Infinitus",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7996",
+  "slug": "infinitus-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "infinitus-vt",
+    "url": "https://ultrasignup.com/register.aspx?eid=7996"
+  },
+  "start": {
+    "lat": 43.95,
+    "lon": -73.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=7996"
+}

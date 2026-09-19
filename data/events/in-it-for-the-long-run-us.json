@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "In It For The Long Run is a road race. Location: Huntsville, United States. Date: Saturday, 15 May 2027. Distances: ultra, 42.2 km, u50k, u50m, 5 km, 10 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "In It For The Long Run to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: ultra, 42.2 km, u50k, u50m, 5 km, 10 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "u50k",
+    "u50m",
+    "5 km",
+    "10 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "In It For The Long Run",
+  "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/InItForTheLongRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "in-it-for-the-long-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "in-it-for-the-long-run-al",
+    "url": "https://runsignup.com/Race/AL/Huntsville/InItForTheLongRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.71,
+    "lon": -86.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/AL/Huntsville/InItForTheLongRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

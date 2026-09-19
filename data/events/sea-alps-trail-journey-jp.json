@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sea Alps Trail Journey is a ultramarathon. Location: Fudai, Japan. Date: Sunday, 1 November 2026. Distances: 49 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fudai, Japan, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Sea Alps Trail Journey to ultramaraton. Lokalizacja: Fudai, Japonia. Termin: niedziela, 1 listopada 2026. Dystanse: 49 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fudai, Japonia, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "49 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fudai",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sea Alps Trail Journey",
+  "registrationUrl": null,
+  "slug": "sea-alps-trail-journey-jp",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:25.310Z",
+    "id": "duv",
+    "ref": "133078",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133078"
+  },
+  "start": {
+    "lat": 40.005194,
+    "lon": 141.885917,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": null
+}

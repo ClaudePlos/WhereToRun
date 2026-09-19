@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "New River Marathon, Half Marathon & 5K is a road race. Location: Todd, United States. Date: Friday, 14 May 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Todd, United States, Friday, 14 May 2027"
+    },
+    "pl": {
+      "description": "New River Marathon, Half Marathon & 5K to bieg uliczny. Lokalizacja: Todd, Stany Zjednoczone. Termin: piątek, 14 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Todd, Stany Zjednoczone, piątek, 14 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Todd",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "New River Marathon, Half Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/NC/Todd/NewRiverMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "new-river-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "new-river-marathon-half-marathon-5k-nc",
+    "url": "https://runsignup.com/Race/NC/Todd/NewRiverMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.32,
+    "lon": -81.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/NC/Todd/NewRiverMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

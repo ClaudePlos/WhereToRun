@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sri Chinmoy 6-Hour Race - San Diego is a ultramarathon. Location: San Diego, United States. Date: Sunday, 8 November 2026. Distances: 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Diego, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Sri Chinmoy 6-Hour Race - San Diego to ultramaraton. Lokalizacja: San Diego, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Diego, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sri Chinmoy 6-Hour Race - San Diego",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65287",
+  "slug": "sri-chinmoy-6-hour-race-san-diego-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:17.601Z",
+    "id": "ultrasignup",
+    "ref": "16302",
+    "url": "https://ultrasignup.com/register.aspx?did=65287"
+  },
+  "start": {
+    "lat": 32.913,
+    "lon": -117.102,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://us.srichinmoyraces.org/sri-chinmoy-6-hour-race"
+}

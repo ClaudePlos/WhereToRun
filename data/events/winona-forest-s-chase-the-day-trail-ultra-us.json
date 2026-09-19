@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Winona Forest's Chase The Day Trail Ultra is a ultramarathon. Location: Mannsville, United States. Date: Saturday, 15 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mannsville, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Winona Forest's Chase The Day Trail Ultra to ultramaraton. Lokalizacja: Mannsville, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mannsville, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mannsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Winona Forest's Chase The Day Trail Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18245",
+  "slug": "winona-forest-s-chase-the-day-trail-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "winona-forest-s-chase-the-day-trail-ultra-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=18245"
+  },
+  "start": {
+    "lat": 43.71,
+    "lon": -75.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18245"
+}

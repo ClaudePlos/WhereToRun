@@ -1193,6 +1193,9 @@
   "JP|anikoyawatari, kitaakita, akita pref.": {
     "at": "2026-09-05T16:05:51.348Z"
   },
+  "JP|chichibu, saitama pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
+  },
   "JP|chitose city, hokkaido": {
     "at": "2026-09-02T22:37:18.569Z"
   },
@@ -1201,6 +1204,18 @@
   },
   "JP|ehim pref.": {
     "at": "2026-09-05T16:05:51.348Z"
+  },
+  "JP|fudai": {
+    "at": "2026-09-19T11:10:09.619Z",
+    "lat": 40.0051942,
+    "lon": 141.8859169,
+    "name": "普代村, 下閉伊郡, 岩手県, 日本"
+  },
+  "JP|fujioka": {
+    "at": "2026-09-19T11:10:09.619Z",
+    "lat": 36.258633,
+    "lon": 139.0745021,
+    "name": "藤岡市, 群馬県, 日本"
   },
   "JP|gifu pref.": {
     "at": "2026-09-05T16:05:51.348Z"
@@ -1214,8 +1229,14 @@
   "JP|hiratsuka, kanagawa pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|hiroshima pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
+  },
   "JP|hyogo pref.": {
     "at": "2026-09-08T11:27:32.075Z"
+  },
+  "JP|iga, mie pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
   },
   "JP|iki, nagasaki pref.": {
     "at": "2026-09-16T17:38:01.758Z"
@@ -1262,6 +1283,9 @@
   "JP|koriyama, fukushima pref.": {
     "at": "2026-09-02T22:37:18.569Z"
   },
+  "JP|koshu, yamanashi pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
+  },
   "JP|koumi, minamisaku district, nagano pref.": {
     "at": "2026-09-08T11:27:32.075Z"
   },
@@ -1303,6 +1327,9 @@
   },
   "JP|naka, tokushima": {
     "at": "2026-09-16T17:38:01.758Z"
+  },
+  "JP|nakanoto, kashima district, ishikawa pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
   },
   "JP|nakato, manno, kagawa pref": {
     "at": "2026-09-16T22:54:39.061Z"
@@ -1352,11 +1379,20 @@
     "lon": 139.7638947,
     "name": "東京都, 日本"
   },
+  "JP|tottori  pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
+  },
+  "JP|tsuno, kochi pref.": {
+    "at": "2026-09-19T11:10:09.619Z"
+  },
   "JP|tsurugashima  city": {
     "at": "2026-09-16T22:54:39.061Z"
   },
   "JP|yanaizu, fukushima": {
     "at": "2026-09-16T17:38:01.758Z"
+  },
+  "JP|yatsushiro ciy": {
+    "at": "2026-09-19T11:10:09.619Z"
   },
   "JP|yukuhashi, fukuoka pref.": {
     "at": "2026-09-08T11:27:32.075Z"

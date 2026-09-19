@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Vista Lunatics Run is a ultramarathon. Location: Borden, United States. Date: Sunday, 8 November 2026. Distances: 12 h, 6 h, Fun Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Borden, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Lake Vista Lunatics Run to ultramaraton. Lokalizacja: Borden, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: 12 h, 6 h, Fun Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Borden, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6 h",
+    "Fun Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Borden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Lake Vista Lunatics Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64683",
+  "slug": "lake-vista-lunatics-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:17.601Z",
+    "id": "ultrasignup",
+    "ref": "15708",
+    "url": "https://ultrasignup.com/register.aspx?did=64683"
+  },
+  "start": {
+    "lat": 38.4667,
+    "lon": -85.9458,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "http://www.lvl12ultra.com"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "EPIC Marathon and Running Festival is a road race. Location: Green Bay, United States. Date: Sunday, 16 May 2027. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Green Bay, United States, Sunday, 16 May 2027"
+    },
+    "pl": {
+      "description": "EPIC Marathon and Running Festival to bieg uliczny. Lokalizacja: Green Bay, Stany Zjednoczone. Termin: niedziela, 16 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Green Bay, Stany Zjednoczone, niedziela, 16 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Green Bay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "EPIC Marathon and Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/WI/GreenBay/EPICMarathonAndRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "epic-marathon-and-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "epic-marathon-and-running-festival-wi",
+    "url": "https://runsignup.com/Race/WI/GreenBay/EPICMarathonAndRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.5,
+    "lon": -88.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/WI/GreenBay/EPICMarathonAndRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

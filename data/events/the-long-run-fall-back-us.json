@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Long Run - Fall Back is a ultramarathon. Location: Wind Gap, United States. Date: Sunday, 8 November 2026. Distances: 8 km, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wind Gap, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "The Long Run - Fall Back to ultramaraton. Lokalizacja: Wind Gap, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: 8 km, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wind Gap, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 km",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wind Gap",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "The Long Run - Fall Back",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64092",
+  "slug": "the-long-run-fall-back-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:17.601Z",
+    "id": "ultrasignup",
+    "ref": "17142",
+    "url": "https://ultrasignup.com/register.aspx?did=64092"
+  },
+  "start": {
+    "lat": 40.7962,
+    "lon": -75.3138,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://therunningkind.squarespace.com/the-long-run"
+}

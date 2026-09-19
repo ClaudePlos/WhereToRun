@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Timp Trail Marathon and Half is a trail race. Location: Orem, United States. Date: Saturday, 15 May 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Orem, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "The Timp Trail Marathon and Half to bieg trailowy. Lokalizacja: Orem, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Orem, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Orem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "The Timp Trail Marathon and Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2724",
+  "slug": "the-timp-trail-marathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "the-timp-trail-marathon-and-half-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=2724"
+  },
+  "start": {
+    "lat": 40.32,
+    "lon": -111.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2724"
+}

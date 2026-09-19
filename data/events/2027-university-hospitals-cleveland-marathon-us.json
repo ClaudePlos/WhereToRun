@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 University Hospitals Cleveland Marathon is a road race. Location: Cleveland, United States. Date: Saturday, 15 May 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cleveland, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "2027 University Hospitals Cleveland Marathon to bieg uliczny. Lokalizacja: Cleveland, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cleveland, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cleveland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "2027 University Hospitals Cleveland Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon",
+  "slug": "2027-university-hospitals-cleveland-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "2027-university-hospitals-cleveland-marathon-cleveland-oh",
+    "url": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon"
+  },
+  "start": {
+    "lat": 41.5157,
+    "lon": -81.6405,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon"
+}

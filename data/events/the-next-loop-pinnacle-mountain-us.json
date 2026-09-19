@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop | Pinnacle Mountain is a trail race. Location: Roland, United States. Date: Saturday, 7 November 2026. Distances: The Next  100M, The Next 100K, 50 Miles - Day, 50 Miles - Night, The Next 50K, Endurance Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Roland, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Next Loop | Pinnacle Mountain to bieg trailowy. Lokalizacja: Roland, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: The Next  100M, The Next 100K, 50 Miles - Day, 50 Miles - Night, The Next 50K, Endurance Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Roland, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "The Next  100M",
+    "The Next 100K",
+    "50 Miles - Day",
+    "50 Miles - Night",
+    "The Next 50K",
+    "Endurance Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "The Next Loop | Pinnacle Mountain",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65185",
+  "slug": "the-next-loop-pinnacle-mountain-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:17.601Z",
+    "id": "ultrasignup",
+    "ref": "20375",
+    "url": "https://ultrasignup.com/register.aspx?did=65185"
+  },
+  "start": {
+    "lat": 34.8366,
+    "lon": -92.4711,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://www.everfurther.net/the-next-loop-50-50-100"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Highball to Thurmond Ultra & Relay is a ultramarathon. Location: Thurmond, United States. Date: Sunday, 16 May 2027. Distances: u50k, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Thurmond, United States, Sunday, 16 May 2027"
+    },
+    "pl": {
+      "description": "Highball to Thurmond Ultra & Relay to ultramaraton. Lokalizacja: Thurmond, Stany Zjednoczone. Termin: niedziela, 16 maja 2027. Dystanse: u50k, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Thurmond, Stany Zjednoczone, niedziela, 16 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Thurmond",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Highball to Thurmond Ultra & Relay",
+  "registrationUrl": "https://runsignup.com/Race/WV/Thurmond/Highball2Thurmond?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "highball-to-thurmond-ultra-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "highball-to-thurmond-ultra-relay-wv",
+    "url": "https://runsignup.com/Race/WV/Thurmond/Highball2Thurmond?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.96,
+    "lon": -81.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/WV/Thurmond/Highball2Thurmond?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

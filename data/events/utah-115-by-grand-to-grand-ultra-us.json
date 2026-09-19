@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UTAH 115 by Grand to Grand Ultra is a ultramarathon. Location: Kanab, United States. Date: Friday, 14 May 2027. Distances: u100p. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kanab, United States, Friday, 14 May 2027"
+    },
+    "pl": {
+      "description": "UTAH 115 by Grand to Grand Ultra to ultramaraton. Lokalizacja: Kanab, Stany Zjednoczone. Termin: piątek, 14 maja 2027. Dystanse: u100p. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kanab, Stany Zjednoczone, piątek, 14 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kanab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "UTAH 115 by Grand to Grand Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18196",
+  "slug": "utah-115-by-grand-to-grand-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "utah-115-by-grand-to-grand-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=18196"
+  },
+  "start": {
+    "lat": 37.05,
+    "lon": -112.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18196"
+}

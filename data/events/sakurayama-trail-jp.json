@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sakurayama trail is a ultramarathon. Location: Fujioka, Japan. Date: 15 November 2026 – 16 November 2026. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fujioka, Japan, 15 November 2026 – 16 November 2026"
+    },
+    "pl": {
+      "description": "Sakurayama trail to ultramaraton. Lokalizacja: Fujioka, Japonia. Termin: 15 listopada 2026 – 16 listopada 2026. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fujioka, Japonia, 15 listopada 2026 – 16 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2026-11-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52 km"
+  ],
+  "endDate": "2026-11-16",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fujioka",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sakurayama trail",
+  "registrationUrl": null,
+  "slug": "sakurayama-trail-jp",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:25.310Z",
+    "id": "duv",
+    "ref": "133137",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133137"
+  },
+  "start": {
+    "lat": 36.258633,
+    "lon": 139.074502,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": null
+}

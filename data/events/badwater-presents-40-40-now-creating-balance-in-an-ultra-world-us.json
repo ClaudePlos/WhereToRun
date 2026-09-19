@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Badwater Presents 40/40 NOW: Creating Balance in an Ultra World is a ultramarathon. Location: Death Valley, United States. Date: Thursday, 13 May 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Death Valley, United States, Thursday, 13 May 2027"
+    },
+    "pl": {
+      "description": "Badwater Presents 40/40 NOW: Creating Balance in an Ultra World to ultramaraton. Lokalizacja: Death Valley, Stany Zjednoczone. Termin: czwartek, 13 maja 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Death Valley, Stany Zjednoczone, czwartek, 13 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-13",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Death Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Badwater Presents 40/40 NOW: Creating Balance in an Ultra World",
+  "registrationUrl": "https://runsignup.com/Race/CA/DeathValley/4040NOW?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "badwater-presents-40-40-now-creating-balance-in-an-ultra-world-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "badwater-presents-40-40-now-creating-balance-in-an-ultra-world-ca",
+    "url": "https://runsignup.com/Race/CA/DeathValley/4040NOW?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.47,
+    "lon": -116.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/CA/DeathValley/4040NOW?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

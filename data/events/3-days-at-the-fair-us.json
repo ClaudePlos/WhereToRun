@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "3 Days at the Fair is a road race. Location: Augusta, United States. Date: Monday, 10 May 2027. Distances: ultra, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Augusta, United States, Monday, 10 May 2027"
+    },
+    "pl": {
+      "description": "3 Days at the Fair to bieg uliczny. Lokalizacja: Augusta, Stany Zjednoczone. Termin: poniedziałek, 10 maja 2027. Dystanse: ultra, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Augusta, Stany Zjednoczone, poniedziałek, 10 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Augusta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "3 Days at the Fair",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Augusta/3DATF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "3-days-at-the-fair-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "3-days-at-the-fair-nj",
+    "url": "https://runsignup.com/Race/NJ/Augusta/3DATF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.15,
+    "lon": -74.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/NJ/Augusta/3DATF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

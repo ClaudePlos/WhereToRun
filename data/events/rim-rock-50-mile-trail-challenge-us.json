@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rim Rock 50 Mile Trail Challenge is a trail race. Location: Napa, United States. Date: Saturday, 15 May 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Napa, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Rim Rock 50 Mile Trail Challenge to bieg trailowy. Lokalizacja: Napa, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Napa, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Napa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Rim Rock 50 Mile Trail Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18992",
+  "slug": "rim-rock-50-mile-trail-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "rim-rock-50-mile-trail-challenge-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=18992"
+  },
+  "start": {
+    "lat": 38.28,
+    "lon": -122.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18992"
+}

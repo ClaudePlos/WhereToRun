@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "East Texas Ultra is a ultramarathon. Location: Mineola, United States. Date: Saturday, 15 May 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mineola, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "East Texas Ultra to ultramaraton. Lokalizacja: Mineola, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mineola, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mineola",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "East Texas Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13642",
+  "slug": "east-texas-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "east-texas-ultra-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=13642"
+  },
+  "start": {
+    "lat": 32.63,
+    "lon": -95.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13642"
+}

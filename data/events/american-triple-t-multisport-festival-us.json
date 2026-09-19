@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "American Triple-T Multisport Festival is a road race. Location: Perrysville, United States. Date: Friday, 21 May 2027. Distances: 5 km, other, u50k, 42.2 km, 1.6 km, ultra, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Perrysville, United States, Friday, 21 May 2027"
+    },
+    "pl": {
+      "description": "American Triple-T Multisport Festival to bieg uliczny. Lokalizacja: Perrysville, Stany Zjednoczone. Termin: piątek, 21 maja 2027. Dystanse: 5 km, other, u50k, 42.2 km, 1.6 km, ultra, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Perrysville, Stany Zjednoczone, piątek, 21 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T11:10:09.619Z",
+  "date": "2027-05-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "u50k",
+    "42.2 km",
+    "1.6 km",
+    "ultra",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Perrysville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "American Triple-T Multisport Festival",
+  "registrationUrl": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "american-triple-t-multisport-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "id": "runraceusa",
+    "ref": "american-triple-t-multisport-festival-oh",
+    "url": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.66,
+    "lon": -82.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "website": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
