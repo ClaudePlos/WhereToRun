@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "1/2 Sauer 1/2 Kraut is a road race. Location: Philadelphia, United States. Date: Saturday, 5 June 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Philadelphia, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "1/2 Sauer 1/2 Kraut to bieg uliczny. Lokalizacja: Philadelphia, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Philadelphia, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Philadelphia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "1/2 Sauer 1/2 Kraut",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2713",
+  "slug": "1-2-sauer-1-2-kraut-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "1-2-sauer-1-2-kraut-pa",
+    "url": "https://ultrasignup.com/register.aspx?eid=2713"
+  },
+  "start": {
+    "lat": 40.05,
+    "lon": -75.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2713"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sparks Backyard Ultra is a ultramarathon. Location: Sparks, United States. Date: Saturday, 22 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sparks, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Sparks Backyard Ultra to ultramaraton. Lokalizacja: Sparks, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sparks, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sparks",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Sparks Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19652",
+  "slug": "sparks-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "sparks-backyard-ultra-nv",
+    "url": "https://ultrasignup.com/register.aspx?eid=19652"
+  },
+  "start": {
+    "lat": 39.53,
+    "lon": -119.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19652"
+}

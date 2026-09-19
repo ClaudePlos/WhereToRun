@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 God's Country Marathon is a road race. Location: Coudersport, United States. Date: Saturday, 5 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Coudersport, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "2027 God's Country Marathon to bieg uliczny. Lokalizacja: Coudersport, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Coudersport, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coudersport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "2027 God's Country Marathon",
+  "registrationUrl": "http://www.active.com/coudersport-pa/running/distance-running-races/god-s-country-marathon-2027",
+  "slug": "2027-god-s-country-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "2027-god-s-country-marathon-pa",
+    "url": "http://www.active.com/coudersport-pa/running/distance-running-races/god-s-country-marathon-2027"
+  },
+  "start": {
+    "lat": 41.77,
+    "lon": -78.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "http://www.active.com/coudersport-pa/running/distance-running-races/god-s-country-marathon-2027"
+}

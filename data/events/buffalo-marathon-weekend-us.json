@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Buffalo Marathon Weekend is a road race. Location: Buffalo, United States. Date: Saturday, 29 May 2027. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Buffalo, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Buffalo Marathon Weekend to bieg uliczny. Lokalizacja: Buffalo, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Buffalo, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Buffalo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Buffalo Marathon Weekend",
+  "registrationUrl": "https://runsignup.com/Race/NY/Buffalo/BuffaloMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "buffalo-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "buffalo-marathon-weekend-ny",
+    "url": "https://runsignup.com/Race/NY/Buffalo/BuffaloMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.89,
+    "lon": -78.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/NY/Buffalo/BuffaloMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

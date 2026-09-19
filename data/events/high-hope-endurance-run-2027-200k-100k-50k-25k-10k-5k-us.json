@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "High Hope Endurance Run 2027 -                     200K - 100K - 50K - 25K - 10K - 5K is a road race. Location: Glen Rose, United States. Date: Saturday, 29 May 2027. Distances: 5 km, 10 km, other, u50k, u100k, u100p. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Glen Rose, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "High Hope Endurance Run 2027 -                     200K - 100K - 50K - 25K - 10K - 5K to bieg uliczny. Lokalizacja: Glen Rose, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 5 km, 10 km, other, u50k, u100k, u100p. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Glen Rose, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "other",
+    "u50k",
+    "u100k",
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glen Rose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "High Hope Endurance Run 2027 -                     200K - 100K - 50K - 25K - 10K - 5K",
+  "registrationUrl": "https://runsignup.com/Race/TX/GlenRose/HighHopeEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "high-hope-endurance-run-2027-200k-100k-50k-25k-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "high-hope-endurance-run-2027-200k-100k-50k-25k-10k-5k-tx",
+    "url": "https://runsignup.com/Race/TX/GlenRose/HighHopeEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.23,
+    "lon": -97.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/TX/GlenRose/HighHopeEnduranceRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -13,7 +13,7 @@
   "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
-    "60 km"
+    "100 km"
   ],
   "endDate": "2026-10-11",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "nan-mountain-trail-th",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:36.779Z",
+    "fetchedAt": "2026-09-19T16:31:07.472Z",
     "id": "duv",
-    "ref": "134019",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134019"
+    "ref": "134018",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134018"
   },
   "start": {
     "lat": 18.777887,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
   "website": null
 }

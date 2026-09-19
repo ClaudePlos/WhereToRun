@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Xihong Old Road Ultra Trail - 100 Spring is a ultramarathon. Location: Huangshan City, China. Date: 20 March 2027 – 21 March 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Huangshan City, China, 20 March 2027 – 21 March 2027"
+    },
+    "pl": {
+      "description": "Xihong Old Road Ultra Trail - 100 Spring to ultramaraton. Lokalizacja: Huangshan City, Chiny. Termin: 20 marca 2027 – 21 marca 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Huangshan City, Chiny, 20 marca 2027 – 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2027-03-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huangshan City",
+    "country": "China",
+    "countryCode": "CN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Xihong Old Road Ultra Trail - 100 Spring",
+  "registrationUrl": null,
+  "slug": "xihong-old-road-ultra-trail-100-spring-cn",
+  "source": {
+    "fetchedAt": "2026-09-19T16:31:07.471Z",
+    "id": "duv",
+    "ref": "130433",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130433"
+  },
+  "start": {
+    "lat": 29.717263,
+    "lon": 118.332481,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": null
+}

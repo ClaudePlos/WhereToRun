@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pacifico Ultra is a ultramarathon. Location: Palmdale, United States. Date: Saturday, 29 May 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palmdale, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Pacifico Ultra to ultramaraton. Lokalizacja: Palmdale, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palmdale, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palmdale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Pacifico Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18665",
+  "slug": "pacifico-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "pacifico-ultra-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=18665"
+  },
+  "start": {
+    "lat": 34.58,
+    "lon": -118.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18665"
+}

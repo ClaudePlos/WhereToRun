@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Deadwood Mickelson Trail Marathon is a trail race. Location: Deadwood, United States. Date: Saturday, 5 June 2027. Distances: 21.1 km, 42.2 km, 5 km, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Deadwood, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Deadwood Mickelson Trail Marathon to bieg trailowy. Lokalizacja: Deadwood, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 21.1 km, 42.2 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Deadwood, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Deadwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Deadwood Mickelson Trail Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon",
+  "slug": "deadwood-mickelson-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "deadwood-mickelson-trail-marathon-sd",
+    "url": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon"
+  },
+  "start": {
+    "lat": 44.3767,
+    "lon": -103.7296,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon"
+}

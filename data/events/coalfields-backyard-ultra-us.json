@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Coalfields Backyard Ultra is a ultramarathon. Location: Williamson, United States. Date: Friday, 28 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Williamson, United States, Friday, 28 May 2027"
+    },
+    "pl": {
+      "description": "Coalfields Backyard Ultra to ultramaraton. Lokalizacja: Williamson, Stany Zjednoczone. Termin: piątek, 28 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Williamson, Stany Zjednoczone, piątek, 28 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Coalfields Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15967",
+  "slug": "coalfields-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "coalfields-backyard-ultra-wv",
+    "url": "https://ultrasignup.com/register.aspx?eid=15967"
+  },
+  "start": {
+    "lat": 37.68,
+    "lon": -82.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15967"
+}

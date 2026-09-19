@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "High Lea 6/12/24 Hour and 100 miler is a road race. Location: Richfield, United States. Date: Saturday, 22 May 2027. Distances: u100m, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Richfield, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "High Lea 6/12/24 Hour and 100 miler to bieg uliczny. Lokalizacja: Richfield, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: u100m, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Richfield, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "High Lea 6/12/24 Hour and 100 miler",
+  "registrationUrl": "https://runsignup.com/Race/OH/Richfield/HighLea?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "high-lea-6-12-24-hour-and-100-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "high-lea-6-12-24-hour-and-100-miler-oh",
+    "url": "https://runsignup.com/Race/OH/Richfield/HighLea?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.24,
+    "lon": -81.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/OH/Richfield/HighLea?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Whitefish Marathon, Half Marathon & 5K Presented by Hammer Nutrition is a road race. Location: Whitefish, United States. Date: Saturday, 22 May 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Whitefish, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Whitefish Marathon, Half Marathon & 5K Presented by Hammer Nutrition to bieg uliczny. Lokalizacja: Whitefish, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Whitefish, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Whitefish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Whitefish Marathon, Half Marathon & 5K Presented by Hammer Nutrition",
+  "registrationUrl": "https://runsignup.com/Race/MT/Whitefish/WhitefishMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "whitefish-marathon-half-marathon-5k-presented-by-hammer-nutrition-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "whitefish-marathon-half-marathon-5k-presented-by-hammer-nutrition-mt",
+    "url": "https://runsignup.com/Race/MT/Whitefish/WhitefishMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.4,
+    "lon": -114.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/MT/Whitefish/WhitefishMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

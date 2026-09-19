@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Connecticut Ultra Traverse #CUT112 is a ultramarathon. Location: Southwick, United States. Date: Friday, 4 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Southwick, United States, Friday, 4 June 2027"
+    },
+    "pl": {
+      "description": "Connecticut Ultra Traverse #CUT112 to ultramaraton. Lokalizacja: Southwick, Stany Zjednoczone. Termin: piątek, 4 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Southwick, Stany Zjednoczone, piątek, 4 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Southwick",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Connecticut Ultra Traverse #CUT112",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8701",
+  "slug": "connecticut-ultra-traverse-cut112-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "connecticut-ultra-traverse-cut112-ma",
+    "url": "https://ultrasignup.com/register.aspx?eid=8701"
+  },
+  "start": {
+    "lat": 42.04,
+    "lon": -72.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8701"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "CDA Marathon is a road race. Location: Coeur d'Alene, United States. Date: Saturday, 29 May 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Coeur d'Alene, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "CDA Marathon to bieg uliczny. Lokalizacja: Coeur d'Alene, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Coeur d'Alene, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coeur d'Alene",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "CDA Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ID/CoeurdAlene/CDAMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cda-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "cda-marathon-id",
+    "url": "https://runsignup.com/Race/ID/CoeurdAlene/CDAMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.69,
+    "lon": -116.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/ID/CoeurdAlene/CDAMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

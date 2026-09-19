@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Rabid Raccoon 100 is a road race. Location: Beaver Falls, United States. Date: Friday, 4 June 2027. Distances: u100m, u100k, 21.1 km, 42.2 km, 5 km, u50k, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Beaver Falls, United States, Friday, 4 June 2027"
+    },
+    "pl": {
+      "description": "Rabid Raccoon 100 to bieg uliczny. Lokalizacja: Beaver Falls, Stany Zjednoczone. Termin: piątek, 4 czerwca 2027. Dystanse: u100m, u100k, 21.1 km, 42.2 km, 5 km, u50k, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Beaver Falls, Stany Zjednoczone, piątek, 4 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "21.1 km",
+    "42.2 km",
+    "5 km",
+    "u50k",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beaver Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Rabid Raccoon 100",
+  "registrationUrl": "https://runsignup.com/Race/PA/BeaverFalls/RabidRaccoon100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rabid-raccoon-100-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "rabid-raccoon-100-pa",
+    "url": "https://runsignup.com/Race/PA/BeaverFalls/RabidRaccoon100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.77,
+    "lon": -80.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/PA/BeaverFalls/RabidRaccoon100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

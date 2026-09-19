@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sandpoint Marathon is a road race. Location: Sandpoint, United States. Date: Friday, 4 June 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sandpoint, United States, Friday, 4 June 2027"
+    },
+    "pl": {
+      "description": "Sandpoint Marathon to bieg uliczny. Lokalizacja: Sandpoint, Stany Zjednoczone. Termin: piątek, 4 czerwca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sandpoint, Stany Zjednoczone, piątek, 4 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sandpoint",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Sandpoint Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ID/Sandpoint/SandpointMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sandpoint-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "sandpoint-marathon-id",
+    "url": "https://runsignup.com/Race/ID/Sandpoint/SandpointMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.31,
+    "lon": -116.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/ID/Sandpoint/SandpointMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

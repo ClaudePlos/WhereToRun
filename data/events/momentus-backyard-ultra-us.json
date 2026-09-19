@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Momentus BackYard Ultra is a ultramarathon. Location: Monroe, United States. Date: Friday, 4 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Monroe, United States, Friday, 4 June 2027"
+    },
+    "pl": {
+      "description": "Momentus BackYard Ultra to ultramaraton. Lokalizacja: Monroe, Stany Zjednoczone. Termin: piątek, 4 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Monroe, Stany Zjednoczone, piątek, 4 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Monroe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Momentus BackYard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18586",
+  "slug": "momentus-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "momentus-backyard-ultra-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=18586"
+  },
+  "start": {
+    "lat": 34.82,
+    "lon": -80.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18586"
+}

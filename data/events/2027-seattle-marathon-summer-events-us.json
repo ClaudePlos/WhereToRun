@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Seattle Marathon Summer Events is a road race. Location: Seattle, United States. Date: Saturday, 5 June 2027. Distances: 5 km, 10 km, 21.1 km, other, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Seattle, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "2027 Seattle Marathon Summer Events to bieg uliczny. Lokalizacja: Seattle, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 5 km, 10 km, 21.1 km, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Seattle, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seattle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "2027 Seattle Marathon Summer Events",
+  "registrationUrl": "https://raceroster.com/events/2027/138588/2027-seattle-marathon-summer-events",
+  "slug": "2027-seattle-marathon-summer-events-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "2027-seattle-marathon-summer-events-wa",
+    "url": "https://raceroster.com/events/2027/138588/2027-seattle-marathon-summer-events"
+  },
+  "start": {
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://raceroster.com/events/2027/138588/2027-seattle-marathon-summer-events"
+}

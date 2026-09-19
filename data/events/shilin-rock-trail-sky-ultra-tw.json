@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Shilin Rock Trail - Sky Ultra is a ultramarathon. Location: Shilin District, Taiwan. Date: Sunday, 8 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shilin District, Taiwan, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Shilin Rock Trail - Sky Ultra to ultramaraton. Lokalizacja: Shilin District, Tajwan. Termin: niedziela, 8 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shilin District, Tajwan, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shilin District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Shilin Rock Trail - Sky Ultra",
+  "registrationUrl": null,
+  "slug": "shilin-rock-trail-sky-ultra-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T16:31:07.471Z",
+    "id": "duv",
+    "ref": "132249",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132249"
+  },
+  "start": {
+    "lat": 25.09184,
+    "lon": 121.524207,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": null
+}

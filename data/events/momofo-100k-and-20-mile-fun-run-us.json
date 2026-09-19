@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "MoMoFo 100k and 20 mile Fun Run is a road race. Location: Martinsville, United States. Date: Friday, 4 June 2027. Distances: other, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Martinsville, United States, Friday, 4 June 2027"
+    },
+    "pl": {
+      "description": "MoMoFo 100k and 20 mile Fun Run to bieg uliczny. Lokalizacja: Martinsville, Stany Zjednoczone. Termin: piątek, 4 czerwca 2027. Dystanse: other, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Martinsville, Stany Zjednoczone, piątek, 4 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-06-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Martinsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "MoMoFo 100k and 20 mile Fun Run",
+  "registrationUrl": "https://runsignup.com/Race/IN/Martinsville/MoMoFo100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "momofo-100k-and-20-mile-fun-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "momofo-100k-and-20-mile-fun-run-in",
+    "url": "https://runsignup.com/Race/IN/Martinsville/MoMoFo100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.48,
+    "lon": -86.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/IN/Martinsville/MoMoFo100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

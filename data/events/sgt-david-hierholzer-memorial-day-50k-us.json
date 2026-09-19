@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Sgt David Hierholzer Memorial Day 50k is a road race. Location: College Grove, United States. Date: Monday, 31 May 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — College Grove, United States, Monday, 31 May 2027"
+    },
+    "pl": {
+      "description": "Sgt David Hierholzer Memorial Day 50k to bieg uliczny. Lokalizacja: College Grove, Stany Zjednoczone. Termin: poniedziałek, 31 maja 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — College Grove, Stany Zjednoczone, poniedziałek, 31 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "College Grove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Sgt David Hierholzer Memorial Day 50k",
+  "registrationUrl": "https://runsignup.com/Race/TN/CollegeGrove/ArmySgtDavidHierholzerMemorialDay50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sgt-david-hierholzer-memorial-day-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "sgt-david-hierholzer-memorial-day-50k-tn",
+    "url": "https://runsignup.com/Race/TN/CollegeGrove/ArmySgtDavidHierholzerMemorialDay50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.78,
+    "lon": -86.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/TN/CollegeGrove/ArmySgtDavidHierholzerMemorialDay50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

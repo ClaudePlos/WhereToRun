@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Blacks Grove Backyard Ultra Presented by Agony of DeFeet Wadena Run Club is a ultramarathon. Location: Wadena, United States. Date: Saturday, 29 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wadena, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Blacks Grove Backyard Ultra Presented by Agony of DeFeet Wadena Run Club to ultramaraton. Lokalizacja: Wadena, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wadena, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wadena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Blacks Grove Backyard Ultra Presented by Agony of DeFeet Wadena Run Club",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19659",
+  "slug": "blacks-grove-backyard-ultra-presented-by-agony-of-defeet-wadena-run-club-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "blacks-grove-backyard-ultra-presented-by-agony-of-defeet-wadena-run",
+    "url": "https://ultrasignup.com/register.aspx?eid=19659"
+  },
+  "start": {
+    "lat": 46.45,
+    "lon": -95.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19659"
+}

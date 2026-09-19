@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Adventures 2027 Cape Town Marathon Adventure is a road race. Location: Minneapolis, United States. Date: Sunday, 23 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minneapolis, United States, Sunday, 23 May 2027"
+    },
+    "pl": {
+      "description": "Marathon Adventures 2027 Cape Town Marathon Adventure to bieg uliczny. Lokalizacja: Minneapolis, Stany Zjednoczone. Termin: niedziela, 23 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minneapolis, Stany Zjednoczone, niedziela, 23 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-19T16:30:51.864Z",
+  "date": "2027-05-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minneapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Marathon Adventures 2027 Cape Town Marathon Adventure",
+  "registrationUrl": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresCapeTownMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "marathon-adventures-2027-cape-town-marathon-adventure-us",
+  "source": {
+    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "id": "runraceusa",
+    "ref": "marathon-adventures-2027-cape-town-marathon-adventure-mn",
+    "url": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresCapeTownMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.12,
+    "lon": -93.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "website": "https://runsignup.com/Race/MN/Minneapolis/MarathonAdventuresCapeTownMarathonAdventure?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
