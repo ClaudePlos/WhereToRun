@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Taiwan Town and Country - CorinOn pilates is a ultramarathon. Location: Shengang District, Taiwan. Date: Saturday, 5 December 2026. Distances: 51 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shengang District, Taiwan, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Taiwan Town and Country - CorinOn pilates to ultramaraton. Lokalizacja: Shengang District, Tajwan. Termin: sobota, 5 grudnia 2026. Dystanse: 51 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shengang District, Tajwan, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "51 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shengang District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Taiwan Town and Country - CorinOn pilates",
+  "registrationUrl": null,
+  "slug": "taiwan-town-and-country-corinon-pilates-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "133721",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133721"
+  },
+  "start": {
+    "lat": 24.257826,
+    "lon": 120.661511,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "F.I.T. 50k is a road race. Location: Cumberland, United States. Date: Saturday, 5 June 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cumberland, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "F.I.T. 50k to bieg uliczny. Lokalizacja: Cumberland, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cumberland, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cumberland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "RI"
+  },
+  "manual": false,
+  "name": "F.I.T. 50k",
+  "registrationUrl": "https://runsignup.com/Race/RI/Cumberland/FIT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "f-i-t-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "f-i-t-50k-ri",
+    "url": "https://runsignup.com/Race/RI/Cumberland/FIT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.95,
+    "lon": -71.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/RI/Cumberland/FIT50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

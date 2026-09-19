@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Xtrail Kenting by UTMB - Xtrail 50K is a ultramarathon. Location: Hengchun, Taiwan. Date: Saturday, 6 March 2027. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hengchun, Taiwan, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Xtrail Kenting by UTMB - Xtrail 50K to ultramaraton. Lokalizacja: Hengchun, Tajwan. Termin: sobota, 6 marca 2027. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hengchun, Tajwan, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hengchun",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Xtrail Kenting by UTMB - Xtrail 50K",
+  "registrationUrl": null,
+  "slug": "xtrail-kenting-by-utmb-xtrail-50k-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "133729",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133729"
+  },
+  "start": {
+    "lat": 22.002656,
+    "lon": 120.744692,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

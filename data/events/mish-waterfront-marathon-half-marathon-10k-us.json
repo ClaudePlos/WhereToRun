@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "MISH Waterfront Marathon | Half Marathon | 10K is a road race. Location: Gladstone, United States. Date: Saturday, 5 June 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gladstone, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "MISH Waterfront Marathon | Half Marathon | 10K to bieg uliczny. Lokalizacja: Gladstone, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gladstone, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gladstone",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "MISH Waterfront Marathon | Half Marathon | 10K",
+  "registrationUrl": "https://runsignup.com/Race/MI/Gladstone/MISHHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mish-waterfront-marathon-half-marathon-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "mish-waterfront-marathon-half-marathon-10k-mi",
+    "url": "https://runsignup.com/Race/MI/Gladstone/MISHHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.88,
+    "lon": -87.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/MI/Gladstone/MISHHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MSIG Taiwan Action Asia 50 is a ultramarathon. Location: Daxi Township, Taiwan. Date: Wednesday, 2 December 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Daxi Township, Taiwan, Wednesday, 2 December 2026"
+    },
+    "pl": {
+      "description": "MSIG Taiwan Action Asia 50 to ultramaraton. Lokalizacja: Daxi Township, Tajwan. Termin: środa, 2 grudnia 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Daxi Township, Tajwan, środa, 2 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2026-12-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Daxi Township",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "MSIG Taiwan Action Asia 50",
+  "registrationUrl": null,
+  "slug": "msig-taiwan-action-asia-50-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "133725",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133725"
+  },
+  "start": {
+    "lat": 24.880584,
+    "lon": 121.286962,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

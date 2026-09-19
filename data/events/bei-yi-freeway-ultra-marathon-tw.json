@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bei-yi Freeway Ultra Marathon is a ultramarathon. Location: Sindian District, Taiwan. Date: Saturday, 19 December 2026. Distances: 55 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sindian District, Taiwan, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Bei-yi Freeway Ultra Marathon to ultramaraton. Lokalizacja: Sindian District, Tajwan. Termin: sobota, 19 grudnia 2026. Dystanse: 55 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sindian District, Tajwan, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "55 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sindian District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bei-yi Freeway Ultra Marathon",
+  "registrationUrl": null,
+  "slug": "bei-yi-freeway-ultra-marathon-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "130865",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130865"
+  },
+  "start": {
+    "lat": 24.967394,
+    "lon": 121.541942,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

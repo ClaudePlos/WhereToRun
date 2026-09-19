@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Maritime Marathon is a road race. Location: Manitowoc, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Manitowoc, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "Maritime Marathon to bieg uliczny. Lokalizacja: Manitowoc, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Manitowoc, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manitowoc",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Maritime Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Manitowoc/MaritimeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "maritime-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "maritime-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Manitowoc/MaritimeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.1,
+    "lon": -87.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/WI/Manitowoc/MaritimeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

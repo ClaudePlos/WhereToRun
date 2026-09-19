@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ridge to Rails 50k, Half, & 10k is a trail race. Location: Old Fort, United States. Date: Saturday, 5 June 2027. Distances: u50k, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Old Fort, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Ridge to Rails 50k, Half, & 10k to bieg trailowy. Lokalizacja: Old Fort, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u50k, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Old Fort, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Old Fort",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Ridge to Rails 50k, Half, & 10k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16207",
+  "slug": "ridge-to-rails-50k-half-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "ridge-to-rails-50k-half-10k-nc",
+    "url": "https://ultrasignup.com/register.aspx?eid=16207"
+  },
+  "start": {
+    "lat": 35.66,
+    "lon": -82.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16207"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Timberline Marathon is a road race. Location: Clackamas Lake Historic Ranger Station, United States. Date: Saturday, 5 June 2027. Distances: other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Clackamas Lake Historic Ranger Station, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Timberline Marathon to bieg uliczny. Lokalizacja: Clackamas Lake Historic Ranger Station, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Clackamas Lake Historic Ranger Station, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clackamas Lake Historic Ranger Station",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Timberline Marathon",
+  "registrationUrl": "https://runsignup.com/Race/OR/ClackamasLakeHistoricRangerStation/TimberlineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "timberline-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "timberline-marathon-or",
+    "url": "https://runsignup.com/Race/OR/ClackamasLakeHistoricRangerStation/TimberlineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.07,
+    "lon": -121.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/OR/ClackamasLakeHistoricRangerStation/TimberlineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Hatfield and McCoy Races is a road race. Location: South Williamson, United States. Date: Saturday, 12 June 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Williamson, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "Hatfield and McCoy Races to bieg uliczny. Lokalizacja: South Williamson, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Williamson, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Williamson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Hatfield and McCoy Races",
+  "registrationUrl": "https://runsignup.com/Race/KY/SouthWilliamson/HatfieldandMcCoyRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hatfield-and-mccoy-races-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "hatfield-and-mccoy-races-ky",
+    "url": "https://runsignup.com/Race/KY/SouthWilliamson/HatfieldandMcCoyRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.67,
+    "lon": -82.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/KY/SouthWilliamson/HatfieldandMcCoyRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

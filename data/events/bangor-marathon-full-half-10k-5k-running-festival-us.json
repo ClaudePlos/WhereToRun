@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bangor Marathon - Full/Half/10K/5K - Running Festival is a road race. Location: Bangor, United States. Date: Sunday, 13 June 2027. Distances: 42.2 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bangor, United States, Sunday, 13 June 2027"
+    },
+    "pl": {
+      "description": "Bangor Marathon - Full/Half/10K/5K - Running Festival to bieg uliczny. Lokalizacja: Bangor, Stany Zjednoczone. Termin: niedziela, 13 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bangor, Stany Zjednoczone, niedziela, 13 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bangor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Bangor Marathon - Full/Half/10K/5K - Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/ME/Bangor/TheGreatBangorMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bangor-marathon-full-half-10k-5k-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "bangor-marathon-full-half-10k-5k-running-festival-me",
+    "url": "https://runsignup.com/Race/ME/Bangor/TheGreatBangorMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.82,
+    "lon": -68.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/ME/Bangor/TheGreatBangorMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

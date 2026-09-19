@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Walk Wisconsin 2026 is a road race. Location: Stevens Point, United States. Date: Saturday, 5 June 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stevens Point, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Walk Wisconsin 2026 to bieg uliczny. Lokalizacja: Stevens Point, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stevens Point, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stevens Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Walk Wisconsin 2026",
+  "registrationUrl": "https://runsignup.com/Race/WI/StevensPoint/WalkWisconsin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "walk-wisconsin-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "walk-wisconsin-2026-wi",
+    "url": "https://runsignup.com/Race/WI/StevensPoint/WalkWisconsin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.52,
+    "lon": -89.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/WI/StevensPoint/WalkWisconsin?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

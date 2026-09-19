@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Snow Peaks 50 Mile Trail Run is a trail race. Location: Provo, United States. Date: Saturday, 12 June 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Provo, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "Snow Peaks 50 Mile Trail Run to bieg trailowy. Lokalizacja: Provo, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Provo, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Provo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Snow Peaks 50 Mile Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=209",
+  "slug": "snow-peaks-50-mile-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "snow-peaks-50-mile-trail-run-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=209"
+  },
+  "start": {
+    "lat": 40.36,
+    "lon": -111.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=209"
+}

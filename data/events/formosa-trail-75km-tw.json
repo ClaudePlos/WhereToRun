@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Formosa Trail 75km is a ultramarathon. Location: Puli Township, Taiwan. Date: Saturday, 21 November 2026. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Puli Township, Taiwan, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Formosa Trail 75km to ultramaraton. Lokalizacja: Puli Township, Tajwan. Termin: sobota, 21 listopada 2026. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Puli Township, Tajwan, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Puli Township",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Formosa Trail 75km",
+  "registrationUrl": null,
+  "slug": "formosa-trail-75km-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "133724",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133724"
+  },
+  "start": {
+    "lat": 23.966667,
+    "lon": 120.969146,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

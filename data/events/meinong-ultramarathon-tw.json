@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Meinong Ultramarathon is a ultramarathon. Location: Meinong District, Taiwan. Date: Sunday, 13 December 2026. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Meinong District, Taiwan, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Meinong Ultramarathon to ultramaraton. Lokalizacja: Meinong District, Tajwan. Termin: niedziela, 13 grudnia 2026. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Meinong District, Tajwan, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Meinong District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Meinong Ultramarathon",
+  "registrationUrl": null,
+  "slug": "meinong-ultramarathon-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "133722",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133722"
+  },
+  "start": {
+    "lat": 22.89788,
+    "lon": 120.54153,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

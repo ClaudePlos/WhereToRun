@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Weld Your Mettle Running Festival is a road race. Location: Eaton, United States. Date: Saturday, 5 June 2027. Distances: u50m, u100k, other, 42.2 km, u50k, u100p, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Eaton, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Weld Your Mettle Running Festival to bieg uliczny. Lokalizacja: Eaton, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u50m, u100k, other, 42.2 km, u50k, u100p, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Eaton, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u100k",
+    "other",
+    "42.2 km",
+    "u50k",
+    "u100p",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eaton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Weld Your Mettle Running Festival",
+  "registrationUrl": "https://runsignup.com/Race/CO/Eaton/WeldYourMettleUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "weld-your-mettle-running-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "weld-your-mettle-running-festival-co",
+    "url": "https://runsignup.com/Race/CO/Eaton/WeldYourMettleUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.53,
+    "lon": -104.71,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/CO/Eaton/WeldYourMettleUltraMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

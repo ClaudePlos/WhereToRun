@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rose Canyon Ultra is a ultramarathon. Location: Herriman, United States. Date: Saturday, 5 June 2027. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Herriman, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Rose Canyon Ultra to ultramaraton. Lokalizacja: Herriman, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Herriman, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Herriman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Rose Canyon Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17020",
+  "slug": "rose-canyon-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "rose-canyon-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=17020"
+  },
+  "start": {
+    "lat": 40.51,
+    "lon": -112.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17020"
+}

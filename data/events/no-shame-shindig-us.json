@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "No Shame Shindig is a road race. Location: Pierce, United States. Date: Saturday, 12 June 2027. Distances: u50m, u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pierce, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "No Shame Shindig to bieg uliczny. Lokalizacja: Pierce, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: u50m, u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pierce, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pierce",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "No Shame Shindig",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17769",
+  "slug": "no-shame-shindig-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "no-shame-shindig-ne",
+    "url": "https://ultrasignup.com/register.aspx?eid=17769"
+  },
+  "start": {
+    "lat": 42.18,
+    "lon": -97.55,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17769"
+}

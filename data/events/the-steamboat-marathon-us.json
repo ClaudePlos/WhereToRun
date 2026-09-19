@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Steamboat Marathon is a road race. Location: Steamboat Springs, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km, 21.1 km, 10 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Steamboat Springs, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "The Steamboat Marathon to bieg uliczny. Lokalizacja: Steamboat Springs, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Steamboat Springs, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Steamboat Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "The Steamboat Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CO/SteamboatSprings/TheSteamboatMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-steamboat-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "the-steamboat-marathon-co",
+    "url": "https://runsignup.com/Race/CO/SteamboatSprings/TheSteamboatMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.63,
+    "lon": -106.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/CO/SteamboatSprings/TheSteamboatMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

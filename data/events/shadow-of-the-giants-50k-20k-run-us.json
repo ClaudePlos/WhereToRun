@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Shadow of the Giants 50k & 20k Run is a road race. Location: Fish Camp, United States. Date: Saturday, 5 June 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fish Camp, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Shadow of the Giants 50k & 20k Run to bieg uliczny. Lokalizacja: Fish Camp, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fish Camp, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fish Camp",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Shadow of the Giants 50k & 20k Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/FishCamp/ShadowoftheGiants50k20kRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "shadow-of-the-giants-50k-20k-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "shadow-of-the-giants-50k-20k-run-ca",
+    "url": "https://runsignup.com/Race/CA/FishCamp/ShadowoftheGiants50k20kRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.48,
+    "lon": -119.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/CA/FishCamp/ShadowoftheGiants50k20kRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

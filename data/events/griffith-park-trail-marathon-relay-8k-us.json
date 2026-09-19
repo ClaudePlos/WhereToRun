@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Griffith Park Trail Marathon Relay & 8K is a trail race. Location: Los Angeles, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Los Angeles, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "Griffith Park Trail Marathon Relay & 8K to bieg trailowy. Lokalizacja: Los Angeles, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Los Angeles, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Griffith Park Trail Marathon Relay & 8K",
+  "registrationUrl": "https://runsignup.com/Race/CA/LosAngeles/GriffithParkTrailMarathonRelay8K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "griffith-park-trail-marathon-relay-8k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "griffith-park-trail-marathon-relay-8k-ca",
+    "url": "https://runsignup.com/Race/CA/LosAngeles/GriffithParkTrailMarathonRelay8K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.1,
+    "lon": -118.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://runsignup.com/Race/CA/LosAngeles/GriffithParkTrailMarathonRelay8K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

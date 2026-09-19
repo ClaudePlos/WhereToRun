@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake to Ocean 100K is a road race. Location: Port Mayaka, United States. Date: Saturday, 5 June 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Port Mayaka, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Lake to Ocean 100K to bieg uliczny. Lokalizacja: Port Mayaka, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Port Mayaka, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Port Mayaka",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Lake to Ocean 100K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4318",
+  "slug": "lake-to-ocean-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "lake-to-ocean-100k-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=4318"
+  },
+  "start": {
+    "lat": 26.99,
+    "lon": -80.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4318"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "OSS/CIA 50 Mile Night Run is a road race. Location: Triangle, United States. Date: Saturday, 12 June 2027. Distances: u50m, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Triangle, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "OSS/CIA 50 Mile Night Run to bieg uliczny. Lokalizacja: Triangle, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: u50m, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Triangle, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Triangle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "OSS/CIA 50 Mile Night Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2779",
+  "slug": "oss-cia-50-mile-night-run-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "oss-cia-50-mile-night-run-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=2779"
+  },
+  "start": {
+    "lat": 38.56,
+    "lon": -77.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2779"
+}

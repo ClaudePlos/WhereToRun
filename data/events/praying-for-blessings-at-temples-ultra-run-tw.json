@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Praying for blessings at temples Ultra Run is a ultramarathon. Location: Zhubei City, Taiwan. Date: Sunday, 21 February 2027. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Zhubei City, Taiwan, Sunday, 21 February 2027"
+    },
+    "pl": {
+      "description": "Praying for blessings at temples Ultra Run to ultramaraton. Lokalizacja: Zhubei City, Tajwan. Termin: niedziela, 21 lutego 2027. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Zhubei City, Tajwan, niedziela, 21 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-02-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Zhubei City",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Praying for blessings at temples Ultra Run",
+  "registrationUrl": null,
+  "slug": "praying-for-blessings-at-temples-ultra-run-tw",
+  "source": {
+    "fetchedAt": "2026-09-19T22:20:02.078Z",
+    "id": "duv",
+    "ref": "116759",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=116759"
+  },
+  "start": {
+    "lat": 24.839682,
+    "lon": 121.004078,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": null
+}

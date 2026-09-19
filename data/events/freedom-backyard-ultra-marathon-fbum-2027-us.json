@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Freedom Backyard Ultra Marathon (FBUM 2027) is a ultramarathon. Location: Bourbon, United States. Date: Saturday, 5 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bourbon, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Freedom Backyard Ultra Marathon (FBUM 2027) to ultramaraton. Lokalizacja: Bourbon, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bourbon, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-19T22:19:06.847Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bourbon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Freedom Backyard Ultra Marathon (FBUM 2027)",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19806",
+  "slug": "freedom-backyard-ultra-marathon-fbum-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "id": "runraceusa",
+    "ref": "freedom-backyard-ultra-marathon-fbum-2027-mo",
+    "url": "https://ultrasignup.com/register.aspx?eid=19806"
+  },
+  "start": {
+    "lat": 38.18,
+    "lon": -91.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19806"
+}
