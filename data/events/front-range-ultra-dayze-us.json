@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-05T16:05:51.348Z",
-  "date": "2026-09-05",
+  "date": "2027-09-02",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "u50k"
   ],
   "endDate": null,
   "featured": false,
@@ -30,9 +30,9 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17139",
   "slug": "front-range-ultra-dayze-us",
   "source": {
-    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
-    "ref": "front-range-ultra-dayze-loveland-co",
+    "ref": "front-range-ultra-dayze-co",
     "url": "https://ultrasignup.com/register.aspx?eid=17139"
   },
   "start": {
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://ultrasignup.com/register.aspx?eid=17139"
 }

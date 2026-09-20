@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T16:05:51.348Z",
-  "date": "2026-09-05",
+  "date": "2027-09-04",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/FL/WinterPark/LaborDayTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "labor-day-triple-us",
   "source": {
-    "fetchedAt": "2026-09-05T16:05:58.822Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "labor-day-triple-fl",
     "url": "https://runsignup.com/Race/FL/WinterPark/LaborDayTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-05T16:05:51.348Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/FL/WinterPark/LaborDayTriple?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Herforder Highway Ultra - 108km is a ultramarathon. Location: Herford, Germany. Date: Sunday, 20 September 2026. Distances: 108 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Herford, Germany, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Herforder Highway Ultra - 108km to ultramaraton. Lokalizacja: Herford, Niemcy. Termin: niedziela, 20 września 2026. Dystanse: 108 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Herford, Niemcy, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "108 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Herford",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Herforder Highway Ultra - 108km",
+  "registrationUrl": null,
+  "slug": "herforder-highway-ultra-108km-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "122963",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122963"
+  },
+  "start": {
+    "lat": 52.115225,
+    "lon": 8.671112,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

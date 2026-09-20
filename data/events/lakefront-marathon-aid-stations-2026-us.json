@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lakefront Marathon Aid Stations 2026 is a road race. Location: Milwaukee, United States. Date: Sunday, 4 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Milwaukee, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Lakefront Marathon Aid Stations 2026 to bieg uliczny. Lokalizacja: Milwaukee, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Milwaukee, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Milwaukee",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Lakefront Marathon Aid Stations 2026",
+  "registrationUrl": "https://runsignup.com/Race/WI/Milwaukee/LakefrontMarathonWaterStops2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lakefront-marathon-aid-stations-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "lakefront-marathon-aid-stations-2026-wi",
+    "url": "https://runsignup.com/Race/WI/Milwaukee/LakefrontMarathonWaterStops2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.08,
+    "lon": -87.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/WI/Milwaukee/LakefrontMarathonWaterStops2018?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

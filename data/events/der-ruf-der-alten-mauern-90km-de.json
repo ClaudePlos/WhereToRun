@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Der Ruf der alten Mauern - 90km is a ultramarathon. Location: Isenburg, Germany. Date: Saturday, 26 September 2026. Distances: 90 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Isenburg, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Der Ruf der alten Mauern - 90km to ultramaraton. Lokalizacja: Isenburg, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 90 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Isenburg, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "90 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Isenburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Der Ruf der alten Mauern - 90km",
+  "registrationUrl": null,
+  "slug": "der-ruf-der-alten-mauern-90km-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "121605",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=121605"
+  },
+  "start": {
+    "lat": 50.475338,
+    "lon": 7.591768,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

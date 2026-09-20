@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Leinetal-Ultra Winter Edition is a ultramarathon. Location: Northeim, Germany. Date: Saturday, 23 January 2027. Distances: 66 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Northeim, Germany, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Leinetal-Ultra Winter Edition to ultramaraton. Lokalizacja: Northeim, Niemcy. Termin: sobota, 23 stycznia 2027. Dystanse: 66 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Northeim, Niemcy, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "66 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Northeim",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Leinetal-Ultra Winter Edition",
+  "registrationUrl": null,
+  "slug": "leinetal-ultra-winter-edition-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.786Z",
+    "id": "duv",
+    "ref": "135409",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135409"
+  },
+  "start": {
+    "lat": 51.705679,
+    "lon": 10.000424,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

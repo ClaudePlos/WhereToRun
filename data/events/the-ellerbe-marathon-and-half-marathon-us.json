@@ -28,17 +28,17 @@
   },
   "manual": false,
   "name": "The Ellerbe Marathon and Half Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5988",
+  "registrationUrl": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "the-ellerbe-marathon-and-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "the-ellerbe-marathon-and-half-marathon-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=5988"
+    "url": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 35.07,
-    "lon": -79.76,
+    "lat": 35.09,
+    "lon": -79.75,
     "name": null,
     "precision": "exact"
   },
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5988"
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

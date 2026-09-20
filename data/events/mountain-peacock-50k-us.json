@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Peacock 50k is a trail race. Location: Golden, United States. Date: Sunday, 15 November 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Golden, United States, Sunday, 15 November 2026"
+    },
+    "pl": {
+      "description": "Mountain Peacock 50k to bieg trailowy. Lokalizacja: Golden, Stany Zjednoczone. Termin: niedziela, 15 listopada 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Golden, Stany Zjednoczone, niedziela, 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Golden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Mountain Peacock 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17962",
+  "slug": "mountain-peacock-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "mountain-peacock-50k-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=17962"
+  },
+  "start": {
+    "lat": 39.76,
+    "lon": -105.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17962"
+}

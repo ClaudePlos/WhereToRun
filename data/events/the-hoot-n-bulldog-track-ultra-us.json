@@ -20,7 +20,7 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Mirimar",
+    "city": "Miramar",
     "country": "United States",
     "countryCode": "US",
     "region": "FL"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17510",
   "slug": "the-hoot-n-bulldog-track-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "the-hoot-n-bulldog-track-ultra-fl",
     "url": "https://ultrasignup.com/register.aspx?eid=17510"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://ultrasignup.com/register.aspx?eid=17510"
 }

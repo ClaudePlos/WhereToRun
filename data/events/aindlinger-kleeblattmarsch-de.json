@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Aindlinger Kleeblattmarsch is a ultramarathon. Location: Aindling, Germany. Date: 26 September 2026 – 27 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Aindling, Germany, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Aindlinger Kleeblattmarsch to ultramaraton. Lokalizacja: Aindling, Niemcy. Termin: 26 września 2026 – 27 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Aindling, Niemcy, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aindling",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Aindlinger Kleeblattmarsch",
+  "registrationUrl": null,
+  "slug": "aindlinger-kleeblattmarsch-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "130578",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130578"
+  },
+  "start": {
+    "lat": 48.512153,
+    "lon": 10.952816,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

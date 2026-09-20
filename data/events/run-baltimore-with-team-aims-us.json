@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Baltimore with Team AIMS is a road race. Location: Baltimore, United States. Date: Saturday, 17 October 2026. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Baltimore, United States, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Run Baltimore with Team AIMS to bieg uliczny. Lokalizacja: Baltimore, Stany Zjednoczone. Termin: sobota, 17 października 2026. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Baltimore, Stany Zjednoczone, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Baltimore",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Run Baltimore with Team AIMS",
+  "registrationUrl": "https://runsignup.com/Race/MD/Baltimore/runbaltimorewithAIMS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-baltimore-with-team-aims-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "run-baltimore-with-team-aims-md",
+    "url": "https://runsignup.com/Race/MD/Baltimore/runbaltimorewithAIMS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.26,
+    "lon": -76.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/MD/Baltimore/runbaltimorewithAIMS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

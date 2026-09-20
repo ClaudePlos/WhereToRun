@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "West of the River Series (June Jaunt, The Potato Run, and Barbecue Bash Quarters) is a road race. Location: Rochester, United States. Date: Sunday, 1 November 2026. Distances: 5 km, 10 km, 21.1 km, other, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rochester, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "West of the River Series (June Jaunt, The Potato Run, and Barbecue Bash Quarters) to bieg uliczny. Lokalizacja: Rochester, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, other, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rochester, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "other",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rochester",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "West of the River Series (June Jaunt, The Potato Run, and Barbecue Bash Quarters)",
+  "registrationUrl": "https://runsignup.com/Race/NY/Rochester/WestoftheRiverSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "west-of-the-river-series-june-jaunt-the-potato-run-and-barbecue-bash-quarters-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "west-of-the-river-series-june-jaunt-the-potato-run-and-barbecue-bash",
+    "url": "https://runsignup.com/Race/NY/Rochester/WestoftheRiverSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.21,
+    "lon": -77.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/NY/Rochester/WestoftheRiverSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

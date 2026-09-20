@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T16:17:46.960Z",
-  "date": "2026-09-13",
+  "date": "2026-10-04",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/UT/MountainGreen/VirtualRaceMe?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "virtual-race-me-us",
   "source": {
-    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "virtual-race-me-ut",
     "url": "https://runsignup.com/Race/UT/MountainGreen/VirtualRaceMe?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/UT/MountainGreen/VirtualRaceMe?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "White River Marathon (Half & 5K) for Kenya is a road race. Location: Cotter, United States. Date: Saturday, 21 November 2026. Distances: 5 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cotter, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "White River Marathon (Half & 5K) for Kenya to bieg uliczny. Lokalizacja: Cotter, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 5 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cotter, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cotter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "White River Marathon (Half & 5K) for Kenya",
+  "registrationUrl": "https://raceroster.com/events/2026/141564/white-river-marathon-half-and-5k-for-kenya",
+  "slug": "white-river-marathon-half-5k-for-kenya-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "white-river-marathon-half-5k-for-kenya-ar",
+    "url": "https://raceroster.com/events/2026/141564/white-river-marathon-half-and-5k-for-kenya"
+  },
+  "start": {
+    "lat": 36.27,
+    "lon": -92.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://raceroster.com/events/2026/141564/white-river-marathon-half-and-5k-for-kenya"
+}

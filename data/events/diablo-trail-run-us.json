@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T22:03:13.980Z",
-  "date": "2026-09-06",
+  "date": "2027-05-23",
   "dateStatus": "confirmed",
   "distances": [
     "other",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/Clayton/DiabloTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "diablo-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "diablo-trail-run-ca",
     "url": "https://runsignup.com/Race/CA/Clayton/DiabloTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/CA/Clayton/DiabloTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

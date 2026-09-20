@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sublett Point 50K, 25K, 5K is a road race. Location: Gurley, United States. Date: Saturday, 24 October 2026. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gurley, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Sublett Point 50K, 25K, 5K to bieg uliczny. Lokalizacja: Gurley, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gurley, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gurley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Sublett Point 50K, 25K, 5K",
+  "registrationUrl": "https://runsignup.com/Race/AL/Gurley/HuntsvilleRunfest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sublett-point-50k-25k-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "sublett-point-50k-25k-5k-al",
+    "url": "https://runsignup.com/Race/AL/Gurley/HuntsvilleRunfest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.71,
+    "lon": -86.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/AL/Gurley/HuntsvilleRunfest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

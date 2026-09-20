@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Marine Corps Marathon is a road race. Location: Arlington, United States. Date: Sunday, 25 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Arlington, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Marine Corps Marathon to bieg uliczny. Lokalizacja: Arlington, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Arlington, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Arlington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Marine Corps Marathon",
+  "registrationUrl": "https://register.hakuapp.com/?event=4aa49b89288a6107e296",
+  "slug": "marine-corps-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "marine-corps-marathon-va",
+    "url": "https://register.hakuapp.com/?event=4aa49b89288a6107e296"
+  },
+  "start": {
+    "lat": 38.87966,
+    "lon": -77.06012,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://register.hakuapp.com/?event=4aa49b89288a6107e296"
+}

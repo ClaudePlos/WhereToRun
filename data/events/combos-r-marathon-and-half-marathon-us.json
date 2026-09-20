@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km"
+    "21.1 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "combos-r-marathon-and-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "combos-r-marathon-and-half-marathon-ga",
     "url": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/GA/Albany/SNICKERSMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

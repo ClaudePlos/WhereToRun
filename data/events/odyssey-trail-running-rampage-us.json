@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T11:05:36.029Z",
-  "date": "2026-09-12",
+  "date": "2027-09-11",
   "dateStatus": "confirmed",
   "distances": [
     "u50k",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/VA/Millboro/OdysseyTrailRunningRampage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "odyssey-trail-running-rampage-us",
   "source": {
-    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "odyssey-trail-running-rampage-va",
     "url": "https://runsignup.com/Race/VA/Millboro/OdysseyTrailRunningRampage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/VA/Millboro/OdysseyTrailRunningRampage?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fernsehturm Steinegge Ultra is a ultramarathon. Location: Dissen, Germany. Date: Friday, 25 September 2026. Distances: 45.3 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dissen, Germany, Friday, 25 September 2026"
+    },
+    "pl": {
+      "description": "Fernsehturm Steinegge Ultra to ultramaraton. Lokalizacja: Dissen, Niemcy. Termin: piątek, 25 września 2026. Dystanse: 45.3 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dissen, Niemcy, piątek, 25 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dissen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fernsehturm Steinegge Ultra",
+  "registrationUrl": null,
+  "slug": "fernsehturm-steinegge-ultra-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "135332",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135332"
+  },
+  "start": {
+    "lat": 52.115417,
+    "lon": 8.203614,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

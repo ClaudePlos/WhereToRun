@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Seiz Up: A Run for Epilepsy Awareness is a road race. Location: Gulf Breeze, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gulf Breeze, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Seiz Up: A Run for Epilepsy Awareness to bieg uliczny. Lokalizacja: Gulf Breeze, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gulf Breeze, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gulf Breeze",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Seiz Up: A Run for Epilepsy Awareness",
+  "registrationUrl": "https://runsignup.com/Race/FL/GulfBreeze/SeizUpEpilepsyAwarenessRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "seiz-up-a-run-for-epilepsy-awareness-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "seiz-up-a-run-for-epilepsy-awareness-fl",
+    "url": "https://runsignup.com/Race/FL/GulfBreeze/SeizUpEpilepsyAwarenessRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.36,
+    "lon": -87.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/FL/GulfBreeze/SeizUpEpilepsyAwarenessRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

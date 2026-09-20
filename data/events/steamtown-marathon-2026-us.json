@@ -10,10 +10,11 @@
     }
   },
   "createdAt": "2026-09-08T22:38:34.998Z",
-  "date": "2026-10-11",
+  "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
-    "42.2 km"
+    "42.2 km",
+    "other"
   ],
   "endDate": null,
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "steamtown-marathon-2026-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "steamtown-marathon-2026-pa",
     "url": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/PA/Scranton/SteamtownMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

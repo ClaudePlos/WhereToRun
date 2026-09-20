@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Indianapolis Monumental Marathon is a road race. Location: Indianapolis, United States. Date: Saturday, 7 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Indianapolis, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Indianapolis Monumental Marathon to bieg uliczny. Lokalizacja: Indianapolis, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Indianapolis, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Indianapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Indianapolis Monumental Marathon",
+  "registrationUrl": "https://register.hakuapp.com/?event=202a379403ba7f27cb23",
+  "slug": "indianapolis-monumental-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "indianapolis-monumental-marathon-in",
+    "url": "https://register.hakuapp.com/?event=202a379403ba7f27cb23"
+  },
+  "start": {
+    "lat": 39.76427,
+    "lon": -86.16702,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://register.hakuapp.com/?event=202a379403ba7f27cb23"
+}

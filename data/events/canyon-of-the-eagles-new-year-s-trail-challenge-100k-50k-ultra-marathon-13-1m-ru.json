@@ -18,8 +18,8 @@
     "ultra",
     "other",
     "21.1 km",
-    "10 km",
-    "5 km"
+    "5 km",
+    "10 km"
   ],
   "endDate": null,
   "featured": false,
@@ -32,11 +32,11 @@
     "region": "TX"
   },
   "manual": false,
-  "name": "Canyon of the Eagles New Year's Trail Challenge · (100K & 50K ULTRA, Marathon, 13.1M Run & Ruck, 10K & 5K • Last Standing)",
+  "name": "Canyon of the Eagles New Year's Trail Challenge · 100K & 50K ULTRA, Marathon, 13.1M Run & Ruck, 10K, 5K • Last Runner Standing",
   "registrationUrl": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "canyon-of-the-eagles-new-year-s-trail-challenge-100k-50k-ultra-marathon-13-1m-ru",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:21.524Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "canyon-of-the-eagles-new-year-s-trail-challenge-100k-50k-ultra",
     "url": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -52,6 +52,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/TX/Burnet/NorthlakeshoreTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

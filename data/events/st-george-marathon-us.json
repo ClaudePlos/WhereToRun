@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "St. George Marathon is a road race. Location: St. George, United States. Date: Saturday, 3 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — St. George, United States, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "St. George Marathon to bieg uliczny. Lokalizacja: St. George, Stany Zjednoczone. Termin: sobota, 3 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — St. George, Stany Zjednoczone, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. George",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "St. George Marathon",
+  "registrationUrl": "https://events.hakuapp.com/events/47fc1f7fac107df69384/registration_options",
+  "slug": "st-george-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "st-george-marathon-ut",
+    "url": "https://events.hakuapp.com/events/47fc1f7fac107df69384/registration_options"
+  },
+  "start": {
+    "lat": 37.4208,
+    "lon": -113.63129,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://events.hakuapp.com/events/47fc1f7fac107df69384/registration_options"
+}

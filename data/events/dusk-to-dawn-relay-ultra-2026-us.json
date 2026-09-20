@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dusk to Dawn Relay + Ultra 2026 is a ultramarathon. Location: Wendover, United States. Date: Saturday, 31 October 2026. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wendover, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Dusk to Dawn Relay + Ultra 2026 to ultramaraton. Lokalizacja: Wendover, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wendover, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wendover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Dusk to Dawn Relay + Ultra 2026",
+  "registrationUrl": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dusk-to-dawn-relay-ultra-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "dusk-to-dawn-relay-ultra-2026-ut",
+    "url": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.74,
+    "lon": -114.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

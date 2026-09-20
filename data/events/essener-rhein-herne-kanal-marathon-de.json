@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Essener Rhein-Herne-Kanal Marathon is a ultramarathon. Location: Essen, Germany. Date: Sunday, 20 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Essen, Germany, Sunday, 20 September 2026"
+    },
+    "pl": {
+      "description": "Essener Rhein-Herne-Kanal Marathon to ultramaraton. Lokalizacja: Essen, Niemcy. Termin: niedziela, 20 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Essen, Niemcy, niedziela, 20 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Essen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Essener Rhein-Herne-Kanal Marathon",
+  "registrationUrl": null,
+  "slug": "essener-rhein-herne-kanal-marathon-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "133485",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133485"
+  },
+  "start": {
+    "lat": 51.458224,
+    "lon": 7.015817,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

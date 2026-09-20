@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Golden Marathon Outdoor Hiking is a road race. Location: See description for location, United States. Date: Monday, 5 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — See description for location, United States, Monday, 5 October 2026"
+    },
+    "pl": {
+      "description": "Golden Marathon Outdoor Hiking to bieg uliczny. Lokalizacja: See description for location, Stany Zjednoczone. Termin: poniedziałek, 5 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — See description for location, Stany Zjednoczone, poniedziałek, 5 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "See description for location",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Golden Marathon Outdoor Hiking",
+  "registrationUrl": "http://www.active.com/delaware-county-oh/running/distance-running-classes/golden-marathon-outdoor-hiking-2026-110685165",
+  "slug": "golden-marathon-outdoor-hiking-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "golden-marathon-outdoor-hiking-oh",
+    "url": "http://www.active.com/delaware-county-oh/running/distance-running-classes/golden-marathon-outdoor-hiking-2026-110685165"
+  },
+  "start": {
+    "lat": 40.29,
+    "lon": -83.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "http://www.active.com/delaware-county-oh/running/distance-running-classes/golden-marathon-outdoor-hiking-2026-110685165"
+}

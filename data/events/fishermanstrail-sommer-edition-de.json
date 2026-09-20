@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fishermanstrail - Sommer Edition is a ultramarathon. Location: Alt Schwerin, Germany. Date: Saturday, 26 September 2026. Distances: 58 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Alt Schwerin, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Fishermanstrail - Sommer Edition to ultramaraton. Lokalizacja: Alt Schwerin, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 58 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Alt Schwerin, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "58 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alt Schwerin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fishermanstrail - Sommer Edition",
+  "registrationUrl": null,
+  "slug": "fishermanstrail-sommer-edition-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "123967",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123967"
+  },
+  "start": {
+    "lat": 53.513319,
+    "lon": 12.353353,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}

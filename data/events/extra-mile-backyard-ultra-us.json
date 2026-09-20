@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Extra Mile Backyard Ultra is a ultramarathon. Location: Durham, United States. Date: Saturday, 31 October 2026. Distances: other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Durham, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Extra Mile Backyard Ultra to ultramaraton. Lokalizacja: Durham, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Durham, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Durham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Extra Mile Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/NC/Durham/ExtraMileBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "extra-mile-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "extra-mile-backyard-ultra-nc",
+    "url": "https://runsignup.com/Race/NC/Durham/ExtraMileBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.91,
+    "lon": -78.92,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/NC/Durham/ExtraMileBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

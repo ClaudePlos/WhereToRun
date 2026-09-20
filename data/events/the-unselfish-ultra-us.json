@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Unselfish Ultra is a ultramarathon. Location: Golden, United States. Date: Saturday, 7 November 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Golden, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Unselfish Ultra to ultramaraton. Lokalizacja: Golden, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Golden, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Golden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "The Unselfish Ultra",
+  "registrationUrl": "https://runsignup.com/Race/CO/Golden/TheUnselfishUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-unselfish-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "the-unselfish-ultra-co",
+    "url": "https://runsignup.com/Race/CO/Golden/TheUnselfishUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.73,
+    "lon": -105.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/CO/Golden/TheUnselfishUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

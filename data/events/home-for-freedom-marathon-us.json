@@ -32,14 +32,14 @@
   "registrationUrl": "https://runsignup.com/Race/TX/WichitaFalls/FreedomMarathonChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "home-for-freedom-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "home-for-freedom-marathon-tx",
     "url": "https://runsignup.com/Race/TX/WichitaFalls/FreedomMarathonChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 33.86,
-    "lon": -98.49,
+    "lon": -98.53,
     "name": null,
     "precision": "exact"
   },
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
   "website": "https://runsignup.com/Race/TX/WichitaFalls/FreedomMarathonChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

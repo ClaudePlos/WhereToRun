@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Medtronic Twin Cities Marathon is a road race. Location: Minneapolis, United States. Date: Sunday, 4 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Minneapolis, United States, Sunday, 4 October 2026"
+    },
+    "pl": {
+      "description": "Medtronic Twin Cities Marathon to bieg uliczny. Lokalizacja: Minneapolis, Stany Zjednoczone. Termin: niedziela, 4 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Minneapolis, Stany Zjednoczone, niedziela, 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Minneapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Medtronic Twin Cities Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/108147/2026-medtronic-twin-cities-marathon-weekend",
+  "slug": "medtronic-twin-cities-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "medtronic-twin-cities-marathon-mn",
+    "url": "https://raceroster.com/events/2026/108147/2026-medtronic-twin-cities-marathon-weekend"
+  },
+  "start": {
+    "lat": 44.97441,
+    "lon": -93.26328,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://raceroster.com/events/2026/108147/2026-medtronic-twin-cities-marathon-weekend"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ENCP All Month Marathon is a road race. Location: Naples, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Naples, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "ENCP All Month Marathon to bieg uliczny. Lokalizacja: Naples, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Naples, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Naples",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "ENCP All Month Marathon",
+  "registrationUrl": "http://www.active.com/naples-fl/running/distance-running-classes/encp-all-month-marathon-2026",
+  "slug": "encp-all-month-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "encp-all-month-marathon-fl",
+    "url": "http://www.active.com/naples-fl/running/distance-running-classes/encp-all-month-marathon-2026"
+  },
+  "start": {
+    "lat": 26.11,
+    "lon": -81.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "http://www.active.com/naples-fl/running/distance-running-classes/encp-all-month-marathon-2026"
+}

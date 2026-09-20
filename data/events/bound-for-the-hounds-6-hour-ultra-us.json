@@ -20,24 +20,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Shortsville",
+    "city": "Canandaigua",
     "country": "United States",
     "countryCode": "US",
     "region": "NY"
   },
   "manual": false,
   "name": "Bound for the Hounds 6 Hour Ultra",
-  "registrationUrl": "https://runsignup.com/Race/NY/Shortsville/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bound-for-the-hounds-6-hour-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
     "id": "runraceusa",
     "ref": "bound-for-the-hounds-6-hour-ultra-ny",
-    "url": "https://runsignup.com/Race/NY/Shortsville/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 42.98,
-    "lon": -77.24,
+    "lat": 42.87,
+    "lon": -77.28,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://runsignup.com/Race/NY/Shortsville/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

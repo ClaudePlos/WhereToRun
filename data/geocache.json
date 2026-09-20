@@ -677,6 +677,18 @@
   "CZ|zlin city": {
     "at": "2026-09-04T11:30:01.450Z"
   },
+  "DE|aindling": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 48.5121525,
+    "lon": 10.9528155,
+    "name": "Aindling, Landkreis Aichach-Friedberg, Bayern, 86447, Deutschland"
+  },
+  "DE|alt schwerin": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 53.5133185,
+    "lon": 12.353353,
+    "name": "Alt Schwerin, Malchow, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland"
+  },
   "DE|berlin": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 52.5173885,
@@ -694,6 +706,42 @@
     "lat": 51.9458943,
     "lon": 7.1691108,
     "name": "Coesfeld, Kreis Coesfeld, Nordrhein-Westfalen, 48653, Deutschland"
+  },
+  "DE|dissen": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 52.1154165,
+    "lon": 8.2036142,
+    "name": "Dissen, Dissen am Teutoburger Wald, Landkreis Osnabrück, Niedersachsen, 49201, Deutschland"
+  },
+  "DE|duggendorf": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 49.1103904,
+    "lon": 11.9310296,
+    "name": "Duggendorf, Kallmünz (VGem), Landkreis Regensburg, Bayern, Deutschland"
+  },
+  "DE|essen": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 51.4582235,
+    "lon": 7.0158171,
+    "name": "Essen, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|herford": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 52.1152245,
+    "lon": 8.6711118,
+    "name": "Herford, Kreis Herford, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|ibbenbüren": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 52.2774772,
+    "lon": 7.7151417,
+    "name": "Ibbenbüren, Kreis Steinfurt, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|isenburg": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 50.4753376,
+    "lon": 7.5917684,
+    "name": "Isenburg, Dierdorf, Landkreis Neuwied, Rheinland-Pfalz, Deutschland"
   },
   "DE|kaiserslautern": {
     "at": "2026-09-12T10:56:17.596Z",
@@ -713,11 +761,23 @@
     "lon": 11.5753822,
     "name": "München, Bayern, Deutschland"
   },
+  "DE|northeim": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 51.7056794,
+    "lon": 10.0004239,
+    "name": "Northeim, Landkreis Northeim, Niedersachsen, 37154, Deutschland"
+  },
   "DE|oldenburg/holstein": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 54.2922574,
     "lon": 10.8809805,
     "name": "Oldenburg in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23758, Deutschland"
+  },
+  "DE|schwarme": {
+    "at": "2026-09-20T16:48:23.963Z",
+    "lat": 52.8991792,
+    "lon": 9.018542,
+    "name": "Schwarme, Samtgemeinde Bruchhausen-Vilsen, Landkreis Diepholz, Niedersachsen, Deutschland"
   },
   "DE|sprockhövel": {
     "at": "2026-09-12T10:56:17.596Z",

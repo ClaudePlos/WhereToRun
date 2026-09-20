@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Detroit Marathon Pre & Post-Race Sanctuary at the Fort Pontchartrain Hotel Downtown  Presented By 501 Running Club In Partnership With Fleet Feet is a road race. Location: Detroit, United States. Date: Sunday, 18 October 2026. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Detroit, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Detroit Marathon Pre & Post-Race Sanctuary at the Fort Pontchartrain Hotel Downtown  Presented By 501 Running Club In Partnership With Fleet Feet to bieg uliczny. Lokalizacja: Detroit, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Detroit, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Detroit",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Detroit Marathon Pre & Post-Race Sanctuary at the Fort Pontchartrain Hotel Downtown  Presented By 501 Running Club In Partnership With Fleet Feet",
+  "registrationUrl": "https://runsignup.com/Race/MI/Detroit/DetroitMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "detroit-marathon-pre-post-race-sanctuary-at-the-fort-pontchartrain-hotel-downtow",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "detroit-marathon-pre-post-race-sanctuary-at-the-fort-pontchartrain",
+    "url": "https://runsignup.com/Race/MI/Detroit/DetroitMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.33,
+    "lon": -83.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://runsignup.com/Race/MI/Detroit/DetroitMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

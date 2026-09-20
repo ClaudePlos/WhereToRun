@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "FirstEnergy Akron Marathon is a road race. Location: Akron, United States. Date: Saturday, 26 September 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Akron, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "FirstEnergy Akron Marathon to bieg uliczny. Lokalizacja: Akron, Stany Zjednoczone. Termin: sobota, 26 września 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Akron, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Akron",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "FirstEnergy Akron Marathon",
+  "registrationUrl": "https://www.akronmarathon.org/race-series/akron-marathon/",
+  "slug": "firstenergy-akron-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "id": "runraceusa",
+    "ref": "firstenergy-akron-marathon-oh",
+    "url": "https://www.akronmarathon.org/race-series/akron-marathon/"
+  },
+  "start": {
+    "lat": 41.0844,
+    "lon": -81.5158,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": "https://www.akronmarathon.org/race-series/akron-marathon/"
+}

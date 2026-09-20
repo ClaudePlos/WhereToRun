@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kallmünzer Heppl-Backyard-Ultra (HBU) is a ultramarathon. Location: Duggendorf, Germany. Date: 26 September 2026 – 27 September 2026. Distances: 20 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Duggendorf, Germany, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Kallmünzer Heppl-Backyard-Ultra (HBU) to ultramaraton. Lokalizacja: Duggendorf, Niemcy. Termin: 26 września 2026 – 27 września 2026. Dystanse: 20 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Duggendorf, Niemcy, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T16:48:23.963Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "20 h"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duggendorf",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kallmünzer Heppl-Backyard-Ultra (HBU)",
+  "registrationUrl": null,
+  "slug": "kallmunzer-heppl-backyard-ultra-hbu-de",
+  "source": {
+    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "id": "duv",
+    "ref": "131331",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131331"
+  },
+  "start": {
+    "lat": 49.11039,
+    "lon": 11.93103,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "website": null
+}
