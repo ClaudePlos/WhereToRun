@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-20T16:48:23.963Z",
-  "date": "2026-12-28",
+  "date": "2026-09-26",
   "dateStatus": "confirmed",
   "distances": [
     "45.6 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "dorenther-klippen-ultratrail-de",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:41.786Z",
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
     "id": "duv",
-    "ref": "134360",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134360"
+    "ref": "135188",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135188"
   },
   "start": {
     "lat": 52.277477,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
   "website": null
 }

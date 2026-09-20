@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountainman Reit im Winkl is a ultramarathon. Location: Reit im Winkl, Germany. Date: Saturday, 26 September 2026. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Reit im Winkl, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Mountainman Reit im Winkl to ultramaraton. Lokalizacja: Reit im Winkl, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Reit im Winkl, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "73 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Reit im Winkl",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mountainman Reit im Winkl",
+  "registrationUrl": null,
+  "slug": "mountainman-reit-im-winkl-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "id": "duv",
+    "ref": "132584",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132584"
+  },
+  "start": {
+    "lat": 47.667241,
+    "lon": 12.525651,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

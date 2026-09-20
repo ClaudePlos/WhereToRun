@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail Ultra Marathon Relay | IRONHIKE DOUBLE KUWOHI - TRAIL FAMILY FLEX RELAY | Amicalola Falls State Park, Georgia | Team of 3-4 Athletes | 33 Miles | 24 Hour | Next Step | Run, Power Hike, Walk. | 13,288 feet of elevation gain and loss split across a 3 to 4 person Trail Family, up and down 604 stairs per lap for a total of 26,576 stairs on the AT Approach Trail staircase above Amicalola Falls. This is the next step after your first summit, built for your crew. We are redefining race day. is a ultramarathon. Location: Dawsonville, United States. Date: Saturday, 12 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dawsonville, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Trail Ultra Marathon Relay | IRONHIKE DOUBLE KUWOHI - TRAIL FAMILY FLEX RELAY | Amicalola Falls State Park, Georgia | Team of 3-4 Athletes | 33 Miles | 24 Hour | Next Step | Run, Power Hike, Walk. | 13,288 feet of elevation gain and loss split across a 3 to 4 person Trail Family, up and down 604 stairs per lap for a total of 26,576 stairs on the AT Approach Trail staircase above Amicalola Falls. This is the next step after your first summit, built for your crew. We are redefining race day. to ultramaraton. Lokalizacja: Dawsonville, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dawsonville, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dawsonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Trail Ultra Marathon Relay | IRONHIKE DOUBLE KUWOHI - TRAIL FAMILY FLEX RELAY | Amicalola Falls State Park, Georgia | Team of 3-4 Athletes | 33 Miles | 24 Hour | Next Step | Run, Power Hike, Walk. | 13,288 feet of elevation gain and loss split across a 3 to 4 person Trail Family, up and down 604 stairs per lap for a total of 26,576 stairs on the AT Approach Trail staircase above Amicalola Falls. This is the next step after your first summit, built for your crew. We are redefining race day.",
+  "registrationUrl": "https://runsignup.com/Race/GA/Dawsonville/IronHikeDoubleKuwohiFallTrailFamilyRelayGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "trail-ultra-marathon-relay-ironhike-double-kuwohi-trail-family-flex-relay-amical",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "trail-ultra-marathon-relay-ironhike-double-kuwohi-trail-family-flex",
+    "url": "https://runsignup.com/Race/GA/Dawsonville/IronHikeDoubleKuwohiFallTrailFamilyRelayGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.45,
+    "lon": -84.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/GA/Dawsonville/IronHikeDoubleKuwohiFallTrailFamilyRelayGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

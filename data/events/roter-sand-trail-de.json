@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Roter-Sand-Trail is a ultramarathon. Location: Harthausen, Germany. Date: Saturday, 26 September 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Harthausen, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Roter-Sand-Trail to ultramaraton. Lokalizacja: Harthausen, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Harthausen, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Harthausen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Roter-Sand-Trail",
+  "registrationUrl": null,
+  "slug": "roter-sand-trail-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "id": "duv",
+    "ref": "122834",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122834"
+  },
+  "start": {
+    "lat": 49.295303,
+    "lon": 8.345653,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

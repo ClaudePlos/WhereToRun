@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Penter Egge Ultra is a ultramarathon. Location: Bramsche, Germany. Date: Saturday, 26 September 2026. Distances: 48 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bramsche, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Penter Egge Ultra to ultramaraton. Lokalizacja: Bramsche, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 48 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bramsche, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bramsche",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Penter Egge Ultra",
+  "registrationUrl": null,
+  "slug": "penter-egge-ultra-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "id": "duv",
+    "ref": "133832",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133832"
+  },
+  "start": {
+    "lat": 52.420062,
+    "lon": 8.011856,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

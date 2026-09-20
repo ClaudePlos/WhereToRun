@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Man Standing Ultra | IRONHIKE ANSWER THE BELL - FULL SOLO | Amicalola Falls State Park, Georgia | 126 Miles | 84 Hour | Every Hour Counts | Run, Power Hike, Walk. | 50,736 feet of elevation gain and loss up and down 604 stairs, for a total of 101,472 stairs on the AT Approach Trail staircase above Amicalola Falls. This is on the hour, every hour, until only one Mountain Athlete remains. We are redefining race day. is a ultramarathon. Location: Dawsonville, United States. Date: Wednesday, 9 December 2026. Distances: u100p. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dawsonville, United States, Wednesday, 9 December 2026"
+    },
+    "pl": {
+      "description": "Last Man Standing Ultra | IRONHIKE ANSWER THE BELL - FULL SOLO | Amicalola Falls State Park, Georgia | 126 Miles | 84 Hour | Every Hour Counts | Run, Power Hike, Walk. | 50,736 feet of elevation gain and loss up and down 604 stairs, for a total of 101,472 stairs on the AT Approach Trail staircase above Amicalola Falls. This is on the hour, every hour, until only one Mountain Athlete remains. We are redefining race day. to ultramaraton. Lokalizacja: Dawsonville, Stany Zjednoczone. Termin: środa, 9 grudnia 2026. Dystanse: u100p. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dawsonville, Stany Zjednoczone, środa, 9 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dawsonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Last Man Standing Ultra | IRONHIKE ANSWER THE BELL - FULL SOLO | Amicalola Falls State Park, Georgia | 126 Miles | 84 Hour | Every Hour Counts | Run, Power Hike, Walk. | 50,736 feet of elevation gain and loss up and down 604 stairs, for a total of 101,472 stairs on the AT Approach Trail staircase above Amicalola Falls. This is on the hour, every hour, until only one Mountain Athlete remains. We are redefining race day.",
+  "registrationUrl": "https://runsignup.com/Race/GA/Dawsonville/IronHikeAnswerTheBellFullFallGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-man-standing-ultra-ironhike-answer-the-bell-full-solo-amicalola-falls-state",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "last-man-standing-ultra-ironhike-answer-the-bell-full-solo-amicalola",
+    "url": "https://runsignup.com/Race/GA/Dawsonville/IronHikeAnswerTheBellFullFallGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.45,
+    "lon": -84.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/GA/Dawsonville/IronHikeAnswerTheBellFullFallGA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

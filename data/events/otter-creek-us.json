@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Otter Creek is a road race. Location: Brandenburg, United States. Date: Saturday, 19 December 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brandenburg, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Otter Creek to bieg uliczny. Lokalizacja: Brandenburg, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brandenburg, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brandenburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Otter Creek",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3191",
+  "slug": "otter-creek-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "otter-creek-ky",
+    "url": "https://ultrasignup.com/register.aspx?eid=3191"
+  },
+  "start": {
+    "lat": 37.94,
+    "lon": -86.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3191"
+}

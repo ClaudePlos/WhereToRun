@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Spitzen Ultra is a ultramarathon. Location: Bramsche, Germany. Date: Saturday, 24 October 2026. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bramsche, Germany, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Spitzen Ultra to ultramaraton. Lokalizacja: Bramsche, Niemcy. Termin: sobota, 24 października 2026. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bramsche, Niemcy, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bramsche",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Spitzen Ultra",
+  "registrationUrl": null,
+  "slug": "spitzen-ultra-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.434Z",
+    "id": "duv",
+    "ref": "133831",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133831"
+  },
+  "start": {
+    "lat": 52.420062,
+    "lon": 8.011856,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Blackhorse Marathon in Honor of MG(R) Sunell is a road race. Location: Fort Irwin, United States. Date: Friday, 11 December 2026. Distances: other, 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Irwin, United States, Friday, 11 December 2026"
+    },
+    "pl": {
+      "description": "The Blackhorse Marathon in Honor of MG(R) Sunell to bieg uliczny. Lokalizacja: Fort Irwin, Stany Zjednoczone. Termin: piątek, 11 grudnia 2026. Dystanse: other, 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Irwin, Stany Zjednoczone, piątek, 11 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Irwin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "The Blackhorse Marathon in Honor of MG(R) Sunell",
+  "registrationUrl": "https://runsignup.com/Race/CA/FortIrwin/TheBlackhorseMarathonInHonorOfMGRSunell?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-blackhorse-marathon-in-honor-of-mg-r-sunell-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "the-blackhorse-marathon-in-honor-of-mg-r-sunell-ca",
+    "url": "https://runsignup.com/Race/CA/FortIrwin/TheBlackhorseMarathonInHonorOfMGRSunell?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.26,
+    "lon": -116.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/CA/FortIrwin/TheBlackhorseMarathonInHonorOfMGRSunell?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

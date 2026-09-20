@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Run the River Ultra is a ultramarathon. Location: Williamsburg, United States. Date: Saturday, 5 December 2026. Distances: u50m, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Williamsburg, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Run the River Ultra to ultramaraton. Lokalizacja: Williamsburg, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u50m, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Williamsburg, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Run the River Ultra",
+  "registrationUrl": "https://runsignup.com/Race/VA/Williamsburg/RunTheRiver517?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-the-river-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "run-the-river-ultra-va",
+    "url": "https://runsignup.com/Race/VA/Williamsburg/RunTheRiver517?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.27,
+    "lon": -76.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/VA/Williamsburg/RunTheRiver517?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

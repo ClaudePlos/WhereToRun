@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fullestrand-Ultramarathon is a ultramarathon. Location: Kassel, Germany. Date: Saturday, 26 September 2026. Distances: 46.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kassel, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Fullestrand-Ultramarathon to ultramaraton. Lokalizacja: Kassel, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 46.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kassel, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kassel",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fullestrand-Ultramarathon",
+  "registrationUrl": null,
+  "slug": "fullestrand-ultramarathon-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "id": "duv",
+    "ref": "135330",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135330"
+  },
+  "start": {
+    "lat": 51.315783,
+    "lon": 9.497848,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

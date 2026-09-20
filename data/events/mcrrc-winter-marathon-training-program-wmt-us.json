@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MCRRC Winter Marathon Training Program (WMT) is a road race. Location: Rockville, United States. Date: Wednesday, 2 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rockville, United States, Wednesday, 2 December 2026"
+    },
+    "pl": {
+      "description": "MCRRC Winter Marathon Training Program (WMT) to bieg uliczny. Lokalizacja: Rockville, Stany Zjednoczone. Termin: środa, 2 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rockville, Stany Zjednoczone, środa, 2 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "MCRRC Winter Marathon Training Program (WMT)",
+  "registrationUrl": "https://runsignup.com/Race/MD/Rockville/MCRRCAdvancedMarathonTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mcrrc-winter-marathon-training-program-wmt-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "mcrrc-winter-marathon-training-program-wmt-md",
+    "url": "https://runsignup.com/Race/MD/Rockville/MCRRCAdvancedMarathonTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.09,
+    "lon": -77.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/MD/Rockville/MCRRCAdvancedMarathonTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

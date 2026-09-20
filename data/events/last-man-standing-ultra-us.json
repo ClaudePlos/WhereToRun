@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Man Standing Ultra is a ultramarathon. Location: Willis, United States. Date: Saturday, 5 December 2026. Distances: 5 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Willis, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Last Man Standing Ultra to ultramaraton. Lokalizacja: Willis, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 5 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Willis, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Willis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Last Man Standing Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/Willis/TheLastManStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-man-standing-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "last-man-standing-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/Willis/TheLastManStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.44,
+    "lon": -95.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/TX/Willis/TheLastManStanding?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

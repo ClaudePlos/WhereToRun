@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-01-16",
+  "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -30,13 +30,13 @@
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 NYC",
-  "registrationUrl": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-nyc-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
     "id": "runraceusa",
     "ref": "sunrise-marathon-5k-10k-13-1-nyc-new-york-city-ny-2027-03-20",
-    "url": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 40.75,
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/NY/NewYorkCity/SunriseMarathon5K10KNYC320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

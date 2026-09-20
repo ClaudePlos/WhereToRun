@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Hawaii Kai Ultra Run - Kalama Valley 2026 is a ultramarathon. Location: Honolulu, United States. Date: Saturday, 19 December 2026. Distances: 21.1 km, other, 42.2 km, u50k, u50m, u100k, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Honolulu, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Hawaii Kai Ultra Run - Kalama Valley 2026 to ultramaraton. Lokalizacja: Honolulu, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 21.1 km, other, 42.2 km, u50k, u50m, u100k, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Honolulu, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other",
+    "42.2 km",
+    "u50k",
+    "u50m",
+    "u100k",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "Hawaii Kai Ultra Run - Kalama Valley 2026",
+  "registrationUrl": "https://runsignup.com/Race/HI/Honolulu/HawaiiKaiUltraRunKalamaValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hawaii-kai-ultra-run-kalama-valley-2026-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "hawaii-kai-ultra-run-kalama-valley-2026-hi",
+    "url": "https://runsignup.com/Race/HI/Honolulu/HawaiiKaiUltraRunKalamaValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 21.3,
+    "lon": -157.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/HI/Honolulu/HawaiiKaiUltraRunKalamaValley?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

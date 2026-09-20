@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "10th Annual Jersey City Hillers FREE Marathon and Half Marathon Course Challenges. is a road race. Location: JERSEY CITY, United States. Date: Sunday, 6 December 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — JERSEY CITY, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "10th Annual Jersey City Hillers FREE Marathon and Half Marathon Course Challenges. to bieg uliczny. Lokalizacja: JERSEY CITY, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — JERSEY CITY, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "JERSEY CITY",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "10th Annual Jersey City Hillers FREE Marathon and Half Marathon Course Challenges.",
+  "registrationUrl": "https://runsignup.com/Race/NJ/JERSEYCITY/JerseyCityHillersMarathonfatassandHalfMarathonChallenges?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "10th-annual-jersey-city-hillers-free-marathon-and-half-marathon-course-challenge",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "10th-annual-jersey-city-hillers-free-marathon-and-half-marathon",
+    "url": "https://runsignup.com/Race/NJ/JERSEYCITY/JerseyCityHillersMarathonfatassandHalfMarathonChallenges?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.72,
+    "lon": -74.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://runsignup.com/Race/NJ/JERSEYCITY/JerseyCityHillersMarathonfatassandHalfMarathonChallenges?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

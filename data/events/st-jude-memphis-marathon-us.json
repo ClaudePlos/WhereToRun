@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Jude Memphis Marathon is a road race. Location: Memphis, United States. Date: Saturday, 5 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Memphis, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "St. Jude Memphis Marathon to bieg uliczny. Lokalizacja: Memphis, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Memphis, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Memphis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "St. Jude Memphis Marathon",
+  "registrationUrl": "https://services.stjude.org/frx-registration/164588/participation",
+  "slug": "st-jude-memphis-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "st-jude-memphis-marathon-tn",
+    "url": "https://services.stjude.org/frx-registration/164588/participation"
+  },
+  "start": {
+    "lat": 35.13952,
+    "lon": -90.05181,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://services.stjude.org/frx-registration/164588/participation"
+}

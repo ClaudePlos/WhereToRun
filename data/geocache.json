@@ -701,6 +701,12 @@
     "lon": 8.1688165,
     "name": "Bissendorf, Landkreis Osnabrück, Niedersachsen, 49143, Deutschland"
   },
+  "DE|bramsche": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 52.4200623,
+    "lon": 8.0118561,
+    "name": "Bramsche, Landkreis Osnabrück, Niedersachsen, 49565, Deutschland"
+  },
   "DE|coesfeld": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 51.9458943,
@@ -724,6 +730,12 @@
     "lat": 51.4582235,
     "lon": 7.0158171,
     "name": "Essen, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|harthausen": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 49.2953025,
+    "lon": 8.3456528,
+    "name": "Harthausen, Römerberg-Dudenhofen, Rhein-Pfalz-Kreis, Rheinland-Pfalz, 67376, Deutschland"
   },
   "DE|herford": {
     "at": "2026-09-20T16:48:23.963Z",
@@ -749,6 +761,18 @@
     "lon": 7.7689951,
     "name": "Kaiserslautern, Rheinland-Pfalz, Deutschland"
   },
+  "DE|kassel": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 51.3157833,
+    "lon": 9.4978479,
+    "name": "Kassel, Hessen, Deutschland"
+  },
+  "DE|magdeburg": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 52.1314783,
+    "lon": 11.6400789,
+    "name": "Magdeburg, Sachsen-Anhalt, Deutschland"
+  },
   "DE|menden": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 51.43779,
@@ -773,6 +797,18 @@
     "lon": 10.8809805,
     "name": "Oldenburg in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23758, Deutschland"
   },
+  "DE|reit im winkl": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 47.6672406,
+    "lon": 12.5256511,
+    "name": "Reit im Winkl, Landkreis Traunstein, Bayern, 83242, Deutschland"
+  },
+  "DE|remshalden-grunbach": {
+    "at": "2026-09-20T22:25:00.188Z"
+  },
+  "DE|schorndorf-weiler": {
+    "at": "2026-09-20T22:25:00.188Z"
+  },
   "DE|schwarme": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 52.8991792,
@@ -785,11 +821,26 @@
     "lon": 7.2485905,
     "name": "Sprockhövel, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen, 45549, Deutschland"
   },
+  "DE|stebach": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 50.5121736,
+    "lon": 7.6618598,
+    "name": "Stebach, Dierdorf, Landkreis Neuwied, Rheinland-Pfalz, Deutschland"
+  },
   "DE|suhl": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 50.6086518,
     "lon": 10.6926437,
     "name": "Suhl, Thüringen, Deutschland"
+  },
+  "DE|triefenstein-trennfeld": {
+    "at": "2026-09-20T22:25:00.188Z"
+  },
+  "DE|tuttlingen": {
+    "at": "2026-09-20T22:25:00.188Z",
+    "lat": 47.9844315,
+    "lon": 8.8186606,
+    "name": "Tuttlingen, VVG der Stadt Tuttlingen, Landkreis Tuttlingen, Baden-Württemberg, 78532, Deutschland"
   },
   "DE|werl": {
     "at": "2026-09-12T10:56:17.596Z",

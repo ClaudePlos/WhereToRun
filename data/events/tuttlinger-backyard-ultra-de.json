@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tuttlinger Backyard Ultra is a ultramarathon. Location: Tuttlingen, Germany. Date: Saturday, 26 September 2026. Distances: 32 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tuttlingen, Germany, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Tuttlinger Backyard Ultra to ultramaraton. Lokalizacja: Tuttlingen, Niemcy. Termin: sobota, 26 września 2026. Dystanse: 32 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tuttlingen, Niemcy, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "32 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tuttlingen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tuttlinger Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "tuttlinger-backyard-ultra-de",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "id": "duv",
+    "ref": "129609",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129609"
+  },
+  "start": {
+    "lat": 47.984432,
+    "lon": 8.818661,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": null
+}

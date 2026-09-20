@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Route 66 Marathon is a road race. Location: Tulsa, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tulsa, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Route 66 Marathon to bieg uliczny. Lokalizacja: Tulsa, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tulsa, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-20T22:25:00.188Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tulsa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Route 66 Marathon",
+  "registrationUrl": "https://register.hakuapp.com/?event=bae9edcdb2382c537f0f&campaign=6936073d87aeafdcbeac",
+  "slug": "route-66-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T22:25:10.111Z",
+    "id": "runraceusa",
+    "ref": "route-66-marathon-ok",
+    "url": "https://register.hakuapp.com/?event=bae9edcdb2382c537f0f&campaign=6936073d87aeafdcbeac"
+  },
+  "start": {
+    "lat": 36.14721,
+    "lon": -95.98781,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "website": "https://register.hakuapp.com/?event=bae9edcdb2382c537f0f&campaign=6936073d87aeafdcbeac"
+}
