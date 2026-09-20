@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bay of Fundy International Marathon is a road race. Location: Lubec, United States. Date: Sunday, 20 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Lubec, United States, Sunday, 20 June 2027"
+    },
+    "pl": {
+      "description": "Bay of Fundy International Marathon to bieg uliczny. Lokalizacja: Lubec, Stany Zjednoczone. Termin: niedziela, 20 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Lubec, Stany Zjednoczone, niedziela, 20 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lubec",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Bay of Fundy International Marathon",
+  "registrationUrl": "http://www.bayoffundymarathon.com",
+  "slug": "bay-of-fundy-international-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "bay-of-fundy-international-marathon-me",
+    "url": "http://www.bayoffundymarathon.com"
+  },
+  "start": {
+    "lat": 44.9043,
+    "lon": -67.0408,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "http://www.bayoffundymarathon.com"
+}

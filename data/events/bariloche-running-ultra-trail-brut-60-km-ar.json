@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-17T17:38:14.220Z",
-  "date": "2026-11-29",
+  "date": "2027-11-28",
   "dateStatus": "confirmed",
   "distances": [
-    "60 km"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "bariloche-running-ultra-trail-brut-60-km-ar",
   "source": {
-    "fetchedAt": "2026-09-17T22:50:58.228Z",
+    "fetchedAt": "2026-09-20T11:35:08.603Z",
     "id": "duv",
-    "ref": "131030",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131030"
+    "ref": "131287",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131287"
   },
   "start": {
     "lat": -41.133478,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
   "website": null
 }

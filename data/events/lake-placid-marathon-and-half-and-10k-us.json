@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Placid Marathon and Half and 10K is a road race. Location: Lake Placid, United States. Date: Sunday, 13 June 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lake Placid, United States, Sunday, 13 June 2027"
+    },
+    "pl": {
+      "description": "Lake Placid Marathon and Half and 10K to bieg uliczny. Lokalizacja: Lake Placid, Stany Zjednoczone. Termin: niedziela, 13 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lake Placid, Stany Zjednoczone, niedziela, 13 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Placid",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Lake Placid Marathon and Half and 10K",
+  "registrationUrl": "https://runsignup.com/Race/NY/LakePlacid/LakePlacidMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lake-placid-marathon-and-half-and-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "lake-placid-marathon-and-half-and-10k-ny",
+    "url": "https://runsignup.com/Race/NY/LakePlacid/LakePlacidMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.28,
+    "lon": -73.98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/NY/LakePlacid/LakePlacidMarathonandHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

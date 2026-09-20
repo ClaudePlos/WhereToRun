@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramaratona Peixo-Boi is a ultramarathon. Location: Brazil, Brazil. Date: Saturday, 6 March 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Brazil, Brazil, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Ultramaratona Peixo-Boi to ultramaraton. Lokalizacja: Brazil, Brazylia. Termin: sobota, 6 marca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Brazil, Brazylia, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brazil",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramaratona Peixo-Boi",
+  "registrationUrl": null,
+  "slug": "ultramaratona-peixo-boi-br",
+  "source": {
+    "fetchedAt": "2026-09-20T11:35:08.602Z",
+    "id": "duv",
+    "ref": "130459",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130459"
+  },
+  "start": {
+    "lat": -22.9053,
+    "lon": -43.0957,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": null
+}

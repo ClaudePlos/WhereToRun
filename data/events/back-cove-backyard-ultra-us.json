@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Back Cove Backyard Ultra is a ultramarathon. Location: Portland, United States. Date: Saturday, 10 July 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Portland, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Back Cove Backyard Ultra to ultramaraton. Lokalizacja: Portland, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Portland, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Portland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Back Cove Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15312",
+  "slug": "back-cove-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "back-cove-backyard-ultra-me",
+    "url": "https://ultrasignup.com/register.aspx?eid=15312"
+  },
+  "start": {
+    "lat": 43.67,
+    "lon": -70.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15312"
+}

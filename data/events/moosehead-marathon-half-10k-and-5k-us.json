@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Moosehead Marathon, Half, 10k and 5k is a road race. Location: Greenville, United States. Date: Sunday, 13 June 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greenville, United States, Sunday, 13 June 2027"
+    },
+    "pl": {
+      "description": "Moosehead Marathon, Half, 10k and 5k to bieg uliczny. Lokalizacja: Greenville, Stany Zjednoczone. Termin: niedziela, 13 czerwca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greenville, Stany Zjednoczone, niedziela, 13 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Moosehead Marathon, Half, 10k and 5k",
+  "registrationUrl": "https://runsignup.com/Race/ME/Greenville/MooseheadMarathonHalf10kAnd5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "moosehead-marathon-half-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "moosehead-marathon-half-10k-and-5k-me",
+    "url": "https://runsignup.com/Race/ME/Greenville/MooseheadMarathonHalf10kAnd5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.47,
+    "lon": -69.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/ME/Greenville/MooseheadMarathonHalf10kAnd5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

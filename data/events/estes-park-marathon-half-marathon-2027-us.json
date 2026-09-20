@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Estes Park Marathon & Half Marathon 2027 is a road race. Location: Estes Park, United States. Date: Sunday, 20 June 2027. Distances: other, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Estes Park, United States, Sunday, 20 June 2027"
+    },
+    "pl": {
+      "description": "Estes Park Marathon & Half Marathon 2027 to bieg uliczny. Lokalizacja: Estes Park, Stany Zjednoczone. Termin: niedziela, 20 czerwca 2027. Dystanse: other, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Estes Park, Stany Zjednoczone, niedziela, 20 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Estes Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Estes Park Marathon & Half Marathon 2027",
+  "registrationUrl": "https://raceroster.com/events/2027/140253/estes-park-marathon-and-half-marathon-2027",
+  "slug": "estes-park-marathon-half-marathon-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "estes-park-marathon-half-marathon-2027-co",
+    "url": "https://raceroster.com/events/2027/140253/estes-park-marathon-and-half-marathon-2027"
+  },
+  "start": {
+    "lat": 40.37,
+    "lon": -105.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://raceroster.com/events/2027/140253/estes-park-marathon-and-half-marathon-2027"
+}

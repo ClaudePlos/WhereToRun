@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The FRED Running Relays - 25 Mile - 50 Mile - 100 Mile - 200 Mile is a road race. Location: Rockford, United States. Date: Friday, 25 June 2027. Distances: u100p, u100m, u50m, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rockford, United States, Friday, 25 June 2027"
+    },
+    "pl": {
+      "description": "The FRED Running Relays - 25 Mile - 50 Mile - 100 Mile - 200 Mile to bieg uliczny. Lokalizacja: Rockford, Stany Zjednoczone. Termin: piątek, 25 czerwca 2027. Dystanse: u100p, u100m, u50m, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rockford, Stany Zjednoczone, piątek, 25 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m",
+    "u50m",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "The FRED Running Relays - 25 Mile - 50 Mile - 100 Mile - 200 Mile",
+  "registrationUrl": "https://runsignup.com/Race/MI/Rockford/2018FredRunningrelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-fred-running-relays-25-mile-50-mile-100-mile-200-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "the-fred-running-relays-25-mile-50-mile-100-mile-200-mile-mi",
+    "url": "https://runsignup.com/Race/MI/Rockford/2018FredRunningrelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.12,
+    "lon": -85.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/MI/Rockford/2018FredRunningrelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

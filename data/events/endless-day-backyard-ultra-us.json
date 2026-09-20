@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Endless Day Backyard Ultra is a ultramarathon. Location: Richfield, United States. Date: Saturday, 19 June 2027. Distances: u50k, other, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Richfield, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Endless Day Backyard Ultra to ultramaraton. Lokalizacja: Richfield, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u50k, other, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Richfield, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Endless Day Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20379",
+  "slug": "endless-day-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "endless-day-backyard-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=20379"
+  },
+  "start": {
+    "lat": 38.78,
+    "lon": -112.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20379"
+}

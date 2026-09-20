@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Seneca Sky Ultra is a ultramarathon. Location: Castile, United States. Date: Saturday, 19 June 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Castile, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Seneca Sky Ultra to ultramaraton. Lokalizacja: Castile, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Castile, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castile",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Seneca Sky Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5721",
+  "slug": "seneca-sky-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "seneca-sky-ultra-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=5721"
+  },
+  "start": {
+    "lat": 42.73,
+    "lon": -77.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5721"
+}

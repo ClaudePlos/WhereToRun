@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ironstone 100K Ultra is a ultramarathon. Location: Hollidaysburg, United States. Date: Saturday, 10 July 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hollidaysburg, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Ironstone 100K Ultra to ultramaraton. Lokalizacja: Hollidaysburg, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hollidaysburg, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hollidaysburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Ironstone 100K Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15852",
+  "slug": "ironstone-100k-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "ironstone-100k-ultra-pa",
+    "url": "https://ultrasignup.com/register.aspx?eid=15852"
+  },
+  "start": {
+    "lat": 40.48,
+    "lon": -78.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15852"
+}

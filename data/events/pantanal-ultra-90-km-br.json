@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pantanal Ultra 90 km is a ultramarathon. Location: Aquidauana, Brazil. Date: 6 February 2027 – 7 February 2027. Distances: 90 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Aquidauana, Brazil, 6 February 2027 – 7 February 2027"
+    },
+    "pl": {
+      "description": "Pantanal Ultra 90 km to ultramaraton. Lokalizacja: Aquidauana, Brazylia. Termin: 6 lutego 2027 – 7 lutego 2027. Dystanse: 90 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Aquidauana, Brazylia, 6 lutego 2027 – 7 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "90 km"
+  ],
+  "endDate": "2027-02-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aquidauana",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Pantanal Ultra 90 km",
+  "registrationUrl": null,
+  "slug": "pantanal-ultra-90-km-br",
+  "source": {
+    "fetchedAt": "2026-09-20T11:35:08.602Z",
+    "id": "duv",
+    "ref": "130462",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130462"
+  },
+  "start": {
+    "lat": -20.473969,
+    "lon": -55.782137,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": null
+}

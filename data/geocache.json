@@ -263,6 +263,12 @@
   "BR|alagoa, mg": {
     "at": "2026-09-14T18:39:01.162Z"
   },
+  "BR|aquidauana": {
+    "at": "2026-09-20T11:34:46.617Z",
+    "lat": -20.473969,
+    "lon": -55.7821375,
+    "name": "Aquidauana, Mato Grosso do Sul, Região Centro-Oeste, Brasil"
+  },
   "BR|baependi, mg": {
     "at": "2026-09-14T18:39:01.162Z"
   },
@@ -283,6 +289,12 @@
   },
   "BR|brasilia, df": {
     "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|brazil": {
+    "at": "2026-09-20T11:34:46.617Z",
+    "lat": -22.9053,
+    "lon": -43.0957,
+    "name": "Vital Brazil, Região Praias da Baía, Niterói, Rio de Janeiro, Região Sudeste, Brasil"
   },
   "BR|cajamar, sp": {
     "at": "2026-09-03T22:37:31.083Z"
@@ -308,6 +320,12 @@
   "BR|chui, rs": {
     "at": "2026-09-14T18:39:01.162Z"
   },
+  "BR|concordia, sc": {
+    "at": "2026-09-20T11:34:46.617Z"
+  },
+  "BR|farroupilha, rs": {
+    "at": "2026-09-20T11:34:46.617Z"
+  },
   "BR|florianopolis, sc": {
     "at": "2026-09-03T22:37:31.083Z"
   },
@@ -320,11 +338,17 @@
   "BR|ilhabela, sp": {
     "at": "2026-09-14T23:06:54.508Z"
   },
+  "BR|inconfidentes, mg": {
+    "at": "2026-09-20T11:34:46.617Z"
+  },
   "BR|ipeuna, sp": {
     "at": "2026-09-14T23:06:54.508Z"
   },
   "BR|jacutinga, mg": {
     "at": "2026-09-14T18:39:01.162Z"
+  },
+  "BR|joanópolis, sp": {
+    "at": "2026-09-20T11:34:46.617Z"
   },
   "BR|macae, rj": {
     "at": "2026-09-03T17:03:15.961Z",
@@ -368,6 +392,9 @@
   "BR|petropolis, rj": {
     "at": "2026-09-14T23:06:54.508Z"
   },
+  "BR|pirenópolis, go": {
+    "at": "2026-09-20T11:34:46.617Z"
+  },
   "BR|ponta grossa, pr": {
     "at": "2026-09-14T23:06:54.508Z"
   },
@@ -379,6 +406,9 @@
   },
   "BR|porto alegre , rio grande do sul": {
     "at": "2026-09-06T11:05:36.029Z"
+  },
+  "BR|porto velho, rondonia": {
+    "at": "2026-09-20T11:34:46.617Z"
   },
   "BR|praia da ponta negra, manaus, am": {
     "at": "2026-09-06T11:05:36.029Z"
@@ -409,6 +439,15 @@
   },
   "BR|sao paulo, sp": {
     "at": "2026-09-14T23:06:54.508Z"
+  },
+  "BR|são bernardo do campo. sp": {
+    "at": "2026-09-20T11:34:46.617Z"
+  },
+  "BR|são paulo": {
+    "at": "2026-09-20T11:34:46.617Z",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "name": "São Paulo, Região Sudeste, Brasil"
   },
   "BR|timon, ma": {
     "at": "2026-09-03T17:03:15.961Z"

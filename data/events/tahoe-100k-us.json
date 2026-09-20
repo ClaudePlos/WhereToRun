@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tahoe 100k is a road race. Location: Stateline, United States. Date: Saturday, 19 June 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stateline, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Tahoe 100k to bieg uliczny. Lokalizacja: Stateline, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stateline, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stateline",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Tahoe 100k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8916",
+  "slug": "tahoe-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "tahoe-100k-nv",
+    "url": "https://ultrasignup.com/register.aspx?eid=8916"
+  },
+  "start": {
+    "lat": 38.96,
+    "lon": -119.89,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8916"
+}

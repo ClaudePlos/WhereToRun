@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Night Hawk 50K, 20M and 10M is a road race. Location: Lawrence, United States. Date: Saturday, 26 June 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lawrence, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Night Hawk 50K, 20M and 10M to bieg uliczny. Lokalizacja: Lawrence, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lawrence, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lawrence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Night Hawk 50K, 20M and 10M",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4954",
+  "slug": "night-hawk-50k-20m-and-10m-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "night-hawk-50k-20m-and-10m-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=4954"
+  },
+  "start": {
+    "lat": 38.93,
+    "lon": -95.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4954"
+}

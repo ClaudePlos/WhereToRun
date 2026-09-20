@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Independence Double is a road race. Location: Winter Park, United States. Date: Saturday, 26 June 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Winter Park, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Independence Double to bieg uliczny. Lokalizacja: Winter Park, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Winter Park, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winter Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Independence Double",
+  "registrationUrl": "https://runsignup.com/Race/FL/WinterPark/IndependenceDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "independence-double-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "independence-double-fl",
+    "url": "https://runsignup.com/Race/FL/WinterPark/IndependenceDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.6,
+    "lon": -81.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/FL/WinterPark/IndependenceDouble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

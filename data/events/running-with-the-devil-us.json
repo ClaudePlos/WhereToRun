@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Running with the Devil is a road race. Location: Las Vegas, United States. Date: Saturday, 26 June 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Running with the Devil to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Running with the Devil",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1640",
+  "slug": "running-with-the-devil-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "running-with-the-devil-nv",
+    "url": "https://ultrasignup.com/register.aspx?eid=1640"
+  },
+  "start": {
+    "lat": 36.02,
+    "lon": -115.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1640"
+}

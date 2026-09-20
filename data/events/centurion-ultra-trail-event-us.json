@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Centurion Ultra Trail Event is a ultramarathon. Location: Stratford, United States. Date: Thursday, 24 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stratford, United States, Thursday, 24 June 2027"
+    },
+    "pl": {
+      "description": "Centurion Ultra Trail Event to ultramaraton. Lokalizacja: Stratford, Stany Zjednoczone. Termin: czwartek, 24 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stratford, Stany Zjednoczone, czwartek, 24 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stratford",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Centurion Ultra Trail Event",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13666",
+  "slug": "centurion-ultra-trail-event-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "centurion-ultra-trail-event-ct",
+    "url": "https://ultrasignup.com/register.aspx?eid=13666"
+  },
+  "start": {
+    "lat": 41.25,
+    "lon": -73.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13666"
+}

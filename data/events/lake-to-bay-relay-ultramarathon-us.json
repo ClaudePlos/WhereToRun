@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake to Bay Relay & Ultramarathon is a road race. Location: Vancouver, United States. Date: Saturday, 19 June 2027. Distances: u100k, 42.2 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Vancouver, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Lake to Bay Relay & Ultramarathon to bieg uliczny. Lokalizacja: Vancouver, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u100k, 42.2 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Vancouver, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "42.2 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vancouver",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Lake to Bay Relay & Ultramarathon",
+  "registrationUrl": "https://raceroster.com/events/2027/139508/lake-to-bay-relay-and-ultramarathon",
+  "slug": "lake-to-bay-relay-ultramarathon-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "lake-to-bay-relay-ultramarathon-wa",
+    "url": "https://raceroster.com/events/2027/139508/lake-to-bay-relay-and-ultramarathon"
+  },
+  "start": {
+    "lat": 45.64,
+    "lon": -122.68,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://raceroster.com/events/2027/139508/lake-to-bay-relay-and-ultramarathon"
+}

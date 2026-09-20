@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Montana Trail Series is a trail race. Location: West Yellowstone, United States. Date: Saturday, 26 June 2027. Distances: 42.2 km, 21.1 km, u50k, other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — West Yellowstone, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Montana Trail Series to bieg trailowy. Lokalizacja: West Yellowstone, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: 42.2 km, 21.1 km, u50k, other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — West Yellowstone, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "u50k",
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Yellowstone",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Montana Trail Series",
+  "registrationUrl": "https://runsignup.com/Race/MT/WestYellowstone/MontanaTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "montana-trail-series-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "montana-trail-series-mt",
+    "url": "https://runsignup.com/Race/MT/WestYellowstone/MontanaTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.66,
+    "lon": -111.1,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/MT/WestYellowstone/MontanaTrailSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

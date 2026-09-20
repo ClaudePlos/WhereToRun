@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Jasper Mountain Trail Fest 2027 is a trail race. Location: Dayton, United States. Date: Saturday, 19 June 2027. Distances: 21.1 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Dayton, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Jasper Mountain Trail Fest 2027 to bieg trailowy. Lokalizacja: Dayton, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: 21.1 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Dayton, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-20T11:34:46.617Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dayton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Jasper Mountain Trail Fest 2027",
+  "registrationUrl": "https://runsignup.com/Race/WA/Dayton/JasperMountainTrailFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jasper-mountain-trail-fest-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-20T11:34:55.622Z",
+    "id": "runraceusa",
+    "ref": "jasper-mountain-trail-fest-2027-wa",
+    "url": "https://runsignup.com/Race/WA/Dayton/JasperMountainTrailFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.31,
+    "lon": -117.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-20T11:34:46.617Z",
+  "website": "https://runsignup.com/Race/WA/Dayton/JasperMountainTrailFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
