@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Peterson Ridge Rumble is a trail race. Location: Sisters, United States. Date: Sunday, 11 April 2027. Distances: ultra, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Sisters, United States, Sunday, 11 April 2027"
+    },
+    "pl": {
+      "description": "Peterson Ridge Rumble to bieg trailowy. Lokalizacja: Sisters, Stany Zjednoczone. Termin: niedziela, 11 kwietnia 2027. Dystanse: ultra, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Sisters, Stany Zjednoczone, niedziela, 11 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sisters",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Peterson Ridge Rumble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=163",
+  "slug": "peterson-ridge-rumble-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "peterson-ridge-rumble-or",
+    "url": "https://ultrasignup.com/register.aspx?eid=163"
+  },
+  "start": {
+    "lat": 44.29,
+    "lon": -121.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=163"
+}

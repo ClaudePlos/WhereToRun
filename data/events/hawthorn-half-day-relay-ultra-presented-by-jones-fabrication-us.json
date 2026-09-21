@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hawthorn Half Day Relay & Ultra presented by Jones Fabrication is a ultramarathon. Location: Terre Haute, United States. Date: Saturday, 29 May 2027. Distances: u100m, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Terre Haute, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Hawthorn Half Day Relay & Ultra presented by Jones Fabrication to ultramaraton. Lokalizacja: Terre Haute, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: u100m, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Terre Haute, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Terre Haute",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Hawthorn Half Day Relay & Ultra presented by Jones Fabrication",
+  "registrationUrl": "https://runsignup.com/Race/IN/TerreHaute/HawthornHalfDayRelayUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hawthorn-half-day-relay-ultra-presented-by-jones-fabrication-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "hawthorn-half-day-relay-ultra-presented-by-jones-fabrication-in",
+    "url": "https://runsignup.com/Race/IN/TerreHaute/HawthornHalfDayRelayUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.47,
+    "lon": -87.35,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/IN/TerreHaute/HawthornHalfDayRelayUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

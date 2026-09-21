@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bronze Dragonfly 30 Hour Ultra is a ultramarathon. Location: Savannah, United States. Date: Saturday, 24 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Savannah, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Bronze Dragonfly 30 Hour Ultra to ultramaraton. Lokalizacja: Savannah, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Savannah, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Savannah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Bronze Dragonfly 30 Hour Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12322",
+  "slug": "bronze-dragonfly-30-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "bronze-dragonfly-30-hour-ultra-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=12322"
+  },
+  "start": {
+    "lat": 31.99,
+    "lon": -81.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=12322"
+}

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Arizona is a road race. Location: Tempe, United States. Date: Saturday, 22 May 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tempe, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Arizona to bieg uliczny. Lokalizacja: Tempe, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tempe, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tempe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Arizona",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Tempe/LivSportsHourAdultHockeyMarathonASU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-arizona-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-arizona-az",
+    "url": "https://runsignup.com/Race/AZ/Tempe/LivSportsHourAdultHockeyMarathonASU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.42,
+    "lon": -111.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/AZ/Tempe/LivSportsHourAdultHockeyMarathonASU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

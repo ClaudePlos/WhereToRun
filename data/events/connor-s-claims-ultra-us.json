@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Connor's Claims Ultra is a ultramarathon. Location: Stockton, United States. Date: Saturday, 22 May 2027. Distances: u50m, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stockton, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Connor's Claims Ultra to ultramaraton. Lokalizacja: Stockton, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: u50m, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stockton, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stockton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Connor's Claims Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13930",
+  "slug": "connor-s-claims-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "connor-s-claims-ultra-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=13930"
+  },
+  "start": {
+    "lat": 40.42,
+    "lon": -112.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13930"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rock 'n' Roll Nashville Marathon is a road race. Location: Nashville, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Nashville, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Rock 'n' Roll Nashville Marathon to bieg uliczny. Lokalizacja: Nashville, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Nashville, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nashville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Rock 'n' Roll Nashville Marathon",
+  "registrationUrl": "https://www.runrocknroll.com/events/nashville/register",
+  "slug": "rock-n-roll-nashville-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "rock-n-roll-nashville-marathon-tn",
+    "url": "https://www.runrocknroll.com/events/nashville/register"
+  },
+  "start": {
+    "lat": 36.15893,
+    "lon": -86.78207,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://www.runrocknroll.com/events/nashville/register"
+}

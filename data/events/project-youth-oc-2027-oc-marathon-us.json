@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Project Youth OC - 2027 OC Marathon is a road race. Location: Costa Mesa, United States. Date: Saturday, 1 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Costa Mesa, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Project Youth OC - 2027 OC Marathon to bieg uliczny. Lokalizacja: Costa Mesa, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Costa Mesa, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Costa Mesa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Project Youth OC - 2027 OC Marathon",
+  "registrationUrl": "https://runsignup.com/Race/CA/CostaMesa/PYOCOCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "project-youth-oc-2027-oc-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "project-youth-oc-2027-oc-marathon-ca",
+    "url": "https://runsignup.com/Race/CA/CostaMesa/PYOCOCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.68,
+    "lon": -117.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/CA/CostaMesa/PYOCOCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

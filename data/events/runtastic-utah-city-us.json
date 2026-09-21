@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Runtastic UTAH CITY is a road race. Location: Vineyard, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km, 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Vineyard, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Runtastic UTAH CITY to bieg uliczny. Lokalizacja: Vineyard, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km, 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Vineyard, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vineyard",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Runtastic UTAH CITY",
+  "registrationUrl": "https://runsignup.com/Race/UT/Vineyard/UtahCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "runtastic-utah-city-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "runtastic-utah-city-ut",
+    "url": "https://runsignup.com/Race/UT/Vineyard/UtahCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.18,
+    "lon": -111.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/UT/Vineyard/UtahCity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

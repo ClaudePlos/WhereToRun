@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Breakneck Point Trail Runs is a trail race. Location: Beacon, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Beacon, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Breakneck Point Trail Runs to bieg trailowy. Lokalizacja: Beacon, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Beacon, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beacon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Breakneck Point Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4839",
+  "slug": "breakneck-point-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "breakneck-point-trail-runs-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=4839"
+  },
+  "start": {
+    "lat": 41.49,
+    "lon": -73.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4839"
+}

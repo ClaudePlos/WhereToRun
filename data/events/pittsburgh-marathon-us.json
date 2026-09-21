@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pittsburgh Marathon is a road race. Location: Pittsburgh, United States. Date: Sunday, 2 May 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pittsburgh, United States, Sunday, 2 May 2027"
+    },
+    "pl": {
+      "description": "Pittsburgh Marathon to bieg uliczny. Lokalizacja: Pittsburgh, Stany Zjednoczone. Termin: niedziela, 2 maja 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pittsburgh, Stany Zjednoczone, niedziela, 2 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pittsburgh",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Pittsburgh Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/125449/2027-dicks-sporting-goods-pittsburgh-marathon-weekend",
+  "slug": "pittsburgh-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "pittsburgh-marathon-pa",
+    "url": "https://raceroster.com/events/2027/125449/2027-dicks-sporting-goods-pittsburgh-marathon-weekend"
+  },
+  "start": {
+    "lat": 40.44331,
+    "lon": -79.99649,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://raceroster.com/events/2027/125449/2027-dicks-sporting-goods-pittsburgh-marathon-weekend"
+}

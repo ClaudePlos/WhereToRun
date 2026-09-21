@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Big Sur International Marathon is a road race. Location: Big Sur, United States. Date: Sunday, 25 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Big Sur, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "Big Sur International Marathon to bieg uliczny. Lokalizacja: Big Sur, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Big Sur, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Sur",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Big Sur International Marathon",
+  "registrationUrl": "https://www.bigsurmarathon.org/register/",
+  "slug": "big-sur-international-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "big-sur-international-marathon-ca",
+    "url": "https://www.bigsurmarathon.org/register/"
+  },
+  "start": {
+    "lat": 36.24762,
+    "lon": -121.78195,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://www.bigsurmarathon.org/register/"
+}

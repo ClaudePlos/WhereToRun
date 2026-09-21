@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Valley Thaw Out Races is a road race. Location: Palmer, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Palmer, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Valley Thaw Out Races to bieg uliczny. Lokalizacja: Palmer, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Palmer, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palmer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Valley Thaw Out Races",
+  "registrationUrl": "https://runsignup.com/Race/AK/Palmer/ValleyThawOut?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "valley-thaw-out-races-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "valley-thaw-out-races-ak",
+    "url": "https://runsignup.com/Race/AK/Palmer/ValleyThawOut?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 61.63,
+    "lon": -148.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/AK/Palmer/ValleyThawOut?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

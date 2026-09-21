@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Outrun 24-Hour Endurance Race is a road race. Location: Willoughby, United States. Date: Saturday, 1 May 2027. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Willoughby, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Outrun 24-Hour Endurance Race to bieg uliczny. Lokalizacja: Willoughby, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Willoughby, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Willoughby",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Outrun 24-Hour Endurance Race",
+  "registrationUrl": "https://runsignup.com/Race/OH/Willoughby/Outrun24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "outrun-24-hour-endurance-race-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "outrun-24-hour-endurance-race-oh",
+    "url": "https://runsignup.com/Race/OH/Willoughby/Outrun24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.63,
+    "lon": -81.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/OH/Willoughby/Outrun24?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

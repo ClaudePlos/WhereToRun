@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "5th Annual Fort Wayne Half and Full Marathon is a road race. Location: Fort Wayne, United States. Date: Sunday, 25 April 2027. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Wayne, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "5th Annual Fort Wayne Half and Full Marathon to bieg uliczny. Lokalizacja: Fort Wayne, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Wayne, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Wayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "5th Annual Fort Wayne Half and Full Marathon",
+  "registrationUrl": "http://www.active.com/fort-wayne-in/running/distance-running-races/5th-annual-fort-wayne-half-and-full-marathon-2027",
+  "slug": "5th-annual-fort-wayne-half-and-full-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "5th-annual-fort-wayne-half-and-full-marathon-in",
+    "url": "http://www.active.com/fort-wayne-in/running/distance-running-races/5th-annual-fort-wayne-half-and-full-marathon-2027"
+  },
+  "start": {
+    "lat": 41.11,
+    "lon": -85.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "http://www.active.com/fort-wayne-in/running/distance-running-races/5th-annual-fort-wayne-half-and-full-marathon-2027"
+}

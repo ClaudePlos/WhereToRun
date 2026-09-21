@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Fools is a road race. Location: Peninsula, United States. Date: Saturday, 29 May 2027. Distances: u100k, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Peninsula, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Fools to bieg uliczny. Lokalizacja: Peninsula, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: u100k, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Peninsula, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Peninsula",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Fools",
+  "registrationUrl": "https://runsignup.com/Race/OH/Peninsula/FoolsRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fools-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "fools-oh",
+    "url": "https://runsignup.com/Race/OH/Peninsula/FoolsRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.23,
+    "lon": -81.54,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/OH/Peninsula/FoolsRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

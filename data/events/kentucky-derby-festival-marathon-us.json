@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kentucky Derby Festival Marathon is a road race. Location: Louisville, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Louisville, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Kentucky Derby Festival Marathon to bieg uliczny. Lokalizacja: Louisville, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Louisville, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Louisville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Kentucky Derby Festival Marathon",
+  "registrationUrl": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "kentucky-derby-festival-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "kentucky-derby-festival-marathon-ky",
+    "url": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.25633,
+    "lon": -85.74778,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

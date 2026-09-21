@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Three Sisters Ultra Festival is a ultramarathon. Location: Maryville, United States. Date: Saturday, 5 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Maryville, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Three Sisters Ultra Festival to ultramaraton. Lokalizacja: Maryville, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Maryville, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Maryville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Three Sisters Ultra Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5250",
+  "slug": "three-sisters-ultra-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "three-sisters-ultra-festival-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=5250"
+  },
+  "start": {
+    "lat": 35.75,
+    "lon": -83.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5250"
+}

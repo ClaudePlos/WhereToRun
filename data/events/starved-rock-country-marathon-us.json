@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Starved Rock Country Marathon is a road race. Location: Ottawa, United States. Date: Saturday, 8 May 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ottawa, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Starved Rock Country Marathon to bieg uliczny. Lokalizacja: Ottawa, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ottawa, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ottawa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Starved Rock Country Marathon",
+  "registrationUrl": "https://runsignup.com/Race/IL/Ottawa/StarvedRockCountryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "starved-rock-country-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "starved-rock-country-marathon-il",
+    "url": "https://runsignup.com/Race/IL/Ottawa/StarvedRockCountryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.35,
+    "lon": -88.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/IL/Ottawa/StarvedRockCountryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

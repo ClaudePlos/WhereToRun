@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mo Spring is a road race. Location: Perrysville, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Perrysville, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Mo Spring to bieg uliczny. Lokalizacja: Perrysville, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Perrysville, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Perrysville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Mo Spring",
+  "registrationUrl": "https://runsignup.com/Race/OH/Perrysville/MoSpring?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mo-spring-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "mo-spring-oh",
+    "url": "https://runsignup.com/Race/OH/Perrysville/MoSpring?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.66,
+    "lon": -82.32,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://runsignup.com/Race/OH/Perrysville/MoSpring?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rock 'n' Roll San Diego Marathon is a road race. Location: San Diego, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Diego, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "Rock 'n' Roll San Diego Marathon to bieg uliczny. Lokalizacja: San Diego, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Diego, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Rock 'n' Roll San Diego Marathon",
+  "registrationUrl": "https://www.runrocknroll.com/events/san-diego/register",
+  "slug": "rock-n-roll-san-diego-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "rock-n-roll-san-diego-marathon-ca",
+    "url": "https://www.runrocknroll.com/events/san-diego/register"
+  },
+  "start": {
+    "lat": 32.73668,
+    "lon": -117.15935,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://www.runrocknroll.com/events/san-diego/register"
+}

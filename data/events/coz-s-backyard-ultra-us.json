@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Coz's Backyard Ultra is a ultramarathon. Location: Holland Patent, United States. Date: Saturday, 5 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Holland Patent, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Coz's Backyard Ultra to ultramaraton. Lokalizacja: Holland Patent, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Holland Patent, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holland Patent",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Coz's Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20065",
+  "slug": "coz-s-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "coz-s-backyard-ultra-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=20065"
+  },
+  "start": {
+    "lat": 43.25,
+    "lon": -75.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20065"
+}

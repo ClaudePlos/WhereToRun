@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Stinson Beach/Muir Woods Marathon, Half Marathon & 7 Mile is a road race. Location: Stinson Beach, United States. Date: Saturday, 8 May 2027. Distances: 21.1 km, other, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Stinson Beach, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "2027 Stinson Beach/Muir Woods Marathon, Half Marathon & 7 Mile to bieg uliczny. Lokalizacja: Stinson Beach, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: 21.1 km, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Stinson Beach, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-21T18:43:12.713Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stinson Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Stinson Beach/Muir Woods Marathon, Half Marathon & 7 Mile",
+  "registrationUrl": "https://raceroster.com/events/2027/141038/2027-stinson-beachmuir-woods-marathon-half-marathon-and-7-mile",
+  "slug": "2027-stinson-beach-muir-woods-marathon-half-marathon-7-mile-us",
+  "source": {
+    "fetchedAt": "2026-09-21T18:43:21.546Z",
+    "id": "runraceusa",
+    "ref": "2027-stinson-beach-muir-woods-marathon-half-marathon-7-mile-ca",
+    "url": "https://raceroster.com/events/2027/141038/2027-stinson-beachmuir-woods-marathon-half-marathon-and-7-mile"
+  },
+  "start": {
+    "lat": 37.902,
+    "lon": -122.6393,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T18:43:12.713Z",
+  "website": "https://raceroster.com/events/2027/141038/2027-stinson-beachmuir-woods-marathon-half-marathon-and-7-mile"
+}
