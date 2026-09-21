@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon 5K/10K MEMPHIS is a road race. Location: Memphis, United States. Date: Saturday, 20 March 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Memphis, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon 5K/10K MEMPHIS to bieg uliczny. Lokalizacja: Memphis, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Memphis, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Memphis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon 5K/10K MEMPHIS",
+  "registrationUrl": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-5k-10k-memphis-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-5k-10k-memphis-tn",
+    "url": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.14,
+    "lon": -90.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Across Florida 200 is a ultramarathon. Location: St. Augustine Beach, United States. Date: 10 November 2026 – 15 November 2026. Distances: 321.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St. Augustine Beach, United States, 10 November 2026 – 15 November 2026"
+    },
+    "pl": {
+      "description": "Across Florida 200 to ultramaraton. Lokalizacja: St. Augustine Beach, Stany Zjednoczone. Termin: 10 listopada 2026 – 15 listopada 2026. Dystanse: 321.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St. Augustine Beach, Stany Zjednoczone, 10 listopada 2026 – 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-11-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km"
+  ],
+  "endDate": "2026-11-15",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Augustine Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Across Florida 200",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64780",
+  "slug": "across-florida-200-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:30.745Z",
+    "id": "ultrasignup",
+    "ref": "13288",
+    "url": "https://ultrasignup.com/register.aspx?did=64780"
+  },
+  "start": {
+    "lat": 29.8548,
+    "lon": -81.2649,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://www.warriorraces.com/acrossflorida200"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hell Backyard Ultra is a ultramarathon. Location: Hell, Norway. Date: 24 April 2027 – 26 April 2027. Distances: 40 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hell, Norway, 24 April 2027 – 26 April 2027"
+    },
+    "pl": {
+      "description": "Hell Backyard Ultra to ultramaraton. Lokalizacja: Hell, Norwegia. Termin: 24 kwietnia 2027 – 26 kwietnia 2027. Dystanse: 40 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hell, Norwegia, 24 kwietnia 2027 – 26 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "40 h"
+  ],
+  "endDate": "2027-04-26",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hell",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Hell Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "hell-backyard-ultra-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "132098",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132098"
+  },
+  "start": {
+    "lat": 63.444917,
+    "lon": 10.912718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

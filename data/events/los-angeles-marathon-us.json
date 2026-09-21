@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Los Angeles Marathon is a road race. Location: Los Angeles, United States. Date: Sunday, 7 March 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Los Angeles, United States, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "Los Angeles Marathon to bieg uliczny. Lokalizacja: Los Angeles, Stany Zjednoczone. Termin: niedziela, 7 marca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Los Angeles, Stany Zjednoczone, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Los Angeles Marathon",
+  "registrationUrl": "https://www.mccourtfoundation.org/event/los-angeles-marathon/register/",
+  "slug": "los-angeles-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "los-angeles-marathon-ca",
+    "url": "https://www.mccourtfoundation.org/event/los-angeles-marathon/register/"
+  },
+  "start": {
+    "lat": 34.07259,
+    "lon": -118.24562,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://www.mccourtfoundation.org/event/los-angeles-marathon/register/"
+}

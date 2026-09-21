@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Perseløpet ultra 50km is a ultramarathon. Location: Eidsvoll, Norway. Date: Sunday, 11 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Eidsvoll, Norway, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Perseløpet ultra 50km to ultramaraton. Lokalizacja: Eidsvoll, Norwegia. Termin: niedziela, 11 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Eidsvoll, Norwegia, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eidsvoll",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Perseløpet ultra 50km",
+  "registrationUrl": null,
+  "slug": "persel-pet-ultra-50km-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "123480",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123480"
+  },
+  "start": {
+    "lat": 60.416297,
+    "lon": 11.255544,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

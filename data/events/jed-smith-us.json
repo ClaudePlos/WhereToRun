@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Jed Smith is a road race. Location: Sacramento, United States. Date: Saturday, 6 February 2027. Distances: u50m, u50k, 42.2 km, other, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sacramento, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Jed Smith to bieg uliczny. Lokalizacja: Sacramento, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u50m, u50k, 42.2 km, other, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sacramento, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sacramento",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Jed Smith",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1417",
+  "slug": "jed-smith-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "jed-smith-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=1417"
+  },
+  "start": {
+    "lat": 38.56,
+    "lon": -121.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1417"
+}

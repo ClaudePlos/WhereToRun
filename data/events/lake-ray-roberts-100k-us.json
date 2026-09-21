@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Ray Roberts 100K is a road race. Location: Pilot Point, United States. Date: Saturday, 6 February 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pilot Point, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Lake Ray Roberts 100K to bieg uliczny. Lokalizacja: Pilot Point, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pilot Point, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pilot Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Lake Ray Roberts 100K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21028",
+  "slug": "lake-ray-roberts-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "lake-ray-roberts-100k-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=21028"
+  },
+  "start": {
+    "lat": 33.38,
+    "lon": -97.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21028"
+}

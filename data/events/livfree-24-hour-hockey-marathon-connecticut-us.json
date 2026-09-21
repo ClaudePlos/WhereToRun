@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Connecticut is a road race. Location: Fairfield, United States. Date: Friday, 26 March 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fairfield, United States, Friday, 26 March 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Connecticut to bieg uliczny. Lokalizacja: Fairfield, Stany Zjednoczone. Termin: piątek, 26 marca 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fairfield, Stany Zjednoczone, piątek, 26 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-26",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fairfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Connecticut",
+  "registrationUrl": "https://runsignup.com/Race/CT/Fairfield/LivFreeSHourAdultHockeyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-connecticut-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-connecticut-ct",
+    "url": "https://runsignup.com/Race/CT/Fairfield/LivFreeSHourAdultHockeyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.19,
+    "lon": -73.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/CT/Fairfield/LivFreeSHourAdultHockeyMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

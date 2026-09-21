@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Blue Cross and Blue Shield of Alabama Kids Marathon is a road race. Location: Birmingham, United States. Date: Saturday, 20 February 2027. Distances: 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Birmingham, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "2027 Blue Cross and Blue Shield of Alabama Kids Marathon to bieg uliczny. Lokalizacja: Birmingham, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Birmingham, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Birmingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "2027 Blue Cross and Blue Shield of Alabama Kids Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AL/Birmingham/AlabamaKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-blue-cross-and-blue-shield-of-alabama-kids-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "2027-blue-cross-and-blue-shield-of-alabama-kids-marathon-al",
+    "url": "https://runsignup.com/Race/AL/Birmingham/AlabamaKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.38,
+    "lon": -86.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/AL/Birmingham/AlabamaKidsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Folsom Lake Sweetwater Trail Run is a trail race. Location: Folsom, United States. Date: Saturday, 23 January 2027. Distances: u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Folsom, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Folsom Lake Sweetwater Trail Run to bieg trailowy. Lokalizacja: Folsom, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Folsom, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Folsom",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Folsom Lake Sweetwater Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6052",
+  "slug": "folsom-lake-sweetwater-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "folsom-lake-sweetwater-trail-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=6052"
+  },
+  "start": {
+    "lat": 38.77,
+    "lon": -121.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6052"
+}

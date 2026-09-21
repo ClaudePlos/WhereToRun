@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "JSRC NYC Marathon Volunteer/Spectator Bus is a road race. Location: Shrewsbury, United States. Date: Sunday, 1 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Shrewsbury, United States, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "JSRC NYC Marathon Volunteer/Spectator Bus to bieg uliczny. Lokalizacja: Shrewsbury, Stany Zjednoczone. Termin: niedziela, 1 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Shrewsbury, Stany Zjednoczone, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shrewsbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "JSRC NYC Marathon Volunteer/Spectator Bus",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Shrewsbury/NYCMarathonSpectatorBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jsrc-nyc-marathon-volunteer-spectator-bus-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "jsrc-nyc-marathon-volunteer-spectator-bus-nj",
+    "url": "https://runsignup.com/Race/NJ/Shrewsbury/NYCMarathonSpectatorBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.33,
+    "lon": -74.06,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/NJ/Shrewsbury/NYCMarathonSpectatorBus?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Michigan is a road race. Location: East Lansing, United States. Date: Saturday, 10 April 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — East Lansing, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Michigan to bieg uliczny. Lokalizacja: East Lansing, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — East Lansing, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "East Lansing",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Michigan",
+  "registrationUrl": "https://runsignup.com/Race/MI/EastLansing/LivSportsHourAdultHockeyMarathonMSU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-michigan-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-michigan-mi",
+    "url": "https://runsignup.com/Race/MI/EastLansing/LivSportsHourAdultHockeyMarathonMSU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.73,
+    "lon": -84.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/MI/EastLansing/LivSportsHourAdultHockeyMarathonMSU?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ski North Ultra is a ultramarathon. Location: Lutsen, United States. Date: Saturday, 6 March 2027. Distances: u100k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lutsen, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Ski North Ultra to ultramaraton. Lokalizacja: Lutsen, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u100k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lutsen, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lutsen",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Ski North Ultra",
+  "registrationUrl": "https://runsignup.com/Race/MN/Lutsen/SkiNorthUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ski-north-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "ski-north-ultra-mn",
+    "url": "https://runsignup.com/Race/MN/Lutsen/SkiNorthUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.68,
+    "lon": -90.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/MN/Lutsen/SkiNorthUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

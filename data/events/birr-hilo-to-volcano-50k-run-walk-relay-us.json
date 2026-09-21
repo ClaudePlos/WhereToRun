@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "BIRR Hilo to Volcano 50K Run/Walk/Relay is a road race. Location: Hilo, United States. Date: Saturday, 9 January 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hilo, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "BIRR Hilo to Volcano 50K Run/Walk/Relay to bieg uliczny. Lokalizacja: Hilo, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hilo, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hilo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "BIRR Hilo to Volcano 50K Run/Walk/Relay",
+  "registrationUrl": "https://runsignup.com/Race/HI/Hilo/HilotoVolcano50KRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "birr-hilo-to-volcano-50k-run-walk-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "birr-hilo-to-volcano-50k-run-walk-relay-hi",
+    "url": "https://runsignup.com/Race/HI/Hilo/HilotoVolcano50KRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 19.7,
+    "lon": -155.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/HI/Hilo/HilotoVolcano50KRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

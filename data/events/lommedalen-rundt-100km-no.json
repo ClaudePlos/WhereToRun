@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lommedalen Rundt 100km is a ultramarathon. Location: Lommedalen, Norway. Date: Saturday, 24 October 2026. Distances: 102 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lommedalen, Norway, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Lommedalen Rundt 100km to ultramaraton. Lokalizacja: Lommedalen, Norwegia. Termin: sobota, 24 października 2026. Dystanse: 102 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lommedalen, Norwegia, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "102 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lommedalen",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Lommedalen Rundt 100km",
+  "registrationUrl": null,
+  "slug": "lommedalen-rundt-100km-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "130616",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130616"
+  },
+  "start": {
+    "lat": 59.96853,
+    "lon": 10.469025,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

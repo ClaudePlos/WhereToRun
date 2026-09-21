@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Neskollen Frontyard is a ultramarathon. Location: Hvam, Norway. Date: Sunday, 18 October 2026. Distances: 5 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hvam, Norway, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Neskollen Frontyard to ultramaraton. Lokalizacja: Hvam, Norwegia. Termin: niedziela, 18 października 2026. Dystanse: 5 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hvam, Norwegia, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hvam",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Neskollen Frontyard",
+  "registrationUrl": null,
+  "slug": "neskollen-frontyard-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "130620",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130620"
+  },
+  "start": {
+    "lat": 59.97954,
+    "lon": 11.002178,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

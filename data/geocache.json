@@ -1667,6 +1667,12 @@
     "lon": -92.9366326,
     "name": "Villahermosa, Centro, Tabasco, México"
   },
+  "NO|alvdal": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 62.0965119,
+    "lon": 10.5024921,
+    "name": "Alvdal, Innlandet, 2560, Norge"
+  },
   "NO|bergen": {
     "at": "2026-09-04T22:20:28.980Z",
     "lat": 60.3943055,
@@ -1678,6 +1684,12 @@
     "lat": 59.6964936,
     "lon": 10.175642,
     "name": "Drammen, Norge"
+  },
+  "NO|eidsvoll": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 60.4162965,
+    "lon": 11.2555442,
+    "name": "Eidsvoll, Akershus, Norge"
   },
   "NO|fauske": {
     "at": "2026-09-04T16:52:44.278Z",
@@ -1691,6 +1703,18 @@
     "lon": 11.0206123,
     "name": "Gjerdrum, Akershus, 2022, Norge"
   },
+  "NO|hamar": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 61.0014937,
+    "lon": 11.1647964,
+    "name": "Hamar, Innlandet, Norge"
+  },
+  "NO|hell": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 63.4449171,
+    "lon": 10.9127178,
+    "name": "Hell, Stjørdal, Trøndelag, 7517, Norge"
+  },
   "NO|hemsedal": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 60.9282437,
@@ -1703,6 +1727,12 @@
     "lon": 10.795811,
     "name": "Hommelvik, Malvik, Trøndelag, 7550, Norge"
   },
+  "NO|hvam": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 59.9795401,
+    "lon": 11.002178,
+    "name": "Hvam, Skjetten, Lillestrøm, Akershus, 2013, Norge"
+  },
   "NO|hvittingfoss": {
     "at": "2026-09-04T16:52:44.278Z",
     "lat": 59.4857217,
@@ -1714,6 +1744,12 @@
     "lat": 58.0856276,
     "lon": 7.931858,
     "name": "Kristiansand, Agder, Norge"
+  },
+  "NO|lommedalen": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 59.9685301,
+    "lon": 10.4690248,
+    "name": "Lommedalen, Bærum, Akershus, 1350, Norge"
   },
   "NO|naersnes": {
     "at": "2026-09-04T16:52:44.278Z",
@@ -1733,8 +1769,23 @@
     "lon": 10.7389701,
     "name": "Oslo, Norge"
   },
+  "NO|ringsaker, sjusjøen": {
+    "at": "2026-09-21T12:59:25.178Z"
+  },
   "NO|saksumdal": {
     "at": "2026-09-04T16:52:44.278Z"
+  },
+  "NO|saksvik": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 63.4345764,
+    "lon": 10.603984,
+    "name": "Saksvik, Vikhammer, Malvik, Trøndelag, 7562, Norge"
+  },
+  "NO|sandefjord": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 59.0799004,
+    "lon": 10.2804322,
+    "name": "Sandefjord, Vestfold, Norge"
   },
   "NO|stavanger": {
     "at": "2026-09-04T22:20:28.980Z",
@@ -1765,6 +1816,12 @@
     "lat": 62.140961,
     "lon": 10.6686928,
     "name": "Tronsvangene, Alvdal, Innlandet, Norge"
+  },
+  "NO|volda": {
+    "at": "2026-09-21T12:59:25.178Z",
+    "lat": 62.0803798,
+    "lon": 6.2744108,
+    "name": "Volda, Møre og Romsdal, Norge"
   },
   "NO|årnes": {
     "at": "2026-09-04T22:20:28.980Z",

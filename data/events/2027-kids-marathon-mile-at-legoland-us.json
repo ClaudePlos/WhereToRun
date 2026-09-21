@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Kids Marathon Mile at LEGOLAND® is a road race. Location: Carlsbad, United States. Date: Saturday, 16 January 2027. Distances: 1.6 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Carlsbad, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "2027 Kids Marathon Mile at LEGOLAND® to bieg uliczny. Lokalizacja: Carlsbad, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 1.6 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Carlsbad, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1.6 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Carlsbad",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Kids Marathon Mile at LEGOLAND®",
+  "registrationUrl": "https://raceroster.com/events/2027/115368/2027-kids-marathon-mile-at-legoland",
+  "slug": "2027-kids-marathon-mile-at-legoland-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "2027-kids-marathon-mile-at-legoland-ca",
+    "url": "https://raceroster.com/events/2027/115368/2027-kids-marathon-mile-at-legoland"
+  },
+  "start": {
+    "lat": 33.1602,
+    "lon": -117.325,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://raceroster.com/events/2027/115368/2027-kids-marathon-mile-at-legoland"
+}

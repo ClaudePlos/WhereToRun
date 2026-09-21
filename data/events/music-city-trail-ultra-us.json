@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Music City Trail Ultra is a ultramarathon. Location: Pegram, United States. Date: Saturday, 6 March 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pegram, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Music City Trail Ultra to ultramaraton. Lokalizacja: Pegram, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pegram, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pegram",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Music City Trail Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3740",
+  "slug": "music-city-trail-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "music-city-trail-ultra-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=3740"
+  },
+  "start": {
+    "lat": 36.18,
+    "lon": -87.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3740"
+}

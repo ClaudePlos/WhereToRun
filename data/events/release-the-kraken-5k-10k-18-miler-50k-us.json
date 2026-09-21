@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Release the Kraken 5K. 10K. 18 Miler & 50K is a road race. Location: Long Beach, United States. Date: Saturday, 3 April 2027. Distances: 5 km, 10 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Long Beach, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Release the Kraken 5K. 10K. 18 Miler & 50K to bieg uliczny. Lokalizacja: Long Beach, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 5 km, 10 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Long Beach, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Long Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Release the Kraken 5K. 10K. 18 Miler & 50K",
+  "registrationUrl": "https://runsignup.com/Race/CA/LongBeach/ReleaseTheKraken5K10K18Miler30Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "release-the-kraken-5k-10k-18-miler-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "release-the-kraken-5k-10k-18-miler-50k-ca",
+    "url": "https://runsignup.com/Race/CA/LongBeach/ReleaseTheKraken5K10K18Miler30Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.76,
+    "lon": -118.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/CA/LongBeach/ReleaseTheKraken5K10K18Miler30Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

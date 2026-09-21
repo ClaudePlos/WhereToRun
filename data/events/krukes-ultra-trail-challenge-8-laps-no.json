@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Krukes Ultra-Trail Challenge 8 laps is a ultramarathon. Location: Saksvik, Norway. Date: Saturday, 10 October 2026. Distances: 54 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Saksvik, Norway, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Krukes Ultra-Trail Challenge 8 laps to ultramaraton. Lokalizacja: Saksvik, Norwegia. Termin: sobota, 10 października 2026. Dystanse: 54 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Saksvik, Norwegia, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "54 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saksvik",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Krukes Ultra-Trail Challenge 8 laps",
+  "registrationUrl": null,
+  "slug": "krukes-ultra-trail-challenge-8-laps-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "130621",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130621"
+  },
+  "start": {
+    "lat": 63.434576,
+    "lon": 10.603984,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

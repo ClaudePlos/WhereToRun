@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "InHouse Ultra is a ultramarathon. Location: St Petersburg, United States. Date: Saturday, 20 February 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St Petersburg, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "InHouse Ultra to ultramaraton. Lokalizacja: St Petersburg, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St Petersburg, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St Petersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "InHouse Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19805",
+  "slug": "inhouse-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "inhouse-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=19805"
+  },
+  "start": {
+    "lat": 27.77,
+    "lon": -82.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19805"
+}

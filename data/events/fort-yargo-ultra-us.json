@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Fort Yargo Ultra is a ultramarathon. Location: Winder, United States. Date: Saturday, 10 April 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Winder, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Fort Yargo Ultra to ultramaraton. Lokalizacja: Winder, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Winder, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winder",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Fort Yargo Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=11060",
+  "slug": "fort-yargo-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "fort-yargo-ultra-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=11060"
+  },
+  "start": {
+    "lat": 33.97,
+    "lon": -83.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=11060"
+}

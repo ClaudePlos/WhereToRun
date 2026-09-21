@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "\"Miles 4 Moore\" Moore County Trail Marathon, Half, 10K, and 5K is a trail race. Location: Pinehurst, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km, 5 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Pinehurst, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "\"Miles 4 Moore\" Moore County Trail Marathon, Half, 10K, and 5K to bieg trailowy. Lokalizacja: Pinehurst, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Pinehurst, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pinehurst",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "\"Miles 4 Moore\" Moore County Trail Marathon, Half, 10K, and 5K",
+  "registrationUrl": "https://runsignup.com/Race/NC/Pinehurst/MilesMooreMooreCountyTrailMarathonAndHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "miles-4-moore-moore-county-trail-marathon-half-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "miles-4-moore-moore-county-trail-marathon-half-10k-and-5k-nc",
+    "url": "https://runsignup.com/Race/NC/Pinehurst/MilesMooreMooreCountyTrailMarathonAndHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.19,
+    "lon": -79.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://runsignup.com/Race/NC/Pinehurst/MilesMooreMooreCountyTrailMarathonAndHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

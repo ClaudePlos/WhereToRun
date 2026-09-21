@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Solan Gundersens Bergmaraton is a ultramarathon. Location: Alvdal, Norway. Date: Saturday, 14 August 2027. Distances: 48 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Alvdal, Norway, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Solan Gundersens Bergmaraton to ultramaraton. Lokalizacja: Alvdal, Norwegia. Termin: sobota, 14 sierpnia 2027. Dystanse: 48 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Alvdal, Norwegia, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alvdal",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Solan Gundersens Bergmaraton",
+  "registrationUrl": null,
+  "slug": "solan-gundersens-bergmaraton-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "134695",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134695"
+  },
+  "start": {
+    "lat": 62.096512,
+    "lon": 10.502492,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

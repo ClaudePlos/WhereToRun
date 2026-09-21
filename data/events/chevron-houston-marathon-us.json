@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chevron Houston Marathon is a road race. Location: Houston, United States. Date: Sunday, 17 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Houston, United States, Sunday, 17 January 2027"
+    },
+    "pl": {
+      "description": "Chevron Houston Marathon to bieg uliczny. Lokalizacja: Houston, Stany Zjednoczone. Termin: niedziela, 17 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Houston, Stany Zjednoczone, niedziela, 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-01-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Houston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Chevron Houston Marathon",
+  "registrationUrl": "https://www.chevronhoustonmarathon.com/",
+  "slug": "chevron-houston-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "chevron-houston-marathon-tx",
+    "url": "https://www.chevronhoustonmarathon.com/"
+  },
+  "start": {
+    "lat": 29.76116,
+    "lon": -95.35899,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://www.chevronhoustonmarathon.com/"
+}

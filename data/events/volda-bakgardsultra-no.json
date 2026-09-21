@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Volda Bakgårdsultra is a ultramarathon. Location: Volda, Norway. Date: Saturday, 17 October 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Volda, Norway, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Volda Bakgårdsultra to ultramaraton. Lokalizacja: Volda, Norwegia. Termin: sobota, 17 października 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Volda, Norwegia, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Volda",
+    "country": "Norway",
+    "countryCode": "NO",
+    "region": null
+  },
+  "manual": false,
+  "name": "Volda Bakgårdsultra",
+  "registrationUrl": null,
+  "slug": "volda-bakgardsultra-no",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:35.297Z",
+    "id": "duv",
+    "ref": "130619",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130619"
+  },
+  "start": {
+    "lat": 62.08038,
+    "lon": 6.274411,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": null
+}

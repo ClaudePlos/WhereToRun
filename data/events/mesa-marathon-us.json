@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mesa Marathon is a road race. Location: Mesa, United States. Date: Saturday, 13 February 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mesa, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Mesa Marathon to bieg uliczny. Lokalizacja: Mesa, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mesa, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-21T12:59:25.178Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mesa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Mesa Marathon",
+  "registrationUrl": "https://mesamarathon.com/register",
+  "slug": "mesa-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-21T12:59:31.301Z",
+    "id": "runraceusa",
+    "ref": "mesa-marathon-az",
+    "url": "https://mesamarathon.com/register"
+  },
+  "start": {
+    "lat": 33.48296,
+    "lon": -111.62293,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T12:59:25.178Z",
+  "website": "https://mesamarathon.com/register"
+}
