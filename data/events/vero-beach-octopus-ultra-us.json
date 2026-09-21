@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Vero Beach Octopus Ultra is a ultramarathon. Location: Vero Beach, United States. Date: Saturday, 10 July 2027. Distances: u100m, u100k, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Vero Beach, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Vero Beach Octopus Ultra to ultramaraton. Lokalizacja: Vero Beach, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: u100m, u100k, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Vero Beach, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vero Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Vero Beach Octopus Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13177",
+  "slug": "vero-beach-octopus-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "vero-beach-octopus-ultra-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=13177"
+  },
+  "start": {
+    "lat": 27.76,
+    "lon": -80.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13177"
+}

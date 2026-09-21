@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ode to Laz Michigan Backyard Ultra is a ultramarathon. Location: Holly, United States. Date: Saturday, 17 July 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Holly, United States, Saturday, 17 July 2027"
+    },
+    "pl": {
+      "description": "Ode to Laz Michigan Backyard Ultra to ultramaraton. Lokalizacja: Holly, Stany Zjednoczone. Termin: sobota, 17 lipca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Holly, Stany Zjednoczone, sobota, 17 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holly",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Ode to Laz Michigan Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10049",
+  "slug": "ode-to-laz-michigan-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "ode-to-laz-michigan-backyard-ultra-mi",
+    "url": "https://ultrasignup.com/register.aspx?eid=10049"
+  },
+  "start": {
+    "lat": 42.8,
+    "lon": -83.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10049"
+}

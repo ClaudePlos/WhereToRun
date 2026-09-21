@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Seattle is a road race. Location: Seattle, United States. Date: Saturday, 26 June 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Seattle, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Seattle to bieg uliczny. Lokalizacja: Seattle, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Seattle, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seattle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Seattle",
+  "registrationUrl": "https://runsignup.com/Race/WA/Seattle/LivFree24HourHockeyMarathonKraken?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-seattle-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-seattle-wa",
+    "url": "https://runsignup.com/Race/WA/Seattle/LivFree24HourHockeyMarathonKraken?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.72,
+    "lon": -122.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/WA/Seattle/LivFree24HourHockeyMarathonKraken?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Grandma's Marathon Weekend Races is a road race. Location: Duluth, United States. Date: Saturday, 19 June 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Duluth, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "2027 Grandma's Marathon Weekend Races to bieg uliczny. Lokalizacja: Duluth, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Duluth, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "2027 Grandma's Marathon Weekend Races",
+  "registrationUrl": "https://raceroster.com/events/2027/140398/2027-grandmas-marathon-weekend-races",
+  "slug": "2027-grandma-s-marathon-weekend-races-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "2027-grandma-s-marathon-weekend-races-mn",
+    "url": "https://raceroster.com/events/2027/140398/2027-grandmas-marathon-weekend-races"
+  },
+  "start": {
+    "lat": 46.7833,
+    "lon": -92.1066,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://raceroster.com/events/2027/140398/2027-grandmas-marathon-weekend-races"
+}

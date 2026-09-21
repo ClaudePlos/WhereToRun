@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Carolina Reaper Challenge (13.1 - 26.2 - 50k & Relay) is a road race. Location: Greenville, United States. Date: Saturday, 17 July 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greenville, United States, Saturday, 17 July 2027"
+    },
+    "pl": {
+      "description": "Carolina Reaper Challenge (13.1 - 26.2 - 50k & Relay) to bieg uliczny. Lokalizacja: Greenville, Stany Zjednoczone. Termin: sobota, 17 lipca 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greenville, Stany Zjednoczone, sobota, 17 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Carolina Reaper Challenge (13.1 - 26.2 - 50k & Relay)",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greenville/CarolinaReaper?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "carolina-reaper-challenge-13-1-26-2-50k-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "carolina-reaper-challenge-13-1-26-2-50k-relay-sc",
+    "url": "https://runsignup.com/Race/SC/Greenville/CarolinaReaper?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.85,
+    "lon": -82.45,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/SC/Greenville/CarolinaReaper?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

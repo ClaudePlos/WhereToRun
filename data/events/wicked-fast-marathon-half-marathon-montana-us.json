@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "WICKED FAST MARATHON & HALF MARATHON MONTANA is a road race. Location: Livingston, United States. Date: Saturday, 26 June 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Livingston, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "WICKED FAST MARATHON & HALF MARATHON MONTANA to bieg uliczny. Lokalizacja: Livingston, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Livingston, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Livingston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "WICKED FAST MARATHON & HALF MARATHON MONTANA",
+  "registrationUrl": "https://runsignup.com/Race/MT/Livingston/WICKEDFASTMARATHONHALFMARATHONMONTANA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wicked-fast-marathon-half-marathon-montana-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "wicked-fast-marathon-half-marathon-montana-mt",
+    "url": "https://runsignup.com/Race/MT/Livingston/WICKEDFASTMARATHONHALFMARATHONMONTANA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.65,
+    "lon": -110.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/MT/Livingston/WICKEDFASTMARATHONHALFMARATHONMONTANA?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

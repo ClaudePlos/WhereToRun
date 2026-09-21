@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pacific Grove City Marathon 26.2, Half 13.1, 5k is a road race. Location: Monterey, United States. Date: Saturday, 10 July 2027. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Monterey, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Pacific Grove City Marathon 26.2, Half 13.1, 5k to bieg uliczny. Lokalizacja: Monterey, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Monterey, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Monterey",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Pacific Grove City Marathon 26.2, Half 13.1, 5k",
+  "registrationUrl": "http://www.active.com/monterey-ca/running/distance-running-races/pacific-grove-city-marathon-26-2-half-13-1-5k-2027",
+  "slug": "pacific-grove-city-marathon-26-2-half-13-1-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "pacific-grove-city-marathon-26-2-half-13-1-5k-ca",
+    "url": "http://www.active.com/monterey-ca/running/distance-running-races/pacific-grove-city-marathon-26-2-half-13-1-5k-2027"
+  },
+  "start": {
+    "lat": 36.62,
+    "lon": -121.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "http://www.active.com/monterey-ca/running/distance-running-races/pacific-grove-city-marathon-26-2-half-13-1-5k-2027"
+}

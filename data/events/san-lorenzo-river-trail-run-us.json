@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "San Lorenzo River Trail Run is a trail race. Location: Santa Cruz, United States. Date: Saturday, 10 July 2027. Distances: 10 km, 21.1 km, other, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Santa Cruz, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "San Lorenzo River Trail Run to bieg trailowy. Lokalizacja: Santa Cruz, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: 10 km, 21.1 km, other, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Santa Cruz, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "other",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Santa Cruz",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "San Lorenzo River Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/SantaCruz/SanLorenzoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "san-lorenzo-river-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "san-lorenzo-river-trail-run-ca",
+    "url": "https://runsignup.com/Race/CA/SantaCruz/SanLorenzoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.03,
+    "lon": -122.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/CA/SantaCruz/SanLorenzoRiverTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

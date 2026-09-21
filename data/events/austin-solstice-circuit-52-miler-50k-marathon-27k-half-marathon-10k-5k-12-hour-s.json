@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Austin Solstice Circuit 52 Miler • 50K • Marathon • 27K • Half-Marathon • 10K • 5K • 12-Hour Solo & Relay is a road race. Location: Spicewood, United States. Date: Saturday, 17 July 2027. Distances: u50m, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Spicewood, United States, Saturday, 17 July 2027"
+    },
+    "pl": {
+      "description": "Austin Solstice Circuit 52 Miler • 50K • Marathon • 27K • Half-Marathon • 10K • 5K • 12-Hour Solo & Relay to bieg uliczny. Lokalizacja: Spicewood, Stany Zjednoczone. Termin: sobota, 17 lipca 2027. Dystanse: u50m, u50k, 42.2 km, other, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Spicewood, Stany Zjednoczone, sobota, 17 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spicewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Austin Solstice Circuit 52 Miler • 50K • Marathon • 27K • Half-Marathon • 10K • 5K • 12-Hour Solo & Relay",
+  "registrationUrl": "https://runsignup.com/Race/TX/Spicewood/SolsticeCircuitChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "austin-solstice-circuit-52-miler-50k-marathon-27k-half-marathon-10k-5k-12-hour-s",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "austin-solstice-circuit-52-miler-50k-marathon-27k-half-marathon-10k",
+    "url": "https://runsignup.com/Race/TX/Spicewood/SolsticeCircuitChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.39,
+    "lon": -98.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/TX/Spicewood/SolsticeCircuitChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

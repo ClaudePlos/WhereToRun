@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Findley Lake Triathlon Festival is a triathlon. Location: Findley Lake, United States. Date: Sunday, 25 July 2027. Distances: other, u50k, 42.2 km, u50m, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Findley Lake, United States, Sunday, 25 July 2027"
+    },
+    "pl": {
+      "description": "Findley Lake Triathlon Festival to triatlon. Lokalizacja: Findley Lake, Stany Zjednoczone. Termin: niedziela, 25 lipca 2027. Dystanse: other, u50k, 42.2 km, u50m, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Findley Lake, Stany Zjednoczone, niedziela, 25 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-21T23:15:26.404Z",
+  "date": "2027-07-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k",
+    "42.2 km",
+    "u50m",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Findley Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Findley Lake Triathlon Festival",
+  "registrationUrl": "https://runsignup.com/Race/NY/FindleyLake/FindleyLakeTriathlonFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "findley-lake-triathlon-festival-us",
+  "source": {
+    "fetchedAt": "2026-09-21T23:15:34.608Z",
+    "id": "runraceusa",
+    "ref": "findley-lake-triathlon-festival-ny",
+    "url": "https://runsignup.com/Race/NY/FindleyLake/FindleyLakeTriathlonFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.12,
+    "lon": -79.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-21T23:15:26.404Z",
+  "website": "https://runsignup.com/Race/NY/FindleyLake/FindleyLakeTriathlonFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
