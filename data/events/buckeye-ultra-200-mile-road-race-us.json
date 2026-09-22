@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Buckeye Ultra 200 Mile Road Race is a ultramarathon. Location: Ashtabula, United States. Date: Thursday, 9 September 2027. Distances: u100p, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ashtabula, United States, Thursday, 9 September 2027"
+    },
+    "pl": {
+      "description": "Buckeye Ultra 200 Mile Road Race to ultramaraton. Lokalizacja: Ashtabula, Stany Zjednoczone. Termin: czwartek, 9 września 2027. Dystanse: u100p, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ashtabula, Stany Zjednoczone, czwartek, 9 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ashtabula",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Buckeye Ultra 200 Mile Road Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9557",
+  "slug": "buckeye-ultra-200-mile-road-race-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "buckeye-ultra-200-mile-road-race-oh",
+    "url": "https://ultrasignup.com/register.aspx?eid=9557"
+  },
+  "start": {
+    "lat": 41.87,
+    "lon": -80.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9557"
+}

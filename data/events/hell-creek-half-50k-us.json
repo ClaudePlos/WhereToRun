@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hell Creek Half & 50k is a road race. Location: Sylvan Grove, United States. Date: Saturday, 21 August 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sylvan Grove, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Hell Creek Half & 50k to bieg uliczny. Lokalizacja: Sylvan Grove, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sylvan Grove, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sylvan Grove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Hell Creek Half & 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16390",
+  "slug": "hell-creek-half-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "hell-creek-half-50k-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=16390"
+  },
+  "start": {
+    "lat": 38.92,
+    "lon": -98.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=16390"
+}

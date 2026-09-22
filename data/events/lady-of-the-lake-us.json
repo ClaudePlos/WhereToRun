@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Lady of the Lake is a ultramarathon. Location: Blairsville, United States. Date: Saturday, 14 November 2026. Distances: 8 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Blairsville, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Lady of the Lake to ultramaraton. Lokalizacja: Blairsville, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 8 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Blairsville, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Blairsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Lady of the Lake",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64176",
+  "slug": "lady-of-the-lake-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:49.483Z",
+    "id": "ultrasignup",
+    "ref": "10387",
+    "url": "https://ultrasignup.com/register.aspx?did=64176"
+  },
+  "start": {
+    "lat": 34.7649,
+    "lon": -83.9255,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "http://www.revolutionrunning.net"
+}

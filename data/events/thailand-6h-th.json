@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Thailand 6H is a ultramarathon. Location: Samut Sakhon, Thailand. Date: Saturday, 9 January 2027. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Samut Sakhon, Thailand, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Thailand 6H to ultramaraton. Lokalizacja: Samut Sakhon, Tajlandia. Termin: sobota, 9 stycznia 2027. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Samut Sakhon, Tajlandia, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Samut Sakhon",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Thailand 6H",
+  "registrationUrl": null,
+  "slug": "thailand-6h-th",
+  "source": {
+    "fetchedAt": "2026-09-22T17:39:04.092Z",
+    "id": "duv",
+    "ref": "129522",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129522"
+  },
+  "start": {
+    "lat": 13.549778,
+    "lon": 100.274281,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": null
+}

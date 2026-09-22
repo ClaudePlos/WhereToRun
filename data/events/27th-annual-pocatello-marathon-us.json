@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "27th Annual Pocatello Marathon is a road race. Location: Pocatello, United States. Date: Saturday, 4 September 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pocatello, United States, Saturday, 4 September 2027"
+    },
+    "pl": {
+      "description": "27th Annual Pocatello Marathon to bieg uliczny. Lokalizacja: Pocatello, Stany Zjednoczone. Termin: sobota, 4 września 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pocatello, Stany Zjednoczone, sobota, 4 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pocatello",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "27th Annual Pocatello Marathon",
+  "registrationUrl": "https://runsignup.com/Race/ID/Pocatello/marathon2019?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "27th-annual-pocatello-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "27th-annual-pocatello-marathon-id",
+    "url": "https://runsignup.com/Race/ID/Pocatello/marathon2019?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.89,
+    "lon": -112.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/ID/Pocatello/marathon2019?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

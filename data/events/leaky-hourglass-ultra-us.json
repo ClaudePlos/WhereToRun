@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Leaky Hourglass Ultra is a ultramarathon. Location: Half Way, United States. Date: Saturday, 28 August 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Half Way, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "Leaky Hourglass Ultra to ultramaraton. Lokalizacja: Half Way, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Half Way, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Half Way",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Leaky Hourglass Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13727",
+  "slug": "leaky-hourglass-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "leaky-hourglass-ultra-mo",
+    "url": "https://ultrasignup.com/register.aspx?eid=13727"
+  },
+  "start": {
+    "lat": 37.5,
+    "lon": -93.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13727"
+}

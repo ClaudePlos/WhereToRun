@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Wiley Canyon Ultra is a ultramarathon. Location: Lexington, United States. Date: Saturday, 28 August 2027. Distances: 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lexington, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "Wiley Canyon Ultra to ultramaraton. Lokalizacja: Lexington, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lexington, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lexington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Wiley Canyon Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20324",
+  "slug": "wiley-canyon-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "wiley-canyon-ultra-ne",
+    "url": "https://ultrasignup.com/register.aspx?eid=20324"
+  },
+  "start": {
+    "lat": 40.78,
+    "lon": -99.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20324"
+}

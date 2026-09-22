@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Chupacabra  5K. 10K. 18 Miler & 50K is a road race. Location: Long Beach, United States. Date: Saturday, 11 September 2027. Distances: 5 km, 10 km, other, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Long Beach, United States, Saturday, 11 September 2027"
+    },
+    "pl": {
+      "description": "Chupacabra  5K. 10K. 18 Miler & 50K to bieg uliczny. Lokalizacja: Long Beach, Stany Zjednoczone. Termin: sobota, 11 września 2027. Dystanse: 5 km, 10 km, other, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Long Beach, Stany Zjednoczone, sobota, 11 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "other",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Long Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Chupacabra  5K. 10K. 18 Miler & 50K",
+  "registrationUrl": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "chupacabra-5k-10k-18-miler-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "chupacabra-5k-10k-18-miler-50k-ca",
+    "url": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.76,
+    "lon": -118.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

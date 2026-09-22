@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "CORE X100 Ultra Trail is a ultramarathon. Location: Chiang Dao, Thailand. Date: 23 December 2026 – 24 December 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Chiang Dao, Thailand, 23 December 2026 – 24 December 2026"
+    },
+    "pl": {
+      "description": "CORE X100 Ultra Trail to ultramaraton. Lokalizacja: Chiang Dao, Tajlandia. Termin: 23 grudnia 2026 – 24 grudnia 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Chiang Dao, Tajlandia, 23 grudnia 2026 – 24 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2026-12-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-12-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chiang Dao",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": null
+  },
+  "manual": false,
+  "name": "CORE X100 Ultra Trail",
+  "registrationUrl": null,
+  "slug": "core-x100-ultra-trail-th",
+  "source": {
+    "fetchedAt": "2026-09-22T17:39:04.092Z",
+    "id": "duv",
+    "ref": "133999",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133999"
+  },
+  "start": {
+    "lat": 19.369566,
+    "lon": 98.965711,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": null
+}

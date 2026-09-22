@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "CajunMan Triathlon, Duathlon, Aquabike, Aquathlon & 5k Run is a triathlon. Location: Lafayette, United States. Date: Sunday, 12 September 2027. Distances: other, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Lafayette, United States, Sunday, 12 September 2027"
+    },
+    "pl": {
+      "description": "CajunMan Triathlon, Duathlon, Aquabike, Aquathlon & 5k Run to triatlon. Lokalizacja: Lafayette, Stany Zjednoczone. Termin: niedziela, 12 września 2027. Dystanse: other, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Lafayette, Stany Zjednoczone, niedziela, 12 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lafayette",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "CajunMan Triathlon, Duathlon, Aquabike, Aquathlon & 5k Run",
+  "registrationUrl": "https://runsignup.com/Race/LA/Lafayette/CajunManTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cajunman-triathlon-duathlon-aquabike-aquathlon-5k-run-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "cajunman-triathlon-duathlon-aquabike-aquathlon-5k-run-la",
+    "url": "https://runsignup.com/Race/LA/Lafayette/CajunManTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.16,
+    "lon": -92.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/LA/Lafayette/CajunManTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

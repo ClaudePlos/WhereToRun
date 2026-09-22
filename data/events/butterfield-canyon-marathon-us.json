@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Butterfield Canyon Marathon is a trail race. Location: Herriman, United States. Date: Saturday, 28 August 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Herriman, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "Butterfield Canyon Marathon to bieg trailowy. Lokalizacja: Herriman, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Herriman, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Herriman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Butterfield Canyon Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17040",
+  "slug": "butterfield-canyon-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "butterfield-canyon-marathon-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=17040"
+  },
+  "start": {
+    "lat": 40.51,
+    "lon": -112.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=17040"
+}

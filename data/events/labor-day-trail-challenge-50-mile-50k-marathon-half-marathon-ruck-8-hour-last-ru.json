@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Labor Day Trail Challenge 50-Mile • 50K • Marathon • Half Marathon & Ruck • 8-Hour • Last Runner Standing is a trail race. Location: Cedar Creek, United States. Date: Saturday, 4 September 2027. Distances: ultra, u50m, u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Cedar Creek, United States, Saturday, 4 September 2027"
+    },
+    "pl": {
+      "description": "Labor Day Trail Challenge 50-Mile • 50K • Marathon • Half Marathon & Ruck • 8-Hour • Last Runner Standing to bieg trailowy. Lokalizacja: Cedar Creek, Stany Zjednoczone. Termin: sobota, 4 września 2027. Dystanse: ultra, u50m, u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Cedar Creek, Stany Zjednoczone, sobota, 4 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Labor Day Trail Challenge 50-Mile • 50K • Marathon • Half Marathon & Ruck • 8-Hour • Last Runner Standing",
+  "registrationUrl": "https://runsignup.com/Race/TX/CedarCreek/LABORDAYTRAILCHALLENGE5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "labor-day-trail-challenge-50-mile-50k-marathon-half-marathon-ruck-8-hour-last-ru",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "labor-day-trail-challenge-50-mile-50k-marathon-half-marathon-ruck-8",
+    "url": "https://runsignup.com/Race/TX/CedarCreek/LABORDAYTRAILCHALLENGE5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.1,
+    "lon": -97.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/TX/CedarCreek/LABORDAYTRAILCHALLENGE5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

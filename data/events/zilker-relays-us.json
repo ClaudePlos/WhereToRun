@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Zilker Relays is a road race. Location: Austin, United States. Date: Friday, 10 September 2027. Distances: other, 42.2 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Austin, United States, Friday, 10 September 2027"
+    },
+    "pl": {
+      "description": "Zilker Relays to bieg uliczny. Lokalizacja: Austin, Stany Zjednoczone. Termin: piątek, 10 września 2027. Dystanse: other, 42.2 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Austin, Stany Zjednoczone, piątek, 10 września 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-09-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Austin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Zilker Relays",
+  "registrationUrl": "https://raceroster.com/events/2027/140790/zilker-relays",
+  "slug": "zilker-relays-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "zilker-relays-tx",
+    "url": "https://raceroster.com/events/2027/140790/zilker-relays"
+  },
+  "start": {
+    "lat": 30.3,
+    "lon": -97.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://raceroster.com/events/2027/140790/zilker-relays"
+}

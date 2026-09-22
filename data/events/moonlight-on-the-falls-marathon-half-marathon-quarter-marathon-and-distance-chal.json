@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Moonlight on the Falls - Marathon, Half Marathon, Quarter Marathon, and Distance Challenge is a road race. Location: Davis, United States. Date: Saturday, 21 August 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Davis, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Moonlight on the Falls - Marathon, Half Marathon, Quarter Marathon, and Distance Challenge to bieg uliczny. Lokalizacja: Davis, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Davis, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Davis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Moonlight on the Falls - Marathon, Half Marathon, Quarter Marathon, and Distance Challenge",
+  "registrationUrl": "https://runsignup.com/Race/WV/Davis/MoonlightontheFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "moonlight-on-the-falls-marathon-half-marathon-quarter-marathon-and-distance-chal",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "moonlight-on-the-falls-marathon-half-marathon-quarter-marathon-and",
+    "url": "https://runsignup.com/Race/WV/Davis/MoonlightontheFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.09,
+    "lon": -79.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/WV/Davis/MoonlightontheFallsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

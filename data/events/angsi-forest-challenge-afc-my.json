@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Angsi Forest Challenge (AFC) is a ultramarathon. Location: Tanjung Ipoh, Malaysia. Date: 25 September 2026 – 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tanjung Ipoh, Malaysia, 25 September 2026 – 26 September 2026"
+    },
+    "pl": {
+      "description": "Angsi Forest Challenge (AFC) to ultramaraton. Lokalizacja: Tanjung Ipoh, Malezja. Termin: 25 września 2026 – 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tanjung Ipoh, Malezja, 25 września 2026 – 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2026-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2026-09-26",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tanjung Ipoh",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Angsi Forest Challenge (AFC)",
+  "registrationUrl": null,
+  "slug": "angsi-forest-challenge-afc-my",
+  "source": {
+    "fetchedAt": "2026-09-22T17:39:04.092Z",
+    "id": "duv",
+    "ref": "135101",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135101"
+  },
+  "start": {
+    "lat": 2.74129,
+    "lon": 102.183903,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": null
+}

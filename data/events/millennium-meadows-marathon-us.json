@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Millennium Meadows Marathon is a road race. Location: Grand Rapids, United States. Date: Sunday, 29 August 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Grand Rapids, United States, Sunday, 29 August 2027"
+    },
+    "pl": {
+      "description": "Millennium Meadows Marathon to bieg uliczny. Lokalizacja: Grand Rapids, Stany Zjednoczone. Termin: niedziela, 29 sierpnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Grand Rapids, Stany Zjednoczone, niedziela, 29 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T17:38:39.624Z",
+  "date": "2027-08-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Millennium Meadows Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MI/GrandRapids/MillenniumMeadowsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "millennium-meadows-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "id": "runraceusa",
+    "ref": "millennium-meadows-marathon-mi",
+    "url": "https://runsignup.com/Race/MI/GrandRapids/MillenniumMeadowsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.01,
+    "lon": -85.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "website": "https://runsignup.com/Race/MI/GrandRapids/MillenniumMeadowsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

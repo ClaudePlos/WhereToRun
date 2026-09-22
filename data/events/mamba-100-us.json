@@ -10,11 +10,11 @@
     }
   },
   "createdAt": "2026-09-13T12:01:25.177Z",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km",
-    "100 km"
+    "50 km",
+    "25 km"
   ],
   "endDate": "2026-11-07",
   "featured": false,
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64240",
   "slug": "mamba-100-us",
   "source": {
-    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "fetchedAt": "2026-09-22T17:38:49.483Z",
     "id": "ultrasignup",
     "ref": "16262",
     "url": "https://ultrasignup.com/register.aspx?did=64240"
@@ -47,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "updatedAt": "2026-09-22T17:38:39.624Z",
   "website": "http://www.mambatrailrunners.com"
 }
