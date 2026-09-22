@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-01-16",
+  "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -30,13 +30,13 @@
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 DALLAS FORT WORTH",
-  "registrationUrl": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-dallas-fort-worth-us",
   "source": {
-    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "fetchedAt": "2026-09-22T22:55:44.634Z",
     "id": "runraceusa",
     "ref": "sunrise-marathon-5k-10k-13-1-dallas-fort-worth-fort-worth-tx-2027-03",
-    "url": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 32.74,
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-22T17:38:39.624Z",
-  "website": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-22T22:55:36.321Z",
+  "website": "https://runsignup.com/Race/TX/FortWorth/SunriseMarathon5K10KDALLASFORTWORTH320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

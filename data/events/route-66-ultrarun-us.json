@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Route 66 UltraRun is a road race. Location: Historic Route 66, United States. Date: Saturday, 14 November 2026. Distances: 140-Mile Crewed Runner, 140-Mile 3 Person Relay, 140-Mile 4 Person Relay Team, 140-Mile 5 Person R. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Historic Route 66, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Route 66 UltraRun to bieg uliczny. Lokalizacja: Historic Route 66, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 140-Mile Crewed Runner, 140-Mile 3 Person Relay, 140-Mile 4 Person Relay Team, 140-Mile 5 Person R. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Historic Route 66, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T22:55:36.321Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "140-Mile Crewed Runner",
+    "140-Mile 3 Person Relay",
+    "140-Mile 4 Person Relay Team",
+    "140-Mile 5 Person R"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Historic Route 66",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Route 66 UltraRun",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64731",
+  "slug": "route-66-ultrarun-us",
+  "source": {
+    "fetchedAt": "2026-09-22T22:55:44.068Z",
+    "id": "ultrasignup",
+    "ref": "16348",
+    "url": "https://ultrasignup.com/register.aspx?did=64731"
+  },
+  "start": {
+    "lat": 35.3261,
+    "lon": -112.874,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T22:55:36.321Z",
+  "website": "https://route66ultrarun.com/"
+}

@@ -13,7 +13,8 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k"
+    "100 km",
+    "PACER"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +28,25 @@
   },
   "manual": false,
   "name": "Looking Glass 100k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16347",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65399",
   "slug": "looking-glass-100k-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
-    "id": "runraceusa",
-    "ref": "looking-glass-100k-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=16347"
+    "fetchedAt": "2026-09-22T22:55:44.068Z",
+    "id": "ultrasignup",
+    "ref": "16347",
+    "url": "https://ultrasignup.com/register.aspx?did=65399"
   },
   "start": {
-    "lat": 35.28,
-    "lon": -82.72,
+    "lat": 35.283,
+    "lon": -82.7219,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16347"
+  "type": "ultra",
+  "updatedAt": "2026-09-22T22:55:36.321Z",
+  "website": "https://www.tanawhaadventures.com/lookingglass100k"
 }

@@ -13,10 +13,12 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "21.1 km",
-    "other",
+    "1",
+    "2 Marathon",
+    "20 km",
+    "15 km",
     "10 km"
   ],
   "endDate": null,
@@ -31,25 +33,25 @@
   },
   "manual": false,
   "name": "The Next Loop Endurance Series- Tyler, TX Nov",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20043",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65460",
   "slug": "the-next-loop-endurance-series-tyler-tx-nov-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
-    "id": "runraceusa",
-    "ref": "the-next-loop-endurance-series-tyler-tx-nov-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=20043"
+    "fetchedAt": "2026-09-22T22:55:44.068Z",
+    "id": "ultrasignup",
+    "ref": "20043",
+    "url": "https://ultrasignup.com/register.aspx?did=65460"
   },
   "start": {
-    "lat": 32.48,
-    "lon": -95.3,
+    "lat": 32.4807,
+    "lon": -95.2957,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20043"
+  "type": "ultra",
+  "updatedAt": "2026-09-22T22:55:36.321Z",
+  "website": "https://www.everfurther.net/the-next-loop-tyler-nov"
 }
