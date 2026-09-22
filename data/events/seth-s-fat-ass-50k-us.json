@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Seth's Fat Ass 50K is a road race. Location: Springfield, United States. Date: Saturday, 12 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Springfield, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Seth's Fat Ass 50K to bieg uliczny. Lokalizacja: Springfield, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Springfield, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Springfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Seth's Fat Ass 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8220",
+  "slug": "seth-s-fat-ass-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "seth-s-fat-ass-50k-ma",
+    "url": "https://ultrasignup.com/register.aspx?eid=8220"
+  },
+  "start": {
+    "lat": 42.08,
+    "lon": -72.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8220"
+}

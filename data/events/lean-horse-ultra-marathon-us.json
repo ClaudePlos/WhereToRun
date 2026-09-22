@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Lean Horse Ultra Marathon is a ultramarathon. Location: Custer, United States. Date: Saturday, 31 July 2027. Distances: u100m, u50m, u50k, other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Custer, United States, Saturday, 31 July 2027"
+    },
+    "pl": {
+      "description": "Lean Horse Ultra Marathon to ultramaraton. Lokalizacja: Custer, Stany Zjednoczone. Termin: sobota, 31 lipca 2027. Dystanse: u100m, u50m, u50k, other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Custer, Stany Zjednoczone, sobota, 31 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-07-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k",
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Custer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SD"
+  },
+  "manual": false,
+  "name": "Lean Horse Ultra Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/140400/lean-horse-ultra-marathon",
+  "slug": "lean-horse-ultra-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "lean-horse-ultra-marathon-sd",
+    "url": "https://raceroster.com/events/2027/140400/lean-horse-ultra-marathon"
+  },
+  "start": {
+    "lat": 43.66,
+    "lon": -103.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://raceroster.com/events/2027/140400/lean-horse-ultra-marathon"
+}

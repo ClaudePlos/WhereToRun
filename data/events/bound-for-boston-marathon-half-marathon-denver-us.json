@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Bound for Boston Marathon & Half Marathon - Denver is a road race. Location: Denver, United States. Date: Sunday, 1 August 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Denver, United States, Sunday, 1 August 2027"
+    },
+    "pl": {
+      "description": "Bound for Boston Marathon & Half Marathon - Denver to bieg uliczny. Lokalizacja: Denver, Stany Zjednoczone. Termin: niedziela, 1 sierpnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Denver, Stany Zjednoczone, niedziela, 1 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Denver",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Bound for Boston Marathon & Half Marathon - Denver",
+  "registrationUrl": "https://runsignup.com/Race/CO/Denver/ImBoundforBostonMarathonHalfMarathonDenver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bound-for-boston-marathon-half-marathon-denver-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "bound-for-boston-marathon-half-marathon-denver-co",
+    "url": "https://runsignup.com/Race/CO/Denver/ImBoundforBostonMarathonHalfMarathonDenver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.74,
+    "lon": -104.98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/CO/Denver/ImBoundforBostonMarathonHalfMarathonDenver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

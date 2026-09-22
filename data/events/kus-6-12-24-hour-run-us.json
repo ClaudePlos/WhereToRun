@@ -13,9 +13,13 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "24 h",
+    "Night 12 Hour",
+    "12 h",
+    "6 h",
+    "6 Hour Night"
   ],
-  "endDate": null,
+  "endDate": "2026-11-15",
   "featured": false,
   "fees": [],
   "links": [],
@@ -27,25 +31,25 @@
   },
   "manual": false,
   "name": "KUS 6/12/24 Hour Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3955",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64740",
   "slug": "kus-6-12-24-hour-run-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
-    "id": "runraceusa",
-    "ref": "kus-6-12-24-hour-run-ks",
-    "url": "https://ultrasignup.com/register.aspx?eid=3955"
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "3955",
+    "url": "https://ultrasignup.com/register.aspx?did=64740"
   },
   "start": {
-    "lat": 38.56,
-    "lon": -97.83,
+    "lat": 38.5569,
+    "lon": -97.8287,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3955"
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "http://www.ksultrarunners.org"
 }

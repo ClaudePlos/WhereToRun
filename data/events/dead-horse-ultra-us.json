@@ -13,9 +13,10 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "other"
+    "80.5 km",
+    "50 km",
+    "30 km",
+    "15 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Dead Horse Ultra",
-  "registrationUrl": "https://runsignup.com/Race/UT/Moab/DeadHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64304",
   "slug": "dead-horse-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
-    "id": "runraceusa",
-    "ref": "dead-horse-ultra-ut",
-    "url": "https://runsignup.com/Race/UT/Moab/DeadHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "4452",
+    "url": "https://ultrasignup.com/register.aspx?did=64304"
   },
   "start": {
-    "lat": 38.57,
-    "lon": -109.53,
+    "lat": 38.6557,
+    "lon": -109.678,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://runsignup.com/Race/UT/Moab/DeadHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://www.madmooseevents.com/dead-horse-ultra"
 }

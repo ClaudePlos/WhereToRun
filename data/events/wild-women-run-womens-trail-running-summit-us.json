@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-03T11:24:47.198Z",
-  "date": "2026-09-27",
+  "date": "2026-11-08",
   "dateStatus": "confirmed",
   "distances": [
     "Membership"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=68113",
   "slug": "wild-women-run-womens-trail-running-summit-us",
   "source": {
-    "fetchedAt": "2026-09-03T11:24:55.243Z",
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
     "id": "ultrasignup",
     "ref": "19395",
     "url": "https://ultrasignup.com/register.aspx?did=68113"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-03T11:24:47.198Z",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
   "website": "https://wildtrails.org/"
 }

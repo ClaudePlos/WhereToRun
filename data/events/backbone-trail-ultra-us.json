@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-14T18:39:01.162Z",
-  "date": "2027-01-16",
+  "date": "2027-09-18",
   "dateStatus": "confirmed",
   "distances": [
     "u100k"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3479",
   "slug": "backbone-trail-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
     "id": "runraceusa",
     "ref": "backbone-trail-ultra-ca",
     "url": "https://ultrasignup.com/register.aspx?eid=3479"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
   "website": "https://ultrasignup.com/register.aspx?eid=3479"
 }

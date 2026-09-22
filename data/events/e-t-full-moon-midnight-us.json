@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "E.T. Full Moon Midnight is a road race. Location: Las Vegas, United States. Date: Saturday, 14 August 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "E.T. Full Moon Midnight to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "E.T. Full Moon Midnight",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1641",
+  "slug": "e-t-full-moon-midnight-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "e-t-full-moon-midnight-nv",
+    "url": "https://ultrasignup.com/register.aspx?eid=1641"
+  },
+  "start": {
+    "lat": 36.1,
+    "lon": -115.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1641"
+}

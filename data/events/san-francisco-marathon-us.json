@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "San Francisco Marathon is a road race. Location: San Francisco, United States. Date: Sunday, 25 July 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Francisco, United States, Sunday, 25 July 2027"
+    },
+    "pl": {
+      "description": "San Francisco Marathon to bieg uliczny. Lokalizacja: San Francisco, Stany Zjednoczone. Termin: niedziela, 25 lipca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Francisco, Stany Zjednoczone, niedziela, 25 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-07-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "San Francisco Marathon",
+  "registrationUrl": "https://register.thesfmarathon.com/",
+  "slug": "san-francisco-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "san-francisco-marathon-ca",
+    "url": "https://register.thesfmarathon.com/"
+  },
+  "start": {
+    "lat": 37.79527,
+    "lon": -122.39373,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://register.thesfmarathon.com/"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "JSRC RunAPalooza is a road race. Location: Asbury Park, United States. Date: Saturday, 10 April 2027. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Asbury Park, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "JSRC RunAPalooza to bieg uliczny. Lokalizacja: Asbury Park, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Asbury Park, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Asbury Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "JSRC RunAPalooza",
+  "registrationUrl": "https://runsignup.com/Race/NJ/AsburyPark/JSRCRunAPalooza?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jsrc-runapalooza-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "jsrc-runapalooza-nj",
+    "url": "https://runsignup.com/Race/NJ/AsburyPark/JSRCRunAPalooza?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.25,
+    "lon": -74.05,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/NJ/AsburyPark/JSRCRunAPalooza?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

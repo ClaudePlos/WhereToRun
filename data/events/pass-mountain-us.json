@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Pass Mountain is a ultramarathon. Location: Mesa, United States. Date: Saturday, 14 November 2026. Distances: 80.5 km, 50 km, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mesa, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Pass Mountain to ultramaraton. Lokalizacja: Mesa, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 80.5 km, 50 km, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mesa, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mesa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Pass Mountain",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64771",
+  "slug": "pass-mountain-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "2509",
+    "url": "https://ultrasignup.com/register.aspx?did=64771"
+  },
+  "start": {
+    "lat": 33.4792,
+    "lon": -111.619,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "http://www.aravaiparunning.com/pass-mountain/"
+}

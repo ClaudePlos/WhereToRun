@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "bambi 100 is a ultramarathon. Location: Nara, Japan. Date: 21 November 2026 – 23 November 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nara, Japan, 21 November 2026 – 23 November 2026"
+    },
+    "pl": {
+      "description": "bambi 100 to ultramaraton. Lokalizacja: Nara, Japonia. Termin: 21 listopada 2026 – 23 listopada 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nara, Japonia, 21 listopada 2026 – 23 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-11-23",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nara",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "bambi 100",
+  "registrationUrl": null,
+  "slug": "bambi-100-jp",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:24.156Z",
+    "id": "duv",
+    "ref": "133020",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133020"
+  },
+  "start": {
+    "lat": 34.684545,
+    "lon": 135.804836,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": null
+}

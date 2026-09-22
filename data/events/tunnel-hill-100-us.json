@@ -13,9 +13,10 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50m",
+    "160.9 km",
+    "100 km",
+    "USATF 50Mi Nat. Champ.",
+    "80.5 km",
     "42.2 km"
   ],
   "endDate": null,
@@ -30,25 +31,25 @@
   },
   "manual": false,
   "name": "Tunnel Hill 100",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4397",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64502",
   "slug": "tunnel-hill-100-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
-    "id": "runraceusa",
-    "ref": "tunnel-hill-100-il",
-    "url": "https://ultrasignup.com/register.aspx?eid=4397"
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "4397",
+    "url": "https://ultrasignup.com/register.aspx?did=64502"
   },
   "start": {
-    "lat": 37.42,
-    "lon": -88.89,
+    "lat": 37.416,
+    "lon": -88.8898,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4397"
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "http://www.durbinracemanagement.com/"
 }

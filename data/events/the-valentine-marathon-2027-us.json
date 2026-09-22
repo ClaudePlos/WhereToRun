@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "The Valentine Marathon - 2027 is a road race. Location: Valentine, United States. Date: Saturday, 7 August 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Valentine, United States, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "The Valentine Marathon - 2027 to bieg uliczny. Lokalizacja: Valentine, Stany Zjednoczone. Termin: sobota, 7 sierpnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Valentine, Stany Zjednoczone, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valentine",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "The Valentine Marathon - 2027",
+  "registrationUrl": "https://raceroster.com/events/2027/139781/the-valentine-marathon-2027",
+  "slug": "the-valentine-marathon-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "the-valentine-marathon-2027-ne",
+    "url": "https://raceroster.com/events/2027/139781/the-valentine-marathon-2027"
+  },
+  "start": {
+    "lat": 42.8062,
+    "lon": -100.6215,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://raceroster.com/events/2027/139781/the-valentine-marathon-2027"
+}

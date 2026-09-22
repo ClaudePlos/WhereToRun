@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rockledge Rumble is a ultramarathon. Location: Grapevine, United States. Date: Saturday, 14 November 2026. Distances: 50 km, 30 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Grapevine, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Rockledge Rumble to ultramaraton. Lokalizacja: Grapevine, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 50 km, 30 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Grapevine, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grapevine",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Rockledge Rumble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65408",
+  "slug": "rockledge-rumble-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "316",
+    "url": "https://ultrasignup.com/register.aspx?did=65408"
+  },
+  "start": {
+    "lat": 32.9802,
+    "lon": -97.063,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://rockledgerumble.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Miami Backyard Ultra is a ultramarathon. Location: Key Biscayne, United States. Date: Saturday, 19 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Key Biscayne, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Miami Backyard Ultra to ultramaraton. Lokalizacja: Key Biscayne, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Key Biscayne, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Key Biscayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Miami Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/FL/KeyBiscayne/MiamiBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "miami-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "miami-backyard-ultra-fl",
+    "url": "https://runsignup.com/Race/FL/KeyBiscayne/MiamiBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 25.69,
+    "lon": -80.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/FL/KeyBiscayne/MiamiBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

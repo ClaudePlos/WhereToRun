@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "CUIMC Team Relay Marathon is a road race. Location: New York, United States. Date: Tuesday, 27 April 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — New York, United States, Tuesday, 27 April 2027"
+    },
+    "pl": {
+      "description": "CUIMC Team Relay Marathon to bieg uliczny. Lokalizacja: New York, Stany Zjednoczone. Termin: wtorek, 27 kwietnia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — New York, Stany Zjednoczone, wtorek, 27 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-04-27",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "CUIMC Team Relay Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NY/NewYork/CUIMCTeamRelayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cuimc-team-relay-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "cuimc-team-relay-marathon-ny",
+    "url": "https://runsignup.com/Race/NY/NewYork/CUIMCTeamRelayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.84,
+    "lon": -73.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/NY/NewYork/CUIMCTeamRelayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

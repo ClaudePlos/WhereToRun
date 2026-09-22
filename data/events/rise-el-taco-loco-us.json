@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Rise El Taco Loco is a ultramarathon. Location: San Antonio, United States. Date: Saturday, 14 November 2026. Distances: 160.9 km, 100k Relay, 100 km, 50 km, Virtual 50k-25k-10k and 5k, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Antonio, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Rise El Taco Loco to ultramaraton. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 160.9 km, 100k Relay, 100 km, 50 km, Virtual 50k-25k-10k and 5k, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Antonio, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100k Relay",
+    "100 km",
+    "50 km",
+    "Virtual 50k-25k-10k and 5k",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Rise El Taco Loco",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63676",
+  "slug": "rise-el-taco-loco-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "id": "ultrasignup",
+    "ref": "10292",
+    "url": "https://ultrasignup.com/register.aspx?did=63676"
+  },
+  "start": {
+    "lat": 29.2393,
+    "lon": -98.5265,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://www.riseracingco.com/el-taco-loco"
+}

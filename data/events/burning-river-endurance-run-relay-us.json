@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Burning River Endurance Run & Relay is a road race. Location: Cuyahoga Falls, United States. Date: Saturday, 31 July 2027. Distances: u100m, u50m, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cuyahoga Falls, United States, Saturday, 31 July 2027"
+    },
+    "pl": {
+      "description": "Burning River Endurance Run & Relay to bieg uliczny. Lokalizacja: Cuyahoga Falls, Stany Zjednoczone. Termin: sobota, 31 lipca 2027. Dystanse: u100m, u50m, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cuyahoga Falls, Stany Zjednoczone, sobota, 31 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-07-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cuyahoga Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Burning River Endurance Run & Relay",
+  "registrationUrl": "https://runsignup.com/Race/OH/CuyahogaFalls/BurningRiver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "burning-river-endurance-run-relay-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "burning-river-endurance-run-relay-oh",
+    "url": "https://runsignup.com/Race/OH/CuyahogaFalls/BurningRiver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.14,
+    "lon": -81.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/OH/CuyahogaFalls/BurningRiver?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

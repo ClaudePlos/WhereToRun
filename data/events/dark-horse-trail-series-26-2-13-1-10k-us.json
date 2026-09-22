@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Dark Horse Trail Series (26.2 - 13.1 - 10k) is a trail race. Location: Mill Spring, United States. Date: Saturday, 14 August 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Mill Spring, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Dark Horse Trail Series (26.2 - 13.1 - 10k) to bieg trailowy. Lokalizacja: Mill Spring, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Mill Spring, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mill Spring",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Dark Horse Trail Series (26.2 - 13.1 - 10k)",
+  "registrationUrl": "https://runsignup.com/Race/NC/MillSpring/DarkHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dark-horse-trail-series-26-2-13-1-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "dark-horse-trail-series-26-2-13-1-10k-nc",
+    "url": "https://runsignup.com/Race/NC/MillSpring/DarkHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.33,
+    "lon": -82.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/NC/MillSpring/DarkHorseUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

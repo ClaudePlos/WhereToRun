@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Nagasaki Tachibana Gulf Coast Super Maranic 103 is a ultramarathon. Location: Nagasaki, Japan. Date: Sunday, 22 November 2026. Distances: 103 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nagasaki, Japan, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Nagasaki Tachibana Gulf Coast Super Maranic 103 to ultramaraton. Lokalizacja: Nagasaki, Japonia. Termin: niedziela, 22 listopada 2026. Dystanse: 103 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nagasaki, Japonia, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "103 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nagasaki",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Nagasaki Tachibana Gulf Coast Super Maranic 103",
+  "registrationUrl": null,
+  "slug": "nagasaki-tachibana-gulf-coast-super-maranic-103-jp",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:24.156Z",
+    "id": "duv",
+    "ref": "131781",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131781"
+  },
+  "start": {
+    "lat": 32.750161,
+    "lon": 129.8781,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": null
+}

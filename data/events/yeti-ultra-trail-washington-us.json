@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Yeti Ultra Trail Washington is a ultramarathon. Location: Hyak, United States. Date: Friday, 25 June 2027. Distances: u100m, u100k, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hyak, United States, Friday, 25 June 2027"
+    },
+    "pl": {
+      "description": "Yeti Ultra Trail Washington to ultramaraton. Lokalizacja: Hyak, Stany Zjednoczone. Termin: piątek, 25 czerwca 2027. Dystanse: u100m, u100k, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hyak, Stany Zjednoczone, piątek, 25 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-06-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hyak",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Yeti Ultra Trail Washington",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12186",
+  "slug": "yeti-ultra-trail-washington-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "yeti-ultra-trail-washington-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=12186"
+  },
+  "start": {
+    "lat": 47.39,
+    "lon": -121.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=12186"
+}

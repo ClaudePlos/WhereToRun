@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Run S'more 24 is a road race. Location: Nashotah, United States. Date: Saturday, 14 August 2027. Distances: u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Nashotah, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Run S'more 24 to bieg uliczny. Lokalizacja: Nashotah, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50m, u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Nashotah, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nashotah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Run S'more 24",
+  "registrationUrl": "https://runsignup.com/Race/WI/Nashotah/WisconsinTrailAssail24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-s-more-24-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "run-s-more-24-wi",
+    "url": "https://runsignup.com/Race/WI/Nashotah/WisconsinTrailAssail24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.11,
+    "lon": -88.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/WI/Nashotah/WisconsinTrailAssail24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

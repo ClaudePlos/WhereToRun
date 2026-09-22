@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Matt Mason \"Cowboy UP\" Triathlon/Duathlon is a triathlon. Location: Smithville, United States. Date: Sunday, 1 August 2027. Distances: other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Smithville, United States, Sunday, 1 August 2027"
+    },
+    "pl": {
+      "description": "2027 Matt Mason \"Cowboy UP\" Triathlon/Duathlon to triatlon. Lokalizacja: Smithville, Stany Zjednoczone. Termin: niedziela, 1 sierpnia 2027. Dystanse: other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Smithville, Stany Zjednoczone, niedziela, 1 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Smithville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "2027 Matt Mason \"Cowboy UP\" Triathlon/Duathlon",
+  "registrationUrl": "https://runsignup.com/Race/MO/Smithville/cowboyuptriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-matt-mason-cowboy-up-triathlon-duathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "2027-matt-mason-cowboy-up-triathlon-duathlon-mo",
+    "url": "https://runsignup.com/Race/MO/Smithville/cowboyuptriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.39,
+    "lon": -94.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/MO/Smithville/cowboyuptriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

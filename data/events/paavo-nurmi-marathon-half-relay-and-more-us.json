@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Paavo Nurmi Marathon | Half | Relay | And More is a road race. Location: Hurley, United States. Date: Saturday, 14 August 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hurley, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Paavo Nurmi Marathon | Half | Relay | And More to bieg uliczny. Lokalizacja: Hurley, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hurley, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-22T11:50:06.240Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hurley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Paavo Nurmi Marathon | Half | Relay | And More",
+  "registrationUrl": "https://runsignup.com/Race/WI/Hurley/ThePaavoNurmiMarathonHalfMarathonRELAYTwilight5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "paavo-nurmi-marathon-half-relay-and-more-us",
+  "source": {
+    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "id": "runraceusa",
+    "ref": "paavo-nurmi-marathon-half-relay-and-more-wi",
+    "url": "https://runsignup.com/Race/WI/Hurley/ThePaavoNurmiMarathonHalfMarathonRELAYTwilight5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.44,
+    "lon": -90.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "website": "https://runsignup.com/Race/WI/Hurley/ThePaavoNurmiMarathonHalfMarathonRELAYTwilight5KRunWalk?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
