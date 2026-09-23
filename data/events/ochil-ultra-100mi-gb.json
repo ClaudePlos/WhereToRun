@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ochil Ultra 100mi is a ultramarathon. Location: Sterling, United Kingdom. Date: 25 September 2026 – 25 September 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sterling, United Kingdom, 25 September 2026 – 25 September 2027"
+    },
+    "pl": {
+      "description": "Ochil Ultra 100mi to ultramaraton. Lokalizacja: Sterling, Wielka Brytania. Termin: 25 września 2026 – 25 września 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sterling, Wielka Brytania, 25 września 2026 – 25 września 2027"
+    }
+  },
+  "createdAt": "2026-09-23T17:51:30.120Z",
+  "date": "2026-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-09-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sterling",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ochil Ultra 100mi",
+  "registrationUrl": null,
+  "slug": "ochil-ultra-100mi-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T17:51:52.699Z",
+    "id": "duv",
+    "ref": "135215",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135215"
+  },
+  "start": {
+    "lat": 51.549344,
+    "lon": 0.159516,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T17:51:30.120Z",
+  "website": null
+}

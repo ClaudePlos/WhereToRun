@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-09-20",
+  "date": "2027-09-26",
   "dateStatus": "confirmed",
   "distances": [
     "8 h"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "austria-backyard-7-1-kirchdorf-tirol-at",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:16.248Z",
+    "fetchedAt": "2026-09-23T17:51:52.701Z",
     "id": "duv",
-    "ref": "130103",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130103"
+    "ref": "135991",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135991"
   },
   "start": {
     "lat": 47.362272,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-09-23T17:51:30.120Z",
   "website": null
 }

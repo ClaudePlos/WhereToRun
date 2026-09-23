@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pilgrim's Ultra 100 km is a ultramarathon. Location: Holy Island, United Kingdom. Date: 26 September 2026 – 27 September 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Holy Island, United Kingdom, 26 September 2026 – 27 September 2026"
+    },
+    "pl": {
+      "description": "Pilgrim's Ultra 100 km to ultramaraton. Lokalizacja: Holy Island, Wielka Brytania. Termin: 26 września 2026 – 27 września 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Holy Island, Wielka Brytania, 26 września 2026 – 27 września 2026"
+    }
+  },
+  "createdAt": "2026-09-23T17:51:30.120Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-09-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holy Island",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Pilgrim's Ultra 100 km",
+  "registrationUrl": null,
+  "slug": "pilgrim-s-ultra-100-km-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T17:51:52.699Z",
+    "id": "duv",
+    "ref": "135199",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135199"
+  },
+  "start": {
+    "lat": 55.671015,
+    "lon": -1.801007,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T17:51:30.120Z",
+  "website": null
+}

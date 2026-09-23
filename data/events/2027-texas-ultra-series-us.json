@@ -10,13 +10,13 @@
     }
   },
   "createdAt": "2026-09-13T22:23:08.200Z",
-  "date": "2027-02-06",
+  "date": "2026-12-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
     "10 km",
     "u50k",
-    "other"
+    "other",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -33,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17047",
   "slug": "2027-texas-ultra-series-us",
   "source": {
-    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "fetchedAt": "2026-09-23T17:51:38.039Z",
     "id": "runraceusa",
     "ref": "2027-texas-ultra-series-multiple-cities-tx",
     "url": "https://ultrasignup.com/register.aspx?eid=17047"
@@ -49,6 +49,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "updatedAt": "2026-09-23T17:51:30.120Z",
   "website": "https://ultrasignup.com/register.aspx?eid=17047"
 }

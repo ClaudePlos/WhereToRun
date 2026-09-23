@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Greater Manchester 200 Mile is a ultramarathon. Location: Manchester, United Kingdom. Date: 21 November 2026 – 25 November 2026. Distances: 321.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Manchester, United Kingdom, 21 November 2026 – 25 November 2026"
+    },
+    "pl": {
+      "description": "Greater Manchester 200 Mile to ultramaraton. Lokalizacja: Manchester, Wielka Brytania. Termin: 21 listopada 2026 – 25 listopada 2026. Dystanse: 321.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Manchester, Wielka Brytania, 21 listopada 2026 – 25 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-23T17:51:30.120Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km"
+  ],
+  "endDate": "2026-11-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Greater Manchester 200 Mile",
+  "registrationUrl": null,
+  "slug": "greater-manchester-200-mile-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T17:51:52.699Z",
+    "id": "duv",
+    "ref": "133880",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133880"
+  },
+  "start": {
+    "lat": 53.442462,
+    "lon": -2.232455,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T17:51:30.120Z",
+  "website": null
+}
