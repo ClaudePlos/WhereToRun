@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Copthorne 200mi is a ultramarathon. Location: Mickleham, United Kingdom. Date: 19 November 2026 – 22 November 2026. Distances: 331.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mickleham, United Kingdom, 19 November 2026 – 22 November 2026"
+    },
+    "pl": {
+      "description": "Copthorne 200mi to ultramaraton. Lokalizacja: Mickleham, Wielka Brytania. Termin: 19 listopada 2026 – 22 listopada 2026. Dystanse: 331.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mickleham, Wielka Brytania, 19 listopada 2026 – 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-23T22:56:06.292Z",
+  "date": "2026-11-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "331.5 km"
+  ],
+  "endDate": "2026-11-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mickleham",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Copthorne 200mi",
+  "registrationUrl": null,
+  "slug": "copthorne-200mi-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T22:56:32.229Z",
+    "id": "duv",
+    "ref": "124456",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124456"
+  },
+  "start": {
+    "lat": 51.264919,
+    "lon": -0.320649,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "website": null
+}

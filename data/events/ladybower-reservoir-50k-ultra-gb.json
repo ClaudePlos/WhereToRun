@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ladybower Reservoir 50k Ultra is a ultramarathon. Location: Hope, United Kingdom. Date: Saturday, 26 September 2026. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hope, United Kingdom, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Ladybower Reservoir 50k Ultra to ultramaraton. Lokalizacja: Hope, Wielka Brytania. Termin: sobota, 26 września 2026. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hope, Wielka Brytania, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-23T22:56:06.292Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hope",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ladybower Reservoir 50k Ultra",
+  "registrationUrl": null,
+  "slug": "ladybower-reservoir-50k-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T22:56:32.229Z",
+    "id": "duv",
+    "ref": "135227",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135227"
+  },
+  "start": {
+    "lat": 53.363744,
+    "lon": -1.753478,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "website": null
+}

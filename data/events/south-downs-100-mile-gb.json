@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "South Downs 100 Mile is a ultramarathon. Location: Plumpton, United Kingdom. Date: 3 October 2026 – 4 October 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Plumpton, United Kingdom, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "South Downs 100 Mile to ultramaraton. Lokalizacja: Plumpton, Wielka Brytania. Termin: 3 października 2026 – 4 października 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Plumpton, Wielka Brytania, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-23T22:56:06.292Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Plumpton",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "South Downs 100 Mile",
+  "registrationUrl": null,
+  "slug": "south-downs-100-mile-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T22:56:32.229Z",
+    "id": "duv",
+    "ref": "131431",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131431"
+  },
+  "start": {
+    "lat": 50.923318,
+    "lon": -0.06523,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "website": null
+}

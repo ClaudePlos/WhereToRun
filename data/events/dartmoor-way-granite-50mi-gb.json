@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dartmoor Way Granite 50mi is a ultramarathon. Location: Scorriton, United Kingdom. Date: Saturday, 3 October 2026. Distances: 82.1 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Scorriton, United Kingdom, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Dartmoor Way Granite 50mi to ultramaraton. Lokalizacja: Scorriton, Wielka Brytania. Termin: sobota, 3 października 2026. Dystanse: 82.1 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Scorriton, Wielka Brytania, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-23T22:56:06.292Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "82.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Scorriton",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dartmoor Way Granite 50mi",
+  "registrationUrl": null,
+  "slug": "dartmoor-way-granite-50mi-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T22:56:32.229Z",
+    "id": "duv",
+    "ref": "123616",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123616"
+  },
+  "start": {
+    "lat": 50.501948,
+    "lon": -3.828339,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Yorkshire Reservoir Dogs Ultra 32mi is a ultramarathon. Location: Otley, United Kingdom. Date: Saturday, 26 September 2026. Distances: 51.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Otley, United Kingdom, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Yorkshire Reservoir Dogs Ultra 32mi to ultramaraton. Lokalizacja: Otley, Wielka Brytania. Termin: sobota, 26 września 2026. Dystanse: 51.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Otley, Wielka Brytania, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-23T22:56:06.292Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "51.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Otley",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Yorkshire Reservoir Dogs Ultra 32mi",
+  "registrationUrl": null,
+  "slug": "yorkshire-reservoir-dogs-ultra-32mi-gb",
+  "source": {
+    "fetchedAt": "2026-09-23T22:56:32.229Z",
+    "id": "duv",
+    "ref": "134865",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134865"
+  },
+  "start": {
+    "lat": 53.905508,
+    "lon": -1.693887,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "website": null
+}

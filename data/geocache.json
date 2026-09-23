@@ -1022,11 +1022,26 @@
     "lon": -1.8010066,
     "name": "Holy Island, Northumberland, North East, England, TD15 2ST, United Kingdom"
   },
+  "GB|hope": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 53.3637439,
+    "lon": -1.7534784,
+    "name": "Hope, High Peak, Derbyshire, East Midlands, England, United Kingdom"
+  },
   "GB|keswick": {
     "at": "2026-09-23T17:51:30.120Z",
     "lat": 54.6009812,
     "lon": -3.1375822,
     "name": "Keswick, Cumberland, England, United Kingdom"
+  },
+  "GB|kings lynn": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 52.7538673,
+    "lon": 0.3954774,
+    "name": "King's Lynn, King's Lynn and West Norfolk, Norfolk, England, PE30 1BJ, United Kingdom"
+  },
+  "GB|llhanrhidian": {
+    "at": "2026-09-23T22:56:06.292Z"
   },
   "GB|london": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1040,11 +1055,47 @@
     "lon": -2.2324547,
     "name": "Manchester, Greater Manchester, England, United Kingdom"
   },
+  "GB|mickleham": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 51.2649194,
+    "lon": -0.3206489,
+    "name": "Mickleham, Mole Valley, Surrey, England, United Kingdom"
+  },
+  "GB|mumbles": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 51.5722675,
+    "lon": -3.9945034,
+    "name": "Mumbles, Swansea, Cymru / Wales, SA3 4DY, United Kingdom"
+  },
+  "GB|okehampton": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 50.7376667,
+    "lon": -4.000316,
+    "name": "Okehampton, West Devon, Devon, Devon and Torbay, England, United Kingdom"
+  },
+  "GB|otley": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 53.9055083,
+    "lon": -1.6938874,
+    "name": "Otley, Leeds, West Yorkshire, England, United Kingdom"
+  },
   "GB|perth": {
     "at": "2026-09-23T17:51:30.120Z",
     "lat": 56.3958757,
     "lon": -3.4303103,
     "name": "Perth, Perth and Kinross, Alba / Scotland, PH1 5TZ, United Kingdom"
+  },
+  "GB|plumpton": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 50.9233182,
+    "lon": -0.06523,
+    "name": "Plumpton, Plumpton Green, Lewes, East Sussex, England, United Kingdom"
+  },
+  "GB|scorriton": {
+    "at": "2026-09-23T22:56:06.292Z",
+    "lat": 50.5019479,
+    "lon": -3.8283386,
+    "name": "Scorriton, West Buckfastleigh, Combe, South Hams, Devon, Devon and Torbay, England, TQ11 0JA, United Kingdom"
   },
   "GB|sheffield": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1072,6 +1123,9 @@
   },
   "GB|vatersay, hebrides": {
     "at": "2026-09-15T11:52:51.618Z"
+  },
+  "GB|waterhead, ambleside": {
+    "at": "2026-09-23T22:56:06.292Z"
   },
   "GB|welwyn garden city": {
     "at": "2026-09-23T17:51:30.120Z",
