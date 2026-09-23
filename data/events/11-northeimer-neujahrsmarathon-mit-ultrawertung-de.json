@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "11. Northeimer-Neujahrsmarathon mit Ultrawertung is a ultramarathon. Location: Northeim, Germany. Date: Friday, 1 January 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Northeim, Germany, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "11. Northeimer-Neujahrsmarathon mit Ultrawertung to ultramaraton. Lokalizacja: Northeim, Niemcy. Termin: piątek, 1 stycznia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Northeim, Niemcy, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Northeim",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "11. Northeimer-Neujahrsmarathon mit Ultrawertung",
+  "registrationUrl": null,
+  "slug": "11-northeimer-neujahrsmarathon-mit-ultrawertung-de",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:23.060Z",
+    "id": "duv",
+    "ref": "135983",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135983"
+  },
+  "start": {
+    "lat": 51.705679,
+    "lon": 10.000424,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": null
+}

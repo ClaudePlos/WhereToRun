@@ -455,11 +455,26 @@
   "BR|tres marias, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "CA|blue mountain resort": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|canmore, ab": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|denholm, qc": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
   "CA|duncan, bc": {
     "at": "2026-09-06T22:06:37.596Z",
     "lat": 48.8064943,
     "lon": -123.7156641,
     "name": "BC Hydro - Duncan Maintenance Depot, 6494, South End, North Cowichan, Cowichan Valley Regional District, British Columbia, Canada"
+  },
+  "CA|dundas, on": {
+    "at": "2026-09-23T11:48:59.496Z",
+    "lat": 43.4978806,
+    "lon": -79.7068922,
+    "name": "Shoppes on Dundas, Oakville, Halton Region, Golden Horseshoe, Ontario, Canada"
   },
   "CA|gaspe": {
     "at": "2026-09-17T22:50:40.759Z",
@@ -482,6 +497,9 @@
   "CA|london, on": {
     "at": "2026-09-17T22:50:40.759Z"
   },
+  "CA|mattawa, on": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
@@ -497,14 +515,29 @@
   "CA|searchmont resort": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|st. paul, ab": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
   "CA|tadoussac, quebec": {
     "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|thunder bay, on": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|twillingate, nl": {
+    "at": "2026-09-23T11:48:59.496Z"
   },
   "CA|vernon, bc": {
     "at": "2026-09-17T22:50:40.759Z"
   },
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|whistler, bc": {
+    "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|winnipeg, mb": {
+    "at": "2026-09-23T11:48:59.496Z"
   },
   "CH|ardon": {
     "at": "2026-09-18T11:26:42.874Z",

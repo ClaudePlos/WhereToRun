@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Team Marathon Kids - 2027 Miami Marathon is a road race. Location: Miami, United States. Date: Sunday, 31 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Miami, United States, Sunday, 31 January 2027"
+    },
+    "pl": {
+      "description": "Team Marathon Kids - 2027 Miami Marathon to bieg uliczny. Lokalizacja: Miami, Stany Zjednoczone. Termin: niedziela, 31 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Miami, Stany Zjednoczone, niedziela, 31 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2027-01-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Miami",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Team Marathon Kids - 2027 Miami Marathon",
+  "registrationUrl": "https://runsignup.com/Race/FL/Miami/TeamMarathonKidsMiamiMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "team-marathon-kids-2027-miami-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "id": "runraceusa",
+    "ref": "team-marathon-kids-2027-miami-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/Miami/TeamMarathonKidsMiamiMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 25.79,
+    "lon": -80.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://runsignup.com/Race/FL/Miami/TeamMarathonKidsMiamiMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

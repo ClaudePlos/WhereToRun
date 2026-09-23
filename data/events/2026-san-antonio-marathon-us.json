@@ -28,14 +28,14 @@
     "region": "TX"
   },
   "manual": false,
-  "name": "2026 San Antonio Marathon",
-  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "name": "2026 - San Antonio Marathon",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "2026-san-antonio-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
     "id": "runraceusa",
     "ref": "2026-san-antonio-marathon-tx",
-    "url": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 29.42,
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-22T11:50:06.240Z",
-  "website": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/SanAntonioMarathon2026?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

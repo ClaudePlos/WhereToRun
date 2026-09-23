@@ -13,7 +13,7 @@
   "date": "2027-01-23",
   "dateStatus": "confirmed",
   "distances": [
-    "12 h"
+    "6 h"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "mountainman-winterloop-reit-im-winkl-de",
   "source": {
-    "fetchedAt": "2026-09-20T22:25:26.434Z",
+    "fetchedAt": "2026-09-23T11:49:23.061Z",
     "id": "duv",
-    "ref": "133539",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133539"
+    "ref": "133538",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133538"
   },
   "start": {
     "lat": 47.667241,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
   "website": null
 }

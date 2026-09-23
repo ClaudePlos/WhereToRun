@@ -13,9 +13,9 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50k",
-    "other"
+    "100 km",
+    "50 km",
+    "17 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Red Rock Canyon Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13214",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64688",
   "slug": "red-rock-canyon-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
-    "id": "runraceusa",
-    "ref": "red-rock-canyon-ultra-nv",
-    "url": "https://ultrasignup.com/register.aspx?eid=13214"
+    "fetchedAt": "2026-09-23T11:49:08.167Z",
+    "id": "ultrasignup",
+    "ref": "13214",
+    "url": "https://ultrasignup.com/register.aspx?did=64688"
   },
   "start": {
-    "lat": 36.05,
-    "lon": -115.41,
+    "lat": 36.0468,
+    "lon": -115.407,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=13214"
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://www.desertdash.com/red-rock-canyon-100k"
 }

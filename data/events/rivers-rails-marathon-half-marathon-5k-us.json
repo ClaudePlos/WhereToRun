@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rivers & Rails - Marathon, Half Marathon & 5K is a road race. Location: Brunswick, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brunswick, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Rivers & Rails - Marathon, Half Marathon & 5K to bieg uliczny. Lokalizacja: Brunswick, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brunswick, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brunswick",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Rivers & Rails - Marathon, Half Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/MD/Brunswick/RiversRailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rivers-rails-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "id": "runraceusa",
+    "ref": "rivers-rails-marathon-half-marathon-5k-md",
+    "url": "https://runsignup.com/Race/MD/Brunswick/RiversRailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.32,
+    "lon": -77.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://runsignup.com/Race/MD/Brunswick/RiversRailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

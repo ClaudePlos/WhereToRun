@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Natural State Backyard Ultra (High School Ultramarathon National Championship & Open Division) is a ultramarathon. Location: North Little Rock, United States. Date: Saturday, 13 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — North Little Rock, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Natural State Backyard Ultra (High School Ultramarathon National Championship & Open Division) to ultramaraton. Lokalizacja: North Little Rock, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — North Little Rock, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Little Rock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Natural State Backyard Ultra (High School Ultramarathon National Championship & Open Division)",
+  "registrationUrl": "https://runsignup.com/Race/AR/NorthLittleRock/HighSchoolUltramarathonNationalChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "natural-state-backyard-ultra-high-school-ultramarathon-national-championship-ope",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "id": "runraceusa",
+    "ref": "natural-state-backyard-ultra-high-school-ultramarathon-national",
+    "url": "https://runsignup.com/Race/AR/NorthLittleRock/HighSchoolUltramarathonNationalChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.83,
+    "lon": -92.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://runsignup.com/Race/AR/NorthLittleRock/HighSchoolUltramarathonNationalChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

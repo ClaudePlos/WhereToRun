@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Tick Tock Ultra is a ultramarathon. Location: Lakeland, United States. Date: Saturday, 26 September 2026. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lakeland, United States, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "2026 Tick Tock Ultra to ultramaraton. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: sobota, 26 września 2026. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lakeland, Stany Zjednoczone, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "2026 Tick Tock Ultra",
+  "registrationUrl": "https://raceroster.com/events/2026/164727/2026-tick-tock-ultra",
+  "slug": "2026-tick-tock-ultra-us",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "id": "runraceusa",
+    "ref": "2026-tick-tock-ultra-fl",
+    "url": "https://raceroster.com/events/2026/164727/2026-tick-tock-ultra"
+  },
+  "start": {
+    "lat": 28.0395,
+    "lon": -81.9498,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://raceroster.com/events/2026/164727/2026-tick-tock-ultra"
+}

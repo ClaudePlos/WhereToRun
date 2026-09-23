@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-20T16:48:23.963Z",
-  "date": "2026-09-20",
+  "date": "2026-12-20",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "essener-rhein-herne-kanal-marathon-de",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "fetchedAt": "2026-09-23T11:49:23.060Z",
     "id": "duv",
-    "ref": "133485",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133485"
+    "ref": "135968",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135968"
   },
   "start": {
     "lat": 51.458224,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
   "website": null
 }

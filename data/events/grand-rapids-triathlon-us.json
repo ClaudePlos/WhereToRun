@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Rapids Triathlon is a triathlon. Location: Ada, United States. Date: Sunday, 13 June 2027. Distances: other, 10 km, 21.1 km, u50k, 42.2 km, 1.6 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Ada, United States, Sunday, 13 June 2027"
+    },
+    "pl": {
+      "description": "Grand Rapids Triathlon to triatlon. Lokalizacja: Ada, Stany Zjednoczone. Termin: niedziela, 13 czerwca 2027. Dystanse: other, 10 km, 21.1 km, u50k, 42.2 km, 1.6 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Ada, Stany Zjednoczone, niedziela, 13 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-23T11:48:59.496Z",
+  "date": "2027-06-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "10 km",
+    "21.1 km",
+    "u50k",
+    "42.2 km",
+    "1.6 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ada",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Grand Rapids Triathlon",
+  "registrationUrl": "https://runsignup.com/Race/MI/Ada/GrandRapidsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grand-rapids-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-09-23T11:49:08.769Z",
+    "id": "runraceusa",
+    "ref": "grand-rapids-triathlon-mi",
+    "url": "https://runsignup.com/Race/MI/Ada/GrandRapidsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.96,
+    "lon": -85.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "website": "https://runsignup.com/Race/MI/Ada/GrandRapidsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
