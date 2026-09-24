@@ -10,15 +10,15 @@
     }
   },
   "createdAt": "2026-09-20T11:34:46.617Z",
-  "date": "2027-07-31",
+  "date": "2027-06-26",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
     "21.1 km",
-    "10 km",
-    "5 km",
     "u50k",
-    "other"
+    "other",
+    "10 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -32,13 +32,13 @@
   },
   "manual": false,
   "name": "Yellowstone Park Trail Races",
-  "registrationUrl": "https://runsignup.com/Race/MT/WestYellowstone/YellowstoneTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/MT/WestYellowstone/TheYellowstoneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "yellowstone-park-trail-races-us",
   "source": {
-    "fetchedAt": "2026-09-24T11:56:49.985Z",
+    "fetchedAt": "2026-09-24T17:52:10.804Z",
     "id": "runraceusa",
     "ref": "yellowstone-park-trail-races-west-yellowstone-mt",
-    "url": "https://runsignup.com/Race/MT/WestYellowstone/YellowstoneTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/MT/WestYellowstone/TheYellowstoneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 44.66,
@@ -51,6 +51,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-24T11:56:40.673Z",
-  "website": "https://runsignup.com/Race/MT/WestYellowstone/YellowstoneTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-24T17:52:00.683Z",
+  "website": "https://runsignup.com/Race/MT/WestYellowstone/TheYellowstoneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
