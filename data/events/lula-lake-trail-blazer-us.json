@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Lula Lake Trail Blazer is a ultramarathon. Location: Lookout Mountain, United States. Date: Saturday, 14 November 2026. Distances: 50 km, 21.1 km, 10 km, Kids 12 & Under. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lookout Mountain, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Lula Lake Trail Blazer to ultramaraton. Lokalizacja: Lookout Mountain, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 50 km, 21.1 km, 10 km, Kids 12 & Under. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lookout Mountain, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "21.1 km",
+    "10 km",
+    "Kids 12 & Under"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lookout Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Lula Lake Trail Blazer",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65139",
+  "slug": "lula-lake-trail-blazer-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "14306",
+    "url": "https://ultrasignup.com/register.aspx?did=65139"
+  },
+  "start": {
+    "lat": 34.9194,
+    "lon": -85.3862,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://www.lulalake.org"
+}

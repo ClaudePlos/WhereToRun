@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tampa Bay 100 is a ultramarathon. Location: Tampa, United States. Date: Saturday, 14 November 2026. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tampa, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Tampa Bay 100 to ultramaraton. Lokalizacja: Tampa, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tampa, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tampa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Tampa Bay 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65365",
+  "slug": "tampa-bay-100-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "16221",
+    "url": "https://ultrasignup.com/register.aspx?did=65365"
+  },
+  "start": {
+    "lat": 27.9666,
+    "lon": -82.4406,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://www.facebook.com/skunkapeevents"
+}

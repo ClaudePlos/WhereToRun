@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "NYC Trail Mix is a ultramarathon. Location: Staten Island, United States. Date: Saturday, 14 November 2026. Distances: 80.5 km, 50 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Staten Island, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "NYC Trail Mix to ultramaraton. Lokalizacja: Staten Island, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 80.5 km, 50 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Staten Island, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Staten Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "NYC Trail Mix",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65568",
+  "slug": "nyc-trail-mix-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "16244",
+    "url": "https://ultrasignup.com/register.aspx?did=65568"
+  },
+  "start": {
+    "lat": 40.5885,
+    "lon": -74.1392,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "http://www.redpointproductions.com"
+}

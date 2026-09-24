@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "McNotagain Fall Trail Runs is a ultramarathon. Location: Pekin, United States. Date: Saturday, 14 November 2026. Distances: 80.5 km, 48.3 km, 16.1 km, 5.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pekin, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "McNotagain Fall Trail Runs to ultramaraton. Lokalizacja: Pekin, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 80.5 km, 48.3 km, 16.1 km, 5.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pekin, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "48.3 km",
+    "16.1 km",
+    "5.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pekin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "McNotagain Fall Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66389",
+  "slug": "mcnotagain-fall-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "18924",
+    "url": "https://ultrasignup.com/register.aspx?did=66389"
+  },
+  "start": {
+    "lat": 40.5937,
+    "lon": -89.6045,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://www.facebook.com/share/16PnsmbMKs/"
+}

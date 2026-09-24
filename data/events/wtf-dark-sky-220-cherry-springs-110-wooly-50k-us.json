@@ -14,11 +14,9 @@
   "dateStatus": "confirmed",
   "distances": [
     "WTF Virtual 220",
-    "WTF Virtual 220 AZ Campaign",
-    "WTF Virtual 110",
-    "WTF Virtual 50K",
     "Dark Sky 220",
-    "Cher"
+    "Cherry Springs 110",
+    "Wooly 50K"
   ],
   "endDate": "2026-10-30",
   "featured": false,
@@ -35,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64391",
   "slug": "wtf-dark-sky-220-cherry-springs-110-wooly-50k-us",
   "source": {
-    "fetchedAt": "2026-09-23T22:56:15.595Z",
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
     "id": "ultrasignup",
     "ref": "19248",
     "url": "https://ultrasignup.com/register.aspx?did=64391"
@@ -51,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
   "website": "https://www.warriortrail.run"
 }

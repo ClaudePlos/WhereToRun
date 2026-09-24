@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cabin Fever 50K is a road race. Location: New River Gorge National Park, United States. Date: Saturday, 20 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — New River Gorge National Park, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Cabin Fever 50K to bieg uliczny. Lokalizacja: New River Gorge National Park, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — New River Gorge National Park, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New River Gorge National Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Cabin Fever 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13906",
+  "slug": "cabin-fever-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
+    "id": "runraceusa",
+    "ref": "cabin-fever-50k-wv",
+    "url": "https://ultrasignup.com/register.aspx?eid=13906"
+  },
+  "start": {
+    "lat": 37.88,
+    "lon": -81.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13906"
+}

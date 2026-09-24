@@ -1,16 +1,16 @@
 {
-  "added": 15,
+  "added": 18,
   "dryRun": false,
-  "eventCount": 2125,
+  "eventCount": 2143,
   "geocoding": {
-    "capped": 127,
+    "capped": 0,
     "errors": 0,
-    "hits": 57,
-    "lookups": 10,
-    "misses": 7
+    "hits": 0,
+    "lookups": 0,
+    "misses": 0
   },
-  "lastRun": "2026-09-23T22:56:06.292Z",
-  "skipped": 8,
+  "lastRun": "2026-09-24T11:56:40.673Z",
+  "skipped": 9,
   "sources": {
     "ai-discovery": {
       "error": null,
@@ -22,11 +22,11 @@
     },
     "duv": {
       "error": null,
-      "fetched": 65
+      "fetched": 0
     },
     "runraceusa": {
       "error": null,
-      "fetched": 1318
+      "fetched": 1327
     },
     "runsignup": {
       "error": null,
@@ -34,13 +34,13 @@
     },
     "ultrasignup": {
       "error": null,
-      "fetched": 297
+      "fetched": 299
     },
     "wikidata": {
       "error": "Wikidata SPARQL returned 500 Internal Server Error",
       "fetched": 0
     }
   },
-  "unchanged": 1604,
-  "updated": 68
+  "unchanged": 1545,
+  "updated": 69
 }

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "New Year 5K, 10K, 13.1M, & 26.2M, Ocala, FL (01) is a road race. Location: Ocala, United States. Date: Saturday, 2 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ocala, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "New Year 5K, 10K, 13.1M, & 26.2M, Ocala, FL (01) to bieg uliczny. Lokalizacja: Ocala, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ocala, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ocala",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "New Year 5K, 10K, 13.1M, & 26.2M, Ocala, FL (01)",
+  "registrationUrl": "https://runsignup.com/Race/FL/Ocala/Baseline1125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "new-year-5k-10k-13-1m-26-2m-ocala-fl-01-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
+    "id": "runraceusa",
+    "ref": "new-year-5k-10k-13-1m-26-2m-ocala-fl-01-fl",
+    "url": "https://runsignup.com/Race/FL/Ocala/Baseline1125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.13,
+    "lon": -82.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://runsignup.com/Race/FL/Ocala/Baseline1125?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

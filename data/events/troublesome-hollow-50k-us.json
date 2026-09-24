@@ -13,7 +13,8 @@
   "date": "2027-04-10",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "u50k",
+    "other"
   ],
   "endDate": null,
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15170",
   "slug": "troublesome-hollow-50k-us",
   "source": {
-    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
     "id": "runraceusa",
     "ref": "troublesome-hollow-50k-va",
     "url": "https://ultrasignup.com/register.aspx?eid=15170"
@@ -46,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-17T17:38:14.220Z",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
   "website": "https://ultrasignup.com/register.aspx?eid=15170"
 }

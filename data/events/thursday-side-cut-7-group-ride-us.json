@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Thursday Side Cut 7 Group Ride is a road race. Location: Maumee, United States. Date: Thursday, 24 September 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Maumee, United States, Thursday, 24 September 2026"
+    },
+    "pl": {
+      "description": "Thursday Side Cut 7 Group Ride to bieg uliczny. Lokalizacja: Maumee, Stany Zjednoczone. Termin: czwartek, 24 września 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Maumee, Stany Zjednoczone, czwartek, 24 września 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-09-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Maumee",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Thursday Side Cut 7 Group Ride",
+  "registrationUrl": "https://runsignup.com/Race/OH/Maumee/Thursday?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "thursday-side-cut-7-group-ride-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
+    "id": "runraceusa",
+    "ref": "thursday-side-cut-7-group-ride-oh",
+    "url": "https://runsignup.com/Race/OH/Maumee/Thursday?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.58,
+    "lon": -83.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://runsignup.com/Race/OH/Maumee/Thursday?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

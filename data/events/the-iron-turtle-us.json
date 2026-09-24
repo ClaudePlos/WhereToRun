@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Iron Turtle is a road race. Location: Coker, United States. Date: Saturday, 14 November 2026. Distances: Last Runner Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Coker, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "The Iron Turtle to bieg uliczny. Lokalizacja: Coker, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: Last Runner Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Coker, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Runner Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coker",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "The Iron Turtle",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66436",
+  "slug": "the-iron-turtle-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "16389",
+    "url": "https://ultrasignup.com/register.aspx?did=66436"
+  },
+  "start": {
+    "lat": 33.2992,
+    "lon": -87.6761,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "http://www.panoramaultrarunning.com"
+}

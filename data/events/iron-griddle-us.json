@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "IRON GRIDDLE is a ultramarathon. Location: Nashville, United States. Date: Saturday, 14 November 2026. Distances: 50 km, Trail Half, 9.7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Nashville, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "IRON GRIDDLE to ultramaraton. Lokalizacja: Nashville, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 50 km, Trail Half, 9.7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Nashville, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Trail Half",
+    "9.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nashville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "IRON GRIDDLE",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65012",
+  "slug": "iron-griddle-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "19896",
+    "url": "https://ultrasignup.com/register.aspx?did=65012"
+  },
+  "start": {
+    "lat": 36.0572,
+    "lon": -86.896,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://www.jogalope.com/"
+}

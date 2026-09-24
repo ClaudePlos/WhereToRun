@@ -20,24 +20,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Carmel",
+    "city": "Westfield",
     "country": "United States",
     "countryCode": "US",
     "region": "IN"
   },
   "manual": false,
   "name": "Hamilton County Taco Bell 50k",
-  "registrationUrl": "https://runsignup.com/Race/IN/Carmel/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/IN/Westfield/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "hamilton-county-taco-bell-50k-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
     "id": "runraceusa",
     "ref": "hamilton-county-taco-bell-50k-in",
-    "url": "https://runsignup.com/Race/IN/Carmel/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/IN/Westfield/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 39.97,
-    "lon": -86.12,
+    "lat": 40.05,
+    "lon": -86.15,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://runsignup.com/Race/IN/Carmel/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://runsignup.com/Race/IN/Westfield/HamiltonCountyTacoBell50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

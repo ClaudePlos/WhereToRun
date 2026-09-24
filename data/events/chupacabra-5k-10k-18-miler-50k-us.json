@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-22T17:38:39.624Z",
-  "date": "2027-09-11",
+  "date": "2027-09-18",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "chupacabra-5k-10k-18-miler-50k-us",
   "source": {
-    "fetchedAt": "2026-09-22T17:38:50.376Z",
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
     "id": "runraceusa",
     "ref": "chupacabra-5k-10k-18-miler-50k-ca",
     "url": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
   "website": "https://runsignup.com/Race/CA/LongBeach/Chupacabra5K10K18Miler50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

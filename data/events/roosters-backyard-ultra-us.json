@@ -13,7 +13,7 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "backyard"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Roosters Backyard Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18190",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66009",
   "slug": "roosters-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
-    "id": "runraceusa",
-    "ref": "roosters-backyard-ultra-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=18190"
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "18190",
+    "url": "https://ultrasignup.com/register.aspx?did=66009"
   },
   "start": {
-    "lat": 32.67,
+    "lat": 32.6655,
     "lon": -117.03,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18190"
+  "type": "road",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://backyardultra.com/races/.roosters-backyard-ultra/."
 }

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Live Oak Odyssey is a ultramarathon. Location: Trabuco Canyon, United States. Date: Saturday, 14 November 2026. Distances: 8 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Trabuco Canyon, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Live Oak Odyssey to ultramaraton. Lokalizacja: Trabuco Canyon, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 8 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Trabuco Canyon, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Trabuco Canyon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Live Oak Odyssey",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64702",
+  "slug": "live-oak-odyssey-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:48.953Z",
+    "id": "ultrasignup",
+    "ref": "19060",
+    "url": "https://ultrasignup.com/register.aspx?did=64702"
+  },
+  "start": {
+    "lat": 33.6516,
+    "lon": -117.601,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://www.aravaiparunning.com/live-oak-odyssey/"
+}

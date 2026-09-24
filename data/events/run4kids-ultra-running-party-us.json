@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Run4Kids Ultra Running Party is a ultramarathon. Location: Corona, United States. Date: Friday, 16 April 2027. Distances: ultra, 21.1 km, 42.2 km, u50m, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Corona, United States, Friday, 16 April 2027"
+    },
+    "pl": {
+      "description": "Run4Kids Ultra Running Party to ultramaraton. Lokalizacja: Corona, Stany Zjednoczone. Termin: piątek, 16 kwietnia 2027. Dystanse: ultra, 21.1 km, 42.2 km, u50m, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Corona, Stany Zjednoczone, piątek, 16 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-24T11:56:40.673Z",
+  "date": "2027-04-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "21.1 km",
+    "42.2 km",
+    "u50m",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Corona",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Run4Kids Ultra Running Party",
+  "registrationUrl": "https://runsignup.com/Race/CA/Corona/RunKidsUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run4kids-ultra-running-party-us",
+  "source": {
+    "fetchedAt": "2026-09-24T11:56:49.985Z",
+    "id": "runraceusa",
+    "ref": "run4kids-ultra-running-party-ca",
+    "url": "https://runsignup.com/Race/CA/Corona/RunKidsUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.88,
+    "lon": -117.57,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-24T11:56:40.673Z",
+  "website": "https://runsignup.com/Race/CA/Corona/RunKidsUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
