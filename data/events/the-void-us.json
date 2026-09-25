@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Void is a road race. Location: Valley-Hi, United States. Date: Friday, 20 November 2026. Distances: Enter The Void. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Valley-Hi, United States, Friday, 20 November 2026"
+    },
+    "pl": {
+      "description": "The Void to bieg uliczny. Lokalizacja: Valley-Hi, Stany Zjednoczone. Termin: piątek, 20 listopada 2026. Dystanse: Enter The Void. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Valley-Hi, Stany Zjednoczone, piątek, 20 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T17:57:24.902Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Enter The Void"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valley-Hi",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "The Void",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65281",
+  "slug": "the-void-us",
+  "source": {
+    "fetchedAt": "2026-09-25T17:57:31.894Z",
+    "id": "ultrasignup",
+    "ref": "19986",
+    "url": "https://ultrasignup.com/register.aspx?did=65281"
+  },
+  "start": {
+    "lat": 40.0293,
+    "lon": -78.1914,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-25T17:57:24.902Z",
+  "website": "http://www.runthevoid.com"
+}

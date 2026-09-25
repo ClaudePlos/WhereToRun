@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-01-16",
+  "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -23,24 +23,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Los Angeles",
+    "city": "San Francisco",
     "country": "United States",
     "countryCode": "US",
     "region": "CA"
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 SAN FRANCISCO",
-  "registrationUrl": "https://runsignup.com/Race/CA/LosAngeles/SunriseMarathon5K10KSANFRANCISCO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/CA/SanFrancisco/SunriseMarathon5K10KSANFRANCISCO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-san-francisco-us",
   "source": {
-    "fetchedAt": "2026-09-25T11:58:39.727Z",
+    "fetchedAt": "2026-09-25T17:57:32.515Z",
     "id": "runraceusa",
-    "ref": "sunrise-marathon-5k-10k-13-1-san-francisco-los-angeles-ca",
-    "url": "https://runsignup.com/Race/CA/LosAngeles/SunriseMarathon5K10KSANFRANCISCO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "sunrise-marathon-5k-10k-13-1-san-francisco-san-francisco-ca",
+    "url": "https://runsignup.com/Race/CA/SanFrancisco/SunriseMarathon5K10KSANFRANCISCO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 34.05,
-    "lon": -118.53,
+    "lat": 32.72,
+    "lon": -117.16,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-25T11:58:32.287Z",
-  "website": "https://runsignup.com/Race/CA/LosAngeles/SunriseMarathon5K10KSANFRANCISCO0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-25T17:57:24.902Z",
+  "website": "https://runsignup.com/Race/CA/SanFrancisco/SunriseMarathon5K10KSANFRANCISCO320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

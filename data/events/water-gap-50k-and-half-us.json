@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-02T22:37:18.569Z",
-  "date": "2026-09-26",
+  "date": "2026-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "50 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65328",
   "slug": "water-gap-50k-and-half-us",
   "source": {
-    "fetchedAt": "2026-09-02T22:37:25.354Z",
+    "fetchedAt": "2026-09-25T17:57:31.894Z",
     "id": "ultrasignup",
     "ref": "5119",
     "url": "https://ultrasignup.com/register.aspx?did=65328"
@@ -47,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-02T22:37:18.569Z",
+  "updatedAt": "2026-09-25T17:57:24.902Z",
   "website": "http://www.happilyrunning.com/WaterGap"
 }

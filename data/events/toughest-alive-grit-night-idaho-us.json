@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Toughest Alive GRIT Night — Idaho is a road race. Location: Meridian, United States. Date: Friday, 20 November 2026. Distances: Toughest Alive GRIT Night Last Man Standing — Meri. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Meridian, United States, Friday, 20 November 2026"
+    },
+    "pl": {
+      "description": "Toughest Alive GRIT Night — Idaho to bieg uliczny. Lokalizacja: Meridian, Stany Zjednoczone. Termin: piątek, 20 listopada 2026. Dystanse: Toughest Alive GRIT Night Last Man Standing — Meri. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Meridian, Stany Zjednoczone, piątek, 20 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T17:57:24.902Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Toughest Alive GRIT Night Last Man Standing — Meri"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Meridian",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Toughest Alive GRIT Night — Idaho",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68353",
+  "slug": "toughest-alive-grit-night-idaho-us",
+  "source": {
+    "fetchedAt": "2026-09-25T17:57:31.894Z",
+    "id": "ultrasignup",
+    "ref": "20895",
+    "url": "https://ultrasignup.com/register.aspx?did=68353"
+  },
+  "start": {
+    "lat": 43.6239,
+    "lon": -116.346,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-25T17:57:24.902Z",
+  "website": "https://toughestalive.com"
+}
