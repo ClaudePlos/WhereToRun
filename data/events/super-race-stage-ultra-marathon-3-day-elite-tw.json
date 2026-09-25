@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Super Race Stage Ultra-Marathon - 3 Day Elite is a ultramarathon. Location: Ruifang District, Taiwan. Date: 26 March 2027 – 28 March 2027. Distances: 100 km, 3Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ruifang District, Taiwan, 26 March 2027 – 28 March 2027"
+    },
+    "pl": {
+      "description": "Super Race Stage Ultra-Marathon - 3 Day Elite to ultramaraton. Lokalizacja: Ruifang District, Tajwan. Termin: 26 marca 2027 – 28 marca 2027. Dystanse: 100 km, 3Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ruifang District, Tajwan, 26 marca 2027 – 28 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2027-03-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "3Etappen"
+  ],
+  "endDate": "2027-03-28",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ruifang District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Super Race Stage Ultra-Marathon - 3 Day Elite",
+  "registrationUrl": null,
+  "slug": "super-race-stage-ultra-marathon-3-day-elite-tw",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:55.068Z",
+    "id": "duv",
+    "ref": "133730",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133730"
+  },
+  "start": {
+    "lat": 25.108911,
+    "lon": 121.809768,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": null
+}

@@ -13,7 +13,7 @@
   "date": "2026-11-15",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Mountain Peacock 50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17962",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68740",
   "slug": "mountain-peacock-50k-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
-    "id": "runraceusa",
-    "ref": "mountain-peacock-50k-co",
-    "url": "https://ultrasignup.com/register.aspx?eid=17962"
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "17962",
+    "url": "https://ultrasignup.com/register.aspx?did=68740"
   },
   "start": {
-    "lat": 39.76,
-    "lon": -105.22,
+    "lat": 39.7575,
+    "lon": -105.222,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17962"
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://www.mountainpeacocks.org/"
 }

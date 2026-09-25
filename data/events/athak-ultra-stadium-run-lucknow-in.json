@@ -13,7 +13,7 @@
   "date": "2026-12-20",
   "dateStatus": "confirmed",
   "distances": [
-    "6 h"
+    "12 h"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "athak-ultra-stadium-run-lucknow-in",
   "source": {
-    "fetchedAt": "2026-09-22T17:39:04.094Z",
+    "fetchedAt": "2026-09-25T11:58:55.070Z",
     "id": "duv",
-    "ref": "135582",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135582"
+    "ref": "135581",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135581"
   },
   "start": {
     "lat": 26.8381,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-22T17:38:39.624Z",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
   "website": null
 }

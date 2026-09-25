@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Tarrywile Half Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14362",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64752",
   "slug": "tarrywile-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
-    "id": "runraceusa",
-    "ref": "tarrywile-half-marathon-ct",
-    "url": "https://ultrasignup.com/register.aspx?eid=14362"
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "14362",
+    "url": "https://ultrasignup.com/register.aspx?did=64752"
   },
   "start": {
-    "lat": 41.38,
-    "lon": -73.45,
+    "lat": 41.3808,
+    "lon": -73.4538,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14362"
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://steependurance.com/event/trail-running-race/tarrywile-half-marathon/"
 }

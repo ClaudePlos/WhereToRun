@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Universiti Malaya 6 hours Ultra Marathon night run is a ultramarathon. Location: Kuala Lumpur, Malaysia. Date: 19 November 2026 – 20 November 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kuala Lumpur, Malaysia, 19 November 2026 – 20 November 2026"
+    },
+    "pl": {
+      "description": "Universiti Malaya 6 hours Ultra Marathon night run to ultramaraton. Lokalizacja: Kuala Lumpur, Malezja. Termin: 19 listopada 2026 – 20 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kuala Lumpur, Malezja, 19 listopada 2026 – 20 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2026-11-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": "2026-11-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Universiti Malaya 6 hours Ultra Marathon night run",
+  "registrationUrl": null,
+  "slug": "universiti-malaya-6-hours-ultra-marathon-night-run-my",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:55.069Z",
+    "id": "duv",
+    "ref": "135112",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135112"
+  },
+  "start": {
+    "lat": 3.151696,
+    "lon": 101.694237,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": null
+}

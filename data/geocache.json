@@ -1847,11 +1847,50 @@
     "lon": -92.9366326,
     "name": "Villahermosa, Centro, Tabasco, México"
   },
+  "MY|daerah jerantut": {
+    "at": "2026-09-25T11:58:32.287Z"
+  },
+  "MY|daerah muallim": {
+    "at": "2026-09-25T11:58:32.287Z"
+  },
+  "MY|ipoh": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 4.5986817,
+    "lon": 101.0900236,
+    "name": "Majlis Bandaraya Ipoh, Kinta, Perak, Malaysia"
+  },
+  "MY|kota kinabalu": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 5.9780066,
+    "lon": 116.0728988,
+    "name": "Kota Kinabalu, Bahagian Pantai Barat, Sabah, 88000, Malaysia"
+  },
+  "MY|kuala lumpur": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 3.1516964,
+    "lon": 101.6942371,
+    "name": "Kuala Lumpur, Malaysia"
+  },
+  "MY|penang": {
+    "at": "2026-09-25T11:58:32.287Z"
+  },
+  "MY|sekinchan": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 3.506428,
+    "lon": 101.1026777,
+    "name": "Sekinchan, Sabak Bernam, Selangor, 45400, Malaysia"
+  },
   "MY|tanjung ipoh": {
     "at": "2026-09-22T17:38:39.624Z",
     "lat": 2.7412903,
     "lon": 102.1839034,
     "name": "Tanjung Ipoh, Kuala Pilah, Negeri Sembilan, 71500, Malaysia"
+  },
+  "MY|temerloh": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 3.4505701,
+    "lon": 102.4190974,
+    "name": "Temerloh, Pahang, 28000, Malaysia"
   },
   "NO|alvdal": {
     "at": "2026-09-21T12:59:25.178Z",
@@ -2360,6 +2399,9 @@
     "lon": 120.1679794,
     "name": "安平區, 上鯤鯓, 臺南市, 708, 臺灣"
   },
+  "TW|beigan township": {
+    "at": "2026-09-25T11:58:32.287Z"
+  },
   "TW|beitun district": {
     "at": "2026-09-19T16:30:51.864Z",
     "lat": 24.1822644,
@@ -2404,6 +2446,12 @@
     "lat": 23.140545,
     "lon": 120.140003,
     "name": "七股區, 臺南市, 724, 臺灣"
+  },
+  "TW|ruifang district": {
+    "at": "2026-09-25T11:58:32.287Z",
+    "lat": 25.1089107,
+    "lon": 121.8097683,
+    "name": "瑞芳區, 龍潭堵, 新北市, 臺灣"
   },
   "TW|shengang district": {
     "at": "2026-09-19T22:19:06.847Z",

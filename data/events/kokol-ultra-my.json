@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "kokol ultra is a ultramarathon. Location: Kota Kinabalu, Malaysia. Date: Saturday, 24 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kota Kinabalu, Malaysia, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "kokol ultra to ultramaraton. Lokalizacja: Kota Kinabalu, Malezja. Termin: sobota, 24 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kota Kinabalu, Malezja, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kota Kinabalu",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "kokol ultra",
+  "registrationUrl": null,
+  "slug": "kokol-ultra-my",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:55.069Z",
+    "id": "duv",
+    "ref": "135100",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135100"
+  },
+  "start": {
+    "lat": 5.978007,
+    "lon": 116.072899,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": null
+}

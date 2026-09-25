@@ -13,7 +13,7 @@
   "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Backyard Ultra"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Great Lawn Backyard Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20869",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68260",
   "slug": "great-lawn-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
-    "id": "runraceusa",
-    "ref": "great-lawn-backyard-ultra-ct",
-    "url": "https://ultrasignup.com/register.aspx?eid=20869"
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "20869",
+    "url": "https://ultrasignup.com/register.aspx?did=68260"
   },
   "start": {
-    "lat": 41.16,
-    "lon": -73.41,
+    "lat": 41.1634,
+    "lon": -73.4056,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20869"
+  "type": "road",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "http://www.runacrossct.com"
 }

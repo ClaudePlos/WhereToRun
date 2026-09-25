@@ -14,9 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
-    "42.2 km",
-    "10 km",
-    "5 km"
+    "42.2 km"
   ],
   "endDate": null,
   "featured": false,
@@ -33,7 +31,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival",
   "slug": "adirondack-marathon-distance-festival-us",
   "source": {
-    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "fetchedAt": "2026-09-25T11:58:39.727Z",
     "id": "runraceusa",
     "ref": "adirondack-marathon-distance-festival-ny",
     "url": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
@@ -49,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T12:45:22.898Z",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
   "website": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
 }

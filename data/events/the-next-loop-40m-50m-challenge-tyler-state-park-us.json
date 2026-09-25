@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop 40M/50M Challenge | Tyler State Park is a ultramarathon. Location: Tyler, United States. Date: Saturday, 14 November 2026. Distances: 80.5 km, 64.4 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tyler, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "The Next Loop 40M/50M Challenge | Tyler State Park to ultramaraton. Lokalizacja: Tyler, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 80.5 km, 64.4 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tyler, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "64.4 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tyler",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The Next Loop 40M/50M Challenge | Tyler State Park",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65461",
+  "slug": "the-next-loop-40m-50m-challenge-tyler-state-park-us",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "20044",
+    "url": "https://ultrasignup.com/register.aspx?did=65461"
+  },
+  "start": {
+    "lat": 32.4807,
+    "lon": -95.2957,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://www.everfurther.net/40-50-mile-challenge-tyler-nov"
+}

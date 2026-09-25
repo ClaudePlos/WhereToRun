@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Fat Ox is a ultramarathon. Location: Buckeye, United States. Date: 20 November 2026 – 22 November 2026. Distances: 160.9 km, 48 h, 24 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Buckeye, United States, 20 November 2026 – 22 November 2026"
+    },
+    "pl": {
+      "description": "Fat Ox to ultramaraton. Lokalizacja: Buckeye, Stany Zjednoczone. Termin: 20 listopada 2026 – 22 listopada 2026. Dystanse: 160.9 km, 48 h, 24 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Buckeye, Stany Zjednoczone, 20 listopada 2026 – 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "48 h",
+    "24 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2026-11-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Buckeye",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Fat Ox",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66277",
+  "slug": "fat-ox-us",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "10147",
+    "url": "https://ultrasignup.com/register.aspx?did=66277"
+  },
+  "start": {
+    "lat": 33.3827,
+    "lon": -112.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://www.aravaiparunning.com/fat-ox/"
+}

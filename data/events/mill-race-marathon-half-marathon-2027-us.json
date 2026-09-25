@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mill Race Marathon & Half Marathon 2027 is a road race. Location: Columbus, United States. Date: Saturday, 25 September 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Columbus, United States, Saturday, 25 September 2027"
+    },
+    "pl": {
+      "description": "Mill Race Marathon & Half Marathon 2027 to bieg uliczny. Lokalizacja: Columbus, Stany Zjednoczone. Termin: sobota, 25 września 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Columbus, Stany Zjednoczone, sobota, 25 września 2027"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2027-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Mill Race Marathon & Half Marathon 2027",
+  "registrationUrl": "https://raceroster.com/events/2027/141384/mill-race-marathon-and-half-marathon-2027",
+  "slug": "mill-race-marathon-half-marathon-2027-us",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:39.727Z",
+    "id": "runraceusa",
+    "ref": "mill-race-marathon-half-marathon-2027-in",
+    "url": "https://raceroster.com/events/2027/141384/mill-race-marathon-and-half-marathon-2027"
+  },
+  "start": {
+    "lat": 39.2014,
+    "lon": -85.9214,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://raceroster.com/events/2027/141384/mill-race-marathon-and-half-marathon-2027"
+}

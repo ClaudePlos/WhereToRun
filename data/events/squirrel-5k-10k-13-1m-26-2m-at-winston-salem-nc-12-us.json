@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Squirrel 5K, 10K, 13.1M & 26.2M at Winston-Salem, NC (12) is a road race. Location: Winston-Salem, United States. Date: Saturday, 20 March 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Winston-Salem, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Squirrel 5K, 10K, 13.1M & 26.2M at Winston-Salem, NC (12) to bieg uliczny. Lokalizacja: Winston-Salem, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Winston-Salem, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winston-Salem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Squirrel 5K, 10K, 13.1M & 26.2M at Winston-Salem, NC (12)",
+  "registrationUrl": "https://runsignup.com/Race/NC/WinstonSalem/Jamison12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "squirrel-5k-10k-13-1m-26-2m-at-winston-salem-nc-12-us",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:39.727Z",
+    "id": "runraceusa",
+    "ref": "squirrel-5k-10k-13-1m-26-2m-at-winston-salem-nc-12-nc",
+    "url": "https://runsignup.com/Race/NC/WinstonSalem/Jamison12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.14,
+    "lon": -80.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://runsignup.com/Race/NC/WinstonSalem/Jamison12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

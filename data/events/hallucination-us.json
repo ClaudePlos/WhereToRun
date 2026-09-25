@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hallucination is a ultramarathon. Location: Johns Island, United States. Date: 20 November 2026 – 22 November 2026. Distances: 34 h, 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Johns Island, United States, 20 November 2026 – 22 November 2026"
+    },
+    "pl": {
+      "description": "Hallucination to ultramaraton. Lokalizacja: Johns Island, Stany Zjednoczone. Termin: 20 listopada 2026 – 22 listopada 2026. Dystanse: 34 h, 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Johns Island, Stany Zjednoczone, 20 listopada 2026 – 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T11:58:32.287Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "34 h",
+    "24 h"
+  ],
+  "endDate": "2026-11-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Johns Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Hallucination",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64632",
+  "slug": "hallucination-us",
+  "source": {
+    "fetchedAt": "2026-09-25T11:58:39.157Z",
+    "id": "ultrasignup",
+    "ref": "4887",
+    "url": "https://ultrasignup.com/register.aspx?did=64632"
+  },
+  "start": {
+    "lat": 32.6413,
+    "lon": -80.1221,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "http://www.palmettoultras.com"
+}

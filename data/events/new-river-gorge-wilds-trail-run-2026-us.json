@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "New River Gorge Wilds Trail Run 2026",
-  "registrationUrl": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026",
+  "registrationUrl": "https://runsignup.com/Race/WV/OakHill/NewRiverGorgeWildsTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "new-river-gorge-wilds-trail-run-2026-us",
   "source": {
-    "fetchedAt": "2026-09-07T12:45:31.197Z",
+    "fetchedAt": "2026-09-25T11:58:39.727Z",
     "id": "runraceusa",
     "ref": "new-river-gorge-wilds-trail-run-2026-wv",
-    "url": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026"
+    "url": "https://runsignup.com/Race/WV/OakHill/NewRiverGorgeWildsTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 37.9723,
-    "lon": -81.1487,
+    "lat": 37.97,
+    "lon": -81.15,
     "name": null,
-    "precision": "city"
+    "precision": "exact"
   },
   "tags": [
     "runraceusa",
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-07T12:45:22.898Z",
-  "website": "https://raceroster.com/events/2026/113452/new-river-gorge-wilds-trail-run-2026"
+  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "website": "https://runsignup.com/Race/WV/OakHill/NewRiverGorgeWildsTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
