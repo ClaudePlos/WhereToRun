@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Gold 24hr and 12hr Endurance Challenge is a ultramarathon. Location: Belfry, United States. Date: Saturday, 21 November 2026. Distances: 24 Hour Relay, 24 h, 24hr Rucksack, 12hr individual, 12 hrs Relay, 12hr Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Belfry, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Black Gold 24hr and 12hr Endurance Challenge to ultramaraton. Lokalizacja: Belfry, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 24 Hour Relay, 24 h, 24hr Rucksack, 12hr individual, 12 hrs Relay, 12hr Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Belfry, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T23:17:23.268Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 Hour Relay",
+    "24 h",
+    "24hr Rucksack",
+    "12hr individual",
+    "12 hrs Relay",
+    "12hr Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Belfry",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Black Gold 24hr and 12hr Endurance Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67521",
+  "slug": "black-gold-24hr-and-12hr-endurance-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-25T23:17:31.948Z",
+    "id": "ultrasignup",
+    "ref": "13240",
+    "url": "https://ultrasignup.com/register.aspx?did=67521"
+  },
+  "start": {
+    "lat": 37.6482,
+    "lon": -82.2655,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T23:17:23.268Z",
+  "website": "https://www.facebook.com/blackgold24hrEnduranceChallenge/"
+}

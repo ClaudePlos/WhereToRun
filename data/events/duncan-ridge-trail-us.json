@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Duncan Ridge Trail is a ultramarathon. Location: Blairsville, United States. Date: Saturday, 21 November 2026. Distances: 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Blairsville, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Duncan Ridge Trail to ultramaraton. Lokalizacja: Blairsville, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Blairsville, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-25T23:17:23.268Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Blairsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Duncan Ridge Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65070",
+  "slug": "duncan-ridge-trail-us",
+  "source": {
+    "fetchedAt": "2026-09-25T23:17:31.948Z",
+    "id": "ultrasignup",
+    "ref": "2883",
+    "url": "https://ultrasignup.com/register.aspx?did=65070"
+  },
+  "start": {
+    "lat": 34.767,
+    "lon": -83.9197,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-25T23:17:23.268Z",
+  "website": "https://www.facebook.com/DRT50k/"
+}

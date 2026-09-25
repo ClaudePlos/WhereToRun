@@ -13,10 +13,11 @@
   "date": "2026-11-21",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "other",
-    "21.1 km",
+    "30 km",
+    "1",
+    "2 Marathon",
     "10 km"
   ],
   "endDate": null,
@@ -31,25 +32,25 @@
   },
   "manual": false,
   "name": "Griffith Park Trail Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3676",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67404",
   "slug": "griffith-park-trail-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
-    "id": "runraceusa",
-    "ref": "griffith-park-trail-marathon-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=3676"
+    "fetchedAt": "2026-09-25T23:17:31.948Z",
+    "id": "ultrasignup",
+    "ref": "3676",
+    "url": "https://ultrasignup.com/register.aspx?did=67404"
   },
   "start": {
-    "lat": 34.12,
-    "lon": -118.29,
+    "lat": 34.1202,
+    "lon": -118.292,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3676"
+  "type": "ultra",
+  "updatedAt": "2026-09-25T23:17:23.268Z",
+  "website": "https://www.khraces.com/series/griffith-park-trail-marathon"
 }

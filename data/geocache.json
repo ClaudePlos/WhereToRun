@@ -200,6 +200,9 @@
   "AU|coonabarabran, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|horsham, vic": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
   "AU|kalorama, vic": {
     "at": "2026-09-25T17:57:24.902Z"
   },
@@ -215,17 +218,38 @@
   "AU|mile end south, sa": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|mount victoria, nsw": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
   "AU|mt macedon, vic": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|mundaring, wa": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
+  "AU|newland hill, sa": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
   "AU|orange, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
+  },
+  "AU|oxley creek, qld": {
+    "at": "2026-09-25T23:17:23.268Z"
   },
   "AU|patonga, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
   },
   "AU|pemberton, wa": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|pembrooke, nsw": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
+  "AU|portland, vic": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
+  "AU|pyalong, vic": {
+    "at": "2026-09-25T23:17:23.268Z"
   },
   "AU|scottsdale, tas": {
     "at": "2026-09-17T11:51:05.899Z"
@@ -236,8 +260,14 @@
   "AU|st. ives, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|telegraph point, nsw": {
+    "at": "2026-09-25T23:17:23.268Z"
+  },
   "AU|toowoomba, qld": {
     "at": "2026-09-17T11:51:05.899Z"
+  },
+  "AU|townsville, qld": {
+    "at": "2026-09-25T23:17:23.268Z"
   },
   "AU|tumbarumba, nsw": {
     "at": "2026-09-25T17:57:24.902Z"
