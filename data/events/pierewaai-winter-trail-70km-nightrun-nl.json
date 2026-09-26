@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pierewaai Winter Trail 70km (nightrun) is a ultramarathon. Location: Hoek van Holland, Netherlands. Date: Friday, 22 January 2027. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hoek van Holland, Netherlands, Friday, 22 January 2027"
+    },
+    "pl": {
+      "description": "Pierewaai Winter Trail 70km (nightrun) to ultramaraton. Lokalizacja: Hoek van Holland, Holandia. Termin: piątek, 22 stycznia 2027. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hoek van Holland, Holandia, piątek, 22 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T22:46:58.435Z",
+  "date": "2027-01-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hoek van Holland",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Pierewaai Winter Trail 70km (nightrun)",
+  "registrationUrl": null,
+  "slug": "pierewaai-winter-trail-70km-nightrun-nl",
+  "source": {
+    "fetchedAt": "2026-09-26T22:47:14.134Z",
+    "id": "duv",
+    "ref": "133492",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133492"
+  },
+  "start": {
+    "lat": 51.977162,
+    "lon": 4.131453,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T22:46:58.435Z",
+  "website": null
+}

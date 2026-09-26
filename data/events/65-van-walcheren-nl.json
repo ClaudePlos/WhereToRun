@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "65 van Walcheren is a ultramarathon. Location: Westkapelle, Netherlands. Date: Sunday, 7 March 2027. Distances: 65 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Westkapelle, Netherlands, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "65 van Walcheren to ultramaraton. Lokalizacja: Westkapelle, Holandia. Termin: niedziela, 7 marca 2027. Dystanse: 65 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Westkapelle, Holandia, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-26T22:46:58.435Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "65 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Westkapelle",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "65 van Walcheren",
+  "registrationUrl": null,
+  "slug": "65-van-walcheren-nl",
+  "source": {
+    "fetchedAt": "2026-09-26T22:47:14.134Z",
+    "id": "duv",
+    "ref": "133790",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133790"
+  },
+  "start": {
+    "lat": 51.529331,
+    "lon": 3.440786,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T22:46:58.435Z",
+  "website": null
+}

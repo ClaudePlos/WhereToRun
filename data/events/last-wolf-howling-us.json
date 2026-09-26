@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Wolf Howling is a road race. Location: Petal, United States. Date: Saturday, 21 November 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Petal, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Last Wolf Howling to bieg uliczny. Lokalizacja: Petal, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Petal, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T22:46:58.435Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Petal",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Last Wolf Howling",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66420",
+  "slug": "last-wolf-howling-us",
+  "source": {
+    "fetchedAt": "2026-09-26T22:47:06.419Z",
+    "id": "ultrasignup",
+    "ref": "20304",
+    "url": "https://ultrasignup.com/register.aspx?did=66420"
+  },
+  "start": {
+    "lat": 30.3543,
+    "lon": -90.0265,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T22:46:58.435Z",
+  "website": "https://www.facebook.com/p/Rougarou-Running-61569338407363/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UHUT100 Winter - Doorn is a ultramarathon. Location: Leersum, Netherlands. Date: Sunday, 29 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Leersum, Netherlands, Sunday, 29 November 2026"
+    },
+    "pl": {
+      "description": "UHUT100 Winter - Doorn to ultramaraton. Lokalizacja: Leersum, Holandia. Termin: niedziela, 29 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Leersum, Holandia, niedziela, 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T22:46:58.435Z",
+  "date": "2026-11-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Leersum",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "UHUT100 Winter - Doorn",
+  "registrationUrl": null,
+  "slug": "uhut100-winter-doorn-nl",
+  "source": {
+    "fetchedAt": "2026-09-26T22:47:14.134Z",
+    "id": "duv",
+    "ref": "123729",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123729"
+  },
+  "start": {
+    "lat": 52.010264,
+    "lon": 5.433276,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T22:46:58.435Z",
+  "website": null
+}
