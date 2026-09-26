@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Indian Summer Ultra 75 km is a ultramarathon. Location: Gasselte, Netherlands. Date: Saturday, 10 October 2026. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gasselte, Netherlands, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Indian Summer Ultra 75 km to ultramaraton. Lokalizacja: Gasselte, Holandia. Termin: sobota, 10 października 2026. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gasselte, Holandia, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-26T17:10:56.840Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gasselte",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Indian Summer Ultra 75 km",
+  "registrationUrl": null,
+  "slug": "indian-summer-ultra-75-km-nl",
+  "source": {
+    "fetchedAt": "2026-09-26T17:11:12.265Z",
+    "id": "duv",
+    "ref": "128927",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128927"
+  },
+  "start": {
+    "lat": 52.971916,
+    "lon": 6.792185,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T17:10:56.840Z",
+  "website": null
+}

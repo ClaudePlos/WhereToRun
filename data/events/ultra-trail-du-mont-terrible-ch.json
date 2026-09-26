@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Trail du Mont-Terrible is a ultramarathon. Location: Fontenais, Switzerland. Date: 17 April 2027 – 18 April 2027. Distances: 106 km, 2Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fontenais, Switzerland, 17 April 2027 – 18 April 2027"
+    },
+    "pl": {
+      "description": "Ultra Trail du Mont-Terrible to ultramaraton. Lokalizacja: Fontenais, Szwajcaria. Termin: 17 kwietnia 2027 – 18 kwietnia 2027. Dystanse: 106 km, 2Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fontenais, Szwajcaria, 17 kwietnia 2027 – 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T17:10:56.840Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "106 km",
+    "2Etappen"
+  ],
+  "endDate": "2027-04-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fontenais",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Trail du Mont-Terrible",
+  "registrationUrl": null,
+  "slug": "ultra-trail-du-mont-terrible-ch",
+  "source": {
+    "fetchedAt": "2026-09-26T17:11:12.265Z",
+    "id": "duv",
+    "ref": "131901",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131901"
+  },
+  "start": {
+    "lat": 47.40348,
+    "lon": 7.080589,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T17:10:56.840Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail de Calabri is a ultramarathon. Location: Fontenais, Switzerland. Date: Saturday, 17 April 2027. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fontenais, Switzerland, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "Trail de Calabri to ultramaraton. Lokalizacja: Fontenais, Szwajcaria. Termin: sobota, 17 kwietnia 2027. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fontenais, Szwajcaria, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T17:10:56.840Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fontenais",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trail de Calabri",
+  "registrationUrl": null,
+  "slug": "trail-de-calabri-ch",
+  "source": {
+    "fetchedAt": "2026-09-26T17:11:12.265Z",
+    "id": "duv",
+    "ref": "135697",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135697"
+  },
+  "start": {
+    "lat": 47.40348,
+    "lon": 7.080589,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T17:10:56.840Z",
+  "website": null
+}

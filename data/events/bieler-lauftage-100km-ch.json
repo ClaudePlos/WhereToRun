@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bieler Lauftage - 100km is a ultramarathon. Location: Biel, Switzerland. Date: 11 June 2027 – 12 June 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Biel, Switzerland, 11 June 2027 – 12 June 2027"
+    },
+    "pl": {
+      "description": "Bieler Lauftage - 100km to ultramaraton. Lokalizacja: Biel, Szwajcaria. Termin: 11 czerwca 2027 – 12 czerwca 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Biel, Szwajcaria, 11 czerwca 2027 – 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-26T17:10:56.840Z",
+  "date": "2027-06-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2027-06-12",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Biel",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bieler Lauftage - 100km",
+  "registrationUrl": null,
+  "slug": "bieler-lauftage-100km-ch",
+  "source": {
+    "fetchedAt": "2026-09-26T17:11:12.265Z",
+    "id": "duv",
+    "ref": "132716",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132716"
+  },
+  "start": {
+    "lat": 47.140208,
+    "lon": 7.243903,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T17:10:56.840Z",
+  "website": null
+}

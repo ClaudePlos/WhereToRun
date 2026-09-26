@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Gelderse Poort Ultra is a ultramarathon. Location: Berg en Dal, Netherlands. Date: Saturday, 26 September 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Berg en Dal, Netherlands, Saturday, 26 September 2026"
+    },
+    "pl": {
+      "description": "Gelderse Poort Ultra to ultramaraton. Lokalizacja: Berg en Dal, Holandia. Termin: sobota, 26 września 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Berg en Dal, Holandia, sobota, 26 września 2026"
+    }
+  },
+  "createdAt": "2026-09-26T17:10:56.840Z",
+  "date": "2026-09-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Berg en Dal",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Gelderse Poort Ultra",
+  "registrationUrl": null,
+  "slug": "gelderse-poort-ultra-nl",
+  "source": {
+    "fetchedAt": "2026-09-26T17:11:12.265Z",
+    "id": "duv",
+    "ref": "122636",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122636"
+  },
+  "start": {
+    "lat": 51.811357,
+    "lon": 5.917026,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T17:10:56.840Z",
+  "website": null
+}

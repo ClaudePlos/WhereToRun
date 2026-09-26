@@ -611,6 +611,12 @@
     "lon": 7.4521749,
     "name": "Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
   },
+  "CH|biel": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 47.1402077,
+    "lon": 7.2439029,
+    "name": "Biel/Bienne, Verwaltungskreis Biel/Bienne, Verwaltungsregion Seeland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+  },
   "CH|brugg": {
     "at": "2026-09-18T11:26:42.874Z",
     "lat": 47.4824633,
@@ -623,11 +629,23 @@
     "lon": 8.6753241,
     "name": "Brütten, Bezirk Winterthur, Zürich, 8311, Schweiz/Suisse/Svizzera/Svizra"
   },
+  "CH|davos": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 46.796198,
+    "lon": 9.8236892,
+    "name": "Davos, Prättigau/Davos, Graubünden/Grischun/Grigioni, Schweiz/Suisse/Svizzera/Svizra"
+  },
   "CH|ettingen": {
     "at": "2026-09-18T11:26:42.874Z",
     "lat": 47.4816164,
     "lon": 7.5441378,
     "name": "Ettingen, Bezirk Arlesheim, Basel-Landschaft, 4107, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|fontenais": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 47.4034795,
+    "lon": 7.080589,
+    "name": "Fontenais, District de Porrentruy, Jura, Schweiz/Suisse/Svizzera/Svizra"
   },
   "CH|l'abbaye": {
     "at": "2026-09-18T11:26:42.874Z",
@@ -647,11 +665,35 @@
     "lon": 9.12655,
     "name": "Rossa, Moesa, Graubünden/Grischun/Grigioni, Schweiz/Suisse/Svizzera/Svizra"
   },
+  "CH|samedan": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 46.5332403,
+    "lon": 9.874586,
+    "name": "Samedan, Maloja, Graubünden/Grischun/Grigioni, 7503, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|savognin": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 46.5969026,
+    "lon": 9.5980124,
+    "name": "Savognin, Surses, Albula/Alvra, Graubünden/Grischun/Grigioni, 7460, Schweiz/Suisse/Svizzera/Svizra"
+  },
   "CH|tramelan": {
     "at": "2026-09-18T11:26:42.874Z",
     "lat": 47.223677,
     "lon": 7.1030216,
     "name": "Tramelan, Arrondissement administratif du Jura bernois, Région administrative du Jura bernois, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|uerzlikon": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 47.2218602,
+    "lon": 8.4977276,
+    "name": "Uerzlikon, Hauptikon, Kappel am Albis, Bezirk Affoltern, Zürich, 8926, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|zuoz": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 46.6012885,
+    "lon": 9.9608039,
+    "name": "Zuoz, Maloja, Graubünden/Grischun/Grigioni, 7524, Schweiz/Suisse/Svizzera/Svizra"
   },
   "CH|zürich": {
     "at": "2026-09-18T11:26:42.874Z",
@@ -2008,6 +2050,24 @@
     "lat": 3.4505701,
     "lon": 102.4190974,
     "name": "Temerloh, Pahang, 28000, Malaysia"
+  },
+  "NL|berg en dal": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 51.8113566,
+    "lon": 5.9170257,
+    "name": "Berg en Dal, Gelderland, Nederland"
+  },
+  "NL|gasselte": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 52.971916,
+    "lon": 6.7921853,
+    "name": "Gasselte, Aa en Hunze, Drenthe, Nederland"
+  },
+  "NL|zeewolde": {
+    "at": "2026-09-26T17:10:56.840Z",
+    "lat": 52.3451194,
+    "lon": 5.4580775,
+    "name": "Zeewolde, Flevoland, Nederland"
   },
   "NO|alvdal": {
     "at": "2026-09-21T12:59:25.178Z",
