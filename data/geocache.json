@@ -953,6 +953,27 @@
     "lon": 27.1396807,
     "name": "Saaremaa küla, Võru vald, Võru maakond, 65240, Eesti"
   },
+  "ES|curillas, leon": {
+    "at": "2026-09-26T11:33:30.366Z"
+  },
+  "ES|olot": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 42.1822177,
+    "lon": 2.4890211,
+    "name": "Olot, Garrotxa, Girona, Catalunya, España"
+  },
+  "ES|sant antoni de portmany": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 38.9830568,
+    "lon": 1.3009485,
+    "name": "Sant Antoni de Portmany, Eivissa, Illes Balears, España"
+  },
+  "ES|sant josep de sa talaia": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 38.9220629,
+    "lon": 1.2939942,
+    "name": "Sant Josep de sa Talaia, Eivissa, Illes Balears, España"
+  },
   "FI|hossa national park": {
     "at": "2026-09-18T17:05:45.373Z"
   },
@@ -1535,6 +1556,12 @@
     "lon": 7.8314544,
     "name": "Gressoney-Saint-Jean, Valle d'Aosta / Vallée d'Aoste, 11025, Italia"
   },
+  "IT|laterza": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 40.629524,
+    "lon": 16.799689,
+    "name": "Laterza, Taranto, Puglia, 74014, Italia"
+  },
   "IT|ostia": {
     "at": "2026-09-09T17:09:58.614Z",
     "lat": 41.7318483,
@@ -1544,8 +1571,26 @@
   "IT|paglieta (ch)": {
     "at": "2026-09-09T22:32:11.988Z"
   },
+  "IT|porto recanati": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 43.4350815,
+    "lon": 13.6630083,
+    "name": "Porto Recanati, Macerata, Marche, 62017, Italia"
+  },
   "IT|reggia di rivalta reggio emilia": {
     "at": "2026-09-09T22:32:11.988Z"
+  },
+  "IT|rovereto": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 45.886548,
+    "lon": 11.0452369,
+    "name": "Rovereto, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38060, Italia"
+  },
+  "IT|santarcangelo di romagna": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 44.0634029,
+    "lon": 12.4467143,
+    "name": "Santarcangelo di Romagna, Unione di comuni Valmarecchia, Rimini, Emilia-Romagna, 47822, Italia"
   },
   "IT|santo stefano belbo (cn)": {
     "at": "2026-09-09T17:09:58.614Z"
@@ -1555,6 +1600,18 @@
     "lat": 45.8103381,
     "lon": 11.7728131,
     "name": "Semonzo del Grappa, Borso del Grappa, Pieve del Grappa, Treviso, Veneto, 31030, Italia"
+  },
+  "IT|sistiana": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 45.7715715,
+    "lon": 13.6373475,
+    "name": "Sistiana / Sesljan, Duino Aurisina / Devin - Nabrežina, Trieste, Friuli-Venezia Giulia, 34011, Italia"
+  },
+  "IT|trieste": {
+    "at": "2026-09-26T11:33:30.366Z",
+    "lat": 45.6496485,
+    "lon": 13.7772781,
+    "name": "Trieste, Friuli-Venezia Giulia, 34121-34151, Italia"
   },
   "IT|valbruna (ud)": {
     "at": "2026-09-09T22:32:11.988Z"

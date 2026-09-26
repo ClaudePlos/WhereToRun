@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bull Run Run 50 Miler is a road race. Location: Clifton, United States. Date: Saturday, 3 April 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Clifton, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Bull Run Run 50 Miler to bieg uliczny. Lokalizacja: Clifton, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Clifton, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clifton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Bull Run Run 50 Miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=158",
+  "slug": "bull-run-run-50-miler-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "id": "runraceusa",
+    "ref": "bull-run-run-50-miler-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=158"
+  },
+  "start": {
+    "lat": 38.77,
+    "lon": -77.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=158"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Supper 100k is a road race. Location: Roxbury, United States. Date: Sunday, 27 December 2026. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Roxbury, United States, Sunday, 27 December 2026"
+    },
+    "pl": {
+      "description": "Last Supper 100k to bieg uliczny. Lokalizacja: Roxbury, Stany Zjednoczone. Termin: niedziela, 27 grudnia 2026. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Roxbury, Stany Zjednoczone, niedziela, 27 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-12-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roxbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Last Supper 100k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19553",
+  "slug": "last-supper-100k-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "id": "runraceusa",
+    "ref": "last-supper-100k-nj",
+    "url": "https://ultrasignup.com/register.aspx?eid=19553"
+  },
+  "start": {
+    "lat": 40.86,
+    "lon": -74.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19553"
+}

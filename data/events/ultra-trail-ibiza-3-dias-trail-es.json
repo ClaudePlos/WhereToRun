@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Trail Ibiza - 3 dias trail is a ultramarathon. Location: Sant Josep de sa Talaia, Spain. Date: 27 November 2026 – 29 November 2026. Distances: 97 km, 3Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sant Josep de sa Talaia, Spain, 27 November 2026 – 29 November 2026"
+    },
+    "pl": {
+      "description": "Ultra Trail Ibiza - 3 dias trail to ultramaraton. Lokalizacja: Sant Josep de sa Talaia, Hiszpania. Termin: 27 listopada 2026 – 29 listopada 2026. Dystanse: 97 km, 3Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sant Josep de sa Talaia, Hiszpania, 27 listopada 2026 – 29 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "97 km",
+    "3Etappen"
+  ],
+  "endDate": "2026-11-29",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sant Josep de sa Talaia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Trail Ibiza - 3 dias trail",
+  "registrationUrl": null,
+  "slug": "ultra-trail-ibiza-3-dias-trail-es",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:53.551Z",
+    "id": "duv",
+    "ref": "131904",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131904"
+  },
+  "start": {
+    "lat": 38.922063,
+    "lon": 1.293994,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": null
+}

@@ -13,7 +13,7 @@
   "date": "2026-10-03",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km"
+    "50 km"
   ],
   "endDate": "2026-10-04",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "wienerwald-ultra-trail-at",
   "source": {
-    "fetchedAt": "2026-09-23T22:56:32.230Z",
+    "fetchedAt": "2026-09-26T11:33:53.553Z",
     "id": "duv",
-    "ref": "122584",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122584"
+    "ref": "122585",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=122585"
   },
   "start": {
     "lat": 48.207672,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-23T22:56:06.292Z",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
   "website": null
 }

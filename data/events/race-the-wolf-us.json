@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Race the Wolf is a road race. Location: Sandpoint, United States. Date: Saturday, 19 June 2027. Distances: 42.2 km, 21.1 km, other, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sandpoint, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Race the Wolf to bieg uliczny. Lokalizacja: Sandpoint, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: 42.2 km, 21.1 km, other, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sandpoint, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sandpoint",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Race the Wolf",
+  "registrationUrl": "https://runsignup.com/Race/ID/Sandpoint/RacetheWolf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "race-the-wolf-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "id": "runraceusa",
+    "ref": "race-the-wolf-id",
+    "url": "https://runsignup.com/Race/ID/Sandpoint/RacetheWolf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.31,
+    "lon": -116.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://runsignup.com/Race/ID/Sandpoint/RacetheWolf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Dizzy Fifties is a ultramarathon. Location: Huntsville, United States. Date: Saturday, 21 November 2026. Distances: 50 km, 32.2 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Huntsville, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Dizzy Fifties to ultramaraton. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 50 km, 32.2 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Huntsville, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Dizzy Fifties",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64974",
+  "slug": "dizzy-fifties-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:38.286Z",
+    "id": "ultrasignup",
+    "ref": "1413",
+    "url": "https://ultrasignup.com/register.aspx?did=64974"
+  },
+  "start": {
+    "lat": 34.7443,
+    "lon": -86.5082,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "http://huntsvilletrackclub.org/"
+}

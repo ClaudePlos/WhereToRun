@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Dinosaur Valley Endurance Run is a ultramarathon. Location: Glen Rose, United States. Date: 21 November 2026 – 22 November 2026. Distances: 160.9 km, 100 km, 50 km, Triassic 25K, Mesozoic Maniac, Triassic 5 Mile, Jurassic 5 Mile. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Glen Rose, United States, 21 November 2026 – 22 November 2026"
+    },
+    "pl": {
+      "description": "Dinosaur Valley Endurance Run to ultramaraton. Lokalizacja: Glen Rose, Stany Zjednoczone. Termin: 21 listopada 2026 – 22 listopada 2026. Dystanse: 160.9 km, 100 km, 50 km, Triassic 25K, Mesozoic Maniac, Triassic 5 Mile, Jurassic 5 Mile. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Glen Rose, Stany Zjednoczone, 21 listopada 2026 – 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "Triassic 25K",
+    "Mesozoic Maniac",
+    "Triassic 5 Mile",
+    "Jurassic 5 Mile"
+  ],
+  "endDate": "2026-11-22",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glen Rose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Dinosaur Valley Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64543",
+  "slug": "dinosaur-valley-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:38.286Z",
+    "id": "ultrasignup",
+    "ref": "4563",
+    "url": "https://ultrasignup.com/register.aspx?did=64543"
+  },
+  "start": {
+    "lat": 32.2463,
+    "lon": -97.8266,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "http://www.dinosaurvalleytrailrun.com"
+}

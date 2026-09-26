@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Sonoma 100K, 50K & TS Half is a road race. Location: Healdsburg, United States. Date: Saturday, 10 April 2027. Distances: u100k, u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Healdsburg, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Lake Sonoma 100K, 50K & TS Half to bieg uliczny. Lokalizacja: Healdsburg, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u100k, u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Healdsburg, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Healdsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lake Sonoma 100K, 50K & TS Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19566",
+  "slug": "lake-sonoma-100k-50k-ts-half-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "id": "runraceusa",
+    "ref": "lake-sonoma-100k-50k-ts-half-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=19566"
+  },
+  "start": {
+    "lat": 38.72,
+    "lon": -123,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19566"
+}

@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Oakwood 24 at Lakeside Retreats is a ultramarathon. Location: Raleigh, United States. Date: Saturday, 21 November 2026. Distances: Relay Team, 24 Hour Challenge, 12 Hour Challenge, 6 h, 5k WALK OR RUN, 4 hour challenge, 2 hour c. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Raleigh, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Oakwood 24 at Lakeside Retreats to ultramaraton. Lokalizacja: Raleigh, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: Relay Team, 24 Hour Challenge, 12 Hour Challenge, 6 h, 5k WALK OR RUN, 4 hour challenge, 2 hour c. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Raleigh, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Relay Team",
+    "24 Hour Challenge",
+    "12 Hour Challenge",
+    "6 h",
+    "5k WALK OR RUN",
+    "4 hour challenge",
+    "2 hour c"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Raleigh",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Oakwood 24 at Lakeside Retreats",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65581",
+  "slug": "oakwood-24-at-lakeside-retreats-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:38.286Z",
+    "id": "ultrasignup",
+    "ref": "14228",
+    "url": "https://ultrasignup.com/register.aspx?did=65581"
+  },
+  "start": {
+    "lat": 35.7302,
+    "lon": -78.4499,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://healing-transitions.org/oakwood24/"
+}

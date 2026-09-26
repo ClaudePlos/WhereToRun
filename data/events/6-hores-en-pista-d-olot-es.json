@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "6 hores en pista d'Olot is a ultramarathon. Location: Olot, Spain. Date: Saturday, 10 October 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Olot, Spain, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "6 hores en pista d'Olot to ultramaraton. Lokalizacja: Olot, Hiszpania. Termin: sobota, 10 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Olot, Hiszpania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Olot",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "6 hores en pista d'Olot",
+  "registrationUrl": null,
+  "slug": "6-hores-en-pista-d-olot-es",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:53.551Z",
+    "id": "duv",
+    "ref": "128966",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128966"
+  },
+  "start": {
+    "lat": 42.182218,
+    "lon": 2.489021,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": null
+}

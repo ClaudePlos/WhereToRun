@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T22:03:13.980Z",
-  "date": "2026-09-06",
+  "date": "2027-09-05",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/GA/JohnsCreek/BostonBoundMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bound-for-boston-marathon-half-marathon-atlanta-us",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
     "id": "runraceusa",
     "ref": "bound-for-boston-marathon-half-marathon-atlanta-ga",
     "url": "https://runsignup.com/Race/GA/JohnsCreek/BostonBoundMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
   "website": "https://runsignup.com/Race/GA/JohnsCreek/BostonBoundMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

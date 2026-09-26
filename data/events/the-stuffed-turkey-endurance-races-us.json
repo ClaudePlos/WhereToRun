@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Stuffed Turkey Endurance Races is a ultramarathon. Location: Granger, United States. Date: Saturday, 21 November 2026. Distances: 160.9 km, 80.5 km, 50 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Granger, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "The Stuffed Turkey Endurance Races to ultramaraton. Lokalizacja: Granger, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 160.9 km, 80.5 km, 50 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Granger, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "50 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Granger",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "The Stuffed Turkey Endurance Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64366",
+  "slug": "the-stuffed-turkey-endurance-races-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:38.286Z",
+    "id": "ultrasignup",
+    "ref": "10765",
+    "url": "https://ultrasignup.com/register.aspx?did=64366"
+  },
+  "start": {
+    "lat": 41.764,
+    "lon": -93.7595,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://www.stuffedturkeyendurance.com/"
+}

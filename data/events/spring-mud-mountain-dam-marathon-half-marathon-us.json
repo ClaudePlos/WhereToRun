@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Spring - Mud Mountain Dam Marathon & Half Marathon is a trail race. Location: Enumclaw, United States. Date: Saturday, 29 May 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Enumclaw, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Spring - Mud Mountain Dam Marathon & Half Marathon to bieg trailowy. Lokalizacja: Enumclaw, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Enumclaw, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Enumclaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Spring - Mud Mountain Dam Marathon & Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Enumclaw/MudMountainDamMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "spring-mud-mountain-dam-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "id": "runraceusa",
+    "ref": "spring-mud-mountain-dam-marathon-half-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Enumclaw/MudMountainDamMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.27,
+    "lon": -122.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://runsignup.com/Race/WA/Enumclaw/MudMountainDamMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

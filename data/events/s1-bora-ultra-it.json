@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "S1 Bora Ultra is a ultramarathon. Location: Trieste, Italy. Date: 9 January 2027 – 10 January 2027. Distances: 116 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Trieste, Italy, 9 January 2027 – 10 January 2027"
+    },
+    "pl": {
+      "description": "S1 Bora Ultra to ultramaraton. Lokalizacja: Trieste, Włochy. Termin: 9 stycznia 2027 – 10 stycznia 2027. Dystanse: 116 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Trieste, Włochy, 9 stycznia 2027 – 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "116 km"
+  ],
+  "endDate": "2027-01-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Trieste",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "S1 Bora Ultra",
+  "registrationUrl": null,
+  "slug": "s1-bora-ultra-it",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:53.551Z",
+    "id": "duv",
+    "ref": "135872",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135872"
+  },
+  "start": {
+    "lat": 45.649649,
+    "lon": 13.777278,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": null
+}

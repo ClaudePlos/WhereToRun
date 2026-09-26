@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last of the Felascans is a road race. Location: Alachau, United States. Date: Saturday, 21 November 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Alachau, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Last of the Felascans to bieg uliczny. Lokalizacja: Alachau, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Alachau, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alachau",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Last of the Felascans",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64889",
+  "slug": "last-of-the-felascans-us",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:38.286Z",
+    "id": "ultrasignup",
+    "ref": "15010",
+    "url": "https://ultrasignup.com/register.aspx?did=64889"
+  },
+  "start": {
+    "lat": 29.7472,
+    "lon": -82.4757,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": "https://www.facebook.com/profile.php?id=100080311160505&mibextid=LQQJ4d"
+}

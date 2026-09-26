@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "50 km del Marecchia is a ultramarathon. Location: Santarcangelo di Romagna, Italy. Date: Sunday, 4 April 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Santarcangelo di Romagna, Italy, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "50 km del Marecchia to ultramaraton. Lokalizacja: Santarcangelo di Romagna, Włochy. Termin: niedziela, 4 kwietnia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Santarcangelo di Romagna, Włochy, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-26T11:33:30.366Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Santarcangelo di Romagna",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "50 km del Marecchia",
+  "registrationUrl": null,
+  "slug": "50-km-del-marecchia-it",
+  "source": {
+    "fetchedAt": "2026-09-26T11:33:53.551Z",
+    "id": "duv",
+    "ref": "135696",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135696"
+  },
+  "start": {
+    "lat": 44.063403,
+    "lon": 12.446714,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-26T11:33:30.366Z",
+  "website": null
+}
