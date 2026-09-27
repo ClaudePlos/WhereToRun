@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Pere Malfait Trail Race is a ultramarathon. Location: Bastrop, United States. Date: Saturday, 21 November 2026. Distances: 50 km, 25.7 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bastrop, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Pere Malfait Trail Race to ultramaraton. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 50 km, 25.7 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bastrop, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-27T12:12:19.053Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25.7 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Pere Malfait Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64728",
+  "slug": "pere-malfait-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-27T12:12:26.824Z",
+    "id": "ultrasignup",
+    "ref": "17601",
+    "url": "https://ultrasignup.com/register.aspx?did=64728"
+  },
+  "start": {
+    "lat": 32.8722,
+    "lon": -91.9118,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "website": "https://www.facebook.com/groups/252134567555520/?_rdr"
+}

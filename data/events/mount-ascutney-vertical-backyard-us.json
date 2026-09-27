@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount Ascutney Vertical Backyard is a road race. Location: Brownsville, United States. Date: Saturday, 21 November 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brownsville, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Mount Ascutney Vertical Backyard to bieg uliczny. Lokalizacja: Brownsville, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brownsville, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-27T12:12:19.053Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brownsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "Mount Ascutney Vertical Backyard",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65917",
+  "slug": "mount-ascutney-vertical-backyard-us",
+  "source": {
+    "fetchedAt": "2026-09-27T12:12:26.824Z",
+    "id": "ultrasignup",
+    "ref": "18780",
+    "url": "https://ultrasignup.com/register.aspx?did=65917"
+  },
+  "start": {
+    "lat": 43.4631,
+    "lon": -72.4668,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "website": "https://northeasttrailadventures.com/events/ascutney-vertical-backyard"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop 40M/50M | Lake Carl Blackwell is a road race. Location: Stillwater, United States. Date: Saturday, 21 November 2026. Distances: 50 Mile Challenge, 40 Mile Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stillwater, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "The Next Loop 40M/50M | Lake Carl Blackwell to bieg uliczny. Lokalizacja: Stillwater, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 50 Mile Challenge, 40 Mile Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stillwater, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-27T12:12:19.053Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 Mile Challenge",
+    "40 Mile Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stillwater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "The Next Loop 40M/50M | Lake Carl Blackwell",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65198",
+  "slug": "the-next-loop-40m-50m-lake-carl-blackwell-us",
+  "source": {
+    "fetchedAt": "2026-09-27T12:12:26.824Z",
+    "id": "ultrasignup",
+    "ref": "19953",
+    "url": "https://ultrasignup.com/register.aspx?did=65198"
+  },
+  "start": {
+    "lat": 36.1198,
+    "lon": -97.2094,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "website": "https://www.everfurther.net/40-50-m-challenge-lcb-nov"
+}

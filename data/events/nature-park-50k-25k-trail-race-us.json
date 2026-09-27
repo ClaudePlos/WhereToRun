@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Nature Park 50K & 25K Trail Race is a trail race. Location: Chattanooga, United States. Date: Saturday, 13 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Chattanooga, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Nature Park 50K & 25K Trail Race to bieg trailowy. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Chattanooga, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-27T12:12:19.053Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Nature Park 50K & 25K Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19542",
+  "slug": "nature-park-50k-25k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-27T12:12:28.115Z",
+    "id": "runraceusa",
+    "ref": "nature-park-50k-25k-trail-race-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=19542"
+  },
+  "start": {
+    "lat": 35.08,
+    "lon": -85.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19542"
+}

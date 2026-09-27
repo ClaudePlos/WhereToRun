@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "AGE IS JUST MILEAGE - The 112,000 Ultra Challenge benefiting Champions for the Homeless is a ultramarathon. Location: Scottsdale, United States. Date: Sunday, 25 October 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Scottsdale, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "AGE IS JUST MILEAGE - The 112,000 Ultra Challenge benefiting Champions for the Homeless to ultramaraton. Lokalizacja: Scottsdale, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Scottsdale, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-27T12:12:19.053Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Scottsdale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "AGE IS JUST MILEAGE - The 112,000 Ultra Challenge benefiting Champions for the Homeless",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Scottsdale/AGEISJUSTMILEAGE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "age-is-just-mileage-the-112-000-ultra-challenge-benefiting-champions-for-the-hom",
+  "source": {
+    "fetchedAt": "2026-09-27T12:12:28.115Z",
+    "id": "runraceusa",
+    "ref": "age-is-just-mileage-the-112-000-ultra-challenge-benefiting-champions",
+    "url": "https://runsignup.com/Race/AZ/Scottsdale/AGEISJUSTMILEAGE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.62,
+    "lon": -111.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "website": "https://runsignup.com/Race/AZ/Scottsdale/AGEISJUSTMILEAGE?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

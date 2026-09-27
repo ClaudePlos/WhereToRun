@@ -16,8 +16,7 @@
     "42.2 km",
     "21.1 km",
     "10 km",
-    "5 km",
-    "1.6 km"
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -34,7 +33,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/111656/tbk-bank-quad-cities-marathon",
   "slug": "tbk-bank-quad-cities-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "fetchedAt": "2026-09-27T12:12:28.115Z",
     "id": "runraceusa",
     "ref": "tbk-bank-quad-cities-marathon-il",
     "url": "https://raceroster.com/events/2026/111656/tbk-bank-quad-cities-marathon"
@@ -50,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "updatedAt": "2026-09-27T12:12:19.053Z",
   "website": "https://raceroster.com/events/2026/111656/tbk-bank-quad-cities-marathon"
 }
