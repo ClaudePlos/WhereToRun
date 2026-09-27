@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kyoto Great Round 130 km is a ultramarathon. Location: Kyoto, Japan. Date: 29 December 2026 – 30 December 2026. Distances: 130 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kyoto, Japan, 29 December 2026 – 30 December 2026"
+    },
+    "pl": {
+      "description": "Kyoto Great Round 130 km to ultramaraton. Lokalizacja: Kyoto, Japonia. Termin: 29 grudnia 2026 – 30 grudnia 2026. Dystanse: 130 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kyoto, Japonia, 29 grudnia 2026 – 30 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-27T17:44:35.686Z",
+  "date": "2026-12-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "130 km"
+  ],
+  "endDate": "2026-12-30",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kyoto",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kyoto Great Round 130 km",
+  "registrationUrl": null,
+  "slug": "kyoto-great-round-130-km-jp",
+  "source": {
+    "fetchedAt": "2026-09-27T17:44:51.771Z",
+    "id": "duv",
+    "ref": "133102",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133102"
+  },
+  "start": {
+    "lat": 35.011575,
+    "lon": 135.768144,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T17:44:35.686Z",
+  "website": null
+}

@@ -10,12 +10,14 @@
     }
   },
   "createdAt": "2026-09-25T11:58:32.287Z",
-  "date": "2026-11-21",
+  "date": "2026-11-20",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km",
-    "50 km",
-    "USATF 24HR"
+    "160.9 km",
+    "48 h",
+    "24 h",
+    "12 h",
+    "6 h"
   ],
   "endDate": "2026-11-22",
   "featured": false,
@@ -32,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66277",
   "slug": "fat-ox-us",
   "source": {
-    "fetchedAt": "2026-09-27T12:12:26.824Z",
+    "fetchedAt": "2026-09-27T17:44:43.581Z",
     "id": "ultrasignup",
     "ref": "10147",
     "url": "https://ultrasignup.com/register.aspx?did=66277"
@@ -48,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-27T12:12:19.053Z",
+  "updatedAt": "2026-09-27T17:44:35.686Z",
   "website": "https://www.aravaiparunning.com/fat-ox/"
 }

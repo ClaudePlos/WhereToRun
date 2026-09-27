@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cohutta Madness is a ultramarathon. Location: Chatsworth, United States. Date: Saturday, 21 November 2026. Distances: 12 h, 8 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chatsworth, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Cohutta Madness to ultramaraton. Lokalizacja: Chatsworth, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 12 h, 8 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chatsworth, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-27T17:44:35.686Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "8 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chatsworth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Cohutta Madness",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67406",
+  "slug": "cohutta-madness-us",
+  "source": {
+    "fetchedAt": "2026-09-27T17:44:43.581Z",
+    "id": "ultrasignup",
+    "ref": "17548",
+    "url": "https://ultrasignup.com/register.aspx?did=67406"
+  },
+  "start": {
+    "lat": 34.7835,
+    "lon": -84.8428,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T17:44:35.686Z",
+  "website": "http://coyoteuglyracing.com"
+}

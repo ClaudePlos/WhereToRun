@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Jungle Guruguru ZERO is a ultramarathon. Location: Ogose, Japan. Date: Saturday, 16 January 2027. Distances: 68 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ogose, Japan, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Jungle Guruguru ZERO to ultramaraton. Lokalizacja: Ogose, Japonia. Termin: sobota, 16 stycznia 2027. Dystanse: 68 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ogose, Japonia, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-27T17:44:35.686Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "68 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ogose",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Jungle Guruguru ZERO",
+  "registrationUrl": null,
+  "slug": "jungle-guruguru-zero-jp",
+  "source": {
+    "fetchedAt": "2026-09-27T17:44:51.771Z",
+    "id": "duv",
+    "ref": "133138",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133138"
+  },
+  "start": {
+    "lat": 35.964506,
+    "lon": 139.294131,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T17:44:35.686Z",
+  "website": null
+}

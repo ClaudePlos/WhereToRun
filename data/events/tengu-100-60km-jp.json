@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tengu 100 - 60km is a ultramarathon. Location: Hachioji, Japan. Date: Saturday, 19 December 2026. Distances: 60 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hachioji, Japan, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Tengu 100 - 60km to ultramaraton. Lokalizacja: Hachioji, Japonia. Termin: sobota, 19 grudnia 2026. Dystanse: 60 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hachioji, Japonia, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-27T17:44:35.686Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "60 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hachioji",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tengu 100 - 60km",
+  "registrationUrl": null,
+  "slug": "tengu-100-60km-jp",
+  "source": {
+    "fetchedAt": "2026-09-27T17:44:51.771Z",
+    "id": "duv",
+    "ref": "133106",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133106"
+  },
+  "start": {
+    "lat": 35.66636,
+    "lon": 139.316365,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-27T17:44:35.686Z",
+  "website": null
+}
