@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mana Pass Challenge is a ultramarathon. Location: Mana, India. Date: Thursday, 10 June 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mana, India, Thursday, 10 June 2027"
+    },
+    "pl": {
+      "description": "Mana Pass Challenge to ultramaraton. Lokalizacja: Mana, Indie. Termin: czwartek, 10 czerwca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mana, Indie, czwartek, 10 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-06-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mana",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mana Pass Challenge",
+  "registrationUrl": null,
+  "slug": "mana-pass-challenge-in",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:41.024Z",
+    "id": "duv",
+    "ref": "135600",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135600"
+  },
+  "start": {
+    "lat": 24.554023,
+    "lon": 77.261062,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": null
+}

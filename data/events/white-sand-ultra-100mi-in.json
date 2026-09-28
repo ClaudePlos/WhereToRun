@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "White Sand Ultra 100mi is a ultramarathon. Location: Dholavira, India. Date: Saturday, 27 March 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dholavira, India, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "White Sand Ultra 100mi to ultramaraton. Lokalizacja: Dholavira, Indie. Termin: sobota, 27 marca 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dholavira, Indie, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dholavira",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "White Sand Ultra 100mi",
+  "registrationUrl": null,
+  "slug": "white-sand-ultra-100mi-in",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:41.024Z",
+    "id": "duv",
+    "ref": "135562",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135562"
+  },
+  "start": {
+    "lat": 23.875011,
+    "lon": 70.217959,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": null
+}

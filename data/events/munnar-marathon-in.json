@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Munnar Marathon is a ultramarathon. Location: Kerala state, India. Date: Sunday, 28 February 2027. Distances: 71 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kerala state, India, Sunday, 28 February 2027"
+    },
+    "pl": {
+      "description": "Munnar Marathon to ultramaraton. Lokalizacja: Kerala state, Indie. Termin: niedziela, 28 lutego 2027. Dystanse: 71 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kerala state, Indie, niedziela, 28 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-02-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "71 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kerala state",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Munnar Marathon",
+  "registrationUrl": null,
+  "slug": "munnar-marathon-in",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:41.024Z",
+    "id": "duv",
+    "ref": "135497",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135497"
+  },
+  "start": {
+    "lat": 8.483531,
+    "lon": 76.948372,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": null
+}

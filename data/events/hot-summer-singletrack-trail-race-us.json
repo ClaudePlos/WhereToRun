@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hot Summer Singletrack Trail Race is a trail race. Location: Fort Wayne, United States. Date: Saturday, 17 July 2027. Distances: u100k, u50k, other, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Fort Wayne, United States, Saturday, 17 July 2027"
+    },
+    "pl": {
+      "description": "Hot Summer Singletrack Trail Race to bieg trailowy. Lokalizacja: Fort Wayne, Stany Zjednoczone. Termin: sobota, 17 lipca 2027. Dystanse: u100k, u50k, other, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Fort Wayne, Stany Zjednoczone, sobota, 17 lipca 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-07-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k",
+    "other",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Wayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Hot Summer Singletrack Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/IN/FortWayne/HotSummerSingletrack?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hot-summer-singletrack-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "id": "runraceusa",
+    "ref": "hot-summer-singletrack-trail-race-in",
+    "url": "https://runsignup.com/Race/IN/FortWayne/HotSummerSingletrack?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.09,
+    "lon": -85.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": "https://runsignup.com/Race/IN/FortWayne/HotSummerSingletrack?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

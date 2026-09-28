@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Baystate Marathon is a road race. Location: Lowell, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km, 21.1 km, other, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lowell, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Baystate Marathon to bieg uliczny. Lokalizacja: Lowell, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km, 21.1 km, other, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lowell, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lowell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Baystate Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MA/Lowell/BaystateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "baystate-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "id": "runraceusa",
+    "ref": "baystate-marathon-ma",
+    "url": "https://runsignup.com/Race/MA/Lowell/BaystateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.63,
+    "lon": -71.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": "https://runsignup.com/Race/MA/Lowell/BaystateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1430,14 +1430,29 @@
   "IN|coorg, karnataka": {
     "at": "2026-09-11T17:02:01.760Z"
   },
+  "IN|dehradun": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 30.3255646,
+    "lon": 78.0436813,
+    "name": "Dehradun, Uttarakhand, 248001, India"
+  },
   "IN|delhi": {
     "at": "2026-09-11T17:02:01.760Z",
     "lat": 28.6664535,
     "lon": 77.2169781,
     "name": "Delhi, Old Delhi, Delhi, India"
   },
+  "IN|dholavira": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 23.8750114,
+    "lon": 70.2179591,
+    "name": "ધોળાવીરા, Bhachau Taluka, Kutch, Gujarat, 370165, India"
+  },
   "IN|dhunikal bhowali": {
     "at": "2026-09-11T17:02:01.760Z"
+  },
+  "IN|gurugram, haryana": {
+    "at": "2026-09-28T14:09:26.019Z"
   },
   "IN|jaipur": {
     "at": "2026-09-11T17:02:01.760Z",
@@ -1457,11 +1472,29 @@
   "IN|karnataka": {
     "at": "2026-09-11T22:33:20.292Z"
   },
+  "IN|kerala state": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 8.4835314,
+    "lon": 76.9483719,
+    "name": "Kerala State Road Transport Coorporation Garage, East Fort, Chala, Thiruvananthapuram, Kerala, 695001, India"
+  },
   "IN|khardung village, ladakh": {
     "at": "2026-09-03T11:24:47.198Z"
   },
   "IN|kyagar, nubra valley": {
     "at": "2026-09-03T11:24:47.198Z"
+  },
+  "IN|leh": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 34.1642029,
+    "lon": 77.5848133,
+    "name": "Leh, Leh district, Ladakh, 194101, India"
+  },
+  "IN|lonavala": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 18.7548563,
+    "lon": 73.4016729,
+    "name": "Lonavala, Mawal Subdistrict, Pune, Maharashtra, 410400, India"
   },
   "IN|lucknow": {
     "at": "2026-09-11T22:33:20.292Z",
@@ -1471,6 +1504,12 @@
   },
   "IN|lucknow city": {
     "at": "2026-09-11T22:33:20.292Z"
+  },
+  "IN|mana": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 24.5540234,
+    "lon": 77.2610621,
+    "name": "Mana, Guna Tahsil, Guna, Madhya Pradesh, India"
   },
   "IN|manesar": {
     "at": "2026-09-11T22:33:20.292Z",
@@ -1502,11 +1541,26 @@
     "lon": 77.2090057,
     "name": "New Delhi, Delhi, India"
   },
+  "IN|ooty": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 11.4126769,
+    "lon": 76.7030504,
+    "name": "Udhagamandalam, Nilgiris, Tamil Nadu, 643001, India"
+  },
   "IN|pune": {
     "at": "2026-09-11T17:02:01.760Z",
     "lat": 18.5213738,
     "lon": 73.8545071,
     "name": "Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India"
+  },
+  "IN|seetla mukteshwar": {
+    "at": "2026-09-28T14:09:26.019Z"
+  },
+  "IN|shimla": {
+    "at": "2026-09-28T14:09:26.019Z",
+    "lat": 31.1040393,
+    "lon": 77.1707923,
+    "name": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India"
   },
   "IN|solang valley": {
     "at": "2026-09-11T17:02:01.760Z",

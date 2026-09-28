@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Capital City Marathon is a road race. Location: Olympia, United States. Date: Saturday, 15 May 2027. Distances: 42.2 km, 21.1 km, other, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Olympia, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Capital City Marathon to bieg uliczny. Lokalizacja: Olympia, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: 42.2 km, 21.1 km, other, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Olympia, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Olympia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Capital City Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/Olympia/CapitalCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "capital-city-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "id": "runraceusa",
+    "ref": "capital-city-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/Olympia/CapitalCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.01,
+    "lon": -122.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": "https://runsignup.com/Race/WA/Olympia/CapitalCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

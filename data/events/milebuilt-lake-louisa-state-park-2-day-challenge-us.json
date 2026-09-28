@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "MileBuilt Lake Louisa State Park 2-Day Challenge is a road race. Location: Clermont, United States. Date: Saturday, 24 April 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Clermont, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "MileBuilt Lake Louisa State Park 2-Day Challenge to bieg uliczny. Lokalizacja: Clermont, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Clermont, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Clermont",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "MileBuilt Lake Louisa State Park 2-Day Challenge",
+  "registrationUrl": "https://runsignup.com/Race/FL/Clermont/MileBuiltLakeLouisaStatePark2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "milebuilt-lake-louisa-state-park-2-day-challenge-us",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "id": "runraceusa",
+    "ref": "milebuilt-lake-louisa-state-park-2-day-challenge-fl",
+    "url": "https://runsignup.com/Race/FL/Clermont/MileBuiltLakeLouisaStatePark2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.41,
+    "lon": -81.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": "https://runsignup.com/Race/FL/Clermont/MileBuiltLakeLouisaStatePark2DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

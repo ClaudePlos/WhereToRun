@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Red Cedar Trail Races at Giant City State Park is a trail race. Location: Makanda, United States. Date: Saturday, 5 June 2027. Distances: 5 km, 21.1 km, 42.2 km, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Makanda, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Red Cedar Trail Races at Giant City State Park to bieg trailowy. Lokalizacja: Makanda, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 5 km, 21.1 km, 42.2 km, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Makanda, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "21.1 km",
+    "42.2 km",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Makanda",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Red Cedar Trail Races at Giant City State Park",
+  "registrationUrl": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "red-cedar-trail-races-at-giant-city-state-park-us",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "id": "runraceusa",
+    "ref": "red-cedar-trail-races-at-giant-city-state-park-il",
+    "url": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.62,
+    "lon": -89.21,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

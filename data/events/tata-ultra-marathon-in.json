@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tata Ultra Marathon is a ultramarathon. Location: Lonavala, India. Date: Sunday, 21 February 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lonavala, India, Sunday, 21 February 2027"
+    },
+    "pl": {
+      "description": "Tata Ultra Marathon to ultramaraton. Lokalizacja: Lonavala, Indie. Termin: niedziela, 21 lutego 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lonavala, Indie, niedziela, 21 lutego 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-02-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lonavala",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tata Ultra Marathon",
+  "registrationUrl": null,
+  "slug": "tata-ultra-marathon-in",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:41.024Z",
+    "id": "duv",
+    "ref": "135498",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135498"
+  },
+  "start": {
+    "lat": 18.754856,
+    "lon": 73.401673,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": null
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T18:15:31.685Z",
-  "date": "2026-09-27",
+  "date": "2027-03-07",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "team-ckf-running-series-us",
   "source": {
-    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "fetchedAt": "2026-09-28T14:09:34.639Z",
     "id": "runraceusa",
     "ref": "team-ckf-running-series-co",
     "url": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
   "website": "https://runsignup.com/Race/CO/Aspen/TeamCKFRunningSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

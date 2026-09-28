@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tuffman Shimla Ultra - 50 km Run is a ultramarathon. Location: Shimla, India. Date: Saturday, 5 June 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shimla, India, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "Tuffman Shimla Ultra - 50 km Run to ultramaraton. Lokalizacja: Shimla, Indie. Termin: sobota, 5 czerwca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shimla, Indie, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-28T14:09:26.019Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shimla",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Tuffman Shimla Ultra - 50 km Run",
+  "registrationUrl": null,
+  "slug": "tuffman-shimla-ultra-50-km-run-in",
+  "source": {
+    "fetchedAt": "2026-09-28T14:09:41.024Z",
+    "id": "duv",
+    "ref": "135504",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135504"
+  },
+  "start": {
+    "lat": 31.104039,
+    "lon": 77.170792,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "website": null
+}
