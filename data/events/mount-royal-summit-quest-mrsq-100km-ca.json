@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount-Royal Summit Quest (MRSQ) 100km is a ultramarathon. Location: Mont-Royal, Canada. Date: 30 October 2026 – 31 October 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mont-Royal, Canada, 30 October 2026 – 31 October 2026"
+    },
+    "pl": {
+      "description": "Mount-Royal Summit Quest (MRSQ) 100km to ultramaraton. Lokalizacja: Mont-Royal, Kanada. Termin: 30 października 2026 – 31 października 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mont-Royal, Kanada, 30 października 2026 – 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-28T20:07:41.303Z",
+  "date": "2026-10-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2026-10-31",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mont-Royal",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mount-Royal Summit Quest (MRSQ) 100km",
+  "registrationUrl": null,
+  "slug": "mount-royal-summit-quest-mrsq-100km-ca",
+  "source": {
+    "fetchedAt": "2026-09-28T20:08:04.004Z",
+    "id": "duv",
+    "ref": "133458",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133458"
+  },
+  "start": {
+    "lat": 45.514254,
+    "lon": -73.644168,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T20:07:41.303Z",
+  "website": null
+}

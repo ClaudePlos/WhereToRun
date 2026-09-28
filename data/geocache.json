@@ -350,6 +350,9 @@
   "BR|brasilia, df": {
     "at": "2026-09-06T11:05:36.029Z"
   },
+  "BR|brasília, brazil": {
+    "at": "2026-09-28T20:07:41.303Z"
+  },
   "BR|brazil": {
     "at": "2026-09-20T11:34:46.617Z",
     "lat": -22.9053,
@@ -476,6 +479,12 @@
   "BR|praia grande, sp": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "BR|salvador": {
+    "at": "2026-09-28T20:07:41.303Z",
+    "lat": -12.9822499,
+    "lon": -38.4812772,
+    "name": "Salvador, Bahia, Região Nordeste, Brasil"
+  },
   "BR|salvador ba": {
     "at": "2026-09-06T11:05:36.029Z"
   },
@@ -509,6 +518,9 @@
     "lon": -46.6333824,
     "name": "São Paulo, Região Sudeste, Brasil"
   },
+  "BR|tijucas do sul, pr": {
+    "at": "2026-09-28T20:07:41.303Z"
+  },
   "BR|timon, ma": {
     "at": "2026-09-03T17:03:15.961Z"
   },
@@ -518,8 +530,14 @@
   "CA|blue mountain resort": {
     "at": "2026-09-23T11:48:59.496Z"
   },
+  "CA|bromont, qc": {
+    "at": "2026-09-28T20:07:41.303Z"
+  },
   "CA|canmore, ab": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|creemore, on": {
+    "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|denholm, qc": {
     "at": "2026-09-23T11:48:59.496Z"
@@ -542,11 +560,17 @@
     "lon": -64.4837569,
     "name": "Gaspé, La Côte-de-Gaspé, Gaspésie–Îles-de-la-Madeleine, Québec, Canada"
   },
+  "CA|goderich, on": {
+    "at": "2026-09-28T20:07:41.303Z"
+  },
   "CA|golden, bc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
   "CA|kamloops, bc": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|kelowna, bc": {
+    "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|la malbaie, qc": {
     "at": "2026-09-06T22:06:37.596Z"
@@ -559,6 +583,12 @@
   },
   "CA|mattawa, on": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|mont-royal": {
+    "at": "2026-09-28T20:07:41.303Z",
+    "lat": 45.5142542,
+    "lon": -73.6441683,
+    "name": "Mont-Royal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada"
   },
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
@@ -574,6 +604,9 @@
   },
   "CA|searchmont resort": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|st john's, nl": {
+    "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|st. paul, ab": {
     "at": "2026-09-23T11:48:59.496Z"
@@ -2080,6 +2113,12 @@
     "lat": 27.2980156,
     "lon": -108.0553402,
     "name": "San Francisco Javier de Cerocahui, Urique, Chihuahua, 31149, México"
+  },
+  "MX|puerto peñasco": {
+    "at": "2026-09-28T20:07:41.303Z",
+    "lat": 31.3170867,
+    "lon": -113.531819,
+    "name": "Puerto Peñasco, Sonora, 83550, México"
   },
   "MX|rosales, chihuahua": {
     "at": "2026-09-06T16:17:46.960Z"

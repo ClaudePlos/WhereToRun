@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "La Gran Carrera del Desierto is a ultramarathon. Location: Puerto Peñasco, Mexico. Date: 24 October 2026 – 25 October 2026. Distances: 75 km, 2Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Puerto Peñasco, Mexico, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "La Gran Carrera del Desierto to ultramaraton. Lokalizacja: Puerto Peñasco, Meksyk. Termin: 24 października 2026 – 25 października 2026. Dystanse: 75 km, 2Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Puerto Peñasco, Meksyk, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-09-28T20:07:41.303Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km",
+    "2Etappen"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Puerto Peñasco",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": null
+  },
+  "manual": false,
+  "name": "La Gran Carrera del Desierto",
+  "registrationUrl": null,
+  "slug": "la-gran-carrera-del-desierto-mx",
+  "source": {
+    "fetchedAt": "2026-09-28T20:08:04.003Z",
+    "id": "duv",
+    "ref": "136342",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136342"
+  },
+  "start": {
+    "lat": 31.317087,
+    "lon": -113.531819,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T20:07:41.303Z",
+  "website": null
+}

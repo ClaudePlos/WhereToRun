@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "RacingThePlanet - Brazil 2027 is a ultramarathon. Location: Salvador, Brazil. Date: 15 August 2027 – 21 August 2027. Distances: 250 km, 6Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Salvador, Brazil, 15 August 2027 – 21 August 2027"
+    },
+    "pl": {
+      "description": "RacingThePlanet - Brazil 2027 to ultramaraton. Lokalizacja: Salvador, Brazylia. Termin: 15 sierpnia 2027 – 21 sierpnia 2027. Dystanse: 250 km, 6Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Salvador, Brazylia, 15 sierpnia 2027 – 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-28T20:07:41.303Z",
+  "date": "2027-08-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "250 km",
+    "6Etappen"
+  ],
+  "endDate": "2027-08-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salvador",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "RacingThePlanet - Brazil 2027",
+  "registrationUrl": null,
+  "slug": "racingtheplanet-brazil-2027-br",
+  "source": {
+    "fetchedAt": "2026-09-28T20:08:04.003Z",
+    "id": "duv",
+    "ref": "133449",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133449"
+  },
+  "start": {
+    "lat": -12.98225,
+    "lon": -38.481277,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-28T20:07:41.303Z",
+  "website": null
+}
