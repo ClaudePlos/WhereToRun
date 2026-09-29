@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mjølner Trail & March - Run to Valhalla is a ultramarathon. Location: Rønne, Denmark. Date: Thursday, 12 November 2026. Distances: 248 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Rønne, Denmark, Thursday, 12 November 2026"
+    },
+    "pl": {
+      "description": "Mjølner Trail & March - Run to Valhalla to ultramaraton. Lokalizacja: Rønne, Dania. Termin: czwartek, 12 listopada 2026. Dystanse: 248 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Rønne, Dania, czwartek, 12 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-29T18:38:43.468Z",
+  "date": "2026-11-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "248 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rønne",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mjølner Trail & March - Run to Valhalla",
+  "registrationUrl": null,
+  "slug": "mj-lner-trail-march-run-to-valhalla-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T18:39:06.061Z",
+    "id": "duv",
+    "ref": "135414",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135414"
+  },
+  "start": {
+    "lat": 55.099451,
+    "lon": 14.706091,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T18:38:43.468Z",
+  "website": null
+}

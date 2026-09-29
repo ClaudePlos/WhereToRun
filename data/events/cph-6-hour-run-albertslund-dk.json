@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "CPH 6 hour run Albertslund is a ultramarathon. Location: Albertslund, Denmark. Date: Saturday, 31 October 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Albertslund, Denmark, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "CPH 6 hour run Albertslund to ultramaraton. Lokalizacja: Albertslund, Dania. Termin: sobota, 31 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Albertslund, Dania, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T18:38:43.468Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albertslund",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "CPH 6 hour run Albertslund",
+  "registrationUrl": null,
+  "slug": "cph-6-hour-run-albertslund-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T18:39:06.061Z",
+    "id": "duv",
+    "ref": "133047",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133047"
+  },
+  "start": {
+    "lat": 55.658602,
+    "lon": 12.356285,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T18:38:43.468Z",
+  "website": null
+}

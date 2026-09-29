@@ -1112,6 +1112,60 @@
     "lon": 7.9155558,
     "name": "Werl, Kreis Soest, Nordrhein-Westfalen, 59457, Deutschland"
   },
+  "DK|albertslund": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 55.6586018,
+    "lon": 12.3562849,
+    "name": "Albertslund, Albertslund Kommune, Region Hovedstaden, 2620, Danmark"
+  },
+  "DK|nymindegab": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 55.8157333,
+    "lon": 8.19879,
+    "name": "Nymindegab, Varde Kommune, Region Syddanmark, 6830, Danmark"
+  },
+  "DK|ringkøbing": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 56.0905708,
+    "lon": 8.2540637,
+    "name": "Ringkøbing, Ringkøbing-Skjern Kommune, Region Midtjylland, 6950, Danmark"
+  },
+  "DK|rønne": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 55.0994511,
+    "lon": 14.7060906,
+    "name": "Rønne, Bornholms Regionskommune, Region Hovedstaden, 3700, Danmark"
+  },
+  "DK|skanderborg": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 56.0351868,
+    "lon": 9.9317878,
+    "name": "Skanderborg, Skanderborg Kommune, Region Midtjylland, 8660, Danmark"
+  },
+  "DK|vallensbaek": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 55.6329555,
+    "lon": 12.3704254,
+    "name": "Vallensbæk Kommune, Region Hovedstaden, Danmark"
+  },
+  "DK|vejby": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 56.0655361,
+    "lon": 12.140853,
+    "name": "Vejby, Gribskov Kommune, Region Hovedstaden, 3210, Danmark"
+  },
+  "DK|vejen": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 55.4743417,
+    "lon": 9.1317951,
+    "name": "Vejen, Vejen Kommune, Region Syddanmark, 6600, Danmark"
+  },
+  "DK|viborg": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 56.4469128,
+    "lon": 9.4059354,
+    "name": "Viborg, Viborg Kommune, Region Midtjylland, 8800, Danmark"
+  },
   "EE|alutaguse": {
     "at": "2026-09-02T17:10:51.476Z",
     "lat": 59.1508089,
@@ -2539,6 +2593,12 @@
     "lat": 60.122332,
     "lon": 11.4701491,
     "name": "Årnes, Nes, Akershus, 2150, Norge"
+  },
+  "NO|ås": {
+    "at": "2026-09-29T18:38:43.468Z",
+    "lat": 59.6792809,
+    "lon": 10.7741636,
+    "name": "Ås, Akershus, Norge"
   },
   "NO|åsnes": {
     "at": "2026-09-04T22:20:28.980Z",

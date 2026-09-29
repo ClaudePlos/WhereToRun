@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Skanderborg Ultraløb 24 hours is a ultramarathon. Location: Skanderborg, Denmark. Date: 17 October 2026 – 18 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Skanderborg, Denmark, 17 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Skanderborg Ultraløb 24 hours to ultramaraton. Lokalizacja: Skanderborg, Dania. Termin: 17 października 2026 – 18 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Skanderborg, Dania, 17 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T18:38:43.468Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Skanderborg",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Skanderborg Ultraløb 24 hours",
+  "registrationUrl": null,
+  "slug": "skanderborg-ultral-b-24-hours-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T18:39:06.061Z",
+    "id": "duv",
+    "ref": "123625",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123625"
+  },
+  "start": {
+    "lat": 56.035187,
+    "lon": 9.931788,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T18:38:43.468Z",
+  "website": null
+}

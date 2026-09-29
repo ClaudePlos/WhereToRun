@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ringkøbing Fjord - Winter Edition 2027 is a ultramarathon. Location: Nymindegab, Denmark. Date: Saturday, 9 January 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nymindegab, Denmark, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Ringkøbing Fjord - Winter Edition 2027 to ultramaraton. Lokalizacja: Nymindegab, Dania. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nymindegab, Dania, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-09-29T18:38:43.468Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ringkøbing",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ringkøbing Fjord - Winter Edition 2027",
+  "registrationUrl": null,
+  "slug": "ringk-bing-fjord-winter-edition-2027-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T18:39:06.061Z",
+    "id": "duv",
+    "ref": "135989",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135989"
+  },
+  "start": {
+    "lat": 56.090571,
+    "lon": 8.254064,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T18:38:43.468Z",
+  "website": null
+}
