@@ -13,12 +13,13 @@
   "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
-    "other",
-    "5 km",
+    "ultra",
     "u50k",
+    "other",
     "42.2 km",
     "21.1 km",
-    "10 km"
+    "10 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -35,7 +36,7 @@
   "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "autumn-harvest-50k-20-miler-10-miler-5-miler-full-half-10k-5k-big-bastrop-backya",
   "source": {
-    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
     "id": "runraceusa",
     "ref": "autumn-harvest-50k-20-miler-10-miler-5-miler-full-half-10k-5k-big",
     "url": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -51,6 +52,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
   "website": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

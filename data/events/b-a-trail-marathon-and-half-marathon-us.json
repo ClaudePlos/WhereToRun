@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "B&A Trail Marathon and Half Marathon is a trail race. Location: Severna Park, United States. Date: Sunday, 7 March 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Severna Park, United States, Sunday, 7 March 2027"
+    },
+    "pl": {
+      "description": "B&A Trail Marathon and Half Marathon to bieg trailowy. Lokalizacja: Severna Park, Stany Zjednoczone. Termin: niedziela, 7 marca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Severna Park, Stany Zjednoczone, niedziela, 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-03-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Severna Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "B&A Trail Marathon and Half Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MD/SevernaPark/BAMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "b-a-trail-marathon-and-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
+    "id": "runraceusa",
+    "ref": "b-a-trail-marathon-and-half-marathon-md",
+    "url": "https://runsignup.com/Race/MD/SevernaPark/BAMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.08,
+    "lon": -76.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": "https://runsignup.com/Race/MD/SevernaPark/BAMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "mozart Ultra is a ultramarathon. Location: Fuschl am See, Austria. Date: 5 June 2027 – 6 June 2027. Distances: 86 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fuschl am See, Austria, 5 June 2027 – 6 June 2027"
+    },
+    "pl": {
+      "description": "mozart Ultra to ultramaraton. Lokalizacja: Fuschl am See, Austria. Termin: 5 czerwca 2027 – 6 czerwca 2027. Dystanse: 86 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fuschl am See, Austria, 5 czerwca 2027 – 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "86 km"
+  ],
+  "endDate": "2027-06-06",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fuschl am See",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "mozart Ultra",
+  "registrationUrl": null,
+  "slug": "mozart-ultra-at",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:34.362Z",
+    "id": "duv",
+    "ref": "132947",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132947"
+  },
+  "start": {
+    "lat": 47.79639,
+    "lon": 13.302779,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": null
+}

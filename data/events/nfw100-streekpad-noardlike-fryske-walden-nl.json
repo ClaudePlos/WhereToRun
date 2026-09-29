@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "NFW100 streekpad Noardlike Fryske Walden is a ultramarathon. Location: Veenwouden, Netherlands. Date: 24 April 2027 – 25 April 2027. Distances: 164 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Veenwouden, Netherlands, 24 April 2027 – 25 April 2027"
+    },
+    "pl": {
+      "description": "NFW100 streekpad Noardlike Fryske Walden to ultramaraton. Lokalizacja: Veenwouden, Holandia. Termin: 24 kwietnia 2027 – 25 kwietnia 2027. Dystanse: 164 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Veenwouden, Holandia, 24 kwietnia 2027 – 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "164 km"
+  ],
+  "endDate": "2027-04-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Veenwouden",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "NFW100 streekpad Noardlike Fryske Walden",
+  "registrationUrl": null,
+  "slug": "nfw100-streekpad-noardlike-fryske-walden-nl",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:34.363Z",
+    "id": "duv",
+    "ref": "134034",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134034"
+  },
+  "start": {
+    "lat": 53.23719,
+    "lon": 5.994437,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": null
+}

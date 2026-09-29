@@ -30,14 +30,14 @@
   "registrationUrl": "https://www.akronmarathon.org/race-series/akron-marathon/",
   "slug": "firstenergy-akron-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
     "id": "runraceusa",
     "ref": "firstenergy-akron-marathon-oh",
     "url": "https://www.akronmarathon.org/race-series/akron-marathon/"
   },
   "start": {
-    "lat": 41.084396,
-    "lon": -81.515802,
+    "lat": 41.0844,
+    "lon": -81.5158,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
   "website": "https://www.akronmarathon.org/race-series/akron-marathon/"
 }

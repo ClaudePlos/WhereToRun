@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Petranpad Ultra Trail 112km is a ultramarathon. Location: Meerlo, Netherlands. Date: Saturday, 1 May 2027. Distances: 112 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Meerlo, Netherlands, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Petranpad Ultra Trail 112km to ultramaraton. Lokalizacja: Meerlo, Holandia. Termin: sobota, 1 maja 2027. Dystanse: 112 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Meerlo, Holandia, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "112 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Meerlo",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Petranpad Ultra Trail 112km",
+  "registrationUrl": null,
+  "slug": "petranpad-ultra-trail-112km-nl",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:34.363Z",
+    "id": "duv",
+    "ref": "135703",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135703"
+  },
+  "start": {
+    "lat": 51.51187,
+    "lon": 6.086956,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "ORRRC Xenia Marathon, Half-Marathon, and 10K is a road race. Location: Xenia, United States. Date: Sunday, 4 April 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Xenia, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "ORRRC Xenia Marathon, Half-Marathon, and 10K to bieg uliczny. Lokalizacja: Xenia, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Xenia, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Xenia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "ORRRC Xenia Marathon, Half-Marathon, and 10K",
+  "registrationUrl": "https://runsignup.com/Race/OH/Xenia/RunXenia?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "orrrc-xenia-marathon-half-marathon-and-10k-us",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
+    "id": "runraceusa",
+    "ref": "orrrc-xenia-marathon-half-marathon-and-10k-oh",
+    "url": "https://runsignup.com/Race/OH/Xenia/RunXenia?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.68,
+    "lon": -83.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": "https://runsignup.com/Race/OH/Xenia/RunXenia?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

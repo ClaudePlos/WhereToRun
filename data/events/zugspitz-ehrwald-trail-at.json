@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Zugspitz Ehrwald Trail is a ultramarathon. Location: Ehrwald, Austria. Date: 18 June 2027 – 19 June 2027. Distances: 86 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ehrwald, Austria, 18 June 2027 – 19 June 2027"
+    },
+    "pl": {
+      "description": "Zugspitz Ehrwald Trail to ultramaraton. Lokalizacja: Ehrwald, Austria. Termin: 18 czerwca 2027 – 19 czerwca 2027. Dystanse: 86 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ehrwald, Austria, 18 czerwca 2027 – 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2027-06-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "86 km"
+  ],
+  "endDate": "2027-06-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ehrwald",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Zugspitz Ehrwald Trail",
+  "registrationUrl": null,
+  "slug": "zugspitz-ehrwald-trail-at",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:34.362Z",
+    "id": "duv",
+    "ref": "134862",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134862"
+  },
+  "start": {
+    "lat": 47.398653,
+    "lon": 10.920505,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": null
+}

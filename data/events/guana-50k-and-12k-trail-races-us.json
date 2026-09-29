@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Guana 50K and 12K Trail Races is a trail race. Location: Ponte Vedra Beach, United States. Date: Sunday, 6 December 2026. Distances: u50k, other. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Ponte Vedra Beach, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Guana 50K and 12K Trail Races to bieg trailowy. Lokalizacja: Ponte Vedra Beach, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Ponte Vedra Beach, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ponte Vedra Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Guana 50K and 12K Trail Races",
+  "registrationUrl": "https://raceroster.com/events/2026/139914/guana-50k-and-12k-trail-races",
+  "slug": "guana-50k-and-12k-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
+    "id": "runraceusa",
+    "ref": "guana-50k-and-12k-trail-races-fl",
+    "url": "https://raceroster.com/events/2026/139914/guana-50k-and-12k-trail-races"
+  },
+  "start": {
+    "lat": 30.2397,
+    "lon": -81.3856,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": "https://raceroster.com/events/2026/139914/guana-50k-and-12k-trail-races"
+}

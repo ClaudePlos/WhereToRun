@@ -104,6 +104,18 @@
     "lon": 13.4847963,
     "name": "Berg im Attergau, Bezirk Vöcklabruck, Oberösterreich, Österreich"
   },
+  "AT|ebbs": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 47.630874,
+    "lon": 12.2154318,
+    "name": "Ebbs, Bezirk Kufstein, Tirol, 6341, Österreich"
+  },
+  "AT|ehrwald": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 47.3986534,
+    "lon": 10.9205046,
+    "name": "Ehrwald, Bezirk Reutte, Tirol, 6632, Österreich"
+  },
   "AT|faistenau": {
     "at": "2026-09-12T22:15:14.303Z",
     "lat": 47.7781258,
@@ -116,6 +128,15 @@
     "lon": 14.0964965,
     "name": "Feldkirchen in Kärnten, Bezirk Feldkirchen, Kärnten, 9560, Österreich"
   },
+  "AT|fuschl am see": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 47.7963895,
+    "lon": 13.3027787,
+    "name": "Fuschl am See, Bezirk Salzburg-Umgebung, Salzburg, 5330, Österreich"
+  },
+  "AT|garmisch-partenkirchen": {
+    "at": "2026-09-29T13:04:18.539Z"
+  },
   "AT|kirchdorf": {
     "at": "2026-09-04T11:30:01.450Z",
     "lat": 47.3622721,
@@ -127,6 +148,15 @@
     "lat": 47.5586658,
     "lon": 12.4489994,
     "name": "Kirchdorf in Tirol, Bezirk Kitzbühel, Tirol, Österreich"
+  },
+  "AT|kirchschlag": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 48.4130943,
+    "lon": 14.2764418,
+    "name": "Kirchschlag bei Linz, Bezirk Urfahr-Umgebung, Oberösterreich, 4202, Österreich"
+  },
+  "AT|leutasch-weidach": {
+    "at": "2026-09-29T13:04:18.539Z"
   },
   "AT|loosdorf": {
     "at": "2026-09-12T22:15:14.303Z",
@@ -145,6 +175,12 @@
     "lat": 48.2076724,
     "lon": 16.1772068,
     "name": "Purkersdorf, Bezirk St. Pölten, Niederösterreich, Österreich"
+  },
+  "AT|salzburg": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 47.7981346,
+    "lon": 13.0464806,
+    "name": "Salzburg, Österreich"
   },
   "AT|seekirchen am wallersee": {
     "at": "2026-09-12T22:15:14.303Z",
@@ -2264,6 +2300,12 @@
     "lon": 5.9170257,
     "name": "Berg en Dal, Gelderland, Nederland"
   },
+  "NL|ellertshaar": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 52.8964673,
+    "lon": 6.7409769,
+    "name": "Ellertshaar, Borger-Odoorn, Drenthe, Nederland, 9535 TA, Nederland"
+  },
   "NL|gasselte": {
     "at": "2026-09-26T17:10:56.840Z",
     "lat": 52.971916,
@@ -2306,11 +2348,23 @@
     "lon": 5.4332757,
     "name": "Leersum, Utrechtse Heuvelrug, Utrecht, Nederland"
   },
+  "NL|meerlo": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 51.51187,
+    "lon": 6.0869555,
+    "name": "Meerlo, Horst aan de Maas, Limburg, Nederland"
+  },
   "NL|noordwijk": {
     "at": "2026-09-26T22:46:58.435Z",
     "lat": 52.2410856,
     "lon": 4.4461969,
     "name": "Noordwijk, Zuid-Holland, Nederland"
+  },
+  "NL|veenwouden": {
+    "at": "2026-09-29T13:04:18.539Z",
+    "lat": 53.2371902,
+    "lon": 5.9944367,
+    "name": "Feanwâlden, Dantumadiel, Fryslân, Nederland"
   },
   "NL|westkapelle": {
     "at": "2026-09-26T22:46:58.435Z",

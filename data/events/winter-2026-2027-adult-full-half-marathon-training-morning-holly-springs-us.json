@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Winter 2026/2027 Adult Full & Half Marathon Training Morning - Holly Springs is a road race. Location: Holly Springs, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Holly Springs, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Winter 2026/2027 Adult Full & Half Marathon Training Morning - Holly Springs to bieg uliczny. Lokalizacja: Holly Springs, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Holly Springs, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holly Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Winter 2026/2027 Adult Full & Half Marathon Training Morning - Holly Springs",
+  "registrationUrl": "https://runsignup.com/Race/NC/HollySprings/WinterAdultFullHalfMarathonTrainingMorningHollySprings?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "winter-2026-2027-adult-full-half-marathon-training-morning-holly-springs-us",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:26.750Z",
+    "id": "runraceusa",
+    "ref": "winter-2026-2027-adult-full-half-marathon-training-morning-holly",
+    "url": "https://runsignup.com/Race/NC/HollySprings/WinterAdultFullHalfMarathonTrainingMorningHollySprings?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.63,
+    "lon": -78.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": "https://runsignup.com/Race/NC/HollySprings/WinterAdultFullHalfMarathonTrainingMorningHollySprings?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

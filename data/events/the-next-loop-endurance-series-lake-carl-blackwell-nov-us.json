@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop: Endurance Series, Lake Carl Blackwell, Nov is a road race. Location: Stillwater, United States. Date: Saturday, 21 November 2026. Distances: Endurance Series. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Stillwater, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "The Next Loop: Endurance Series, Lake Carl Blackwell, Nov to bieg uliczny. Lokalizacja: Stillwater, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: Endurance Series. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Stillwater, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-29T13:04:18.539Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Endurance Series"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stillwater",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "The Next Loop: Endurance Series, Lake Carl Blackwell, Nov",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65200",
+  "slug": "the-next-loop-endurance-series-lake-carl-blackwell-nov-us",
+  "source": {
+    "fetchedAt": "2026-09-29T13:04:26.071Z",
+    "id": "ultrasignup",
+    "ref": "19955",
+    "url": "https://ultrasignup.com/register.aspx?did=65200"
+  },
+  "start": {
+    "lat": 36.1198,
+    "lon": -97.2094,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-29T13:04:18.539Z",
+  "website": "https://www.everfurther.net/the-next-loop-lake-carl-nov"
+}
