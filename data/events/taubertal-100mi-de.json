@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Taubertal 100mi is a ultramarathon. Location: Rothenburg o.T., Germany. Date: 3 October 2026 – 4 October 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Rothenburg o.T., Germany, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Taubertal 100mi to ultramaraton. Lokalizacja: Rothenburg o.T., Niemcy. Termin: 3 października 2026 – 4 października 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Rothenburg o.T., Niemcy, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rothenburg o.T.",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Taubertal 100mi",
+  "registrationUrl": null,
+  "slug": "taubertal-100mi-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "123369",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123369"
+  },
+  "start": {
+    "lat": 49.452815,
+    "lon": 10.275598,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

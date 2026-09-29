@@ -875,6 +875,24 @@
     "lon": 8.0118561,
     "name": "Bramsche, Landkreis Osnabrück, Niedersachsen, 49565, Deutschland"
   },
+  "DE|breckerfeld": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 51.2603083,
+    "lon": 7.4667789,
+    "name": "Breckerfeld, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen, 58339, Deutschland"
+  },
+  "DE|bremerhaven": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 53.5505392,
+    "lon": 8.5851945,
+    "name": "Bremerhaven, Bremen, Deutschland"
+  },
+  "DE|calw-altburg": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 48.7242948,
+    "lon": 8.7037409,
+    "name": "Altburg, Calw, VVG der Stadt Calw, Landkreis Calw, Baden-Württemberg, Deutschland"
+  },
   "DE|coesfeld": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 51.9458943,
@@ -893,11 +911,29 @@
     "lon": 11.9310296,
     "name": "Duggendorf, Kallmünz (VGem), Landkreis Regensburg, Bayern, Deutschland"
   },
+  "DE|elzach": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 48.1738732,
+    "lon": 8.0713324,
+    "name": "Elzach, GVV Elzach, Landkreis Emmendingen, Baden-Württemberg, 79215, Deutschland"
+  },
   "DE|essen": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 51.4582235,
     "lon": 7.0158171,
     "name": "Essen, Nordrhein-Westfalen, Deutschland"
+  },
+  "DE|freudenstadt-grüntal": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 48.4938958,
+    "lon": 8.4427184,
+    "name": "Grüntal-Frutenhof, Frutenhof, Freudenstadt, VVG der Stadt Freudenstadt, Landkreis Freudenstadt, Baden-Württemberg, 72250, Deutschland"
+  },
+  "DE|glöwen": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 52.9134911,
+    "lon": 12.0847377,
+    "name": "Glöwen, Plattenburg, Prignitz, Brandenburg, Deutschland"
   },
   "DE|harthausen": {
     "at": "2026-09-20T22:25:00.188Z",
@@ -934,6 +970,18 @@
     "lat": 51.3157833,
     "lon": 9.4978479,
     "name": "Kassel, Hessen, Deutschland"
+  },
+  "DE|langenhagen": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 52.443118,
+    "lon": 9.738994,
+    "name": "Langenhagen, Region Hannover, Niedersachsen, Deutschland"
+  },
+  "DE|leinfelden-echterdingen": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 48.6901796,
+    "lon": 9.1525725,
+    "name": "Leinfelden-Echterdingen, Landkreis Esslingen, Baden-Württemberg, 70771, Deutschland"
   },
   "DE|magdeburg": {
     "at": "2026-09-20T22:25:00.188Z",
@@ -973,6 +1021,18 @@
   },
   "DE|remshalden-grunbach": {
     "at": "2026-09-20T22:25:00.188Z"
+  },
+  "DE|rothenburg o.t.": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 49.4528152,
+    "lon": 10.2755978,
+    "name": "Steinach bei Rothenburg ob der Tauber, Gallmersgarten, Burgbernheim (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Bayern, 91605, Deutschland"
+  },
+  "DE|schloß holte-stukenbrock": {
+    "at": "2026-09-29T00:21:11.790Z",
+    "lat": 51.9017108,
+    "lon": 8.6353438,
+    "name": "Schloß Holte-Stukenbrock, Kreis Gütersloh, Nordrhein-Westfalen, 33758, Deutschland"
   },
   "DE|schorndorf-weiler": {
     "at": "2026-09-20T22:25:00.188Z"

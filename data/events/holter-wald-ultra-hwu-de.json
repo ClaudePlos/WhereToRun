@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Holter Wald Ultra (HWU) is a ultramarathon. Location: Schloß Holte-Stukenbrock, Germany. Date: Saturday, 7 August 2027. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Schloß Holte-Stukenbrock, Germany, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "Holter Wald Ultra (HWU) to ultramaraton. Lokalizacja: Schloß Holte-Stukenbrock, Niemcy. Termin: sobota, 7 sierpnia 2027. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Schloß Holte-Stukenbrock, Niemcy, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Schloß Holte-Stukenbrock",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Holter Wald Ultra (HWU)",
+  "registrationUrl": null,
+  "slug": "holter-wald-ultra-hwu-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.253Z",
+    "id": "duv",
+    "ref": "132671",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132671"
+  },
+  "start": {
+    "lat": 51.901711,
+    "lon": 8.635344,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

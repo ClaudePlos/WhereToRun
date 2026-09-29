@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Frühlingsultra is a ultramarathon. Location: Freudenstadt-Grüntal, Germany. Date: Saturday, 20 March 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Freudenstadt-Grüntal, Germany, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Frühlingsultra to ultramaraton. Lokalizacja: Freudenstadt-Grüntal, Niemcy. Termin: sobota, 20 marca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Freudenstadt-Grüntal, Niemcy, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freudenstadt-Grüntal",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Frühlingsultra",
+  "registrationUrl": null,
+  "slug": "fruhlingsultra-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.252Z",
+    "id": "duv",
+    "ref": "130530",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130530"
+  },
+  "start": {
+    "lat": 48.493896,
+    "lon": 8.442718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

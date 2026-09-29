@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-20T22:25:00.188Z",
-  "date": "2026-09-26",
+  "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
     "46.5 km"
@@ -30,7 +30,7 @@
   "registrationUrl": null,
   "slug": "fullestrand-ultramarathon-de",
   "source": {
-    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
     "id": "duv",
     "ref": "135330",
     "url": "https://statistik.d-u-v.org/getresultevent.php?event=135330"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
   "website": null
 }

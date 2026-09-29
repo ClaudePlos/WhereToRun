@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Taubertal 70 km is a ultramarathon. Location: Rothenburg o.T., Germany. Date: Saturday, 3 October 2026. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Rothenburg o.T., Germany, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Taubertal 70 km to ultramaraton. Lokalizacja: Rothenburg o.T., Niemcy. Termin: sobota, 3 października 2026. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Rothenburg o.T., Niemcy, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rothenburg o.T.",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Taubertal 70 km",
+  "registrationUrl": null,
+  "slug": "taubertal-70-km-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "123371",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123371"
+  },
+  "start": {
+    "lat": 49.452815,
+    "lon": 10.275598,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

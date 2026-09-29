@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "RuKT Rund um die Kipshagener Teiche is a ultramarathon. Location: Schloß Holte-Stukenbrock, Germany. Date: Saturday, 3 October 2026. Distances: 45.3 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Schloß Holte-Stukenbrock, Germany, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "RuKT Rund um die Kipshagener Teiche to ultramaraton. Lokalizacja: Schloß Holte-Stukenbrock, Niemcy. Termin: sobota, 3 października 2026. Dystanse: 45.3 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Schloß Holte-Stukenbrock, Niemcy, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Schloß Holte-Stukenbrock",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "RuKT Rund um die Kipshagener Teiche",
+  "registrationUrl": null,
+  "slug": "rukt-rund-um-die-kipshagener-teiche-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "130535",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130535"
+  },
+  "start": {
+    "lat": 51.901711,
+    "lon": 8.635344,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Unity Ultra Run @ Einheitslauf 2026 is a ultramarathon. Location: Glöwen, Germany. Date: Saturday, 3 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Glöwen, Germany, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Unity Ultra Run @ Einheitslauf 2026 to ultramaraton. Lokalizacja: Glöwen, Niemcy. Termin: sobota, 3 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Glöwen, Niemcy, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glöwen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Unity Ultra Run @ Einheitslauf 2026",
+  "registrationUrl": null,
+  "slug": "unity-ultra-run-einheitslauf-2026-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "129663",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129663"
+  },
+  "start": {
+    "lat": 52.913491,
+    "lon": 12.084738,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

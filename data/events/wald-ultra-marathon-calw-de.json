@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Wald(Ultra)Marathon Calw is a ultramarathon. Location: Calw-Altburg, Germany. Date: Sunday, 20 December 2026. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Calw-Altburg, Germany, Sunday, 20 December 2026"
+    },
+    "pl": {
+      "description": "Wald(Ultra)Marathon Calw to ultramaraton. Lokalizacja: Calw-Altburg, Niemcy. Termin: niedziela, 20 grudnia 2026. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Calw-Altburg, Niemcy, niedziela, 20 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calw-Altburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Wald(Ultra)Marathon Calw",
+  "registrationUrl": null,
+  "slug": "wald-ultra-marathon-calw-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.251Z",
+    "id": "duv",
+    "ref": "126816",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=126816"
+  },
+  "start": {
+    "lat": 48.724295,
+    "lon": 8.703741,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

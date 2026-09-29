@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "e2h10k-100km Ultrarace is a ultramarathon. Location: Calw-Altburg, Germany. Date: Saturday, 3 October 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Calw-Altburg, Germany, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "e2h10k-100km Ultrarace to ultramaraton. Lokalizacja: Calw-Altburg, Niemcy. Termin: sobota, 3 października 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Calw-Altburg, Niemcy, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calw-Altburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "e2h10k-100km Ultrarace",
+  "registrationUrl": null,
+  "slug": "e2h10k-100km-ultrarace-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "123229",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123229"
+  },
+  "start": {
+    "lat": 48.724295,
+    "lon": 8.703741,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

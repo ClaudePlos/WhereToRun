@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Grüntal-Winterultra is a ultramarathon. Location: Freudenstadt-Grüntal, Germany. Date: Monday, 28 December 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Freudenstadt-Grüntal, Germany, Monday, 28 December 2026"
+    },
+    "pl": {
+      "description": "Grüntal-Winterultra to ultramaraton. Lokalizacja: Freudenstadt-Grüntal, Niemcy. Termin: poniedziałek, 28 grudnia 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Freudenstadt-Grüntal, Niemcy, poniedziałek, 28 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2027-12-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freudenstadt-Grüntal",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Grüntal-Winterultra",
+  "registrationUrl": null,
+  "slug": "gruntal-winterultra-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.253Z",
+    "id": "duv",
+    "ref": "135734",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135734"
+  },
+  "start": {
+    "lat": 48.493896,
+    "lon": 8.442718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

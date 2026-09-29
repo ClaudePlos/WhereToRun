@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Forest Trailrun Masters is a ultramarathon. Location: Elzach, Germany. Date: 3 October 2026 – 4 October 2026. Distances: 92 km, 2Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Elzach, Germany, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "Black Forest Trailrun Masters to ultramaraton. Lokalizacja: Elzach, Niemcy. Termin: 3 października 2026 – 4 października 2026. Dystanse: 92 km, 2Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Elzach, Niemcy, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "92 km",
+    "2Etappen"
+  ],
+  "endDate": "2026-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elzach",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Black Forest Trailrun Masters",
+  "registrationUrl": null,
+  "slug": "black-forest-trailrun-masters-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "id": "duv",
+    "ref": "123098",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123098"
+  },
+  "start": {
+    "lat": 48.173873,
+    "lon": 8.071332,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}

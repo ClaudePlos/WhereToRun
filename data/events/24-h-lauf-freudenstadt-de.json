@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "24 h Lauf Freudenstadt is a ultramarathon. Location: Freudenstadt-Grüntal, Germany. Date: 3 October 2026 – 4 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Freudenstadt-Grüntal, Germany, 3 October 2026 – 4 October 2026"
+    },
+    "pl": {
+      "description": "24 h Lauf Freudenstadt to ultramaraton. Lokalizacja: Freudenstadt-Grüntal, Niemcy. Termin: 3 października 2026 – 4 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Freudenstadt-Grüntal, Niemcy, 3 października 2026 – 4 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T00:21:11.790Z",
+  "date": "2027-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-10-04",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freudenstadt-Grüntal",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "24 h Lauf Freudenstadt",
+  "registrationUrl": null,
+  "slug": "24-h-lauf-freudenstadt-de",
+  "source": {
+    "fetchedAt": "2026-09-29T00:21:36.253Z",
+    "id": "duv",
+    "ref": "135727",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135727"
+  },
+  "start": {
+    "lat": 48.493896,
+    "lon": 8.442718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "website": null
+}
