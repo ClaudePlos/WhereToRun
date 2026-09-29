@@ -1118,6 +1118,18 @@
     "lon": 12.3562849,
     "name": "Albertslund, Albertslund Kommune, Region Hovedstaden, 2620, Danmark"
   },
+  "DK|kerteminde": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 55.4532771,
+    "lon": 10.6547783,
+    "name": "Kerteminde, Kerteminde Kommune, Region Syddanmark, 5300, Danmark"
+  },
+  "DK|klemensker": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 55.1741032,
+    "lon": 14.8063219,
+    "name": "Klemensker, Bornholms Regionskommune, Region Hovedstaden, 3782, Danmark"
+  },
   "DK|nymindegab": {
     "at": "2026-09-29T18:38:43.468Z",
     "lat": 55.8157333,
@@ -1135,6 +1147,12 @@
     "lat": 55.0994511,
     "lon": 14.7060906,
     "name": "Rønne, Bornholms Regionskommune, Region Hovedstaden, 3700, Danmark"
+  },
+  "DK|silkeborg": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 56.169453,
+    "lon": 9.5495141,
+    "name": "Silkeborg, Silkeborg Kommune, Region Midtjylland, 8600, Danmark"
   },
   "DK|skanderborg": {
     "at": "2026-09-29T18:38:43.468Z",
@@ -1454,6 +1472,12 @@
     "lon": 22.9777228,
     "name": "Λουτράκι, Δημοτική Ενότητα Λουτρακίου - Περαχώρας, Δήμος Λουτρακίου - Περαχώρας - Αγίων Θεοδώρων, Περιφερειακή Ενότητα Κορινθίας, Περιφέρεια Πελοποννήσου, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 203 00, Ελλάς"
   },
+  "GR|messolonghi": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 38.3686353,
+    "lon": 21.4283544,
+    "name": "Μεσολόγγι, Δημοτική Ενότητα Ιεράς Πόλεως Μεσολογγίου, Δήμος Ιεράς Πόλεως Μεσολογγίου, Περιφερειακή Ενότητα Αιτωλοακαρνανίας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 302 00, Ελλάς"
+  },
   "GR|phaistos": {
     "at": "2026-09-07T18:15:31.685Z"
   },
@@ -1514,6 +1538,12 @@
     "lon": 15.9772795,
     "name": "Grad Zagreb, Hrvatska"
   },
+  "HU|balatonfüred": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 46.9567254,
+    "lon": 17.888892,
+    "name": "Balatonfüred, Balatonfüredi járás, Veszprém vármegye, Közép-Dunántúl, Dunántúl, 8230, Magyarország"
+  },
   "HU|balatonszőlős": {
     "at": "2026-09-07T18:15:31.685Z",
     "lat": 46.9673651,
@@ -1531,6 +1561,12 @@
     "lat": 47.7856939,
     "lon": 18.7403377,
     "name": "Esztergom, Esztergomi járás, Komárom-Esztergom vármegye, Közép-Dunántúl, Dunántúl, Magyarország"
+  },
+  "HU|gárdony": {
+    "at": "2026-09-29T23:41:10.141Z",
+    "lat": 47.2028062,
+    "lon": 18.6261978,
+    "name": "Gárdony, Gárdonyi járás, Fejér vármegye, Közép-Dunántúl, Dunántúl, Magyarország"
   },
   "HU|martely": {
     "at": "2026-09-07T18:15:31.685Z",

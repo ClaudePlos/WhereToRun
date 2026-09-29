@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fyn Ultra is a ultramarathon. Location: Kerteminde, Denmark. Date: 5 May 2027 – 9 May 2027. Distances: 350 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kerteminde, Denmark, 5 May 2027 – 9 May 2027"
+    },
+    "pl": {
+      "description": "Fyn Ultra to ultramaraton. Lokalizacja: Kerteminde, Dania. Termin: 5 maja 2027 – 9 maja 2027. Dystanse: 350 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kerteminde, Dania, 5 maja 2027 – 9 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-29T23:41:10.141Z",
+  "date": "2027-05-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "350 km"
+  ],
+  "endDate": "2027-05-09",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kerteminde",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Fyn Ultra",
+  "registrationUrl": null,
+  "slug": "fyn-ultra-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T23:41:30.941Z",
+    "id": "duv",
+    "ref": "134845",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134845"
+  },
+  "start": {
+    "lat": 55.453277,
+    "lon": 10.654778,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
+  "website": null
+}

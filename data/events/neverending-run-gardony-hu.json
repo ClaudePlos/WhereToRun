@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Neverending Run Gárdony is a ultramarathon. Location: Gárdony, Hungary. Date: Saturday, 3 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gárdony, Hungary, Saturday, 3 October 2026"
+    },
+    "pl": {
+      "description": "Neverending Run Gárdony to ultramaraton. Lokalizacja: Gárdony, Węgry. Termin: sobota, 3 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gárdony, Węgry, sobota, 3 października 2026"
+    }
+  },
+  "createdAt": "2026-09-29T23:41:10.141Z",
+  "date": "2026-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gárdony",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "Neverending Run Gárdony",
+  "registrationUrl": null,
+  "slug": "neverending-run-gardony-hu",
+  "source": {
+    "fetchedAt": "2026-09-29T23:41:30.941Z",
+    "id": "duv",
+    "ref": "136448",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136448"
+  },
+  "start": {
+    "lat": 47.202806,
+    "lon": 18.626198,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
+  "website": null
+}

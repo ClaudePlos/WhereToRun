@@ -10,11 +10,11 @@
     }
   },
   "createdAt": "2026-09-25T11:58:32.287Z",
-  "date": "2026-11-21",
+  "date": "2026-11-20",
   "dateStatus": "confirmed",
   "distances": [
-    "12 h",
-    "6 h"
+    "34 h",
+    "24 h"
   ],
   "endDate": "2026-11-22",
   "featured": false,
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64632",
   "slug": "hallucination-us",
   "source": {
-    "fetchedAt": "2026-09-29T18:38:51.993Z",
+    "fetchedAt": "2026-09-29T23:41:17.998Z",
     "id": "ultrasignup",
     "ref": "4887",
     "url": "https://ultrasignup.com/register.aspx?did=64632"
@@ -47,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-29T18:38:43.468Z",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
   "website": "http://www.palmettoultras.com"
 }

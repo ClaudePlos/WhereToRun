@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Julsø Ultra 60km is a ultramarathon. Location: Silkeborg, Denmark. Date: Monday, 26 April 2027. Distances: 60 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Silkeborg, Denmark, Monday, 26 April 2027"
+    },
+    "pl": {
+      "description": "Julsø Ultra 60km to ultramaraton. Lokalizacja: Silkeborg, Dania. Termin: poniedziałek, 26 kwietnia 2027. Dystanse: 60 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Silkeborg, Dania, poniedziałek, 26 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-29T23:41:10.141Z",
+  "date": "2027-04-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "60 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silkeborg",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "region": null
+  },
+  "manual": false,
+  "name": "Julsø Ultra 60km",
+  "registrationUrl": null,
+  "slug": "juls-ultra-60km-dk",
+  "source": {
+    "fetchedAt": "2026-09-29T23:41:30.941Z",
+    "id": "duv",
+    "ref": "133048",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133048"
+  },
+  "start": {
+    "lat": 56.169453,
+    "lon": 9.549514,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
+  "website": null
+}

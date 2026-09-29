@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Freedom Run Messolonghi – Nafplio is a ultramarathon. Location: Messolonghi, Greece. Date: 20 May 2027 – 24 May 2027. Distances: 441 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Messolonghi, Greece, 20 May 2027 – 24 May 2027"
+    },
+    "pl": {
+      "description": "Freedom Run Messolonghi – Nafplio to ultramaraton. Lokalizacja: Messolonghi, Grecja. Termin: 20 maja 2027 – 24 maja 2027. Dystanse: 441 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Messolonghi, Grecja, 20 maja 2027 – 24 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-29T23:41:10.141Z",
+  "date": "2027-05-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "441 km"
+  ],
+  "endDate": "2027-05-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Messolonghi",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Freedom Run Messolonghi – Nafplio",
+  "registrationUrl": null,
+  "slug": "freedom-run-messolonghi-nafplio-gr",
+  "source": {
+    "fetchedAt": "2026-09-29T23:41:30.941Z",
+    "id": "duv",
+    "ref": "135984",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135984"
+  },
+  "start": {
+    "lat": 38.368635,
+    "lon": 21.428354,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "EMU 6-Day Race is a ultramarathon. Location: Balatonfüred, Hungary. Date: 12 September 2027 – 18 September 2027. Distances: 6 d. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Balatonfüred, Hungary, 12 September 2027 – 18 September 2027"
+    },
+    "pl": {
+      "description": "EMU 6-Day Race to ultramaraton. Lokalizacja: Balatonfüred, Węgry. Termin: 12 września 2027 – 18 września 2027. Dystanse: 6 d. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Balatonfüred, Węgry, 12 września 2027 – 18 września 2027"
+    }
+  },
+  "createdAt": "2026-09-29T23:41:10.141Z",
+  "date": "2027-09-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 d"
+  ],
+  "endDate": "2027-09-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Balatonfüred",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "EMU 6-Day Race",
+  "registrationUrl": null,
+  "slug": "emu-6-day-race-hu",
+  "source": {
+    "fetchedAt": "2026-09-29T23:41:30.941Z",
+    "id": "duv",
+    "ref": "135883",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135883"
+  },
+  "start": {
+    "lat": 46.956725,
+    "lon": 17.888892,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-29T23:41:10.141Z",
+  "website": null
+}
