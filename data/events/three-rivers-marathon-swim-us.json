@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Three Rivers Marathon Swim is a road race. Location: Pittsburgh, United States. Date: Saturday, 28 August 2027. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pittsburgh, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "Three Rivers Marathon Swim to bieg uliczny. Lokalizacja: Pittsburgh, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pittsburgh, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pittsburgh",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Three Rivers Marathon Swim",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8250",
+  "slug": "three-rivers-marathon-swim-us",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:04.098Z",
+    "id": "runraceusa",
+    "ref": "three-rivers-marathon-swim-pa",
+    "url": "https://ultrasignup.com/register.aspx?eid=8250"
+  },
+  "start": {
+    "lat": 40.44,
+    "lon": -80.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8250"
+}

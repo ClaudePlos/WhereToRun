@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T11:05:36.029Z",
-  "date": "2026-09-13",
+  "date": "2027-09-12",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/BostonorBustMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "boston-or-bust-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-06T11:05:43.831Z",
+    "fetchedAt": "2026-09-30T12:46:04.098Z",
     "id": "runraceusa",
     "ref": "boston-or-bust-marathon-al",
     "url": "https://runsignup.com/Race/AL/Huntsville/BostonorBustMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T11:05:36.029Z",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
   "website": "https://runsignup.com/Race/AL/Huntsville/BostonorBustMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

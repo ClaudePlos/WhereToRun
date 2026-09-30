@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "TedDriven Overland Ultra Relay (TOUR) is a ultramarathon. Location: Leavenworth, United States. Date: Sunday, 20 June 2027. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Leavenworth, United States, Sunday, 20 June 2027"
+    },
+    "pl": {
+      "description": "TedDriven Overland Ultra Relay (TOUR) to ultramaraton. Lokalizacja: Leavenworth, Stany Zjednoczone. Termin: niedziela, 20 czerwca 2027. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Leavenworth, Stany Zjednoczone, niedziela, 20 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2027-06-20",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Leavenworth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "TedDriven Overland Ultra Relay (TOUR)",
+  "registrationUrl": "https://raceroster.com/events/2027/165079/teddriven-overland-ultra-relay-tour",
+  "slug": "teddriven-overland-ultra-relay-tour-us",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:04.098Z",
+    "id": "runraceusa",
+    "ref": "teddriven-overland-ultra-relay-tour-wa",
+    "url": "https://raceroster.com/events/2027/165079/teddriven-overland-ultra-relay-tour"
+  },
+  "start": {
+    "lat": 47.6438,
+    "lon": -120.6748,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "https://raceroster.com/events/2027/165079/teddriven-overland-ultra-relay-tour"
+}

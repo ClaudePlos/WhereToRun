@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Salt City Fall Classic is a ultramarathon. Location: Marcellus, United States. Date: Saturday, 21 November 2026. Distances: 6 h, 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marcellus, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Salt City Fall Classic to ultramaraton. Lokalizacja: Marcellus, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 6 h, 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marcellus, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h",
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marcellus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Salt City Fall Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68916",
+  "slug": "salt-city-fall-classic-us",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:03.236Z",
+    "id": "ultrasignup",
+    "ref": "21056",
+    "url": "https://ultrasignup.com/register.aspx?did=68916"
+  },
+  "start": {
+    "lat": 42.9652,
+    "lon": -76.3444,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "https://www.facebook.com/SaltCityTrailRunning/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Recover from the Holidays 50K is a road race. Location: Huntsville, United States. Date: Thursday, 31 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Recover from the Holidays 50K to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Recover from the Holidays 50K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2868",
+  "slug": "recover-from-the-holidays-50k-us",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:04.098Z",
+    "id": "runraceusa",
+    "ref": "recover-from-the-holidays-50k-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=2868"
+  },
+  "start": {
+    "lat": 34.69,
+    "lon": -86.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2868"
+}

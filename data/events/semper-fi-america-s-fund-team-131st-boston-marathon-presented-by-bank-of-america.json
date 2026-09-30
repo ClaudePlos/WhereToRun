@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Semper Fi & America's Fund Team 131st Boston Marathon® presented by Bank of America is a road race. Location: Hopkinton, United States. Date: Monday, 19 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hopkinton, United States, Monday, 19 April 2027"
+    },
+    "pl": {
+      "description": "Semper Fi & America's Fund Team 131st Boston Marathon® presented by Bank of America to bieg uliczny. Lokalizacja: Hopkinton, Stany Zjednoczone. Termin: poniedziałek, 19 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hopkinton, Stany Zjednoczone, poniedziałek, 19 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2027-04-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hopkinton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Semper Fi & America's Fund Team 131st Boston Marathon® presented by Bank of America",
+  "registrationUrl": "https://runsignup.com/Race/MA/Hopkinton/SFFBostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "semper-fi-america-s-fund-team-131st-boston-marathon-presented-by-bank-of-america",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:04.098Z",
+    "id": "runraceusa",
+    "ref": "semper-fi-america-s-fund-team-131st-boston-marathon-presented-by-bank",
+    "url": "https://runsignup.com/Race/MA/Hopkinton/SFFBostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.22,
+    "lon": -71.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "https://runsignup.com/Race/MA/Hopkinton/SFFBostonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -13,10 +13,11 @@
   "date": "2026-11-21",
   "dateStatus": "confirmed",
   "distances": [
-    "10 km",
-    "21.1 km",
-    "other",
-    "u50k"
+    "50 km",
+    "40 km",
+    "30 km",
+    "20 km",
+    "10 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +31,25 @@
   },
   "manual": false,
   "name": "The Midwest Ultra Trail Classic",
-  "registrationUrl": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67410",
   "slug": "the-midwest-ultra-trail-classic-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
-    "id": "runraceusa",
-    "ref": "the-midwest-ultra-trail-classic-mo",
-    "url": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "fetchedAt": "2026-09-30T12:46:03.236Z",
+    "id": "ultrasignup",
+    "ref": "20592",
+    "url": "https://ultrasignup.com/register.aspx?did=67410"
   },
   "start": {
-    "lat": 38.77,
-    "lon": -93.56,
+    "lat": 38.7537,
+    "lon": -93.6045,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
-  "website": "https://runsignup.com/Race/MO/KnobNoster/TheMidwestUltraTrailClassic?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "http://www.chasinghappinessraceco.com"
 }

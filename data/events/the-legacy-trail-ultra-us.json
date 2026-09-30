@@ -13,7 +13,7 @@
   "date": "2026-11-22",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "60 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "The Legacy Trail Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15332",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68129",
   "slug": "the-legacy-trail-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
-    "id": "runraceusa",
-    "ref": "the-legacy-trail-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=15332"
+    "fetchedAt": "2026-09-30T12:46:03.236Z",
+    "id": "ultrasignup",
+    "ref": "15332",
+    "url": "https://ultrasignup.com/register.aspx?did=68129"
   },
   "start": {
-    "lat": 27.33,
-    "lon": -82.53,
+    "lat": 27.3339,
+    "lon": -82.5278,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
   "website": "https://ultrasignup.com/register.aspx?eid=15332"
 }

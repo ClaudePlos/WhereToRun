@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bracken is a ultramarathon. Location: Brevard, United States. Date: Saturday, 21 November 2026. Distances: 50 km, 25 km, 12.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brevard, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "The Bracken to ultramaraton. Lokalizacja: Brevard, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 50 km, 25 km, 12.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brevard, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-09-30T12:45:58.942Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brevard",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "The Bracken",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66952",
+  "slug": "the-bracken-us",
+  "source": {
+    "fetchedAt": "2026-09-30T12:46:03.236Z",
+    "id": "ultrasignup",
+    "ref": "20454",
+    "url": "https://ultrasignup.com/register.aspx?did=66952"
+  },
+  "start": {
+    "lat": 35.2334,
+    "lon": -82.7343,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "website": "http://dirtywolfracing.com"
+}
