@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "ICT 100km is a ultramarathon. Location: Fudaimura, Japan. Date: 8 May 2027 – 9 May 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Fudaimura, Japan, 8 May 2027 – 9 May 2027"
+    },
+    "pl": {
+      "description": "ICT 100km to ultramaraton. Lokalizacja: Fudaimura, Japonia. Termin: 8 maja 2027 – 9 maja 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Fudaimura, Japonia, 8 maja 2027 – 9 maja 2027"
+    }
+  },
+  "createdAt": "2026-09-30T18:27:19.411Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2027-05-09",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fudaimura",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": null
+  },
+  "manual": false,
+  "name": "ICT 100km",
+  "registrationUrl": null,
+  "slug": "ict-100km-jp",
+  "source": {
+    "fetchedAt": "2026-09-30T18:27:40.140Z",
+    "id": "duv",
+    "ref": "133139",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133139"
+  },
+  "start": {
+    "lat": 40.005194,
+    "lon": 141.885917,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-09-30T18:27:19.411Z",
+  "website": null
+}
