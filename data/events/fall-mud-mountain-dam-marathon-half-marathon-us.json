@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T16:17:46.960Z",
-  "date": "2026-09-19",
+  "date": "2027-09-04",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "fall-mud-mountain-dam-marathon-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-06T16:17:56.432Z",
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
     "id": "runraceusa",
     "ref": "fall-mud-mountain-dam-marathon-half-marathon-wa",
     "url": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-06T16:17:46.960Z",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
   "website": "https://runsignup.com/Race/WA/Enumclaw/FallMudMountainDamMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

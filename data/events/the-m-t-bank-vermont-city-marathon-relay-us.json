@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The M&T Bank Vermont City Marathon & Relay is a road race. Location: Burlington, United States. Date: Saturday, 29 May 2027. Distances: 42.2 km, 21.1 km, other, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Burlington, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "The M&T Bank Vermont City Marathon & Relay to bieg uliczny. Lokalizacja: Burlington, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 42.2 km, 21.1 km, other, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Burlington, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "other",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burlington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "The M&T Bank Vermont City Marathon & Relay",
+  "registrationUrl": "https://runsignup.com/Race/VT/Burlington/VermontCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-m-t-bank-vermont-city-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "the-m-t-bank-vermont-city-marathon-relay-vt",
+    "url": "https://runsignup.com/Race/VT/Burlington/VermontCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.48,
+    "lon": -73.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://runsignup.com/Race/VT/Burlington/VermontCityMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

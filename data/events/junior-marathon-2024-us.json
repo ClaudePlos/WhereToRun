@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Junior Marathon 2024 is a road race. Location: Rock Hill, United States. Date: Sunday, 18 October 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rock Hill, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Junior Marathon 2024 to bieg uliczny. Lokalizacja: Rock Hill, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rock Hill, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rock Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Junior Marathon 2024",
+  "registrationUrl": "https://runsignup.com/Race/NY/RockHill/JuniorMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "junior-marathon-2024-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "junior-marathon-2024-ny",
+    "url": "https://runsignup.com/Race/NY/RockHill/JuniorMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.61,
+    "lon": -74.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://runsignup.com/Race/NY/RockHill/JuniorMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

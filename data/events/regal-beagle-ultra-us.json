@@ -13,8 +13,9 @@
   "date": "2026-11-22",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km",
+    "8 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "Regal Beagle Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8155",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64359",
   "slug": "regal-beagle-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
-    "id": "runraceusa",
-    "ref": "regal-beagle-ultra-oh",
-    "url": "https://ultrasignup.com/register.aspx?eid=8155"
+    "fetchedAt": "2026-10-01T13:30:19.873Z",
+    "id": "ultrasignup",
+    "ref": "8155",
+    "url": "https://ultrasignup.com/register.aspx?did=64359"
   },
   "start": {
-    "lat": 41.18,
-    "lon": -81.64,
+    "lat": 41.1787,
+    "lon": -81.6364,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=8155"
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://www.fastgirlsrunningcompany.com"
 }

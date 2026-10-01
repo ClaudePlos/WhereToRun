@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Stevi's Roost 48 Hour Ultra is a ultramarathon. Location: Sylvania, United States. Date: Friday, 1 October 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sylvania, United States, Friday, 1 October 2027"
+    },
+    "pl": {
+      "description": "Stevi's Roost 48 Hour Ultra to ultramaraton. Lokalizacja: Sylvania, Stany Zjednoczone. Termin: piątek, 1 października 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sylvania, Stany Zjednoczone, piątek, 1 października 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-10-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sylvania",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Stevi's Roost 48 Hour Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15712",
+  "slug": "stevi-s-roost-48-hour-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "stevi-s-roost-48-hour-ultra-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=15712"
+  },
+  "start": {
+    "lat": 32.81,
+    "lon": -81.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15712"
+}

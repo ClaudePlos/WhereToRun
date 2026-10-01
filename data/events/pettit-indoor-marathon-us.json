@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Pettit Indoor Marathon is a road race. Location: Milwaukee, United States. Date: Sunday, 14 February 2027. Distances: 42.2 km, 21.1 km, ultra. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Milwaukee, United States, Sunday, 14 February 2027"
+    },
+    "pl": {
+      "description": "Pettit Indoor Marathon to bieg uliczny. Lokalizacja: Milwaukee, Stany Zjednoczone. Termin: niedziela, 14 lutego 2027. Dystanse: 42.2 km, 21.1 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Milwaukee, Stany Zjednoczone, niedziela, 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-02-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Milwaukee",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Pettit Indoor Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/164726/pettit-indoor-marathon",
+  "slug": "pettit-indoor-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "pettit-indoor-marathon-wi",
+    "url": "https://raceroster.com/events/2027/164726/pettit-indoor-marathon"
+  },
+  "start": {
+    "lat": 43.0408,
+    "lon": -87.9191,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://raceroster.com/events/2027/164726/pettit-indoor-marathon"
+}

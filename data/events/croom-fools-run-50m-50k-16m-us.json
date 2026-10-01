@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Croom Fools Run 50M/50K/16M is a road race. Location: Brooksville, United States. Date: Saturday, 3 April 2027. Distances: u50m, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brooksville, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Croom Fools Run 50M/50K/16M to bieg uliczny. Lokalizacja: Brooksville, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50m, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brooksville, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooksville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Croom Fools Run 50M/50K/16M",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1433",
+  "slug": "croom-fools-run-50m-50k-16m-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "croom-fools-run-50m-50k-16m-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=1433"
+  },
+  "start": {
+    "lat": 28.64,
+    "lon": -82.34,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=1433"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Night Owl Trail Marathon, Half, and 10K is a trail race. Location: Waynesville, United States. Date: Saturday, 9 January 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Waynesville, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Night Owl Trail Marathon, Half, and 10K to bieg trailowy. Lokalizacja: Waynesville, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Waynesville, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waynesville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Night Owl Trail Marathon, Half, and 10K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=11068",
+  "slug": "night-owl-trail-marathon-half-and-10k-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "night-owl-trail-marathon-half-and-10k-oh",
+    "url": "https://ultrasignup.com/register.aspx?eid=11068"
+  },
+  "start": {
+    "lat": 39.49,
+    "lon": -84.06,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=11068"
+}

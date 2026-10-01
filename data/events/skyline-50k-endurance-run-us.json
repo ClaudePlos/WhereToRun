@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Skyline 50k Endurance Run is a road race. Location: Castro Valley, United States. Date: Sunday, 1 August 2027. Distances: u50k, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Castro Valley, United States, Sunday, 1 August 2027"
+    },
+    "pl": {
+      "description": "Skyline 50k Endurance Run to bieg uliczny. Lokalizacja: Castro Valley, Stany Zjednoczone. Termin: niedziela, 1 sierpnia 2027. Dystanse: u50k, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Castro Valley, Stany Zjednoczone, niedziela, 1 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-08-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castro Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Skyline 50k Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=257",
+  "slug": "skyline-50k-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "skyline-50k-endurance-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=257"
+  },
+  "start": {
+    "lat": 37.73,
+    "lon": -122.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=257"
+}

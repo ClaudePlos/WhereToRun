@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tooele Turkey Trail Trot 'Til You Drop is a ultramarathon. Location: Tooele, United States. Date: Saturday, 28 November 2026. Distances: 10 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tooele, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Tooele Turkey Trail Trot 'Til You Drop to ultramaraton. Lokalizacja: Tooele, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 10 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tooele, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tooele",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Tooele Turkey Trail Trot 'Til You Drop",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68580",
+  "slug": "tooele-turkey-trail-trot-til-you-drop-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:19.873Z",
+    "id": "ultrasignup",
+    "ref": "10946",
+    "url": "https://ultrasignup.com/register.aspx?did=68580"
+  },
+  "start": {
+    "lat": 40.5069,
+    "lon": -112.293,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://tooeletrailracing.com/turkey-trot.html"
+}

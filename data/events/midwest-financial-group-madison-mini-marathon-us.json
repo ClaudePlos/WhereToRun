@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Midwest Financial Group Madison Mini Marathon is a road race. Location: Madison, United States. Date: Saturday, 14 August 2027. Distances: 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Madison, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Midwest Financial Group Madison Mini Marathon to bieg uliczny. Lokalizacja: Madison, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Madison, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Madison",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Midwest Financial Group Madison Mini Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/Madison/MadisonMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "midwest-financial-group-madison-mini-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "midwest-financial-group-madison-mini-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/Madison/MadisonMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.08,
+    "lon": -89.38,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://runsignup.com/Race/WI/Madison/MadisonMini?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Boundiful Endurance Runs is a ultramarathon. Location: Hemet, United States. Date: Saturday, 28 November 2026. Distances: 160.9 km, Relay Event, 24 h, 12 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hemet, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Boundiful Endurance Runs to ultramaraton. Lokalizacja: Hemet, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 160.9 km, Relay Event, 24 h, 12 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hemet, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "Relay Event",
+    "24 h",
+    "12 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hemet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Boundiful Endurance Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66254",
+  "slug": "boundiful-endurance-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:19.873Z",
+    "id": "ultrasignup",
+    "ref": "5991",
+    "url": "https://ultrasignup.com/register.aspx?did=66254"
+  },
+  "start": {
+    "lat": 33.7421,
+    "lon": -116.857,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://negativesplit.io/boundiful/"
+}

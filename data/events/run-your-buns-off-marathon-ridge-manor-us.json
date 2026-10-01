@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "RUN YOUR BUNS OFF MARATHON @ RIDGE MANOR is a trail race. Location: Brooksville, United States. Date: Sunday, 4 April 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Brooksville, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "RUN YOUR BUNS OFF MARATHON @ RIDGE MANOR to bieg trailowy. Lokalizacja: Brooksville, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Brooksville, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T13:30:11.098Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooksville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "RUN YOUR BUNS OFF MARATHON @ RIDGE MANOR",
+  "registrationUrl": "https://runsignup.com/Race/FL/Brooksville/RUNYOURBUNSOFFHAWTHORNETRAIL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-your-buns-off-marathon-ridge-manor-us",
+  "source": {
+    "fetchedAt": "2026-10-01T13:30:20.519Z",
+    "id": "runraceusa",
+    "ref": "run-your-buns-off-marathon-ridge-manor-fl",
+    "url": "https://runsignup.com/Race/FL/Brooksville/RUNYOURBUNSOFFHAWTHORNETRAIL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.51,
+    "lon": -82.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-01T13:30:11.098Z",
+  "website": "https://runsignup.com/Race/FL/Brooksville/RUNYOURBUNSOFFHAWTHORNETRAIL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
