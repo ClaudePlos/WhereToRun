@@ -563,6 +563,18 @@
   "BR|tres marias, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "CA|arnstein, ontario": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|beaconsfield": {
+    "at": "2026-10-01T18:53:52.387Z",
+    "lat": 45.4289766,
+    "lon": -73.8654387,
+    "name": "Beaconsfield, Agglomération de Montréal, Montréal (région administrative), Québec, Canada"
+  },
+  "CA|bellevue, ab": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
   "CA|blue mountain resort": {
     "at": "2026-09-23T11:48:59.496Z"
   },
@@ -602,6 +614,12 @@
   "CA|golden, bc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|head of saint margarets bay, ns": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|hornby island, bc": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
   "CA|kamloops, bc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
@@ -620,6 +638,12 @@
   "CA|mattawa, on": {
     "at": "2026-09-23T11:48:59.496Z"
   },
+  "CA|milton, on": {
+    "at": "2026-10-01T18:53:52.387Z",
+    "lat": 44.2558374,
+    "lon": -76.3879645,
+    "name": "Milton-on-the-St.-Lawrence, Kingston, Eastern Ontario, Ontario, K7L 4V1, Canada"
+  },
   "CA|mont-royal": {
     "at": "2026-09-28T20:07:41.303Z",
     "lat": 45.5142542,
@@ -629,6 +653,9 @@
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|port moody, bc": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
   "CA|riding mountain national park, mb": {
     "at": "2026-09-06T22:06:37.596Z"
   },
@@ -637,6 +664,12 @@
     "lat": 46.0612076,
     "lon": -64.8033246,
     "name": "Town of Riverview, Albert County, New Brunswick / Nouveau-Brunswick, Canada"
+  },
+  "CA|saint georges, quebec": {
+    "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|salmon arm, bc": {
+    "at": "2026-10-01T18:53:52.387Z"
   },
   "CA|searchmont resort": {
     "at": "2026-09-06T22:06:37.596Z"
@@ -664,6 +697,9 @@
   },
   "CA|whistler, bc": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|whitehorse, yt": {
+    "at": "2026-10-01T18:53:52.387Z"
   },
   "CA|winnipeg, mb": {
     "at": "2026-09-23T11:48:59.496Z"

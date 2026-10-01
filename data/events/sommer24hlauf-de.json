@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sommer24hLauf is a ultramarathon. Location: Freudenstadt-Grüntal, Germany. Date: 28 August 2027 – 29 August 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Freudenstadt-Grüntal, Germany, 28 August 2027 – 29 August 2027"
+    },
+    "pl": {
+      "description": "Sommer24hLauf to ultramaraton. Lokalizacja: Freudenstadt-Grüntal, Niemcy. Termin: 28 sierpnia 2027 – 29 sierpnia 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Freudenstadt-Grüntal, Niemcy, 28 sierpnia 2027 – 29 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-01T18:53:52.387Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-08-29",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Freudenstadt-Grüntal",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sommer24hLauf",
+  "registrationUrl": null,
+  "slug": "sommer24hlauf-de",
+  "source": {
+    "fetchedAt": "2026-10-01T18:54:16.028Z",
+    "id": "duv",
+    "ref": "135732",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135732"
+  },
+  "start": {
+    "lat": 48.493896,
+    "lon": 8.442718,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": null
+}

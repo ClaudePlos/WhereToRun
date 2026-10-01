@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Beav Trail Race is a ultramarathon. Location: Milton, ON, Canada. Date: Saturday, 7 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Milton, ON, Canada, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "The Beav Trail Race to ultramaraton. Lokalizacja: Milton, ON, Kanada. Termin: sobota, 7 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Milton, ON, Kanada, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-01T18:53:52.387Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Milton, ON",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Beav Trail Race",
+  "registrationUrl": null,
+  "slug": "the-beav-trail-race-ca",
+  "source": {
+    "fetchedAt": "2026-10-01T18:54:16.024Z",
+    "id": "duv",
+    "ref": "125872",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=125872"
+  },
+  "start": {
+    "lat": 44.255837,
+    "lon": -76.387964,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": null
+}

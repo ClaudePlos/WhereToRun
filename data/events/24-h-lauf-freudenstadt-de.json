@@ -10,12 +10,12 @@
     }
   },
   "createdAt": "2026-09-29T00:21:11.790Z",
-  "date": "2027-10-03",
+  "date": "2027-04-17",
   "dateStatus": "confirmed",
   "distances": [
     "24 h"
   ],
-  "endDate": "2027-10-04",
+  "endDate": "2027-04-18",
   "featured": false,
   "fees": [],
   "links": [],
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "24-h-lauf-freudenstadt-de",
   "source": {
-    "fetchedAt": "2026-09-29T00:21:36.253Z",
+    "fetchedAt": "2026-10-01T18:54:16.027Z",
     "id": "duv",
-    "ref": "135727",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135727"
+    "ref": "135730",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135730"
   },
   "start": {
     "lat": 48.493896,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
   "website": null
 }

@@ -13,7 +13,7 @@
   "date": "2026-11-28",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Savannah Ultra Urban 50k Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9480",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65208",
   "slug": "savannah-ultra-urban-50k-run-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "savannah-ultra-urban-50k-run-ga",
-    "url": "https://ultrasignup.com/register.aspx?eid=9480"
+    "fetchedAt": "2026-10-01T18:53:59.775Z",
+    "id": "ultrasignup",
+    "ref": "9480",
+    "url": "https://ultrasignup.com/register.aspx?did=65208"
   },
   "start": {
     "lat": 32.08,
-    "lon": -81.08,
+    "lon": -81.0841,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=9480"
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": "http://roughrunnersr4r.com/"
 }

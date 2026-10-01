@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Bosque Bigfoot Trail Runs is a ultramarathon. Location: Albuquerque, United States. Date: Saturday, 28 November 2026. Distances: 50 km, 25 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Albuquerque, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Bosque Bigfoot Trail Runs to ultramaraton. Lokalizacja: Albuquerque, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 50 km, 25 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Albuquerque, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-01T18:53:52.387Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albuquerque",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Bosque Bigfoot Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66268",
+  "slug": "bosque-bigfoot-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-01T18:53:59.775Z",
+    "id": "ultrasignup",
+    "ref": "8065",
+    "url": "https://ultrasignup.com/register.aspx?did=66268"
+  },
+  "start": {
+    "lat": 35.1231,
+    "lon": -106.676,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": "http://www.racenm.com"
+}

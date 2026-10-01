@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-29T00:21:11.790Z",
-  "date": "2026-11-15",
+  "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
     "12 h"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "12-h-run-freudenstadt-de",
   "source": {
-    "fetchedAt": "2026-09-29T00:21:36.251Z",
+    "fetchedAt": "2026-10-01T18:54:16.027Z",
     "id": "duv",
-    "ref": "135868",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135868"
+    "ref": "135866",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135866"
   },
   "start": {
     "lat": 48.493896,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
   "website": null
 }

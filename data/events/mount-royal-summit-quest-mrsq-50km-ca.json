@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mount-Royal Summit Quest (MRSQ) 50km is a ultramarathon. Location: Beaconsfield, Canada. Date: Saturday, 31 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Beaconsfield, Canada, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Mount-Royal Summit Quest (MRSQ) 50km to ultramaraton. Lokalizacja: Beaconsfield, Kanada. Termin: sobota, 31 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Beaconsfield, Kanada, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-10-01T18:53:52.387Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Beaconsfield",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mount-Royal Summit Quest (MRSQ) 50km",
+  "registrationUrl": null,
+  "slug": "mount-royal-summit-quest-mrsq-50km-ca",
+  "source": {
+    "fetchedAt": "2026-10-01T18:54:16.024Z",
+    "id": "duv",
+    "ref": "133459",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133459"
+  },
+  "start": {
+    "lat": 45.428977,
+    "lon": -73.865439,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": null
+}

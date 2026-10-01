@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Quad Dipsea is a ultramarathon. Location: Mill Valley, United States. Date: Saturday, 28 November 2026. Distances: 45.7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mill Valley, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Quad Dipsea to ultramaraton. Lokalizacja: Mill Valley, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 45.7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mill Valley, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-01T18:53:52.387Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mill Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Quad Dipsea",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64415",
+  "slug": "quad-dipsea-us",
+  "source": {
+    "fetchedAt": "2026-10-01T18:53:59.775Z",
+    "id": "ultrasignup",
+    "ref": "1351",
+    "url": "https://ultrasignup.com/register.aspx?did=64415"
+  },
+  "start": {
+    "lat": 37.9052,
+    "lon": -122.553,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "website": "http://www.quad-dipsea.com/"
+}
