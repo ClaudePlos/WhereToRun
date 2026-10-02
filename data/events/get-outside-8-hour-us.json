@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Get Outside 8 Hour is a ultramarathon. Location: Smithfield, United States. Date: Saturday, 28 November 2026. Distances: 10 km, 8 h, Ruck 8 Hour, Half GO (4 Hours), Ruck 4 Hour. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Smithfield, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Get Outside 8 Hour to ultramaraton. Lokalizacja: Smithfield, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 10 km, 8 h, Ruck 8 Hour, Half GO (4 Hours), Ruck 4 Hour. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Smithfield, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "8 h",
+    "Ruck 8 Hour",
+    "Half GO (4 Hours)",
+    "Ruck 4 Hour"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Smithfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Get Outside 8 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64894",
+  "slug": "get-outside-8-hour-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "13678",
+    "url": "https://ultrasignup.com/register.aspx?did=64894"
+  },
+  "start": {
+    "lat": 36.9759,
+    "lon": -76.6261,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "https://www.facebook.com/events/1699328824850874"
+}

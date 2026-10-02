@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chouffe Trail - 52 km is a ultramarathon. Location: Houffalize, Belgium. Date: Saturday, 3 July 2027. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Houffalize, Belgium, Saturday, 3 July 2027"
+    },
+    "pl": {
+      "description": "Chouffe Trail - 52 km to ultramaraton. Lokalizacja: Houffalize, Belgia. Termin: sobota, 3 lipca 2027. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Houffalize, Belgia, sobota, 3 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-07-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Houffalize",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chouffe Trail - 52 km",
+  "registrationUrl": null,
+  "slug": "chouffe-trail-52-km-be",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:21.064Z",
+    "id": "duv",
+    "ref": "136298",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136298"
+  },
+  "start": {
+    "lat": 50.132376,
+    "lon": 5.788693,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": null
+}

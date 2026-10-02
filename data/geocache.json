@@ -329,6 +329,12 @@
     "lon": 6.0312717,
     "name": "Eupen, Verviers, Liège, Wallonie, België / Belgique / Belgien"
   },
+  "BE|houffalize": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 50.1323761,
+    "lon": 5.7886928,
+    "name": "Houffalize, Bastogne, Luxembourg, Wallonie, België / Belgique / Belgien"
+  },
   "BE|la-roche-en-ardenne": {
     "at": "2026-09-07T12:45:22.898Z",
     "lat": 50.1815604,
@@ -2762,6 +2768,12 @@
     "lon": 20.4568974,
     "name": "Београд, Градска општина Стари град, Град Београд, Централна Србија, 11000, Србија"
   },
+  "SE|bjärred": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 55.7221863,
+    "lon": 13.0216436,
+    "name": "Bjärred, Lomma kommun, Skåne län, 237 31, Sverige"
+  },
   "SE|bromölla": {
     "at": "2026-09-15T17:40:53.953Z",
     "lat": 56.116667,
@@ -2779,6 +2791,12 @@
     "lat": 58.2456466,
     "lon": 11.4566294,
     "name": "Fiskebäckskil, Lysekils kommun, Västra Götalands län, 451 78, Sverige"
+  },
+  "SE|gothenburg": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "name": "Göteborg, Göteborgs Stad, Västra Götalands län, 411 10, Sverige"
   },
   "SE|gripholms slott, mariefred": {
     "at": "2026-09-07T12:45:22.898Z"
@@ -2803,6 +2821,15 @@
     "lat": 56.2,
     "lon": 12.566667,
     "name": "Höganäs kommun, Skåne län, Sverige"
+  },
+  "SE|järvafältet": {
+    "at": "2026-10-02T12:48:58.775Z"
+  },
+  "SE|karlstad": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 59.3809146,
+    "lon": 13.5027631,
+    "name": "Karlstad, Karlstads kommun, Värmlands län, 652 24, Sverige"
   },
   "SE|kisa": {
     "at": "2026-09-15T17:40:53.953Z",
@@ -2834,6 +2861,12 @@
     "lon": 24.1063507,
     "name": "Marielund, Haparanda, Haparanda kommun, Norrbottens län, 953 36, Sverige"
   },
+  "SE|revsudden": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 56.7737431,
+    "lon": 16.4749128,
+    "name": "Revsudden, Kalmar, Kalmar kommun, Kalmar län, 395 94, Sverige"
+  },
   "SE|rönninge": {
     "at": "2026-09-15T22:52:27.272Z",
     "lat": 59.1939891,
@@ -2855,11 +2888,23 @@
   "SE|svartbäcksmåla, nybro": {
     "at": "2026-09-07T12:45:22.898Z"
   },
+  "SE|sälen": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 61.1557237,
+    "lon": 13.2694088,
+    "name": "Sälen, Malung-Sälens kommun, Dalarnas län, Sverige"
+  },
   "SE|sätila": {
     "at": "2026-09-15T22:52:27.272Z",
     "lat": 57.5412344,
     "lon": 12.4350893,
     "name": "Sätila, Marks kommun, Västra Götalands län, 511 69, Sverige"
+  },
+  "SE|trosa": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 58.833056,
+    "lon": 17.5,
+    "name": "Trosa kommun, Södermanlands län, Sverige"
   },
   "SE|tvååker": {
     "at": "2026-09-07T12:45:22.898Z",
@@ -2872,6 +2917,18 @@
     "lat": 57.7913848,
     "lon": 13.4130426,
     "name": "Ulricehamn, Ulricehamns kommun, Västra Götalands län, 523 30, Sverige"
+  },
+  "SE|uppsala": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 59.8586126,
+    "lon": 17.6387436,
+    "name": "Uppsala, Uppsala kommun, Uppsala län, 753 20, Sverige"
+  },
+  "SE|visby": {
+    "at": "2026-10-02T12:48:58.775Z",
+    "lat": 57.6379361,
+    "lon": 18.297982,
+    "name": "Visby, Gotlands kommun, Gotlands län, 621 45, Sverige"
   },
   "SE|värmdö, stockholm": {
     "at": "2026-09-15T17:40:53.953Z"

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Roanoke Non Ultra Trail Series is a ultramarathon. Location: Salem, United States. Date: Saturday, 9 January 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Salem, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "2027 Roanoke Non Ultra Trail Series to ultramaraton. Lokalizacja: Salem, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Salem, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salem",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "2027 Roanoke Non Ultra Trail Series",
+  "registrationUrl": "https://runsignup.com/Race/VA/Salem/RNUTS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-roanoke-non-ultra-trail-series-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:08.037Z",
+    "id": "runraceusa",
+    "ref": "2027-roanoke-non-ultra-trail-series-va",
+    "url": "https://runsignup.com/Race/VA/Salem/RNUTS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.29,
+    "lon": -80.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "https://runsignup.com/Race/VA/Salem/RNUTS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

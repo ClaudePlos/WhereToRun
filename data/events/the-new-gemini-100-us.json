@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "The New Gemini 100 is a ultramarathon. Location: Smyrna, United States. Date: Saturday, 28 November 2026. Distances: 160.9 km, 80.5 km, 64.4 km, 48.3 km, 36 h, 26 h, 16 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Smyrna, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "The New Gemini 100 to ultramaraton. Lokalizacja: Smyrna, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: 160.9 km, 80.5 km, 64.4 km, 48.3 km, 36 h, 26 h, 16 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Smyrna, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "64.4 km",
+    "48.3 km",
+    "36 h",
+    "26 h",
+    "16 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Smyrna",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "The New Gemini 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67714",
+  "slug": "the-new-gemini-100-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "20701",
+    "url": "https://ultrasignup.com/register.aspx?did=67714"
+  },
+  "start": {
+    "lat": 33.8414,
+    "lon": -84.5059,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "http://gemini100.carrd.co/"
+}

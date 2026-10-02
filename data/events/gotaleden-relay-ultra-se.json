@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Gotaleden Relay & Ultra is a ultramarathon. Location: Gothenburg, Sweden. Date: Saturday, 8 May 2027. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gothenburg, Sweden, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Gotaleden Relay & Ultra to ultramaraton. Lokalizacja: Gothenburg, Szwecja. Termin: sobota, 8 maja 2027. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gothenburg, Szwecja, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Gotaleden Relay & Ultra",
+  "registrationUrl": null,
+  "slug": "gotaleden-relay-ultra-se",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:21.065Z",
+    "id": "duv",
+    "ref": "135843",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135843"
+  },
+  "start": {
+    "lat": 57.707233,
+    "lon": 11.967017,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": null
+}

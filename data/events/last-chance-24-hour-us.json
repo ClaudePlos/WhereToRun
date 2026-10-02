@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Last Chance 24 Hour is a road race. Location: Springboro, United States. Date: Saturday, 5 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Springboro, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Last Chance 24 Hour to bieg uliczny. Lokalizacja: Springboro, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Springboro, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Springboro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Last Chance 24 Hour",
+  "registrationUrl": "https://runsignup.com/Race/OH/Springboro/LatChance24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "last-chance-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:08.037Z",
+    "id": "runraceusa",
+    "ref": "last-chance-24-hour-oh",
+    "url": "https://runsignup.com/Race/OH/Springboro/LatChance24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.56,
+    "lon": -84.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "https://runsignup.com/Race/OH/Springboro/LatChance24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

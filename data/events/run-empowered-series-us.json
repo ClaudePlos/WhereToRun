@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Empowered Series is a road race. Location: Cincinnati, United States. Date: Tuesday, 1 December 2026. Distances: Run Empowered Series. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cincinnati, United States, Tuesday, 1 December 2026"
+    },
+    "pl": {
+      "description": "Run Empowered Series to bieg uliczny. Lokalizacja: Cincinnati, Stany Zjednoczone. Termin: wtorek, 1 grudnia 2026. Dystanse: Run Empowered Series. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cincinnati, Stany Zjednoczone, wtorek, 1 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2026-12-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Run Empowered Series"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cincinnati",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Run Empowered Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66597",
+  "slug": "run-empowered-series-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "17221",
+    "url": "https://ultrasignup.com/register.aspx?did=66597"
+  },
+  "start": {
+    "lat": 39.1046,
+    "lon": -84.5079,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "http://empowerultras.com"
+}

@@ -13,8 +13,8 @@
   "date": "2026-11-28",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Turkey Burn Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18944",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65972",
   "slug": "turkey-burn-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "turkey-burn-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=18944"
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "18944",
+    "url": "https://ultrasignup.com/register.aspx?did=65972"
   },
   "start": {
-    "lat": 28.45,
-    "lon": -81.74,
+    "lat": 28.447,
+    "lon": -81.7411,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18944"
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "http://www.warriorraces.com"
 }

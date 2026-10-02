@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Aros Marathon is a ultramarathon. Location: Uppsala, Sweden. Date: Saturday, 1 May 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Uppsala, Sweden, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "Aros Marathon to ultramaraton. Lokalizacja: Uppsala, Szwecja. Termin: sobota, 1 maja 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Uppsala, Szwecja, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Uppsala",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Aros Marathon",
+  "registrationUrl": null,
+  "slug": "aros-marathon-se",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:21.065Z",
+    "id": "duv",
+    "ref": "132146",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132146"
+  },
+  "start": {
+    "lat": 59.858613,
+    "lon": 17.638744,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": null
+}

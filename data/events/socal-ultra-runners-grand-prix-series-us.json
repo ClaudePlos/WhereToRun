@@ -13,7 +13,7 @@
   "date": "2026-12-01",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Grand Prix Series"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "SoCal Ultra Runners Grand Prix Series",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4324",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64817",
   "slug": "socal-ultra-runners-grand-prix-series-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "socal-ultra-runners-grand-prix-series-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=4324"
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "4324",
+    "url": "https://ultrasignup.com/register.aspx?did=64817"
   },
   "start": {
-    "lat": 33.87,
+    "lat": 33.8722,
     "lon": -117.87,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4324"
+  "type": "road",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "http://www.socalultraseries.org/"
 }

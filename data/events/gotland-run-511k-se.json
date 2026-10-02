@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Gotland Run 511k is a ultramarathon. Location: Visby, Sweden. Date: 10 July 2027 – 20 July 2027. Distances: 511 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Visby, Sweden, 10 July 2027 – 20 July 2027"
+    },
+    "pl": {
+      "description": "Gotland Run 511k to ultramaraton. Lokalizacja: Visby, Szwecja. Termin: 10 lipca 2027 – 20 lipca 2027. Dystanse: 511 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Visby, Szwecja, 10 lipca 2027 – 20 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "511 km"
+  ],
+  "endDate": "2027-07-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Visby",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Gotland Run 511k",
+  "registrationUrl": null,
+  "slug": "gotland-run-511k-se",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:21.065Z",
+    "id": "duv",
+    "ref": "135844",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135844"
+  },
+  "start": {
+    "lat": 57.637936,
+    "lon": 18.297982,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": null
+}

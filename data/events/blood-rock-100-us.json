@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Blood Rock 100 is a ultramarathon. Location: Pelham, United States. Date: Friday, 4 December 2026. Distances: Blood Rock 100, 80.5 km, 55 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pelham, United States, Friday, 4 December 2026"
+    },
+    "pl": {
+      "description": "Blood Rock 100 to ultramaraton. Lokalizacja: Pelham, Stany Zjednoczone. Termin: piątek, 4 grudnia 2026. Dystanse: Blood Rock 100, 80.5 km, 55 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pelham, Stany Zjednoczone, piątek, 4 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2026-12-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Blood Rock 100",
+    "80.5 km",
+    "55 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Blood Rock 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64558",
+  "slug": "blood-rock-100-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:07.375Z",
+    "id": "ultrasignup",
+    "ref": "3687",
+    "url": "https://ultrasignup.com/register.aspx?did=64558"
+  },
+  "start": {
+    "lat": 33.3361,
+    "lon": -86.7312,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "https://www.southeasterntrailruns.com"
+}

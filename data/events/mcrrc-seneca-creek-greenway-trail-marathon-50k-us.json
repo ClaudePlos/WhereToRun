@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "MCRRC Seneca Creek Greenway Trail Marathon & 50K is a trail race. Location: Gaithersburg, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Gaithersburg, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "MCRRC Seneca Creek Greenway Trail Marathon & 50K to bieg trailowy. Lokalizacja: Gaithersburg, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Gaithersburg, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gaithersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "MCRRC Seneca Creek Greenway Trail Marathon & 50K",
+  "registrationUrl": "https://runsignup.com/Race/MD/Gaithersburg/MCRRCSenecaCreekGreenwayTrailMarathon50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mcrrc-seneca-creek-greenway-trail-marathon-50k-us",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:08.037Z",
+    "id": "runraceusa",
+    "ref": "mcrrc-seneca-creek-greenway-trail-marathon-50k-md",
+    "url": "https://runsignup.com/Race/MD/Gaithersburg/MCRRCSenecaCreekGreenwayTrailMarathon50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.11,
+    "lon": -77.25,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": "https://runsignup.com/Race/MD/Gaithersburg/MCRRCSenecaCreekGreenwayTrailMarathon50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

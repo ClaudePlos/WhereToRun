@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Revsudden Backyard Ultra is a ultramarathon. Location: Revsudden, Sweden. Date: Saturday, 31 July 2027. Distances: 34 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Revsudden, Sweden, Saturday, 31 July 2027"
+    },
+    "pl": {
+      "description": "Revsudden Backyard Ultra to ultramaraton. Lokalizacja: Revsudden, Szwecja. Termin: sobota, 31 lipca 2027. Dystanse: 34 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Revsudden, Szwecja, sobota, 31 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-02T12:48:58.775Z",
+  "date": "2027-07-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "34 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Revsudden",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Revsudden Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "revsudden-backyard-ultra-se",
+  "source": {
+    "fetchedAt": "2026-10-02T12:49:21.065Z",
+    "id": "duv",
+    "ref": "134356",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134356"
+  },
+  "start": {
+    "lat": 56.773743,
+    "lon": 16.474913,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "website": null
+}
