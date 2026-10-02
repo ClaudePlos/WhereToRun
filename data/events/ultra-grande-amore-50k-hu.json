@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Grande Amore 50K is a ultramarathon. Location: Balatonfüred, Hungary. Date: Saturday, 13 February 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Balatonfüred, Hungary, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Ultra Grande Amore 50K to ultramaraton. Lokalizacja: Balatonfüred, Węgry. Termin: sobota, 13 lutego 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Balatonfüred, Węgry, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-02T18:25:23.671Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Balatonfüred",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Grande Amore 50K",
+  "registrationUrl": null,
+  "slug": "ultra-grande-amore-50k-hu",
+  "source": {
+    "fetchedAt": "2026-10-02T18:25:38.829Z",
+    "id": "duv",
+    "ref": "136477",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136477"
+  },
+  "start": {
+    "lat": 46.956725,
+    "lon": 17.888892,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T18:25:23.671Z",
+  "website": null
+}

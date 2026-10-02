@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Tennessee Mile is a ultramarathon. Location: Franklin, United States. Date: 4 December 2026 – 6 December 2026. Distances: 40 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Franklin, United States, 4 December 2026 – 6 December 2026"
+    },
+    "pl": {
+      "description": "The Tennessee Mile to ultramaraton. Lokalizacja: Franklin, Stany Zjednoczone. Termin: 4 grudnia 2026 – 6 grudnia 2026. Dystanse: 40 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Franklin, Stany Zjednoczone, 4 grudnia 2026 – 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-02T18:25:23.671Z",
+  "date": "2026-12-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "40 h"
+  ],
+  "endDate": "2026-12-06",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Franklin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "The Tennessee Mile",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64741",
+  "slug": "the-tennessee-mile-us",
+  "source": {
+    "fetchedAt": "2026-10-02T18:25:32.513Z",
+    "id": "ultrasignup",
+    "ref": "13028",
+    "url": "https://ultrasignup.com/register.aspx?did=64741"
+  },
+  "start": {
+    "lat": 35.9932,
+    "lon": -87.0281,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T18:25:23.671Z",
+  "website": "https://www.facebook.com/midstatemile/"
+}

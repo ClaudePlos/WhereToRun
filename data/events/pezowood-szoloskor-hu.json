@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T18:15:31.685Z",
-  "date": "2026-09-12",
+  "date": "2027-09-11",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "pezowood-szoloskor-hu",
   "source": {
-    "fetchedAt": "2026-09-07T18:15:45.894Z",
+    "fetchedAt": "2026-10-02T18:25:38.829Z",
     "id": "duv",
-    "ref": "131327",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131327"
+    "ref": "136482",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136482"
   },
   "start": {
     "lat": 46.967365,
@@ -47,6 +47,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "updatedAt": "2026-10-02T18:25:23.671Z",
   "website": null
 }

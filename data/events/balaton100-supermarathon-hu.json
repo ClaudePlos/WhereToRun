@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Balaton100 Supermarathon is a ultramarathon. Location: Balatonfüred, Hungary. Date: 13 March 2027 – 14 March 2027. Distances: 100 km, 2Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Balatonfüred, Hungary, 13 March 2027 – 14 March 2027"
+    },
+    "pl": {
+      "description": "Balaton100 Supermarathon to ultramaraton. Lokalizacja: Balatonfüred, Węgry. Termin: 13 marca 2027 – 14 marca 2027. Dystanse: 100 km, 2Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Balatonfüred, Węgry, 13 marca 2027 – 14 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-02T18:25:23.671Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "2Etappen"
+  ],
+  "endDate": "2027-03-14",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Balatonfüred",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "region": null
+  },
+  "manual": false,
+  "name": "Balaton100 Supermarathon",
+  "registrationUrl": null,
+  "slug": "balaton100-supermarathon-hu",
+  "source": {
+    "fetchedAt": "2026-10-02T18:25:38.829Z",
+    "id": "duv",
+    "ref": "136462",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136462"
+  },
+  "start": {
+    "lat": 46.956725,
+    "lon": 17.888892,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-02T18:25:23.671Z",
+  "website": null
+}
