@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UiTM Ultramarathon 52 km is a ultramarathon. Location: Shah Alam, Malaysia. Date: 9 January 2027 – 10 January 2027. Distances: 52 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shah Alam, Malaysia, 9 January 2027 – 10 January 2027"
+    },
+    "pl": {
+      "description": "UiTM Ultramarathon 52 km to ultramaraton. Lokalizacja: Shah Alam, Malezja. Termin: 9 stycznia 2027 – 10 stycznia 2027. Dystanse: 52 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shah Alam, Malezja, 9 stycznia 2027 – 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-03T17:17:42.763Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52 km"
+  ],
+  "endDate": "2027-01-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shah Alam",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "UiTM Ultramarathon 52 km",
+  "registrationUrl": null,
+  "slug": "uitm-ultramarathon-52-km-my",
+  "source": {
+    "fetchedAt": "2026-10-03T17:18:05.213Z",
+    "id": "duv",
+    "ref": "135068",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135068"
+  },
+  "start": {
+    "lat": 3.073943,
+    "lon": 101.518528,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "website": null
+}

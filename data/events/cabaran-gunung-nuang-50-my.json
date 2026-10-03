@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cabaran Gunung Nuang 50 is a ultramarathon. Location: Shah Alam, Malaysia. Date: Monday, 15 February 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shah Alam, Malaysia, Monday, 15 February 2027"
+    },
+    "pl": {
+      "description": "Cabaran Gunung Nuang 50 to ultramaraton. Lokalizacja: Shah Alam, Malezja. Termin: poniedziałek, 15 lutego 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shah Alam, Malezja, poniedziałek, 15 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-03T17:17:42.763Z",
+  "date": "2027-02-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shah Alam",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Cabaran Gunung Nuang 50",
+  "registrationUrl": null,
+  "slug": "cabaran-gunung-nuang-50-my",
+  "source": {
+    "fetchedAt": "2026-10-03T17:18:05.213Z",
+    "id": "duv",
+    "ref": "135119",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135119"
+  },
+  "start": {
+    "lat": 3.073943,
+    "lon": 101.518528,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "website": null
+}

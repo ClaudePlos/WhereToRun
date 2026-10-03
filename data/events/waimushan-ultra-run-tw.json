@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Waimushan Ultra Run is a ultramarathon. Location: Xizhi District, Taiwan. Date: Monday, 27 September 2027. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Xizhi District, Taiwan, Monday, 27 September 2027"
+    },
+    "pl": {
+      "description": "Waimushan Ultra Run to ultramaraton. Lokalizacja: Xizhi District, Tajwan. Termin: poniedziałek, 27 września 2027. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Xizhi District, Tajwan, poniedziałek, 27 września 2027"
+    }
+  },
+  "createdAt": "2026-10-03T17:17:42.763Z",
+  "date": "2027-09-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Xizhi District",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": null
+  },
+  "manual": false,
+  "name": "Waimushan Ultra Run",
+  "registrationUrl": null,
+  "slug": "waimushan-ultra-run-tw",
+  "source": {
+    "fetchedAt": "2026-10-03T17:18:05.212Z",
+    "id": "duv",
+    "ref": "136474",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136474"
+  },
+  "start": {
+    "lat": 25.064159,
+    "lon": 121.658748,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "website": null
+}

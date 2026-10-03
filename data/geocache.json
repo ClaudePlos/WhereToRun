@@ -2402,6 +2402,15 @@
     "lon": -92.9366326,
     "name": "Villahermosa, Centro, Tabasco, México"
   },
+  "MY|batu caves, gombak, selangor": {
+    "at": "2026-10-03T17:17:42.763Z"
+  },
+  "MY|bukit kiara, kuala lumpur": {
+    "at": "2026-10-03T17:17:42.763Z"
+  },
+  "MY|bukit lagong, kuala lumpur": {
+    "at": "2026-10-03T17:17:42.763Z"
+  },
   "MY|daerah jerantut": {
     "at": "2026-09-25T11:58:32.287Z"
   },
@@ -2426,14 +2435,38 @@
     "lon": 101.6942371,
     "name": "Kuala Lumpur, Malaysia"
   },
+  "MY|lenggeng": {
+    "at": "2026-10-03T17:17:42.763Z",
+    "lat": 2.861427,
+    "lon": 101.943388,
+    "name": "Lenggeng, Seremban, Negeri Sembilan, 71750, Malaysia"
+  },
   "MY|penang": {
     "at": "2026-09-25T11:58:32.287Z"
+  },
+  "MY|perlis city": {
+    "at": "2026-10-03T17:17:42.763Z"
+  },
+  "MY|putrajaya": {
+    "at": "2026-10-03T17:17:42.763Z",
+    "lat": 2.9179726,
+    "lon": 101.6840801,
+    "name": "Putrajaya, 62618, Malaysia"
+  },
+  "MY|putrajaya city": {
+    "at": "2026-10-03T17:17:42.763Z"
   },
   "MY|sekinchan": {
     "at": "2026-09-25T11:58:32.287Z",
     "lat": 3.506428,
     "lon": 101.1026777,
     "name": "Sekinchan, Sabak Bernam, Selangor, 45400, Malaysia"
+  },
+  "MY|shah alam": {
+    "at": "2026-10-03T17:17:42.763Z",
+    "lat": 3.0739429,
+    "lon": 101.5185278,
+    "name": "Shah Alam, Petaling, Selangor, Malaysia"
   },
   "MY|tanjung ipoh": {
     "at": "2026-09-22T17:38:39.624Z",
@@ -3209,6 +3242,12 @@
     "lon": 121.4502478,
     "name": "新莊區, 新庄(海山口), 新北市, 臺灣"
   },
+  "TW|xizhi district": {
+    "at": "2026-10-03T17:17:42.763Z",
+    "lat": 25.0641586,
+    "lon": 121.6587475,
+    "name": "汐止區, 新北市, 臺灣"
+  },
   "TW|zhongzheng district": {
     "at": "2026-09-08T22:38:34.998Z",
     "lat": 25.0323611,
@@ -3220,6 +3259,9 @@
     "lat": 24.839682,
     "lon": 121.0040779,
     "name": "竹北市, 新竹縣, 臺灣"
+  },
+  "TW|zhudong township": {
+    "at": "2026-10-03T17:17:42.763Z"
   },
   "ZA|karkloof country club, kzn": {
     "at": "2026-10-01T13:30:11.098Z"

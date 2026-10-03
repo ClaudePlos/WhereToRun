@@ -13,7 +13,7 @@
   "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
-    "72 km"
+    "100 km"
   ],
   "endDate": "2026-10-18",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "pahang-ultra-my",
   "source": {
-    "fetchedAt": "2026-09-25T11:58:55.069Z",
+    "fetchedAt": "2026-10-03T17:18:05.213Z",
     "id": "duv",
-    "ref": "135095",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135095"
+    "ref": "135094",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135094"
   },
   "start": {
     "lat": 3.45057,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-25T11:58:32.287Z",
+  "updatedAt": "2026-10-03T17:17:42.763Z",
   "website": null
 }
