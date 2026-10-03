@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km",
+    "1",
+    "2 Marathon",
     "10 km"
   ],
   "endDate": null,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Wildwood Trail Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7769",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66541",
   "slug": "wildwood-trail-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:20.576Z",
-    "id": "runraceusa",
-    "ref": "wildwood-trail-marathon-mo",
-    "url": "https://ultrasignup.com/register.aspx?eid=7769"
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "7769",
+    "url": "https://ultrasignup.com/register.aspx?did=66541"
   },
   "start": {
-    "lat": 38.55,
-    "lon": -90.64,
+    "lat": 38.5519,
+    "lon": -90.6386,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "trail",
+    "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=7769"
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.terraintrailrunners.com/wildwood-trail-marathon.html"
 }

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "McDowell Mountain Frenzy is a ultramarathon. Location: Fountain Hills, United States. Date: Saturday, 5 December 2026. Distances: 80.5 km, 50 km, 25 km, 16.1 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fountain Hills, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "McDowell Mountain Frenzy to ultramaraton. Lokalizacja: Fountain Hills, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 80.5 km, 50 km, 25 km, 16.1 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fountain Hills, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "16.1 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fountain Hills",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "McDowell Mountain Frenzy",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64773",
+  "slug": "mcdowell-mountain-frenzy-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "1994",
+    "url": "https://ultrasignup.com/register.aspx?did=64773"
+  },
+  "start": {
+    "lat": 33.6674,
+    "lon": -111.7,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "http://www.aravaiparunning.com/mcdowell-mountain-frenzy/"
+}

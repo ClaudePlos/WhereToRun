@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Sylamore Trail 50K/25K Trail Race is a trail race. Location: Allison, United States. Date: Saturday, 13 February 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Allison, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Sylamore Trail 50K/25K Trail Race to bieg trailowy. Lokalizacja: Allison, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Allison, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Allison",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Sylamore Trail 50K/25K Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/AR/Allison/SylamoreTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sylamore-trail-50k-25k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:39.290Z",
+    "id": "runraceusa",
+    "ref": "sylamore-trail-50k-25k-trail-race-ar",
+    "url": "https://runsignup.com/Race/AR/Allison/SylamoreTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.82,
+    "lon": -92.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://runsignup.com/Race/AR/Allison/SylamoreTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

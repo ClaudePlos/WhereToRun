@@ -13,9 +13,12 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50k",
-    "21.1 km"
+    "100 km",
+    "50 km",
+    "50K Hiker",
+    "1",
+    "2 Marathon",
+    "Half Marathon Hiker"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +32,25 @@
   },
   "manual": false,
   "name": "Freight Train 100k/50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10121",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66792",
   "slug": "freight-train-100k-50k-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "freight-train-100k-50k-va",
-    "url": "https://ultrasignup.com/register.aspx?eid=10121"
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "10121",
+    "url": "https://ultrasignup.com/register.aspx?did=66792"
   },
   "start": {
-    "lat": 37.3,
-    "lon": -78.39,
+    "lat": 37.3046,
+    "lon": -78.3908,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=10121"
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://virginiaadventures.com/"
 }

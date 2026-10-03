@@ -10,10 +10,15 @@
     }
   },
   "createdAt": "2026-10-02T18:25:23.671Z",
-  "date": "2026-12-04",
+  "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "40 h"
+    "24 h",
+    "12 h",
+    "8 Hour Night",
+    "6 h",
+    "Youth 5K",
+    "3 h"
   ],
   "endDate": "2026-12-06",
   "featured": false,
@@ -30,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64741",
   "slug": "the-tennessee-mile-us",
   "source": {
-    "fetchedAt": "2026-10-02T18:25:32.513Z",
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
     "id": "ultrasignup",
     "ref": "13028",
     "url": "https://ultrasignup.com/register.aspx?did=64741"
@@ -46,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-02T18:25:23.671Z",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
   "website": "https://www.facebook.com/midstatemile/"
 }

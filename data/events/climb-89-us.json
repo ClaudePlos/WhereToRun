@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Climb 89 is a ultramarathon. Location: RICHLAND, United States. Date: Friday, 4 December 2026. Distances: 32 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — RICHLAND, United States, Friday, 4 December 2026"
+    },
+    "pl": {
+      "description": "Climb 89 to ultramaraton. Lokalizacja: RICHLAND, Stany Zjednoczone. Termin: piątek, 4 grudnia 2026. Dystanse: 32 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — RICHLAND, Stany Zjednoczone, piątek, 4 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "32 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "RICHLAND",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Climb 89",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64561",
+  "slug": "climb-89-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "17458",
+    "url": "https://ultrasignup.com/register.aspx?did=64561"
+  },
+  "start": {
+    "lat": 46.2419,
+    "lon": -119.343,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.deltaendurancellc.com/races/climb-89"
+}

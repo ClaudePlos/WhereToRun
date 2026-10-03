@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Colossal-Vail 50/50 is a ultramarathon. Location: Vail, United States. Date: Saturday, 5 December 2026. Distances: 80.5 km, 55 km, 13 Miler NIGHT, 20.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Vail, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Colossal-Vail 50/50 to ultramaraton. Lokalizacja: Vail, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 80.5 km, 55 km, 13 Miler NIGHT, 20.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Vail, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "55 km",
+    "13 Miler NIGHT",
+    "20.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vail",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Colossal-Vail 50/50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65916",
+  "slug": "colossal-vail-50-50-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "4544",
+    "url": "https://ultrasignup.com/register.aspx?did=65916"
+  },
+  "start": {
+    "lat": 32.0498,
+    "lon": -110.638,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://runazt.org/colossal-vail-50-50/"
+}

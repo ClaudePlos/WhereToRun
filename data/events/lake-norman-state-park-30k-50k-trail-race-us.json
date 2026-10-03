@@ -13,8 +13,8 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "30 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Lake Norman State Park 30K & 50K Trail Race",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8067",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66134",
   "slug": "lake-norman-state-park-30k-50k-trail-race-us",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:20.576Z",
-    "id": "runraceusa",
-    "ref": "lake-norman-state-park-30k-50k-trail-race-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=8067"
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "8067",
+    "url": "https://ultrasignup.com/register.aspx?did=66134"
   },
   "start": {
-    "lat": 35.67,
-    "lon": -80.93,
+    "lat": 35.6736,
+    "lon": -80.9334,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=8067"
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.runnc.org"
 }

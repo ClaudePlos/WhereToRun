@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T22:03:13.980Z",
-  "date": "2026-09-12",
+  "date": "2027-09-11",
   "dateStatus": "confirmed",
   "distances": [
     "u50k",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "dq-pine-barrens-olympic-triathlon-duathlon-aquabike-sprint-triathlon-aquathlon-u",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "fetchedAt": "2026-10-03T11:48:39.290Z",
     "id": "runraceusa",
     "ref": "dq-pine-barrens-olympic-triathlon-duathlon-aquabike-sprint-triathlon",
     "url": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "triathlon"
   ],
   "type": "triathlon",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
   "website": "https://runsignup.com/Race/NJ/Shamong/DQEventspresentsthePineBarrensOlympicTriathlonDuathlonAquaBike?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

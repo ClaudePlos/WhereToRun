@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Devil Dog Ultras is a ultramarathon. Location: Triangle, United States. Date: Saturday, 5 December 2026. Distances: 100-Mile, 100 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Triangle, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Devil Dog Ultras to ultramaraton. Lokalizacja: Triangle, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 100-Mile, 100 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Triangle, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100-Mile",
+    "100 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Triangle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Devil Dog Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64763",
+  "slug": "devil-dog-ultras-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "5736",
+    "url": "https://ultrasignup.com/register.aspx?did=64763"
+  },
+  "start": {
+    "lat": 38.5763,
+    "lon": -77.4167,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "http://www.devildogultras.com/"
+}

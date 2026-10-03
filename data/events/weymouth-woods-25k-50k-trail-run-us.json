@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Weymouth Woods 25K/50K Trail Run is a trail race. Location: Southern Pines, United States. Date: Saturday, 10 April 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Southern Pines, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Weymouth Woods 25K/50K Trail Run to bieg trailowy. Lokalizacja: Southern Pines, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Southern Pines, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Southern Pines",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Weymouth Woods 25K/50K Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/NC/SouthernPines/WeymouthWoods25K50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "weymouth-woods-25k-50k-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:39.290Z",
+    "id": "runraceusa",
+    "ref": "weymouth-woods-25k-50k-trail-run-nc",
+    "url": "https://runsignup.com/Race/NC/SouthernPines/WeymouthWoods25K50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.17,
+    "lon": -79.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://runsignup.com/Race/NC/SouthernPines/WeymouthWoods25K50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -13,11 +13,12 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "other"
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "8 km"
   ],
-  "endDate": null,
+  "endDate": "2026-12-06",
   "featured": false,
   "fees": [],
   "links": [],
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Cloudland Canyon 50 Mile/50K/25K/5 MIle",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4513",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64473",
   "slug": "cloudland-canyon-50-mile-50k-25k-5-mile-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "cloudland-canyon-50-mile-50k-25k-5-mile-ga",
-    "url": "https://ultrasignup.com/register.aspx?eid=4513"
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "4513",
+    "url": "https://ultrasignup.com/register.aspx?did=64473"
   },
   "start": {
-    "lat": 34.82,
-    "lon": -85.48,
+    "lat": 34.8246,
+    "lon": -85.4836,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4513"
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.runbumtours.com"
 }

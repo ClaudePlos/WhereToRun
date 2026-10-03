@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Loup Garou Trail Run is a ultramarathon. Location: Ville Platte, United States. Date: Saturday, 5 December 2026. Distances: 160.9 km, 96.6 km, 64.4 km, 32.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ville Platte, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Loup Garou Trail Run to ultramaraton. Lokalizacja: Ville Platte, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 160.9 km, 96.6 km, 64.4 km, 32.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ville Platte, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "96.6 km",
+    "64.4 km",
+    "32.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ville Platte",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Loup Garou Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64481",
+  "slug": "loup-garou-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "8058",
+    "url": "https://ultrasignup.com/register.aspx?did=64481"
+  },
+  "start": {
+    "lat": 30.7888,
+    "lon": -92.2829,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "http://www.loupgaroutrailrun.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Backland is a road race. Location: Gordonville, United States. Date: Saturday, 5 December 2026. Distances: LAST MAN STANDING. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Gordonville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "The Backland to bieg uliczny. Lokalizacja: Gordonville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: LAST MAN STANDING. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Gordonville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "LAST MAN STANDING"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gordonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The Backland",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64533",
+  "slug": "the-backland-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "13509",
+    "url": "https://ultrasignup.com/register.aspx?did=64533"
+  },
+  "start": {
+    "lat": 33.8095,
+    "lon": -96.8356,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.texasoutlawrunning.com/backland"
+}

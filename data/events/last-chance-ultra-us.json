@@ -13,43 +13,42 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50m",
-    "u50k",
-    "other"
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km"
   ],
-  "endDate": null,
+  "endDate": "2026-12-06",
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Rogersville",
+    "city": "Springfield",
     "country": "United States",
     "countryCode": "US",
     "region": "MO"
   },
   "manual": false,
   "name": "Last Chance Ultra",
-  "registrationUrl": "https://runsignup.com/Race/MO/Rogersville/LastChanceUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65060",
   "slug": "last-chance-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:20.576Z",
-    "id": "runraceusa",
-    "ref": "last-chance-ultra-mo",
-    "url": "https://runsignup.com/Race/MO/Rogersville/LastChanceUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "12873",
+    "url": "https://ultrasignup.com/register.aspx?did=65060"
   },
   "start": {
-    "lat": 37.13,
-    "lon": -93.1,
+    "lat": 37.0966,
+    "lon": -93.0674,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
-  "website": "https://runsignup.com/Race/MO/Rogersville/LastChanceUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.heartlandracingco.com/last-chance-ultra.html"
 }

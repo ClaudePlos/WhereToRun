@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Hitchcock Experience Endurance Runs is a ultramarathon. Location: Honey Creek, United States. Date: Saturday, 5 December 2026. Distances: 160.9 km, 101 km, 80.5 km, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Honey Creek, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Hitchcock Experience Endurance Runs to ultramaraton. Lokalizacja: Honey Creek, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 160.9 km, 101 km, 80.5 km, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Honey Creek, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "101 km",
+    "80.5 km",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honey Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Hitchcock Experience Endurance Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65503",
+  "slug": "hitchcock-experience-endurance-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "id": "ultrasignup",
+    "ref": "4868",
+    "url": "https://ultrasignup.com/register.aspx?did=65503"
+  },
+  "start": {
+    "lat": 41.4145,
+    "lon": -95.8644,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://www.goatz.org/the-hitchcock-experience"
+}

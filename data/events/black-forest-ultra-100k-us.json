@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Forest Ultra 100k is a ultramarathon. Location: North Bend, United States. Date: Sunday, 3 October 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — North Bend, United States, Sunday, 3 October 2027"
+    },
+    "pl": {
+      "description": "Black Forest Ultra 100k to ultramaraton. Lokalizacja: North Bend, Stany Zjednoczone. Termin: niedziela, 3 października 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — North Bend, Stany Zjednoczone, niedziela, 3 października 2027"
+    }
+  },
+  "createdAt": "2026-10-03T11:48:30.351Z",
+  "date": "2027-10-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Black Forest Ultra 100k",
+  "registrationUrl": "https://runsignup.com/Race/PA/NorthBend/BlackForest100k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "black-forest-ultra-100k-us",
+  "source": {
+    "fetchedAt": "2026-10-03T11:48:39.290Z",
+    "id": "runraceusa",
+    "ref": "black-forest-ultra-100k-pa",
+    "url": "https://runsignup.com/Race/PA/NorthBend/BlackForest100k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.41,
+    "lon": -77.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "website": "https://runsignup.com/Race/PA/NorthBend/BlackForest100k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
