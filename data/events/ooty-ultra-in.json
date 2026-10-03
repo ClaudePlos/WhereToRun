@@ -13,7 +13,7 @@
   "date": "2027-03-21",
   "dateStatus": "confirmed",
   "distances": [
-    "75 km"
+    "60 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "ooty-ultra-in",
   "source": {
-    "fetchedAt": "2026-10-03T17:18:05.215Z",
+    "fetchedAt": "2026-10-03T23:01:19.905Z",
     "id": "duv",
-    "ref": "135501",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135501"
+    "ref": "135502",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135502"
   },
   "start": {
     "lat": 11.412677,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "updatedAt": "2026-10-03T23:00:55.242Z",
   "website": null
 }

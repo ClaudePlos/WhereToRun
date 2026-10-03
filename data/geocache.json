@@ -2405,6 +2405,18 @@
   "MY|batu caves, gombak, selangor": {
     "at": "2026-10-03T17:17:42.763Z"
   },
+  "MY|batu kurau": {
+    "at": "2026-10-03T23:00:55.242Z",
+    "lat": 4.9758688,
+    "lon": 100.7995821,
+    "name": "Batu Kurau, Kampung Titi Kasai, Larut, Matang dan Selama, Perak, 34500, Malaysia"
+  },
+  "MY|bentong, pahang": {
+    "at": "2026-10-03T23:00:55.242Z",
+    "lat": 3.5457489,
+    "lon": 101.8953251,
+    "name": "Syarikat Perusahaan Kayu Bentong (Pahang) Sdn Bhd, Bentong, Pahang, Malaysia"
+  },
   "MY|bukit kiara, kuala lumpur": {
     "at": "2026-10-03T17:17:42.763Z"
   },
@@ -2423,6 +2435,15 @@
     "lon": 101.0900236,
     "name": "Majlis Bandaraya Ipoh, Kinta, Perak, Malaysia"
   },
+  "MY|kajang": {
+    "at": "2026-10-03T23:00:55.242Z",
+    "lat": 2.9948437,
+    "lon": 101.7896595,
+    "name": "Majlis Perbandaran Kajang, Hulu Langat, Selangor, Malaysia"
+  },
+  "MY|kluang, johor": {
+    "at": "2026-10-03T23:00:55.242Z"
+  },
   "MY|kota kinabalu": {
     "at": "2026-09-25T11:58:32.287Z",
     "lat": 5.9780066,
@@ -2435,14 +2456,35 @@
     "lon": 101.6942371,
     "name": "Kuala Lumpur, Malaysia"
   },
+  "MY|kuching": {
+    "at": "2026-10-03T23:00:55.242Z",
+    "lat": 1.5597561,
+    "lon": 110.345397,
+    "name": "Kuching, Bahagian Kuching, Sarawak, 93000, Malaysia"
+  },
   "MY|lenggeng": {
     "at": "2026-10-03T17:17:42.763Z",
     "lat": 2.861427,
     "lon": 101.943388,
     "name": "Lenggeng, Seremban, Negeri Sembilan, 71750, Malaysia"
   },
+  "MY|pahang darul makmur": {
+    "at": "2026-10-03T23:00:55.242Z"
+  },
+  "MY|pekan kiulu, kota kinabalu": {
+    "at": "2026-10-03T23:00:55.242Z"
+  },
+  "MY|pekan tamparuli, kota kinabalu": {
+    "at": "2026-10-03T23:00:55.242Z"
+  },
   "MY|penang": {
     "at": "2026-09-25T11:58:32.287Z"
+  },
+  "MY|penang city": {
+    "at": "2026-10-03T23:00:55.242Z",
+    "lat": 5.4462579,
+    "lon": 100.3105636,
+    "name": "City of Dreams Penang, Tanjong Pinang, Timur Laut, George Town, Pulau Pinang, Malaysia"
   },
   "MY|perlis city": {
     "at": "2026-10-03T17:17:42.763Z"
@@ -2467,6 +2509,9 @@
     "lat": 3.0739429,
     "lon": 101.5185278,
     "name": "Shah Alam, Petaling, Selangor, Malaysia"
+  },
+  "MY|stadium kajang, selangor": {
+    "at": "2026-10-03T23:00:55.242Z"
   },
   "MY|tanjung ipoh": {
     "at": "2026-09-22T17:38:39.624Z",

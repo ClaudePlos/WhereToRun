@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Selama Ultra is a ultramarathon. Location: Batu Kurau, Malaysia. Date: 9 April 2027 – 10 April 2027. Distances: 85 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Batu Kurau, Malaysia, 9 April 2027 – 10 April 2027"
+    },
+    "pl": {
+      "description": "Selama Ultra to ultramaraton. Lokalizacja: Batu Kurau, Malezja. Termin: 9 kwietnia 2027 – 10 kwietnia 2027. Dystanse: 85 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Batu Kurau, Malezja, 9 kwietnia 2027 – 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-03T23:00:55.242Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "55 km"
+  ],
+  "endDate": "2027-04-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Batu Kurau",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Selama Ultra",
+  "registrationUrl": null,
+  "slug": "selama-ultra-my",
+  "source": {
+    "fetchedAt": "2026-10-03T23:01:19.904Z",
+    "id": "duv",
+    "ref": "135117",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135117"
+  },
+  "start": {
+    "lat": 4.975869,
+    "lon": 100.799582,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T23:00:55.242Z",
+  "website": null
+}

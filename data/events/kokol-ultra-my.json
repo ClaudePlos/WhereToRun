@@ -13,7 +13,7 @@
   "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
-    "50 km"
+    "70 km"
   ],
   "endDate": "2026-10-25",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "kokol-ultra-my",
   "source": {
-    "fetchedAt": "2026-10-03T17:18:05.213Z",
+    "fetchedAt": "2026-10-03T23:01:19.904Z",
     "id": "duv",
-    "ref": "135099",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135099"
+    "ref": "135100",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135100"
   },
   "start": {
     "lat": 5.978007,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "updatedAt": "2026-10-03T23:00:55.242Z",
   "website": null
 }

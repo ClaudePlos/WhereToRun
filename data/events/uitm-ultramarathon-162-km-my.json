@@ -13,7 +13,7 @@
   "date": "2027-01-08",
   "dateStatus": "confirmed",
   "distances": [
-    "203 km"
+    "162 km"
   ],
   "endDate": "2027-01-10",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "uitm-ultramarathon-162-km-my",
   "source": {
-    "fetchedAt": "2026-10-03T17:18:05.213Z",
+    "fetchedAt": "2026-10-03T23:01:19.904Z",
     "id": "duv",
-    "ref": "135070",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135070"
+    "ref": "135069",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135069"
   },
   "start": {
     "lat": 3.073943,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T17:17:42.763Z",
+  "updatedAt": "2026-10-03T23:00:55.242Z",
   "website": null
 }

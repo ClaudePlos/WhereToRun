@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Janda Baik Ultra 50 km is a ultramarathon. Location: Bentong, Pahang, Malaysia. Date: Sunday, 18 April 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bentong, Pahang, Malaysia, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Janda Baik Ultra 50 km to ultramaraton. Lokalizacja: Bentong, Pahang, Malezja. Termin: niedziela, 18 kwietnia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bentong, Pahang, Malezja, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-03T23:00:55.242Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bentong, Pahang",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Janda Baik Ultra 50 km",
+  "registrationUrl": null,
+  "slug": "janda-baik-ultra-50-km-my",
+  "source": {
+    "fetchedAt": "2026-10-03T23:01:19.904Z",
+    "id": "duv",
+    "ref": "135076",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135076"
+  },
+  "start": {
+    "lat": 3.545749,
+    "lon": 101.895325,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-03T23:00:55.242Z",
+  "website": null
+}
