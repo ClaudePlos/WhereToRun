@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Unique Trail Lanzarote is a ultramarathon. Location: Lanzarote, Spain. Date: Sunday, 17 October 2027. Distances: 67 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lanzarote, Spain, Sunday, 17 October 2027"
+    },
+    "pl": {
+      "description": "Unique Trail Lanzarote to ultramaraton. Lokalizacja: Lanzarote, Hiszpania. Termin: niedziela, 17 października 2027. Dystanse: 67 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lanzarote, Hiszpania, niedziela, 17 października 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "67 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lanzarote",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Unique Trail Lanzarote",
+  "registrationUrl": null,
+  "slug": "unique-trail-lanzarote-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "135700",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135700"
+  },
+  "start": {
+    "lat": 28.037924,
+    "lon": -15.580172,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

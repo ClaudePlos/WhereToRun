@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramediterrania ONE 86 km is a ultramarathon. Location: Gorga, Spain. Date: Saturday, 23 January 2027. Distances: 86 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Gorga, Spain, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Ultramediterrania ONE 86 km to ultramaraton. Lokalizacja: Gorga, Hiszpania. Termin: sobota, 23 stycznia 2027. Dystanse: 86 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Gorga, Hiszpania, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "86 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Gorga",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramediterrania ONE 86 km",
+  "registrationUrl": null,
+  "slug": "ultramediterrania-one-86-km-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134792",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134792"
+  },
+  "start": {
+    "lat": 38.719273,
+    "lon": -0.356205,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

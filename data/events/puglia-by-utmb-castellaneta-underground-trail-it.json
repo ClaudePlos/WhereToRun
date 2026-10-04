@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Puglia by UTMB - Castellaneta Underground Trail is a ultramarathon. Location: Castellaneta, Italy. Date: Sunday, 25 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Castellaneta, Italy, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Puglia by UTMB - Castellaneta Underground Trail to ultramaraton. Lokalizacja: Castellaneta, Włochy. Termin: niedziela, 25 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Castellaneta, Włochy, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castellaneta",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Puglia by UTMB - Castellaneta Underground Trail",
+  "registrationUrl": null,
+  "slug": "puglia-by-utmb-castellaneta-underground-trail-it",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.883Z",
+    "id": "duv",
+    "ref": "136429",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136429"
+  },
+  "start": {
+    "lat": 40.630424,
+    "lon": 16.934678,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

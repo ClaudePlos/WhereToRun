@@ -1274,8 +1274,47 @@
     "lon": 27.1396807,
     "name": "Saaremaa küla, Võru vald, Võru maakond, 65240, Eesti"
   },
+  "ES|alcoi": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 38.6982348,
+    "lon": -0.4747619,
+    "name": "Alcoi / Alcoy, l'Alcoià, Alacant / Alicante, Comunitat Valenciana, España"
+  },
+  "ES|burjassot": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 39.5090599,
+    "lon": -0.4108581,
+    "name": "Burjassot, l'Horta Nord, València / Valencia, Comunitat Valenciana, 46100, España"
+  },
+  "ES|castellar de santiago": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 38.5391616,
+    "lon": -3.2755109,
+    "name": "Castellar de Santiago, Ciudad Real, Castilla-La Mancha, 13750, España"
+  },
   "ES|curillas, leon": {
     "at": "2026-09-26T11:33:30.366Z"
+  },
+  "ES|elche": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 38.2653307,
+    "lon": -0.6988391,
+    "name": "Elx / Elche, el Baix Vinalopó, Alacant / Alicante, Comunitat Valenciana, España"
+  },
+  "ES|gorga": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 38.7192734,
+    "lon": -0.3562046,
+    "name": "Gorga, el Comtat, Alacant / Alicante, Comunitat Valenciana, España"
+  },
+  "ES|lanzarote": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 28.0379237,
+    "lon": -15.5801718,
+    "name": "Lanzarote, Las Montañetas, Valleseco, Las Palmas, Canarias, 35421, España"
+  },
+  "ES|loja, andalucia": {
+    "at": "2026-10-04T17:35:24.305Z"
   },
   "ES|olot": {
     "at": "2026-09-26T11:33:30.366Z",
@@ -1294,6 +1333,12 @@
     "lat": 38.9220629,
     "lon": 1.2939942,
     "name": "Sant Josep de sa Talaia, Eivissa, Illes Balears, España"
+  },
+  "ES|turballos": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 38.8052178,
+    "lon": -0.4412316,
+    "name": "Turballos, Muro de Alcoy, el Comtat, Alacant / Alicante, Comunitat Valenciana, 03840, España"
   },
   "FI|hossa national park": {
     "at": "2026-09-18T17:05:45.373Z"
@@ -1510,6 +1555,12 @@
     "lat": 51.5493439,
     "lon": 0.1595159,
     "name": "Sterling Centre, Dagenham, London Borough of Barking and Dagenham, Greater London, England, United Kingdom"
+  },
+  "GB|stirling": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 56.1181242,
+    "lon": -3.9360012,
+    "name": "Stirling, Alba / Scotland, FK8 2DD, United Kingdom"
   },
   "GB|stocksfield": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1918,6 +1969,12 @@
   },
   "IT|capoliveri (li)": {
     "at": "2026-09-09T22:32:11.988Z"
+  },
+  "IT|castellaneta": {
+    "at": "2026-10-04T17:35:24.305Z",
+    "lat": 40.630424,
+    "lon": 16.9346775,
+    "name": "Castellaneta, Taranto, Puglia, 74011, Italia"
   },
   "IT|cavalese": {
     "at": "2026-09-09T17:09:58.614Z",

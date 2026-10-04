@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Festival de UltraFondo Burjassot - 50k is a ultramarathon. Location: Burjassot, Spain. Date: Saturday, 3 April 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Burjassot, Spain, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Festival de UltraFondo Burjassot - 50k to ultramaraton. Lokalizacja: Burjassot, Hiszpania. Termin: sobota, 3 kwietnia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Burjassot, Hiszpania, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burjassot",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Festival de UltraFondo Burjassot - 50k",
+  "registrationUrl": null,
+  "slug": "festival-de-ultrafondo-burjassot-50k-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134216",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134216"
+  },
+  "start": {
+    "lat": 39.50906,
+    "lon": -0.410858,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramediterrania PRO 160 km is a ultramarathon. Location: Alcoi, Spain. Date: 22 January 2027 – 24 January 2027. Distances: 160 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Alcoi, Spain, 22 January 2027 – 24 January 2027"
+    },
+    "pl": {
+      "description": "Ultramediterrania PRO 160 km to ultramaraton. Lokalizacja: Alcoi, Hiszpania. Termin: 22 stycznia 2027 – 24 stycznia 2027. Dystanse: 160 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Alcoi, Hiszpania, 22 stycznia 2027 – 24 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-01-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160 km"
+  ],
+  "endDate": "2027-01-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alcoi",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramediterrania PRO 160 km",
+  "registrationUrl": null,
+  "slug": "ultramediterrania-pro-160-km-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134791",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134791"
+  },
+  "start": {
+    "lat": 38.698235,
+    "lon": -0.474762,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

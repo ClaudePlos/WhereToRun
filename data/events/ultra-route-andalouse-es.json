@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Route Andalouse is a ultramarathon. Location: Castellar de Santiago, Spain. Date: 7 May 2027 – 12 May 2027. Distances: 333 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Castellar de Santiago, Spain, 7 May 2027 – 12 May 2027"
+    },
+    "pl": {
+      "description": "Ultra Route Andalouse to ultramaraton. Lokalizacja: Castellar de Santiago, Hiszpania. Termin: 7 maja 2027 – 12 maja 2027. Dystanse: 333 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Castellar de Santiago, Hiszpania, 7 maja 2027 – 12 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-05-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "333 km"
+  ],
+  "endDate": "2027-05-12",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castellar de Santiago",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra Route Andalouse",
+  "registrationUrl": null,
+  "slug": "ultra-route-andalouse-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134904",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134904"
+  },
+  "start": {
+    "lat": 38.539162,
+    "lon": -3.275511,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

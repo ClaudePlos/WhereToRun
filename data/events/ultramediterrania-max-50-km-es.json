@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultramediterrania MAX 50 km is a ultramarathon. Location: Turballos, Spain. Date: Saturday, 23 January 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Turballos, Spain, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Ultramediterrania MAX 50 km to ultramaraton. Lokalizacja: Turballos, Hiszpania. Termin: sobota, 23 stycznia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Turballos, Hiszpania, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Turballos",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultramediterrania MAX 50 km",
+  "registrationUrl": null,
+  "slug": "ultramediterrania-max-50-km-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134793",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134793"
+  },
+  "start": {
+    "lat": 38.805218,
+    "lon": -0.441232,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UltraHélike 100km is a ultramarathon. Location: Elche, Spain. Date: Saturday, 27 February 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Elche, Spain, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "UltraHélike 100km to ultramaraton. Lokalizacja: Elche, Hiszpania. Termin: sobota, 27 lutego 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Elche, Hiszpania, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-04T17:35:24.305Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elche",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "UltraHélike 100km",
+  "registrationUrl": null,
+  "slug": "ultrahelike-100km-es",
+  "source": {
+    "fetchedAt": "2026-10-04T17:35:48.884Z",
+    "id": "duv",
+    "ref": "134860",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134860"
+  },
+  "start": {
+    "lat": 38.265331,
+    "lon": -0.698839,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T17:35:24.305Z",
+  "website": null
+}
