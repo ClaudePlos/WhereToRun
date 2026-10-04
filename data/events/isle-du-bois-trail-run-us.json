@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Isle du Bois Trail Run is a ultramarathon. Location: Pilot Point, United States. Date: Saturday, 5 December 2026. Distances: 50 km, 32.2 km, 16.1 km, 6.4 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pilot Point, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Isle du Bois Trail Run to ultramaraton. Lokalizacja: Pilot Point, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 50 km, 32.2 km, 16.1 km, 6.4 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pilot Point, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-04T12:31:21.092Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "6.4 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pilot Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Isle du Bois Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65409",
+  "slug": "isle-du-bois-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "id": "ultrasignup",
+    "ref": "15442",
+    "url": "https://ultrasignup.com/register.aspx?did=65409"
+  },
+  "start": {
+    "lat": 33.3831,
+    "lon": -97.0312,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "https://blazetrails.com"
+}

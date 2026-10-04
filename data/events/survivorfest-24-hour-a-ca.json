@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Survivorfest - 24 Hour A is a ultramarathon. Location: Sherwood Park, Canada. Date: 12 June 2027 – 13 June 2027. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sherwood Park, Canada, 12 June 2027 – 13 June 2027"
+    },
+    "pl": {
+      "description": "Survivorfest - 24 Hour A to ultramaraton. Lokalizacja: Sherwood Park, Kanada. Termin: 12 czerwca 2027 – 13 czerwca 2027. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sherwood Park, Kanada, 12 czerwca 2027 – 13 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-04T12:31:21.092Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2027-06-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sherwood Park",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Survivorfest - 24 Hour A",
+  "registrationUrl": null,
+  "slug": "survivorfest-24-hour-a-ca",
+  "source": {
+    "fetchedAt": "2026-10-04T12:31:44.263Z",
+    "id": "duv",
+    "ref": "134401",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134401"
+  },
+  "start": {
+    "lat": 53.525696,
+    "lon": -113.296631,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": null
+}

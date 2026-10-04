@@ -13,11 +13,11 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u50m",
-    "u50k"
+    "160.9 km",
+    "80.5 km",
+    "56.3 km"
   ],
-  "endDate": null,
+  "endDate": "2026-12-06",
   "featured": false,
   "fees": [],
   "links": [],
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Festivus 100/50 Miler Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16373",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65578",
   "slug": "festivus-100-50-miler-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "festivus-100-50-miler-trail-run-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=16373"
+    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "id": "ultrasignup",
+    "ref": "16373",
+    "url": "https://ultrasignup.com/register.aspx?did=65578"
   },
   "start": {
-    "lat": 30.12,
-    "lon": -81.88,
+    "lat": 30.1224,
+    "lon": -81.8826,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16373"
+  "type": "ultra",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "http://sombrerorunning.com/"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Equalizer 6, 12 & 24 Hour Run is a road race. Location: Des Moines, United States. Date: Saturday, 31 October 2026. Distances: ultra. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Des Moines, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "The Equalizer 6, 12 & 24 Hour Run to bieg uliczny. Lokalizacja: Des Moines, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Des Moines, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-10-04T12:31:21.092Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Des Moines",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "The Equalizer 6, 12 & 24 Hour Run",
+  "registrationUrl": "https://raceroster.com/events/2026/125472/the-equalizer-6-12-and-24-hour-run",
+  "slug": "the-equalizer-6-12-24-hour-run-us",
+  "source": {
+    "fetchedAt": "2026-10-04T12:31:29.134Z",
+    "id": "runraceusa",
+    "ref": "the-equalizer-6-12-24-hour-run-ia",
+    "url": "https://raceroster.com/events/2026/125472/the-equalizer-6-12-and-24-hour-run"
+  },
+  "start": {
+    "lat": 41.6727,
+    "lon": -93.5722,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "https://raceroster.com/events/2026/125472/the-equalizer-6-12-and-24-hour-run"
+}

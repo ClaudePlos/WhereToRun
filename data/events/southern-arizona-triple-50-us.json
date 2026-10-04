@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Southern Arizona Triple 50 is a road race. Location: Tucson/Oracle/Sonoita, United States. Date: Saturday, 5 December 2026. Distances: Three 50 Milers. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tucson/Oracle/Sonoita, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Southern Arizona Triple 50 to bieg uliczny. Lokalizacja: Tucson/Oracle/Sonoita, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: Three 50 Milers. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tucson/Oracle/Sonoita, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-04T12:31:21.092Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Three 50 Milers"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tucson/Oracle/Sonoita",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Southern Arizona Triple 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67177",
+  "slug": "southern-arizona-triple-50-us",
+  "source": {
+    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "id": "ultrasignup",
+    "ref": "15375",
+    "url": "https://ultrasignup.com/register.aspx?did=67177"
+  },
+  "start": {
+    "lat": 32.0347,
+    "lon": -110.672,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "https://runazt.org/southern-arizona-triple-50/"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Guv'nor Frozen 50 is a ultramarathon. Location: Dodgeville, United States. Date: Saturday, 5 December 2026. Distances: 50 km, 25 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dodgeville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "The Guv'nor Frozen 50 to ultramaraton. Lokalizacja: Dodgeville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 50 km, 25 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dodgeville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-04T12:31:21.092Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dodgeville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "The Guv'nor Frozen 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65717",
+  "slug": "the-guv-nor-frozen-50-us",
+  "source": {
+    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "id": "ultrasignup",
+    "ref": "15643",
+    "url": "https://ultrasignup.com/register.aspx?did=65717"
+  },
+  "start": {
+    "lat": 43.0207,
+    "lon": -90.1422,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "https://www.driftlessendurance.com/the-guv-nor-frozen-50-1"
+}

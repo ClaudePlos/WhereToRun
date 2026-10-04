@@ -13,12 +13,15 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "42.2 km",
-    "other",
+    "50 km",
+    "Trail Marathon",
+    "25 km",
     "21.1 km",
+    "15 km",
     "10 km",
-    "5 km"
+    "5 km",
+    "Mile",
+    "Kids Run"
   ],
   "endDate": null,
   "featured": false,
@@ -32,25 +35,25 @@
   },
   "manual": false,
   "name": "Calero Trail Run - Winter",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14765",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66889",
   "slug": "calero-trail-run-winter-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "calero-trail-run-winter-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=14765"
+    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "id": "ultrasignup",
+    "ref": "14765",
+    "url": "https://ultrasignup.com/register.aspx?did=66889"
   },
   "start": {
-    "lat": 37.18,
-    "lon": -121.76,
+    "lat": 37.1759,
+    "lon": -121.762,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14765"
+  "type": "ultra",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
+  "website": "https://tctruns.com/calero-trail-run-winter/"
 }

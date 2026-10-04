@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-29T00:21:11.790Z",
-  "date": "2026-11-01",
+  "date": "2027-11-01",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "novemberlauf-de",
   "source": {
-    "fetchedAt": "2026-10-01T18:54:16.026Z",
+    "fetchedAt": "2026-10-04T12:31:44.266Z",
     "id": "duv",
-    "ref": "130529",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130529"
+    "ref": "135728",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135728"
   },
   "start": {
     "lat": 48.493896,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-01T18:53:52.387Z",
+  "updatedAt": "2026-10-04T12:31:21.092Z",
   "website": null
 }

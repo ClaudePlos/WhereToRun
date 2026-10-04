@@ -569,8 +569,17 @@
   "BR|tres marias, mg": {
     "at": "2026-09-03T17:03:15.961Z"
   },
+  "CA|abbotsford": {
+    "at": "2026-10-04T12:31:21.092Z",
+    "lat": 49.0521162,
+    "lon": -122.329479,
+    "name": "Abbotsford, Fraser Valley Regional District, British Columbia, Canada"
+  },
   "CA|arnstein, ontario": {
     "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|barrie, on": {
+    "at": "2026-10-04T12:31:21.092Z"
   },
   "CA|beaconsfield": {
     "at": "2026-10-01T18:53:52.387Z",
@@ -608,6 +617,9 @@
     "lon": -79.7068922,
     "name": "Shoppes on Dundas, Oakville, Halton Region, Golden Horseshoe, Ontario, Canada"
   },
+  "CA|falcon lake, mb": {
+    "at": "2026-10-04T12:31:21.092Z"
+  },
   "CA|gaspe": {
     "at": "2026-09-17T22:50:40.759Z",
     "lat": 48.8317223,
@@ -635,11 +647,23 @@
   "CA|la malbaie, qc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|lac-beauport, qc": {
+    "at": "2026-10-04T12:31:21.092Z"
+  },
   "CA|lethbridge, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|lethbridge, alberta": {
+    "at": "2026-10-04T12:31:21.092Z"
+  },
+  "CA|levis, quebec": {
+    "at": "2026-10-04T12:31:21.092Z"
+  },
   "CA|london, on": {
     "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|maple creek, sk": {
+    "at": "2026-10-04T12:31:21.092Z"
   },
   "CA|mattawa, on": {
     "at": "2026-09-23T11:48:59.496Z"
@@ -658,6 +682,9 @@
   },
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|perce, qc": {
+    "at": "2026-10-04T12:31:21.092Z"
   },
   "CA|port moody, bc": {
     "at": "2026-10-01T18:53:52.387Z"
@@ -679,6 +706,15 @@
   },
   "CA|searchmont resort": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|sherwood park": {
+    "at": "2026-10-04T12:31:21.092Z",
+    "lat": 53.5256963,
+    "lon": -113.296631,
+    "name": "Sherwood Park, Strathcona County, Alberta, Canada"
+  },
+  "CA|sherwood park, ab": {
+    "at": "2026-10-04T12:31:21.092Z"
   },
   "CA|st john's, nl": {
     "at": "2026-09-28T20:07:41.303Z"
