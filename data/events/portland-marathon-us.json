@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-20T16:48:23.963Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km"
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Portland Marathon",
-  "registrationUrl": "https://www.portlandmarathon.com/register",
+  "registrationUrl": "https://www.portlandmarathon.com/",
   "slug": "portland-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "fetchedAt": "2026-10-05T14:56:09.579Z",
     "id": "runraceusa",
     "ref": "portland-marathon-or",
-    "url": "https://www.portlandmarathon.com/register"
+    "url": "https://www.portlandmarathon.com/"
   },
   "start": {
-    "lat": 45.51646,
-    "lon": -122.67731,
+    "lat": 45.51,
+    "lon": -122.67,
     "name": null,
-    "precision": "exact"
+    "precision": "city"
   },
   "tags": [
     "road",
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://www.portlandmarathon.com/register"
+  "updatedAt": "2026-10-05T14:56:00.351Z",
+  "website": "https://www.portlandmarathon.com/"
 }

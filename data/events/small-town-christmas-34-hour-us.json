@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Small Town Christmas 34 Hour is a ultramarathon. Location: valley, United States. Date: Saturday, 5 December 2026. Distances: 34 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — valley, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Small Town Christmas 34 Hour to ultramaraton. Lokalizacja: valley, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 34 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — valley, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-05T14:56:00.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "34 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Small Town Christmas 34 Hour",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64467",
+  "slug": "small-town-christmas-34-hour-us",
+  "source": {
+    "fetchedAt": "2026-10-05T14:56:07.717Z",
+    "id": "ultrasignup",
+    "ref": "17678",
+    "url": "https://ultrasignup.com/register.aspx?did=64467"
+  },
+  "start": {
+    "lat": 32.8512,
+    "lon": -85.1582,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-05T14:56:00.351Z",
+  "website": "https://www.facebook.com/groups/928149861957561"
+}

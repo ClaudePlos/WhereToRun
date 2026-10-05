@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km"
+    "21.1 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/CO/Durango/DurangoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "durango-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-10-05T14:56:09.579Z",
     "id": "runraceusa",
     "ref": "durango-marathon-co",
     "url": "https://runsignup.com/Race/CO/Durango/DurangoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-10-05T14:56:00.351Z",
   "website": "https://runsignup.com/Race/CO/Durango/DurangoMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

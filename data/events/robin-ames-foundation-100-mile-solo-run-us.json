@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Robin Ames Foundation 100 Mile Solo Run is a road race. Location: San Clemente, United States. Date: Saturday, 5 December 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Clemente, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Robin Ames Foundation 100 Mile Solo Run to bieg uliczny. Lokalizacja: San Clemente, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Clemente, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-05T14:56:00.351Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Clemente",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Robin Ames Foundation 100 Mile Solo Run",
+  "registrationUrl": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "robin-ames-foundation-100-mile-solo-run-us",
+  "source": {
+    "fetchedAt": "2026-10-05T14:56:09.579Z",
+    "id": "runraceusa",
+    "ref": "robin-ames-foundation-100-mile-solo-run-ca",
+    "url": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.44,
+    "lon": -117.62,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-05T14:56:00.351Z",
+  "website": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

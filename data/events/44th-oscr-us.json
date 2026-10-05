@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "44th OSCR is a road race. Location: Seeley Lake, United States. Date: Saturday, 30 January 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Seeley Lake, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "44th OSCR to bieg uliczny. Lokalizacja: Seeley Lake, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Seeley Lake, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-05T14:56:00.351Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Seeley Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "44th OSCR",
+  "registrationUrl": "https://runsignup.com/Race/MT/SeeleyLake/OSCR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "44th-oscr-us",
+  "source": {
+    "fetchedAt": "2026-10-05T14:56:09.579Z",
+    "id": "runraceusa",
+    "ref": "44th-oscr-mt",
+    "url": "https://runsignup.com/Race/MT/SeeleyLake/OSCR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.18,
+    "lon": -113.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-05T14:56:00.351Z",
+  "website": "https://runsignup.com/Race/MT/SeeleyLake/OSCR?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
