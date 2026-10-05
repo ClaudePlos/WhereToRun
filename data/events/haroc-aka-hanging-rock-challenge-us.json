@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "HAROC (aka Hanging Rock Challenge) is a ultramarathon. Location: Danbury, United States. Date: Saturday, 5 December 2026. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Danbury, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "HAROC (aka Hanging Rock Challenge) to ultramaraton. Lokalizacja: Danbury, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Danbury, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-05T21:12:27.278Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Danbury",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "HAROC (aka Hanging Rock Challenge)",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=62670",
+  "slug": "haroc-aka-hanging-rock-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-05T21:12:36.831Z",
+    "id": "ultrasignup",
+    "ref": "18309",
+    "url": "https://ultrasignup.com/register.aspx?did=62670"
+  },
+  "start": {
+    "lat": 36.4115,
+    "lon": -80.254,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-05T21:12:27.278Z",
+  "website": "http://www.tanawhaadventures.com"
+}

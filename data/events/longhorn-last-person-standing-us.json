@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Longhorn Last Person Standing is a road race. Location: Dripping Springs, United States. Date: Saturday, 5 December 2026. Distances: Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dripping Springs, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Longhorn Last Person Standing to bieg uliczny. Lokalizacja: Dripping Springs, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dripping Springs, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-05T21:12:27.278Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dripping Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Longhorn Last Person Standing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65856",
+  "slug": "longhorn-last-person-standing-us",
+  "source": {
+    "fetchedAt": "2026-10-05T21:12:36.831Z",
+    "id": "ultrasignup",
+    "ref": "20137",
+    "url": "https://ultrasignup.com/register.aspx?did=65856"
+  },
+  "start": {
+    "lat": 30.1902,
+    "lon": -98.0867,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-05T21:12:27.278Z",
+  "website": "https://capstone.run/longhorn-lms"
+}
