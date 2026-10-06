@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ray Miller 50/50 is a ultramarathon. Location: Malibu, United States. Date: Saturday, 5 December 2026. Distances: 80.5 km, 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Malibu, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Ray Miller 50/50 to ultramaraton. Lokalizacja: Malibu, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 80.5 km, 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Malibu, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-06T01:17:17.733Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Malibu",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Ray Miller 50/50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65552",
+  "slug": "ray-miller-50-50-us",
+  "source": {
+    "fetchedAt": "2026-10-06T01:17:24.362Z",
+    "id": "ultrasignup",
+    "ref": "2716",
+    "url": "https://ultrasignup.com/register.aspx?did=65552"
+  },
+  "start": {
+    "lat": 34.0836,
+    "lon": -119.036,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T01:17:17.733Z",
+  "website": "https://www.khraces.com/"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Krampuslauf is a ultramarathon. Location: Lyme, United States. Date: Saturday, 5 December 2026. Distances: 10 km, 9 h, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lyme, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Krampuslauf to ultramaraton. Lokalizacja: Lyme, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 10 km, 9 h, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lyme, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-06T01:17:17.733Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "9 h",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lyme",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "Krampuslauf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65284",
+  "slug": "krampuslauf-us",
+  "source": {
+    "fetchedAt": "2026-10-06T01:17:24.362Z",
+    "id": "ultrasignup",
+    "ref": "16824",
+    "url": "https://ultrasignup.com/register.aspx?did=65284"
+  },
+  "start": {
+    "lat": 43.7877,
+    "lon": -72.0995,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T01:17:17.733Z",
+  "website": "http://www.racemozey.com"
+}

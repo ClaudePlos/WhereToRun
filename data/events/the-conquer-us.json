@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "THE CONQUER is a road race. Location: Dawsonville, United States. Date: Saturday, 5 December 2026. Distances: The Toughest Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dawsonville, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "THE CONQUER to bieg uliczny. Lokalizacja: Dawsonville, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: The Toughest Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dawsonville, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-06T01:17:17.733Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "The Toughest Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dawsonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "THE CONQUER",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67118",
+  "slug": "the-conquer-us",
+  "source": {
+    "fetchedAt": "2026-10-06T01:17:24.362Z",
+    "id": "ultrasignup",
+    "ref": "16600",
+    "url": "https://ultrasignup.com/register.aspx?did=67118"
+  },
+  "start": {
+    "lat": 34.5655,
+    "lon": -84.2434,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-06T01:17:17.733Z",
+  "website": "http://www.toughestultra.com"
+}
