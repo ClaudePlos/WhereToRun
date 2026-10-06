@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Adiyogi Ultra 75km Bengaluru is a ultramarathon. Location: Bengaluru, India. Date: Sunday, 1 August 2027. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bengaluru, India, Sunday, 1 August 2027"
+    },
+    "pl": {
+      "description": "Adiyogi Ultra 75km Bengaluru to ultramaraton. Lokalizacja: Bengaluru, Indie. Termin: niedziela, 1 sierpnia 2027. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bengaluru, Indie, niedziela, 1 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-06T18:54:53.667Z",
+  "date": "2027-08-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bengaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Adiyogi Ultra 75km Bengaluru",
+  "registrationUrl": null,
+  "slug": "adiyogi-ultra-75km-bengaluru-in",
+  "source": {
+    "fetchedAt": "2026-10-06T18:55:06.866Z",
+    "id": "duv",
+    "ref": "135601",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135601"
+  },
+  "start": {
+    "lat": 12.976794,
+    "lon": 77.590082,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T18:54:53.667Z",
+  "website": null
+}

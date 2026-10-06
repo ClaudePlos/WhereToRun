@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tower Tag Challenge is a ultramarathon. Location: Hamden, United States. Date: Saturday, 5 December 2026. Distances: 8 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hamden, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Tower Tag Challenge to ultramaraton. Lokalizacja: Hamden, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 8 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hamden, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-06T18:54:53.667Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hamden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Tower Tag Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64754",
+  "slug": "tower-tag-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-06T18:54:59.820Z",
+    "id": "ultrasignup",
+    "ref": "17874",
+    "url": "https://ultrasignup.com/register.aspx?did=64754"
+  },
+  "start": {
+    "lat": 41.4208,
+    "lon": -72.8994,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T18:54:53.667Z",
+  "website": "https://www.steependurance.com/tower-tag-challenge.html"
+}

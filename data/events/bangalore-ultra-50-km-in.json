@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bangalore Ultra 50 km is a ultramarathon. Location: Bangaluru, India. Date: Sunday, 25 July 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bangaluru, India, Sunday, 25 July 2027"
+    },
+    "pl": {
+      "description": "Bangalore Ultra 50 km to ultramaraton. Lokalizacja: Bangaluru, Indie. Termin: niedziela, 25 lipca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bangaluru, Indie, niedziela, 25 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-06T18:54:53.667Z",
+  "date": "2027-07-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bangaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bangalore Ultra 50 km",
+  "registrationUrl": null,
+  "slug": "bangalore-ultra-50-km-in",
+  "source": {
+    "fetchedAt": "2026-10-06T18:55:06.866Z",
+    "id": "duv",
+    "ref": "135529",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135529"
+  },
+  "start": {
+    "lat": 12.976794,
+    "lon": 77.590082,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T18:54:53.667Z",
+  "website": null
+}

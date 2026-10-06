@@ -13,7 +13,7 @@
   "date": "2026-12-16",
   "dateStatus": "confirmed",
   "distances": [
-    "50 km"
+    "100 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "dudhsagar-ultra-trail-goa-in",
   "source": {
-    "fetchedAt": "2026-10-03T23:01:19.905Z",
+    "fetchedAt": "2026-10-06T18:55:06.865Z",
     "id": "duv",
-    "ref": "135516",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135516"
+    "ref": "135515",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135515"
   },
   "start": {
     "lat": 15.375011,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T23:00:55.242Z",
+  "updatedAt": "2026-10-06T18:54:53.667Z",
   "website": null
 }

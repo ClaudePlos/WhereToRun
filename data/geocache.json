@@ -236,6 +236,9 @@
   "AU|coonabarabran, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|eden, nsw": {
+    "at": "2026-10-06T18:54:53.667Z"
+  },
   "AU|horsham, vic": {
     "at": "2026-09-25T23:17:23.268Z"
   },
@@ -245,11 +248,20 @@
   "AU|kembla grange, nsw": {
     "at": "2026-09-25T17:57:24.902Z"
   },
+  "AU|landsborough, qld": {
+    "at": "2026-10-06T18:54:53.667Z"
+  },
   "AU|latrobe, tas": {
     "at": "2026-09-25T17:57:24.902Z"
   },
+  "AU|little river, vic": {
+    "at": "2026-10-06T18:54:53.667Z"
+  },
   "AU|mapleton, qld": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|marysville, vic": {
+    "at": "2026-10-06T18:54:53.667Z"
   },
   "AU|mile end south, sa": {
     "at": "2026-09-17T11:51:05.899Z"
@@ -295,6 +307,9 @@
   },
   "AU|st. ives, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
+  },
+  "AU|tandur, qld": {
+    "at": "2026-10-06T18:54:53.667Z"
   },
   "AU|telegraph point, nsw": {
     "at": "2026-09-25T23:17:23.268Z"
@@ -1763,14 +1778,26 @@
   "IN|bangalore south": {
     "at": "2026-09-03T11:24:47.198Z"
   },
+  "IN|bangaluru": {
+    "at": "2026-10-06T18:54:53.667Z",
+    "lat": 12.9767936,
+    "lon": 77.590082,
+    "name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
   "IN|banglore": {
-    "at": "2026-09-03T11:24:47.198Z"
+    "at": "2026-10-06T18:54:53.667Z"
   },
   "IN|basar": {
     "at": "2026-09-11T17:02:01.760Z",
     "lat": 18.8845844,
     "lon": 77.95259,
     "name": "Basar, Basar mandal, Nirmal, Telangana, 504101, India"
+  },
+  "IN|bengaluru": {
+    "at": "2026-10-06T18:54:53.667Z",
+    "lat": 12.9767936,
+    "lon": 77.590082,
+    "name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
   },
   "IN|bhandardara, maharashtra": {
     "at": "2026-09-11T22:33:20.292Z"
@@ -1900,6 +1927,12 @@
     "lat": 18.5213738,
     "lon": 73.8545071,
     "name": "Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India"
+  },
+  "IN|rajdari resort, chakia,varanasi up": {
+    "at": "2026-10-06T18:54:53.667Z"
+  },
+  "IN|rajdari, varanasi up": {
+    "at": "2026-10-06T18:54:53.667Z"
   },
   "IN|seetla mukteshwar": {
     "at": "2026-09-28T14:09:26.019Z"
