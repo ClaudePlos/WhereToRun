@@ -215,8 +215,17 @@
   "AU|adelaide, sa": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|anakie, vic": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
   "AU|apollo bay, vic": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|australind, wa": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
+  "AU|beerwah, qld": {
+    "at": "2026-10-06T23:47:06.887Z"
   },
   "AU|bickley, wa": {
     "at": "2026-09-03T11:24:47.198Z"
@@ -236,8 +245,23 @@
   "AU|coonabarabran, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
   },
+  "AU|dennes point, tas": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
   "AU|eden, nsw": {
     "at": "2026-10-06T18:54:53.667Z"
+  },
+  "AU|falls creek, vic": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
+  "AU|forth, tas": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
+  "AU|glenelg north, sa": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
+  "AU|greenvale, vic": {
+    "at": "2026-10-06T23:47:06.887Z"
   },
   "AU|horsham, vic": {
     "at": "2026-09-25T23:17:23.268Z"
@@ -275,8 +299,14 @@
   "AU|mundaring, wa": {
     "at": "2026-09-25T23:17:23.268Z"
   },
+  "AU|narrabeen, nsw": {
+    "at": "2026-10-06T23:47:06.887Z"
+  },
   "AU|newland hill, sa": {
     "at": "2026-09-25T23:17:23.268Z"
+  },
+  "AU|north dandalup, wa": {
+    "at": "2026-10-06T23:47:06.887Z"
   },
   "AU|orange, nsw": {
     "at": "2026-09-17T11:51:05.899Z"
