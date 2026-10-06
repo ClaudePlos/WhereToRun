@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "King of Kampung Kemensah 50 km is a ultramarathon. Location: Ampang Jaya, Malaysia. Date: 2 July 2027 – 3 July 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ampang Jaya, Malaysia, 2 July 2027 – 3 July 2027"
+    },
+    "pl": {
+      "description": "King of Kampung Kemensah 50 km to ultramaraton. Lokalizacja: Ampang Jaya, Malezja. Termin: 2 lipca 2027 – 3 lipca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ampang Jaya, Malezja, 2 lipca 2027 – 3 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-07-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2027-07-03",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ampang Jaya",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "King of Kampung Kemensah 50 km",
+  "registrationUrl": null,
+  "slug": "king-of-kampung-kemensah-50-km-my",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:53.053Z",
+    "id": "duv",
+    "ref": "134699",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134699"
+  },
+  "start": {
+    "lat": 3.127609,
+    "lon": 101.753864,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": null
+}

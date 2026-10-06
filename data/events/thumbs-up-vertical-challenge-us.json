@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Thumbs Up Vertical Challenge is a road race. Location: Estes Park, United States. Date: Saturday, 5 December 2026. Distances: 8 Hour Ascent. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Estes Park, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Thumbs Up Vertical Challenge to bieg uliczny. Lokalizacja: Estes Park, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 8 Hour Ascent. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Estes Park, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 Hour Ascent"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Estes Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Thumbs Up Vertical Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67799",
+  "slug": "thumbs-up-vertical-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.117Z",
+    "id": "ultrasignup",
+    "ref": "16929",
+    "url": "https://ultrasignup.com/register.aspx?did=67799"
+  },
+  "start": {
+    "lat": 40.3533,
+    "lon": -105.523,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://www.runningwildevents.com/thumbsup.html"
+}

@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Amicalola Falls Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18938",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64973",
   "slug": "amicalola-falls-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-12T16:19:26.564Z",
-    "id": "runraceusa",
-    "ref": "amicalola-falls-marathon-ga",
-    "url": "https://ultrasignup.com/register.aspx?eid=18938"
+    "fetchedAt": "2026-10-06T13:25:38.117Z",
+    "id": "ultrasignup",
+    "ref": "18938",
+    "url": "https://ultrasignup.com/register.aspx?did=64973"
   },
   "start": {
-    "lat": 34.42,
-    "lon": -84.12,
+    "lat": 34.4202,
+    "lon": -84.1196,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-12T16:19:18.598Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18938"
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "http://www.warriorraces.com"
 }

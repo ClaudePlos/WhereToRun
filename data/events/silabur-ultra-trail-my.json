@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-10-03T23:00:55.242Z",
-  "date": "2027-05-02",
+  "date": "2027-05-01",
   "dateStatus": "confirmed",
   "distances": [
-    "50 km"
+    "100 km"
   ],
   "endDate": "2027-05-02",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "silabur-ultra-trail-my",
   "source": {
-    "fetchedAt": "2026-10-03T23:01:19.904Z",
+    "fetchedAt": "2026-10-06T13:25:53.052Z",
     "id": "duv",
-    "ref": "135072",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135072"
+    "ref": "135071",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135071"
   },
   "start": {
     "lat": 1.559756,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T23:00:55.242Z",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
   "website": null
 }

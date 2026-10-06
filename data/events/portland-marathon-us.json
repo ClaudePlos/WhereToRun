@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Portland Marathon",
-  "registrationUrl": "https://www.portlandmarathon.com/",
+  "registrationUrl": "https://www.portlandmarathon.com/register",
   "slug": "portland-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-05T14:56:09.579Z",
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
     "id": "runraceusa",
     "ref": "portland-marathon-or",
-    "url": "https://www.portlandmarathon.com/"
+    "url": "https://www.portlandmarathon.com/register"
   },
   "start": {
-    "lat": 45.51,
-    "lon": -122.67,
+    "lat": 45.51646,
+    "lon": -122.67731,
     "name": null,
-    "precision": "city"
+    "precision": "exact"
   },
   "tags": [
     "road",
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-05T14:56:00.351Z",
-  "website": "https://www.portlandmarathon.com/"
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://www.portlandmarathon.com/register"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Muallim Cross Country Run is a ultramarathon. Location: Proton City, Malaysia. Date: Sunday, 4 July 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Proton City, Malaysia, Sunday, 4 July 2027"
+    },
+    "pl": {
+      "description": "Muallim Cross Country Run to ultramaraton. Lokalizacja: Proton City, Malezja. Termin: niedziela, 4 lipca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Proton City, Malezja, niedziela, 4 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-07-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Proton City",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "region": null
+  },
+  "manual": false,
+  "name": "Muallim Cross Country Run",
+  "registrationUrl": null,
+  "slug": "muallim-cross-country-run-my",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:53.053Z",
+    "id": "duv",
+    "ref": "135084",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135084"
+  },
+  "start": {
+    "lat": 3.738607,
+    "lon": 101.525005,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Panama Trail Mini Ultra Run is a ultramarathon. Location: Panama, United States. Date: Saturday, 7 August 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Panama, United States, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "Panama Trail Mini Ultra Run to ultramaraton. Lokalizacja: Panama, Stany Zjednoczone. Termin: sobota, 7 sierpnia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Panama, Stany Zjednoczone, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Panama",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NE"
+  },
+  "manual": false,
+  "name": "Panama Trail Mini Ultra Run",
+  "registrationUrl": "https://runsignup.com/Race/NE/Panama/PanamaTrailMiniUltraRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "panama-trail-mini-ultra-run-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "panama-trail-mini-ultra-run-ne",
+    "url": "https://runsignup.com/Race/NE/Panama/PanamaTrailMiniUltraRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.6,
+    "lon": -96.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://runsignup.com/Race/NE/Panama/PanamaTrailMiniUltraRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

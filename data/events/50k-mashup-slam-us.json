@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "50K MASHUP SLAM is a road race. Location: Crystal Lake, United States. Date: Saturday, 9 January 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Crystal Lake, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "50K MASHUP SLAM to bieg uliczny. Lokalizacja: Crystal Lake, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Crystal Lake, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Crystal Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "50K MASHUP SLAM",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5176",
+  "slug": "50k-mashup-slam-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "50k-mashup-slam-il",
+    "url": "https://ultrasignup.com/register.aspx?eid=5176"
+  },
+  "start": {
+    "lat": 38.58,
+    "lon": -90.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5176"
+}

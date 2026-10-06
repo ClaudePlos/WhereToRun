@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "MCRRC Experienced Marathon Program Celebration is a road race. Location: Washington, United States. Date: Sunday, 22 November 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Washington, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "MCRRC Experienced Marathon Program Celebration to bieg uliczny. Lokalizacja: Washington, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Washington, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC"
+  },
+  "manual": false,
+  "name": "MCRRC Experienced Marathon Program Celebration",
+  "registrationUrl": "https://runsignup.com/Race/DC/Washington/MCRRCXMPCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mcrrc-experienced-marathon-program-celebration-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "mcrrc-experienced-marathon-program-celebration-dc",
+    "url": "https://runsignup.com/Race/DC/Washington/MCRRCXMPCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.97,
+    "lon": -77.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://runsignup.com/Race/DC/Washington/MCRRCXMPCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

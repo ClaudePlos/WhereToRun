@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-10-03T23:00:55.242Z",
-  "date": "2027-04-10",
+  "date": "2027-04-09",
   "dateStatus": "confirmed",
   "distances": [
-    "55 km"
+    "85 km"
   ],
   "endDate": "2027-04-10",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "selama-ultra-my",
   "source": {
-    "fetchedAt": "2026-10-03T23:01:19.904Z",
+    "fetchedAt": "2026-10-06T13:25:53.052Z",
     "id": "duv",
-    "ref": "135117",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135117"
+    "ref": "135118",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135118"
   },
   "start": {
     "lat": 4.975869,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T23:00:55.242Z",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
   "website": null
 }

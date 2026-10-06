@@ -2495,6 +2495,12 @@
     "lon": -92.9366326,
     "name": "Villahermosa, Centro, Tabasco, México"
   },
+  "MY|ampang jaya": {
+    "at": "2026-10-06T13:25:30.898Z",
+    "lat": 3.1276087,
+    "lon": 101.7538639,
+    "name": "Majlis Perbandaran Ampang Jaya, Hulu Langat, Selangor, 55300, Malaysia"
+  },
   "MY|batu caves, gombak, selangor": {
     "at": "2026-10-03T17:17:42.763Z"
   },
@@ -2522,6 +2528,12 @@
   "MY|daerah muallim": {
     "at": "2026-09-25T11:58:32.287Z"
   },
+  "MY|gombak": {
+    "at": "2026-10-06T13:25:30.898Z",
+    "lat": 3.2330444,
+    "lon": 101.7145742,
+    "name": "Gombak, Majlis Perbandaran Selayang, Gombak, Selangor, 65100, Malaysia"
+  },
   "MY|ipoh": {
     "at": "2026-09-25T11:58:32.287Z",
     "lat": 4.5986817,
@@ -2533,6 +2545,9 @@
     "lat": 2.9948437,
     "lon": 101.7896595,
     "name": "Majlis Perbandaran Kajang, Hulu Langat, Selangor, Malaysia"
+  },
+  "MY|kedah": {
+    "at": "2026-10-06T13:25:30.898Z"
   },
   "MY|kluang, johor": {
     "at": "2026-10-03T23:00:55.242Z"
@@ -2555,6 +2570,9 @@
     "lon": 110.345397,
     "name": "Kuching, Bahagian Kuching, Sarawak, 93000, Malaysia"
   },
+  "MY|langkawi, kedah": {
+    "at": "2026-10-06T13:25:30.898Z"
+  },
   "MY|lenggeng": {
     "at": "2026-10-03T17:17:42.763Z",
     "lat": 2.861427,
@@ -2566,6 +2584,12 @@
   },
   "MY|pekan kiulu, kota kinabalu": {
     "at": "2026-10-03T23:00:55.242Z"
+  },
+  "MY|pekan nanas": {
+    "at": "2026-10-06T13:25:30.898Z",
+    "lat": 1.5067604,
+    "lon": 103.512715,
+    "name": "Pekan Nanas, Pontian, Johor, 81500, Malaysia"
   },
   "MY|pekan tamparuli, kota kinabalu": {
     "at": "2026-10-03T23:00:55.242Z"
@@ -2579,8 +2603,17 @@
     "lon": 100.3105636,
     "name": "City of Dreams Penang, Tanjong Pinang, Timur Laut, George Town, Pulau Pinang, Malaysia"
   },
+  "MY|perak": {
+    "at": "2026-10-06T13:25:30.898Z"
+  },
   "MY|perlis city": {
     "at": "2026-10-03T17:17:42.763Z"
+  },
+  "MY|proton city": {
+    "at": "2026-10-06T13:25:30.898Z",
+    "lat": 3.7386069,
+    "lon": 101.525005,
+    "name": "Proton City, Muallim, Perak, 35910, Malaysia"
   },
   "MY|putrajaya": {
     "at": "2026-10-03T17:17:42.763Z",
@@ -2597,6 +2630,12 @@
     "lon": 101.1026777,
     "name": "Sekinchan, Sabak Bernam, Selangor, 45400, Malaysia"
   },
+  "MY|selangor": {
+    "at": "2026-10-06T13:25:30.898Z"
+  },
+  "MY|semenyih, selangor": {
+    "at": "2026-10-06T13:25:30.898Z"
+  },
   "MY|shah alam": {
     "at": "2026-10-03T17:17:42.763Z",
     "lat": 3.0739429,
@@ -2605,6 +2644,9 @@
   },
   "MY|stadium kajang, selangor": {
     "at": "2026-10-03T23:00:55.242Z"
+  },
+  "MY|tanah rata, pahang": {
+    "at": "2026-10-06T13:25:30.898Z"
   },
   "MY|tanjung ipoh": {
     "at": "2026-09-22T17:38:39.624Z",

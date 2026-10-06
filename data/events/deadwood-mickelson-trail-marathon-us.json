@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-19T16:30:51.864Z",
-  "date": "2027-06-05",
+  "date": "2027-06-06",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon",
   "slug": "deadwood-mickelson-trail-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-19T16:30:59.582Z",
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
     "id": "runraceusa",
     "ref": "deadwood-mickelson-trail-marathon-sd",
     "url": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-19T16:30:51.864Z",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
   "website": "https://raceroster.com/events/2027/116856/deadwood-mickelson-trail-marathon"
 }

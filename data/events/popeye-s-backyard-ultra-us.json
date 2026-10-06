@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Popeye's Backyard Ultra is a ultramarathon. Location: Larkspur, United States. Date: Saturday, 3 April 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Larkspur, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Popeye's Backyard Ultra to ultramaraton. Lokalizacja: Larkspur, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Larkspur, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Larkspur",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Popeye's Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21144",
+  "slug": "popeye-s-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "popeye-s-backyard-ultra-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=21144"
+  },
+  "start": {
+    "lat": 39.18,
+    "lon": -104.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21144"
+}

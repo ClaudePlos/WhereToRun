@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-09-26",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "waterville-marathon-full-half-10k-5k-running-festival-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
     "id": "runraceusa",
     "ref": "waterville-marathon-full-half-10k-5k-running-festival-me",
     "url": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
   "website": "https://runsignup.com/Race/ME/Waterville/TheGreatWatervilleMarathonHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

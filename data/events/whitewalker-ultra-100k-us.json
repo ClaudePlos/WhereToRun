@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Whitewalker Ultra 100k is a ultramarathon. Location: Palmyra, United States. Date: Saturday, 16 January 2027. Distances: u100k, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palmyra, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Whitewalker Ultra 100k to ultramaraton. Lokalizacja: Palmyra, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: u100k, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palmyra, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palmyra",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Whitewalker Ultra 100k",
+  "registrationUrl": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "whitewalker-ultra-100k-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "whitewalker-ultra-100k-wi",
+    "url": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.88,
+    "lon": -88.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

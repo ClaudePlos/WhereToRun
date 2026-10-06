@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "East Canyon Marathon - 26.2 - 13.1 - 10K - 5K is a trail race. Location: Morgan, United States. Date: Saturday, 4 September 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Morgan, United States, Saturday, 4 September 2027"
+    },
+    "pl": {
+      "description": "East Canyon Marathon - 26.2 - 13.1 - 10K - 5K to bieg trailowy. Lokalizacja: Morgan, Stany Zjednoczone. Termin: sobota, 4 września 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Morgan, Stany Zjednoczone, sobota, 4 września 2027"
+    }
+  },
+  "createdAt": "2026-10-06T13:25:30.898Z",
+  "date": "2027-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Morgan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "East Canyon Marathon - 26.2 - 13.1 - 10K - 5K",
+  "registrationUrl": "https://runsignup.com/Race/UT/Morgan/EastCanyonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "east-canyon-marathon-26-2-13-1-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "id": "runraceusa",
+    "ref": "east-canyon-marathon-26-2-13-1-10k-5k-ut",
+    "url": "https://runsignup.com/Race/UT/Morgan/EastCanyonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.07,
+    "lon": -111.72,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "website": "https://runsignup.com/Race/UT/Morgan/EastCanyonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
