@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Heidi-Challenge - Etappe1 Tour Werder is a ultramarathon. Location: Potsdam, Germany. Date: Saturday, 10 October 2026. Distances: 62 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Potsdam, Germany, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Heidi-Challenge - Etappe1 Tour Werder to ultramaraton. Lokalizacja: Potsdam, Niemcy. Termin: sobota, 10 października 2026. Dystanse: 62 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Potsdam, Niemcy, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "62 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Potsdam",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Heidi-Challenge - Etappe1 Tour Werder",
+  "registrationUrl": null,
+  "slug": "heidi-challenge-etappe1-tour-werder-de",
+  "source": {
+    "fetchedAt": "2026-10-07T13:36:14.025Z",
+    "id": "duv",
+    "ref": "123673",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123673"
+  },
+  "start": {
+    "lat": 52.400931,
+    "lon": 13.05914,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": null
+}

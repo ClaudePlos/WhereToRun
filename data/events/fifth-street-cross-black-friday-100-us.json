@@ -33,11 +33,11 @@
     "region": "PA"
   },
   "manual": false,
-  "name": "Fifth Street Cross - Black Friday 100",
+  "name": "Fifth Street Cross Black Friday 100",
   "registrationUrl": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "fifth-street-cross-black-friday-100-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
     "id": "runraceusa",
     "ref": "fifth-street-cross-black-friday-100-pa",
     "url": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -53,6 +53,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
   "website": "https://runsignup.com/Race/PA/Emmaus/FifthStreetCrossBlackFriday100?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

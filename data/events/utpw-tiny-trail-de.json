@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "UTPW Tiny Trail is a ultramarathon. Location: Neustadt an der Weinstraße, Germany. Date: 10 October 2026 – 11 October 2026. Distances: 70 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Neustadt an der Weinstraße, Germany, 10 October 2026 – 11 October 2026"
+    },
+    "pl": {
+      "description": "UTPW Tiny Trail to ultramaraton. Lokalizacja: Neustadt an der Weinstraße, Niemcy. Termin: 10 października 2026 – 11 października 2026. Dystanse: 70 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Neustadt an der Weinstraße, Niemcy, 10 października 2026 – 11 października 2026"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "70 km"
+  ],
+  "endDate": "2026-10-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Neustadt an der Weinstraße",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "UTPW Tiny Trail",
+  "registrationUrl": null,
+  "slug": "utpw-tiny-trail-de",
+  "source": {
+    "fetchedAt": "2026-10-07T13:36:14.025Z",
+    "id": "duv",
+    "ref": "123493",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123493"
+  },
+  "start": {
+    "lat": 49.353606,
+    "lon": 8.136025,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": null
+}

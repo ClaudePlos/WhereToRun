@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Burgenlauf Bad Belzig is a ultramarathon. Location: Bad Belzig, Germany. Date: Sunday, 11 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bad Belzig, Germany, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "Burgenlauf Bad Belzig to ultramaraton. Lokalizacja: Bad Belzig, Niemcy. Termin: niedziela, 11 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bad Belzig, Niemcy, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bad Belzig",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Burgenlauf Bad Belzig",
+  "registrationUrl": null,
+  "slug": "burgenlauf-bad-belzig-de",
+  "source": {
+    "fetchedAt": "2026-10-07T13:36:14.025Z",
+    "id": "duv",
+    "ref": "123365",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123365"
+  },
+  "start": {
+    "lat": 52.140562,
+    "lon": 12.586587,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": null
+}

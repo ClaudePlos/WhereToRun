@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Legs n' Dregs Brewery Marathon is a road race. Location: New Orleans, United States. Date: Sunday, 4 April 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — New Orleans, United States, Sunday, 4 April 2027"
+    },
+    "pl": {
+      "description": "Legs n' Dregs Brewery Marathon to bieg uliczny. Lokalizacja: New Orleans, Stany Zjednoczone. Termin: niedziela, 4 kwietnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — New Orleans, Stany Zjednoczone, niedziela, 4 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2027-04-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New Orleans",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Legs n' Dregs Brewery Marathon",
+  "registrationUrl": "https://runsignup.com/Race/LA/NewOrleans/LegsnDregsBreweryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "legs-n-dregs-brewery-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
+    "id": "runraceusa",
+    "ref": "legs-n-dregs-brewery-marathon-la",
+    "url": "https://runsignup.com/Race/LA/NewOrleans/LegsnDregsBreweryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.97,
+    "lon": -90.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": "https://runsignup.com/Race/LA/NewOrleans/LegsnDregsBreweryMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

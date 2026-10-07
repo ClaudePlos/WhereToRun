@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T22:03:13.980Z",
-  "date": "2026-09-06",
+  "date": "2027-09-05",
   "dateStatus": "confirmed",
   "distances": [
     "ultra"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15099",
   "slug": "not-a-sprint-ultra-races-us",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
     "id": "runraceusa",
     "ref": "not-a-sprint-ultra-races-nc",
     "url": "https://ultrasignup.com/register.aspx?eid=15099"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
   "website": "https://ultrasignup.com/register.aspx?eid=15099"
 }

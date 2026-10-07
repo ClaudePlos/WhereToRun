@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kananoher FortyFive (4x3) is a ultramarathon. Location: Langenhagen, Germany. Date: Sunday, 20 December 2026. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Langenhagen, Germany, Sunday, 20 December 2026"
+    },
+    "pl": {
+      "description": "Kananoher FortyFive (4x3) to ultramaraton. Lokalizacja: Langenhagen, Niemcy. Termin: niedziela, 20 grudnia 2026. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Langenhagen, Niemcy, niedziela, 20 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Langenhagen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kananoher FortyFive (4x3)",
+  "registrationUrl": null,
+  "slug": "kananoher-fortyfive-4x3-de",
+  "source": {
+    "fetchedAt": "2026-10-07T13:36:14.026Z",
+    "id": "duv",
+    "ref": "136598",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136598"
+  },
+  "start": {
+    "lat": 52.443118,
+    "lon": 9.738994,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": null
+}

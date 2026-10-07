@@ -10,10 +10,11 @@
     }
   },
   "createdAt": "2026-09-07T18:15:31.685Z",
-  "date": "2026-10-03",
+  "date": "2027-10-02",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m"
+    "u100m",
+    "u100k"
   ],
   "endDate": null,
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=283",
   "slug": "angeles-crest-100-mile-endurance-run-us",
   "source": {
-    "fetchedAt": "2026-09-07T18:15:39.148Z",
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
     "id": "runraceusa",
     "ref": "angeles-crest-100-mile-endurance-run-ca",
     "url": "https://ultrasignup.com/register.aspx?eid=283"
@@ -46,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T18:15:31.685Z",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
   "website": "https://ultrasignup.com/register.aspx?eid=283"
 }

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "BOOKING IT Through the Bluff is a road race. Location: Hokes Bluff, United States. Date: Saturday, 3 April 2027. Distances: 42.2 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hokes Bluff, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "BOOKING IT Through the Bluff to bieg uliczny. Lokalizacja: Hokes Bluff, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 42.2 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hokes Bluff, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hokes Bluff",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "BOOKING IT Through the Bluff",
+  "registrationUrl": "https://runsignup.com/Race/AL/HokesBluff/BOOKINTHRUBLUFF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "booking-it-through-the-bluff-us",
+  "source": {
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
+    "id": "runraceusa",
+    "ref": "booking-it-through-the-bluff-al",
+    "url": "https://runsignup.com/Race/AL/HokesBluff/BOOKINTHRUBLUFF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.98,
+    "lon": -85.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": "https://runsignup.com/Race/AL/HokesBluff/BOOKINTHRUBLUFF?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Haulin Aspen is a road race. Location: Bend, United States. Date: Saturday, 7 August 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bend, United States, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "Haulin Aspen to bieg uliczny. Lokalizacja: Bend, Stany Zjednoczone. Termin: sobota, 7 sierpnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bend, Stany Zjednoczone, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-07T13:35:45.220Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Haulin Aspen",
+  "registrationUrl": "https://runsignup.com/Race/OR/Bend/HaulinAspen?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "haulin-aspen-us",
+  "source": {
+    "fetchedAt": "2026-10-07T13:35:55.769Z",
+    "id": "runraceusa",
+    "ref": "haulin-aspen-or",
+    "url": "https://runsignup.com/Race/OR/Bend/HaulinAspen?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.09,
+    "lon": -121.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "website": "https://runsignup.com/Race/OR/Bend/HaulinAspen?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

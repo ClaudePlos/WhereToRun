@@ -1016,6 +1016,12 @@
     "lon": 12.353353,
     "name": "Alt Schwerin, Malchow, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland"
   },
+  "DE|bad belzig": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 52.1405622,
+    "lon": 12.5865873,
+    "name": "Bad Belzig, Potsdam-Mittelmark, Brandenburg, 14806, Deutschland"
+  },
   "DE|berlin": {
     "at": "2026-09-12T10:56:17.596Z",
     "lat": 52.5173885,
@@ -1057,6 +1063,12 @@
     "lat": 51.9458943,
     "lon": 7.1691108,
     "name": "Coesfeld, Kreis Coesfeld, Nordrhein-Westfalen, 48653, Deutschland"
+  },
+  "DE|diespeck": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 49.5989613,
+    "lon": 10.6260122,
+    "name": "Diespeck, Diespeck (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Bayern, 91456, Deutschland"
   },
   "DE|dissen": {
     "at": "2026-09-20T16:48:23.963Z",
@@ -1130,6 +1142,12 @@
     "lon": 9.4978479,
     "name": "Kassel, Hessen, Deutschland"
   },
+  "DE|laatzen": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 52.3078258,
+    "lon": 9.8146181,
+    "name": "Laatzen, Region Hannover, Niedersachsen, 30880, Deutschland"
+  },
   "DE|langenhagen": {
     "at": "2026-09-29T00:21:11.790Z",
     "lat": 52.443118,
@@ -1160,6 +1178,12 @@
     "lon": 11.5753822,
     "name": "München, Bayern, Deutschland"
   },
+  "DE|neustadt an der weinstraße": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 49.3536057,
+    "lon": 8.1360247,
+    "name": "Neustadt an der Weinstraße, Rheinland-Pfalz, Deutschland"
+  },
   "DE|northeim": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 51.7056794,
@@ -1172,14 +1196,35 @@
     "lon": 10.8809805,
     "name": "Oldenburg in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23758, Deutschland"
   },
+  "DE|osterode am harz": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 51.72784,
+    "lon": 10.2508204,
+    "name": "Osterode am Harz, Landkreis Göttingen, Niedersachsen, 37520, Deutschland"
+  },
+  "DE|potsdam": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 52.4009309,
+    "lon": 13.0591397,
+    "name": "Potsdam, Brandenburg, Deutschland"
+  },
   "DE|reit im winkl": {
     "at": "2026-09-20T22:25:00.188Z",
     "lat": 47.6672406,
     "lon": 12.5256511,
     "name": "Reit im Winkl, Landkreis Traunstein, Bayern, 83242, Deutschland"
   },
+  "DE|remagen": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 50.5792112,
+    "lon": 7.2286788,
+    "name": "Remagen, Landkreis Ahrweiler, Rheinland-Pfalz, 53424, Deutschland"
+  },
   "DE|remshalden-grunbach": {
     "at": "2026-09-20T22:25:00.188Z"
+  },
+  "DE|rodgau-weiskirchen": {
+    "at": "2026-10-07T13:35:45.220Z"
   },
   "DE|rothenburg o.t.": {
     "at": "2026-09-29T00:21:11.790Z",
@@ -1201,6 +1246,12 @@
     "lat": 52.8991792,
     "lon": 9.018542,
     "name": "Schwarme, Samtgemeinde Bruchhausen-Vilsen, Landkreis Diepholz, Niedersachsen, Deutschland"
+  },
+  "DE|schweigen-rechtenbach": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 49.0545613,
+    "lon": 7.9560342,
+    "name": "Schweigen-Rechtenbach, Bad Bergzabern, Landkreis Südliche Weinstraße, Rheinland-Pfalz, Deutschland"
   },
   "DE|sprockhövel": {
     "at": "2026-09-12T10:56:17.596Z",
@@ -1228,6 +1279,12 @@
     "lat": 47.9844315,
     "lon": 8.8186606,
     "name": "Tuttlingen, VVG der Stadt Tuttlingen, Landkreis Tuttlingen, Baden-Württemberg, 78532, Deutschland"
+  },
+  "DE|waiblingen": {
+    "at": "2026-10-07T13:35:45.220Z",
+    "lat": 48.8325659,
+    "lon": 9.3163822,
+    "name": "Waiblingen, Rems-Murr-Kreis, Baden-Württemberg, Deutschland"
   },
   "DE|werl": {
     "at": "2026-09-12T10:56:17.596Z",
