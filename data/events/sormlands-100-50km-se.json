@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sörmlands 100 - 50km is a ultramarathon. Location: Nyköping, Sweden. Date: Saturday, 11 September 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Nyköping, Sweden, Saturday, 11 September 2027"
+    },
+    "pl": {
+      "description": "Sörmlands 100 - 50km to ultramaraton. Lokalizacja: Nyköping, Szwecja. Termin: sobota, 11 września 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Nyköping, Szwecja, sobota, 11 września 2027"
+    }
+  },
+  "createdAt": "2026-10-07T19:21:02.295Z",
+  "date": "2027-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Nyköping",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sörmlands 100 - 50km",
+  "registrationUrl": null,
+  "slug": "sormlands-100-50km-se",
+  "source": {
+    "fetchedAt": "2026-10-07T19:21:23.349Z",
+    "id": "duv",
+    "ref": "135873",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135873"
+  },
+  "start": {
+    "lat": 58.754541,
+    "lon": 17.012066,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "website": null
+}

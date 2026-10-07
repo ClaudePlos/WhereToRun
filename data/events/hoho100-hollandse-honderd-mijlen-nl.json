@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "HoHo100 - Hollandse Honderd Mijlen is a ultramarathon. Location: Amersfoort, Netherlands. Date: 6 February 2027 – 7 February 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Amersfoort, Netherlands, 6 February 2027 – 7 February 2027"
+    },
+    "pl": {
+      "description": "HoHo100 - Hollandse Honderd Mijlen to ultramaraton. Lokalizacja: Amersfoort, Holandia. Termin: 6 lutego 2027 – 7 lutego 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Amersfoort, Holandia, 6 lutego 2027 – 7 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-07T19:21:02.295Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-02-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "HoHo100 - Hollandse Honderd Mijlen",
+  "registrationUrl": null,
+  "slug": "hoho100-hollandse-honderd-mijlen-nl",
+  "source": {
+    "fetchedAt": "2026-10-07T19:21:23.348Z",
+    "id": "duv",
+    "ref": "136465",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136465"
+  },
+  "start": {
+    "lat": 52.16377,
+    "lon": 5.408885,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "website": null
+}

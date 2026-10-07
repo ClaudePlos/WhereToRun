@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Swissalpine Flims K78 is a ultramarathon. Location: Flims, Switzerland. Date: 17 July 2027 – 18 July 2027. Distances: 78 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Flims, Switzerland, 17 July 2027 – 18 July 2027"
+    },
+    "pl": {
+      "description": "Swissalpine Flims K78 to ultramaraton. Lokalizacja: Flims, Szwajcaria. Termin: 17 lipca 2027 – 18 lipca 2027. Dystanse: 78 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Flims, Szwajcaria, 17 lipca 2027 – 18 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-07T19:21:02.295Z",
+  "date": "2027-07-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "78 km"
+  ],
+  "endDate": "2027-07-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Flims",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Swissalpine Flims K78",
+  "registrationUrl": null,
+  "slug": "swissalpine-flims-k78-ch",
+  "source": {
+    "fetchedAt": "2026-10-07T19:21:23.348Z",
+    "id": "duv",
+    "ref": "136643",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136643"
+  },
+  "start": {
+    "lat": 46.833244,
+    "lon": 9.283456,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "website": null
+}

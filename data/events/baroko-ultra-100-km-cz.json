@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Baroko Ultra 100 km is a ultramarathon. Location: Plasy, Czechia. Date: Saturday, 4 September 2027. Distances: 102 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Plasy, Czechia, Saturday, 4 September 2027"
+    },
+    "pl": {
+      "description": "Baroko Ultra 100 km to ultramaraton. Lokalizacja: Plasy, Czechy. Termin: sobota, 4 września 2027. Dystanse: 102 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Plasy, Czechy, sobota, 4 września 2027"
+    }
+  },
+  "createdAt": "2026-10-07T19:21:02.295Z",
+  "date": "2027-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "102 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Plasy",
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Baroko Ultra 100 km",
+  "registrationUrl": null,
+  "slug": "baroko-ultra-100-km-cz",
+  "source": {
+    "fetchedAt": "2026-10-07T19:21:23.347Z",
+    "id": "duv",
+    "ref": "136601",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136601"
+  },
+  "start": {
+    "lat": 49.934111,
+    "lon": 13.388955,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "website": null
+}

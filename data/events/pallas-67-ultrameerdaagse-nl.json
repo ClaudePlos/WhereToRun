@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pallas 67 Ultrameerdaagse is a ultramarathon. Location: Assen, Netherlands. Date: 5 May 2027 – 9 May 2027. Distances: 270 km, 5Etappen. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Assen, Netherlands, 5 May 2027 – 9 May 2027"
+    },
+    "pl": {
+      "description": "Pallas 67 Ultrameerdaagse to ultramaraton. Lokalizacja: Assen, Holandia. Termin: 5 maja 2027 – 9 maja 2027. Dystanse: 270 km, 5Etappen. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Assen, Holandia, 5 maja 2027 – 9 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-07T19:21:02.295Z",
+  "date": "2027-05-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "270 km",
+    "5Etappen"
+  ],
+  "endDate": "2027-05-09",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Assen",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Pallas 67 Ultrameerdaagse",
+  "registrationUrl": null,
+  "slug": "pallas-67-ultrameerdaagse-nl",
+  "source": {
+    "fetchedAt": "2026-10-07T19:21:23.349Z",
+    "id": "duv",
+    "ref": "132065",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132065"
+  },
+  "start": {
+    "lat": 52.995227,
+    "lon": 6.560498,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "website": null
+}
