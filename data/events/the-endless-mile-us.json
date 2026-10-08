@@ -10,10 +10,12 @@
     }
   },
   "createdAt": "2026-09-04T22:20:28.980Z",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
-    "48 h"
+    "24 h",
+    "12 h",
+    "6 h"
   ],
   "endDate": "2026-10-25",
   "featured": false,
@@ -30,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64138",
   "slug": "the-endless-mile-us",
   "source": {
-    "fetchedAt": "2026-10-08T00:11:04.653Z",
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
     "id": "ultrasignup",
     "ref": "5916",
     "url": "https://ultrasignup.com/register.aspx?did=64138"
@@ -46,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-08T00:10:56.747Z",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
   "website": "http://www.southeasterntrailruns.com"
 }

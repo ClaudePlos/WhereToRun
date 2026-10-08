@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "PPTC Endurance Fest is a ultramarathon. Location: Brooklyn, United States. Date: Sunday, 6 December 2026. Distances: 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brooklyn, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "PPTC Endurance Fest to ultramaraton. Lokalizacja: Brooklyn, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brooklyn, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooklyn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "PPTC Endurance Fest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66703",
+  "slug": "pptc-endurance-fest-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "13318",
+    "url": "https://ultrasignup.com/register.aspx?did=66703"
+  },
+  "start": {
+    "lat": 40.66,
+    "lon": -73.9637,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://pptc.org/50-miler"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mid-Maryland Trail Festival 50k and 50k Relay is a trail race. Location: Elkridge, United States. Date: Saturday, 6 February 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Elkridge, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Mid-Maryland Trail Festival 50k and 50k Relay to bieg trailowy. Lokalizacja: Elkridge, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Elkridge, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elkridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Mid-Maryland Trail Festival 50k and 50k Relay",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3197",
+  "slug": "mid-maryland-trail-festival-50k-and-50k-relay-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:42.741Z",
+    "id": "runraceusa",
+    "ref": "mid-maryland-trail-festival-50k-and-50k-relay-md",
+    "url": "https://ultrasignup.com/register.aspx?eid=3197"
+  },
+  "start": {
+    "lat": 39.22,
+    "lon": -76.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3197"
+}

@@ -13,8 +13,8 @@
   "date": "2026-12-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other",
+    "50 km",
+    "30 km",
     "10 km"
   ],
   "endDate": null,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Salem 50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19311",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68235",
   "slug": "salem-50k-us",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:20.576Z",
-    "id": "runraceusa",
-    "ref": "salem-50k-or",
-    "url": "https://ultrasignup.com/register.aspx?eid=19311"
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "19311",
+    "url": "https://ultrasignup.com/register.aspx?did=68235"
   },
   "start": {
-    "lat": 44.93,
-    "lon": -123.04,
+    "lat": 44.9314,
+    "lon": -123.038,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19311"
+  "type": "ultra",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "http://www.angryowlrunning.com"
 }

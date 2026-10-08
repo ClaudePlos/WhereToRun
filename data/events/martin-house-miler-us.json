@@ -13,6 +13,7 @@
   "date": "2026-10-11",
   "dateStatus": "confirmed",
   "distances": [
+    "1 h",
     "12 h",
     "3 h",
     "6 h"
@@ -32,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66407",
   "slug": "martin-house-miler-us",
   "source": {
-    "fetchedAt": "2026-10-08T00:11:04.653Z",
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
     "id": "ultrasignup",
     "ref": "20297",
     "url": "https://ultrasignup.com/register.aspx?did=66407"
@@ -48,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-08T00:10:56.747Z",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
   "website": "https://www.riseracingco.com/martin-house-miler"
 }

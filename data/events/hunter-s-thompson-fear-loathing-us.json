@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hunter S. Thompson Fear & Loathing is a ultramarathon. Location: San Francisco, United States. Date: Sunday, 6 December 2026. Distances: 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Francisco, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Hunter S. Thompson Fear & Loathing to ultramaraton. Lokalizacja: San Francisco, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Francisco, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Hunter S. Thompson Fear & Loathing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67520",
+  "slug": "hunter-s-thompson-fear-loathing-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "1412",
+    "url": "https://ultrasignup.com/register.aspx?did=67520"
+  },
+  "start": {
+    "lat": 37.7544,
+    "lon": -122.448,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "http://www.run100s.com/hst.htm"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pine Mountain Trail Run is a ultramarathon. Location: Pine Mountain, United States. Date: Sunday, 6 December 2026. Distances: 46 Miler OG Invitational, 64.4 km, 30.6 km, 10K Trail Open. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pine Mountain, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Pine Mountain Trail Run to ultramaraton. Lokalizacja: Pine Mountain, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 46 Miler OG Invitational, 64.4 km, 30.6 km, 10K Trail Open. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pine Mountain, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 Miler OG Invitational",
+    "64.4 km",
+    "30.6 km",
+    "10K Trail Open"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pine Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Pine Mountain Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65726",
+  "slug": "pine-mountain-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "16",
+    "url": "https://ultrasignup.com/register.aspx?did=65726"
+  },
+  "start": {
+    "lat": 32.8474,
+    "lon": -84.811,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://www.getguts.com/race/pine-mountain-trail-runs"
+}

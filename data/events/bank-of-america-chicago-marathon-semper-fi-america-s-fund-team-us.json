@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bank of America Chicago Marathon Semper Fi & America's Fund Team is a road race. Location: Chicago, United States. Date: Friday, 8 October 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chicago, United States, Friday, 8 October 2027"
+    },
+    "pl": {
+      "description": "Bank of America Chicago Marathon Semper Fi & America's Fund Team to bieg uliczny. Lokalizacja: Chicago, Stany Zjednoczone. Termin: piątek, 8 października 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chicago, Stany Zjednoczone, piątek, 8 października 2027"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2027-10-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Bank of America Chicago Marathon Semper Fi & America's Fund Team",
+  "registrationUrl": "https://runsignup.com/Race/IL/Chicago/BankofAmericaChicagoMarathonSemperFiAmericasFundTeam2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bank-of-america-chicago-marathon-semper-fi-america-s-fund-team-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:42.741Z",
+    "id": "runraceusa",
+    "ref": "bank-of-america-chicago-marathon-semper-fi-america-s-fund-team-il",
+    "url": "https://runsignup.com/Race/IL/Chicago/BankofAmericaChicagoMarathonSemperFiAmericasFundTeam2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.88,
+    "lon": -87.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://runsignup.com/Race/IL/Chicago/BankofAmericaChicagoMarathonSemperFiAmericasFundTeam2024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -13,7 +13,9 @@
   "date": "2026-12-11",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Last One Standing Relay (4 Person)",
+    "Last One Standing Relay (2 Person)",
+    "Last One Standing Kid's Ev"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +29,25 @@
   },
   "manual": false,
   "name": "Last One Standing 10K+ Ultra Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9333",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64606",
   "slug": "last-one-standing-10k-ultra-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-13T12:01:34.232Z",
-    "id": "runraceusa",
-    "ref": "last-one-standing-10k-ultra-marathon-ut",
-    "url": "https://ultrasignup.com/register.aspx?eid=9333"
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "9333",
+    "url": "https://ultrasignup.com/register.aspx?did=64606"
   },
   "start": {
-    "lat": 37.07,
-    "lon": -113.58,
+    "lat": 37.0747,
+    "lon": -113.584,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-13T12:01:25.177Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=9333"
+  "type": "road",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://sgcityutah.gov/activity/recreation/st._george_races/last_one_standing_ultra.php"
 }

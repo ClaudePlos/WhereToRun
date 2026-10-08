@@ -13,8 +13,9 @@
   "date": "2026-12-05",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50k"
+    "Nature Coast 100k",
+    "Nature Coast 50k",
+    "Nature Coast 50K Ruck"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "Nature Coast 100k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20737",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67831",
   "slug": "nature-coast-100k-us",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:20.576Z",
-    "id": "runraceusa",
-    "ref": "nature-coast-100k-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=20737"
+    "fetchedAt": "2026-10-08T13:41:41.592Z",
+    "id": "ultrasignup",
+    "ref": "20737",
+    "url": "https://ultrasignup.com/register.aspx?did=67831"
   },
   "start": {
-    "lat": 29.55,
-    "lon": -82.9,
+    "lat": 29.5532,
+    "lon": -82.9034,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20737"
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://www.combatracingevents.com"
 }

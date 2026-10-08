@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "RUN ROCKAWAY BEACH NYC END OF SUMMER MARATHON, HALF MARATHON & 5K is a road race. Location: Rockaway BEACH, United States. Date: Saturday, 21 August 2027. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rockaway BEACH, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "RUN ROCKAWAY BEACH NYC END OF SUMMER MARATHON, HALF MARATHON & 5K to bieg uliczny. Lokalizacja: Rockaway BEACH, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rockaway BEACH, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-08T13:41:33.334Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockaway BEACH",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "RUN ROCKAWAY BEACH NYC END OF SUMMER MARATHON, HALF MARATHON & 5K",
+  "registrationUrl": "https://runsignup.com/Race/NY/RockawayBEACH/ROCKAWAYBEACHENDOFSUMMERMARATHONHALFMARATHON5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-rockaway-beach-nyc-end-of-summer-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-10-08T13:41:42.741Z",
+    "id": "runraceusa",
+    "ref": "run-rockaway-beach-nyc-end-of-summer-marathon-half-marathon-5k-ny",
+    "url": "https://runsignup.com/Race/NY/RockawayBEACH/ROCKAWAYBEACHENDOFSUMMERMARATHONHALFMARATHON5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.61,
+    "lon": -73.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-08T13:41:33.334Z",
+  "website": "https://runsignup.com/Race/NY/RockawayBEACH/ROCKAWAYBEACHENDOFSUMMERMARATHONHALFMARATHON5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
