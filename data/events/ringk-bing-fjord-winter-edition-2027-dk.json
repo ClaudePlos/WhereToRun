@@ -13,14 +13,14 @@
   "date": "2027-01-09",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Ringkøbing",
+    "city": "Nymindegab",
     "country": "Denmark",
     "countryCode": "DK",
     "region": null
@@ -30,14 +30,14 @@
   "registrationUrl": null,
   "slug": "ringk-bing-fjord-winter-edition-2027-dk",
   "source": {
-    "fetchedAt": "2026-10-02T12:49:21.066Z",
+    "fetchedAt": "2026-10-08T00:11:17.001Z",
     "id": "duv",
-    "ref": "135989",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135989"
+    "ref": "135988",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135988"
   },
   "start": {
-    "lat": 56.090571,
-    "lon": 8.254064,
+    "lat": 55.815733,
+    "lon": 8.19879,
     "name": null,
     "precision": "city"
   },
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-02T12:48:58.775Z",
+  "updatedAt": "2026-10-08T00:10:56.747Z",
   "website": null
 }

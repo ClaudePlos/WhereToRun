@@ -15,6 +15,7 @@
   "distances": [
     "50",
     "50 Challenge",
+    "PACER REGISTRATION",
     "50 km",
     "1",
     "2 Marathon"
@@ -34,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63872",
   "slug": "flatrock-georgia-us",
   "source": {
-    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "fetchedAt": "2026-10-08T00:11:04.653Z",
     "id": "ultrasignup",
     "ref": "16540",
     "url": "https://ultrasignup.com/register.aspx?did=63872"
@@ -50,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "updatedAt": "2026-10-08T00:10:56.747Z",
   "website": "https://www.wolfpeakoutdoors.com/flatrock"
 }
