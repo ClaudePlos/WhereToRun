@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Frigid Beast Feast is a ultramarathon. Location: Springfield, United States. Date: 11 December 2026 – 13 December 2026. Distances: 241.4 km, 164.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Springfield, United States, 11 December 2026 – 13 December 2026"
+    },
+    "pl": {
+      "description": "Frigid Beast Feast to ultramaraton. Lokalizacja: Springfield, Stany Zjednoczone. Termin: 11 grudnia 2026 – 13 grudnia 2026. Dystanse: 241.4 km, 164.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Springfield, Stany Zjednoczone, 11 grudnia 2026 – 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-08T19:17:01.127Z",
+  "date": "2026-12-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "241.4 km",
+    "164.2 km"
+  ],
+  "endDate": "2026-12-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Springfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Frigid Beast Feast",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64556",
+  "slug": "frigid-beast-feast-us",
+  "source": {
+    "fetchedAt": "2026-10-08T19:17:09.736Z",
+    "id": "ultrasignup",
+    "ref": "19778",
+    "url": "https://ultrasignup.com/register.aspx?did=64556"
+  },
+  "start": {
+    "lat": 30.3815,
+    "lon": -90.6312,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-08T19:17:01.127Z",
+  "website": "https://www.facebook.com/groups/252134567555520"
+}
