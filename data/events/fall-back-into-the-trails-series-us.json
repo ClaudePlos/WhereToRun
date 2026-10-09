@@ -10,10 +10,11 @@
     }
   },
   "createdAt": "2026-09-10T22:34:00.117Z",
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km"
+    "50 km",
+    "10 km"
   ],
   "endDate": "2026-11-01",
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64059",
   "slug": "fall-back-into-the-trails-series-us",
   "source": {
-    "fetchedAt": "2026-10-08T19:17:09.736Z",
+    "fetchedAt": "2026-10-09T00:21:02.927Z",
     "id": "ultrasignup",
     "ref": "8083",
     "url": "https://ultrasignup.com/register.aspx?did=64059"
@@ -46,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-08T19:17:01.127Z",
+  "updatedAt": "2026-10-09T00:20:53.142Z",
   "website": "https://www.ctwendurance.com/"
 }
