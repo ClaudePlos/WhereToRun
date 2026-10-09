@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Raquette River Marathon, Half, 10k, and 5k is a road race. Location: Potsdam, United States. Date: Saturday, 9 October 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Potsdam, United States, Saturday, 9 October 2027"
+    },
+    "pl": {
+      "description": "Raquette River Marathon, Half, 10k, and 5k to bieg uliczny. Lokalizacja: Potsdam, Stany Zjednoczone. Termin: sobota, 9 października 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Potsdam, Stany Zjednoczone, sobota, 9 października 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Potsdam",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Raquette River Marathon, Half, 10k, and 5k",
+  "registrationUrl": "https://runsignup.com/Race/NY/Potsdam/RaquetteRiverMarathonHalf10kand5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "raquette-river-marathon-half-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "raquette-river-marathon-half-10k-and-5k-ny",
+    "url": "https://runsignup.com/Race/NY/Potsdam/RaquetteRiverMarathonHalf10kand5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.66,
+    "lon": -74.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://runsignup.com/Race/NY/Potsdam/RaquetteRiverMarathonHalf10kand5k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

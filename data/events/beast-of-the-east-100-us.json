@@ -13,9 +13,9 @@
   "date": "2026-12-12",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50m",
+    "160.9 km",
+    "100 km",
+    "80.5 km",
     "42.2 km",
     "21.1 km"
   ],
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Beast of the East 100",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8781",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64619",
   "slug": "beast-of-the-east-100-us",
   "source": {
-    "fetchedAt": "2026-09-13T12:01:34.232Z",
-    "id": "runraceusa",
-    "ref": "beast-of-the-east-100-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=8781"
+    "fetchedAt": "2026-10-09T13:26:48.978Z",
+    "id": "ultrasignup",
+    "ref": "8781",
+    "url": "https://ultrasignup.com/register.aspx?did=64619"
   },
   "start": {
-    "lat": 35.17,
-    "lon": -81.37,
+    "lat": 35.1704,
+    "lon": -81.3653,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-13T12:01:25.177Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=8781"
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://dirtywolfracing.com"
 }

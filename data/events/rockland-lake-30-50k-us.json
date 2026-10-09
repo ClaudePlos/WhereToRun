@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T17:15:45.729Z",
-  "date": "2026-10-10",
+  "date": "2027-10-09",
   "dateStatus": "confirmed",
   "distances": [
     "u50k",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "rockland-lake-30-50k-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
     "id": "runraceusa",
     "ref": "rockland-lake-30-50k-ny",
     "url": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
   "website": "https://runsignup.com/Race/NY/ValleyCottage/RocklandLakeStateParkUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

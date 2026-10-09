@@ -13,9 +13,12 @@
   "date": "2026-12-12",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
+    "50K Early Start",
+    "Marathon - Early Start",
     "42.2 km",
-    "21.1 km"
+    "1",
+    "2 Marathon"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +32,25 @@
   },
   "manual": false,
   "name": "PIGTAILS RUN",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2074",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64598",
   "slug": "pigtails-run-us",
   "source": {
-    "fetchedAt": "2026-09-13T12:01:34.232Z",
-    "id": "runraceusa",
-    "ref": "pigtails-run-wa",
-    "url": "https://ultrasignup.com/register.aspx?eid=2074"
+    "fetchedAt": "2026-10-09T13:26:48.978Z",
+    "id": "ultrasignup",
+    "ref": "2074",
+    "url": "https://ultrasignup.com/register.aspx?did=64598"
   },
   "start": {
-    "lat": 47.39,
-    "lon": -122.05,
+    "lat": 47.3903,
+    "lon": -122.045,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-13T12:01:25.177Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2074"
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://aprilgraves22.wpcomstaging.com/2025/12/12/2026-pigtails-run/"
 }

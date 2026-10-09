@@ -13,7 +13,7 @@
   "date": "2026-11-28",
   "dateStatus": "confirmed",
   "distances": [
-    "70 km"
+    "50 km"
   ],
   "endDate": "2026-11-29",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "trail-des-lenggeng-my",
   "source": {
-    "fetchedAt": "2026-10-06T13:25:53.052Z",
+    "fetchedAt": "2026-10-09T13:26:56.683Z",
     "id": "duv",
-    "ref": "135116",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135116"
+    "ref": "135115",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135115"
   },
   "start": {
     "lat": 2.861427,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
   "website": null
 }

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Whiteface Mountain Races is a trail race. Location: Wilmington, United States. Date: Saturday, 22 May 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Wilmington, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Whiteface Mountain Races to bieg trailowy. Lokalizacja: Wilmington, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Wilmington, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wilmington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Whiteface Mountain Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4810",
+  "slug": "whiteface-mountain-races-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "whiteface-mountain-races-ny",
+    "url": "https://ultrasignup.com/register.aspx?eid=4810"
+  },
+  "start": {
+    "lat": 44.35,
+    "lon": -73.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4810"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Bell Ringer Trail Run is a ultramarathon. Location: Montgomery Bell State Park, United States. Date: Saturday, 12 December 2026. Distances: 50 km, 25 km, 15 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Montgomery Bell State Park, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Bell Ringer Trail Run to ultramaraton. Lokalizacja: Montgomery Bell State Park, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 50 km, 25 km, 15 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Montgomery Bell State Park, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "15 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montgomery Bell State Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Bell Ringer Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65563",
+  "slug": "bell-ringer-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:48.978Z",
+    "id": "ultrasignup",
+    "ref": "4478",
+    "url": "https://ultrasignup.com/register.aspx?did=65563"
+  },
+  "start": {
+    "lat": 36.0989,
+    "lon": -87.2742,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://www.bellringertrailrun.com/"
+}

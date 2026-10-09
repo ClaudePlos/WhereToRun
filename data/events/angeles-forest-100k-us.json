@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Angeles Forest 100K is a trail race. Location: Altadena, United States. Date: Saturday, 20 March 2027. Distances: u100k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Altadena, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Angeles Forest 100K to bieg trailowy. Lokalizacja: Altadena, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u100k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Altadena, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Altadena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Angeles Forest 100K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21097",
+  "slug": "angeles-forest-100k-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "angeles-forest-100k-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=21097"
+  },
+  "start": {
+    "lat": 34.2,
+    "lon": -118.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21097"
+}

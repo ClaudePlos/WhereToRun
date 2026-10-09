@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Spring Awakening Backyard Ultra and Relay is a ultramarathon. Location: Vashon, United States. Date: Saturday, 20 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Vashon, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Spring Awakening Backyard Ultra and Relay to ultramaraton. Lokalizacja: Vashon, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Vashon, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vashon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Spring Awakening Backyard Ultra and Relay",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21152",
+  "slug": "spring-awakening-backyard-ultra-and-relay-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "spring-awakening-backyard-ultra-and-relay-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=21152"
+  },
+  "start": {
+    "lat": 47.43,
+    "lon": -122.47,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21152"
+}

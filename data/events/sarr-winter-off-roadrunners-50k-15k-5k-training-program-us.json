@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "SARR Winter Off-RoadRunners 50K/15K/5K Training Program is a road race. Location: San Antonio, United States. Date: Saturday, 2 January 2027. Distances: u50k, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Antonio, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "SARR Winter Off-RoadRunners 50K/15K/5K Training Program to bieg uliczny. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: u50k, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Antonio, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "SARR Winter Off-RoadRunners 50K/15K/5K Training Program",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SARROffRoadRunnersTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sarr-winter-off-roadrunners-50k-15k-5k-training-program-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "sarr-winter-off-roadrunners-50k-15k-5k-training-program-tx",
+    "url": "https://runsignup.com/Race/TX/SanAntonio/SARROffRoadRunnersTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.59,
+    "lon": -98.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/SARROffRoadRunnersTrainingProgram?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

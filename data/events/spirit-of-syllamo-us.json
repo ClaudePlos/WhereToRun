@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Spirit of Syllamo is a ultramarathon. Location: Norfork, United States. Date: Saturday, 12 December 2026. Distances: 160.9 km, 61.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Norfork, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Spirit of Syllamo to ultramaraton. Lokalizacja: Norfork, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 160.9 km, 61.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Norfork, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "61.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Norfork",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Spirit of Syllamo",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65251",
+  "slug": "spirit-of-syllamo-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:48.978Z",
+    "id": "ultrasignup",
+    "ref": "15009",
+    "url": "https://ultrasignup.com/register.aspx?did=65251"
+  },
+  "start": {
+    "lat": 35.9692,
+    "lon": -92.1735,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://www.syllamoevents.com/spirit-1"
+}

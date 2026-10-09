@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Fox Hourglass Ultra is a ultramarathon. Location: Suamico, United States. Date: Saturday, 9 October 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Suamico, United States, Saturday, 9 October 2027"
+    },
+    "pl": {
+      "description": "Fox Hourglass Ultra to ultramaraton. Lokalizacja: Suamico, Stany Zjednoczone. Termin: sobota, 9 października 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Suamico, Stany Zjednoczone, sobota, 9 października 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-10-09",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Suamico",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Fox Hourglass Ultra",
+  "registrationUrl": "https://runsignup.com/Race/WI/Suamico/FoxHourglassUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fox-hourglass-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "fox-hourglass-ultra-wi",
+    "url": "https://runsignup.com/Race/WI/Suamico/FoxHourglassUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.64,
+    "lon": -88.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://runsignup.com/Race/WI/Suamico/FoxHourglassUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

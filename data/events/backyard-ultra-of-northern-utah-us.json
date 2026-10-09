@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Backyard Ultra of Northern Utah is a ultramarathon. Location: Mantua, United States. Date: Saturday, 22 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mantua, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Backyard Ultra of Northern Utah to ultramaraton. Lokalizacja: Mantua, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mantua, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-09T13:26:42.112Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mantua",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Backyard Ultra of Northern Utah",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19316",
+  "slug": "backyard-ultra-of-northern-utah-us",
+  "source": {
+    "fetchedAt": "2026-10-09T13:26:49.754Z",
+    "id": "runraceusa",
+    "ref": "backyard-ultra-of-northern-utah-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=19316"
+  },
+  "start": {
+    "lat": 41.51,
+    "lon": -111.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T13:26:42.112Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19316"
+}

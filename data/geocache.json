@@ -236,6 +236,9 @@
   "AU|cairns, qld": {
     "at": "2026-09-25T17:57:24.902Z"
   },
+  "AU|cape schanck, vic": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
   "AU|collie, wa": {
     "at": "2026-09-17T11:51:05.899Z"
   },
@@ -247,6 +250,9 @@
   },
   "AU|dennes point, tas": {
     "at": "2026-10-06T23:47:06.887Z"
+  },
+  "AU|dunsborough, wa": {
+    "at": "2026-10-09T13:26:42.112Z"
   },
   "AU|eden, nsw": {
     "at": "2026-10-06T18:54:53.667Z"
@@ -287,11 +293,17 @@
   "AU|marysville, vic": {
     "at": "2026-10-06T18:54:53.667Z"
   },
+  "AU|melbourne, vic": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
   "AU|mile end south, sa": {
     "at": "2026-09-17T11:51:05.899Z"
   },
   "AU|mount victoria, nsw": {
     "at": "2026-09-25T23:17:23.268Z"
+  },
+  "AU|mt beauty, vic": {
+    "at": "2026-10-09T13:26:42.112Z"
   },
   "AU|mt macedon, vic": {
     "at": "2026-09-17T11:51:05.899Z"
@@ -323,6 +335,9 @@
   "AU|pembrooke, nsw": {
     "at": "2026-09-25T23:17:23.268Z"
   },
+  "AU|perth, wa": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
   "AU|portland, vic": {
     "at": "2026-09-25T23:17:23.268Z"
   },
@@ -344,6 +359,9 @@
   "AU|telegraph point, nsw": {
     "at": "2026-09-25T23:17:23.268Z"
   },
+  "AU|toogoolawah, qld": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
   "AU|toowoomba, qld": {
     "at": "2026-09-17T11:51:05.899Z"
   },
@@ -352,6 +370,12 @@
   },
   "AU|tumbarumba, nsw": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|waratah, tas": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
+  "AU|wilsons promontory, vic": {
+    "at": "2026-10-09T13:26:42.112Z"
   },
   "AU|yellagonga regional park, wa": {
     "at": "2026-09-03T11:24:47.198Z"
@@ -2645,6 +2669,9 @@
     "lon": 101.8953251,
     "name": "Syarikat Perusahaan Kayu Bentong (Pahang) Sdn Bhd, Bentong, Pahang, Malaysia"
   },
+  "MY|bukit jugra": {
+    "at": "2026-10-09T13:26:42.112Z"
+  },
   "MY|bukit kiara, kuala lumpur": {
     "at": "2026-10-03T17:17:42.763Z"
   },
@@ -2677,6 +2704,9 @@
   },
   "MY|kedah": {
     "at": "2026-10-06T13:25:30.898Z"
+  },
+  "MY|kg tambatuon, kota belud": {
+    "at": "2026-10-09T13:26:42.112Z"
   },
   "MY|kluang, johor": {
     "at": "2026-10-03T23:00:55.242Z"
