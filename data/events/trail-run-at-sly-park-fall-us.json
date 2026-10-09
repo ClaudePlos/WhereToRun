@@ -14,12 +14,13 @@
   "dateStatus": "confirmed",
   "distances": [
     "50 km",
+    "50K MILE RELAY",
+    "26.2 MILE RELAY",
     "Trail Marathon",
     "27.4 km",
+    "17 MILE RELAY",
     "21.1 km",
-    "12.9 km",
-    "10 km",
-    "5 km"
+    "20.9 km"
   ],
   "endDate": null,
   "featured": false,
@@ -36,7 +37,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65471",
   "slug": "trail-run-at-sly-park-fall-us",
   "source": {
-    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "fetchedAt": "2026-10-09T18:49:35.308Z",
     "id": "ultrasignup",
     "ref": "14704",
     "url": "https://ultrasignup.com/register.aspx?did=65471"
@@ -52,6 +53,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "updatedAt": "2026-10-09T18:49:25.978Z",
   "website": "https://tctruns.com/trailrunatslypark_fall/"
 }

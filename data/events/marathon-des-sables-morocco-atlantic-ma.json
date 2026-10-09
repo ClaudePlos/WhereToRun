@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Marathon Des Sables Morocco - Atlantic is a ultramarathon. Location: Tafraout, Morocco. Date: 25 January 2027 – 28 January 2027. Distances: 120 km, 3stages. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tafraout, Morocco, 25 January 2027 – 28 January 2027"
+    },
+    "pl": {
+      "description": "Marathon Des Sables Morocco - Atlantic to ultramaraton. Lokalizacja: Tafraout, Maroko. Termin: 25 stycznia 2027 – 28 stycznia 2027. Dystanse: 120 km, 3stages. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tafraout, Maroko, 25 stycznia 2027 – 28 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-09T18:49:25.978Z",
+  "date": "2027-01-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "120 km",
+    "3stages"
+  ],
+  "endDate": "2027-01-28",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tafraout",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Marathon Des Sables Morocco - Atlantic",
+  "registrationUrl": null,
+  "slug": "marathon-des-sables-morocco-atlantic-ma",
+  "source": {
+    "fetchedAt": "2026-10-09T18:49:52.662Z",
+    "id": "duv",
+    "ref": "136667",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136667"
+  },
+  "start": {
+    "lat": 34.845784,
+    "lon": -4.871343,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-09T18:49:25.978Z",
+  "website": null
+}
