@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lookout Mountain Trail Race is a ultramarathon. Location: Lookout Mountain, United States. Date: Saturday, 19 December 2026. Distances: 80.5 km, 29 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lookout Mountain, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Lookout Mountain Trail Race to ultramaraton. Lokalizacja: Lookout Mountain, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 80.5 km, 29 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lookout Mountain, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T23:31:21.389Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "29 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lookout Mountain",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Lookout Mountain Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66931",
+  "slug": "lookout-mountain-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-10-10T23:31:29.259Z",
+    "id": "ultrasignup",
+    "ref": "2018",
+    "url": "https://ultrasignup.com/register.aspx?did=66931"
+  },
+  "start": {
+    "lat": 34.957,
+    "lon": -85.3795,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T23:31:21.389Z",
+  "website": "http://wildtrails.org/events-fundraisers/wild-trails-race-series/lookout-mountain-50-miler/"
+}
