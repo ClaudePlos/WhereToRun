@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Quiet Silence is a ultramarathon. Location: Lake Mills, United States. Date: Friday, 18 December 2026. Distances: 49.9 km, 28.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake Mills, United States, Friday, 18 December 2026"
+    },
+    "pl": {
+      "description": "Quiet Silence to ultramaraton. Lokalizacja: Lake Mills, Stany Zjednoczone. Termin: piątek, 18 grudnia 2026. Dystanse: 49.9 km, 28.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake Mills, Stany Zjednoczone, piątek, 18 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T17:51:56.289Z",
+  "date": "2026-12-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "49.9 km",
+    "28.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Mills",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Quiet Silence",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66132",
+  "slug": "quiet-silence-us",
+  "source": {
+    "fetchedAt": "2026-10-10T17:52:03.777Z",
+    "id": "ultrasignup",
+    "ref": "20211",
+    "url": "https://ultrasignup.com/register.aspx?did=66132"
+  },
+  "start": {
+    "lat": 43.0656,
+    "lon": -88.9177,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T17:51:56.289Z",
+  "website": "https://tydish.org/"
+}

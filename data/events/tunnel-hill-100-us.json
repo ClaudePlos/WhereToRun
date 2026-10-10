@@ -34,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64502",
   "slug": "tunnel-hill-100-us",
   "source": {
-    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "fetchedAt": "2026-10-10T17:52:03.777Z",
     "id": "ultrasignup",
     "ref": "4397",
     "url": "https://ultrasignup.com/register.aspx?did=64502"
@@ -50,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-22T11:50:06.240Z",
-  "website": "http://www.durbinracemanagement.com/"
+  "updatedAt": "2026-10-10T17:51:56.289Z",
+  "website": "http://www.tunnelhill100.com/"
 }
