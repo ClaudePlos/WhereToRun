@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pirate 5K, 10K, 13.1M & 26.2M at York, PA (11) is a road race. Location: York, United States. Date: Saturday, 13 March 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — York, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Pirate 5K, 10K, 13.1M & 26.2M at York, PA (11) to bieg uliczny. Lokalizacja: York, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — York, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "York",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Pirate 5K, 10K, 13.1M & 26.2M at York, PA (11)",
+  "registrationUrl": "https://runsignup.com/Race/PA/York/CouslerParkYork12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "pirate-5k-10k-13-1m-26-2m-at-york-pa-11-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:47.616Z",
+    "id": "runraceusa",
+    "ref": "pirate-5k-10k-13-1m-26-2m-at-york-pa-11-pa",
+    "url": "https://runsignup.com/Race/PA/York/CouslerParkYork12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40,
+    "lon": -76.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://runsignup.com/Race/PA/York/CouslerParkYork12?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

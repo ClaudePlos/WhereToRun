@@ -15,10 +15,9 @@
   "distances": [
     "5 km",
     "other",
-    "u50k",
-    "42.2 km",
-    "1.6 km",
     "ultra",
+    "1.6 km",
+    "42.2 km",
     "u50m"
   ],
   "endDate": null,
@@ -36,7 +35,7 @@
   "registrationUrl": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "american-triple-t-multisport-festival-us",
   "source": {
-    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "fetchedAt": "2026-10-10T12:42:47.616Z",
     "id": "runraceusa",
     "ref": "american-triple-t-multisport-festival-oh",
     "url": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -52,6 +51,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
   "website": "https://runsignup.com/Race/OH/Perrysville/AmericanTripleTMultisportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

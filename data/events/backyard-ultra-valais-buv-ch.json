@@ -10,12 +10,12 @@
     }
   },
   "createdAt": "2026-09-18T11:26:42.874Z",
-  "date": "2027-03-26",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "48 h"
   ],
-  "endDate": "2027-03-28",
+  "endDate": "2026-10-19",
   "featured": false,
   "fees": [],
   "links": [],
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "backyard-ultra-valais-buv-ch",
   "source": {
-    "fetchedAt": "2026-10-07T19:21:23.348Z",
+    "fetchedAt": "2026-10-10T12:42:54.462Z",
     "id": "duv",
-    "ref": "131414",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131414"
+    "ref": "131333",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131333"
   },
   "start": {
     "lat": 46.210498,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-07T19:21:02.295Z",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
   "website": null
 }

@@ -10,12 +10,10 @@
     }
   },
   "createdAt": "2026-09-08T11:27:32.075Z",
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra",
-    "u100m",
-    "u50m"
+    "ultra"
   ],
   "endDate": null,
   "featured": false,
@@ -29,17 +27,17 @@
   },
   "manual": false,
   "name": "Sparks Biggest Little Ultra",
-  "registrationUrl": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18546",
   "slug": "sparks-biggest-little-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "fetchedAt": "2026-10-10T12:42:47.616Z",
     "id": "runraceusa",
     "ref": "sparks-biggest-little-ultra-nv",
-    "url": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://ultrasignup.com/register.aspx?eid=18546"
   },
   "start": {
-    "lat": 39.55,
-    "lon": -119.72,
+    "lat": 39.54,
+    "lon": -119.73,
     "name": null,
     "precision": "exact"
   },
@@ -48,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-08T11:27:32.075Z",
-  "website": "https://runsignup.com/Race/NV/Sparks/BiggestLittleUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18546"
 }

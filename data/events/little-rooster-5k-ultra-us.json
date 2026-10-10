@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Little Rooster-5K-Ultra is a ultramarathon. Location: Glencoe, United States. Date: Friday, 16 October 2026. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Glencoe, United States, Friday, 16 October 2026"
+    },
+    "pl": {
+      "description": "Little Rooster-5K-Ultra to ultramaraton. Lokalizacja: Glencoe, Stany Zjednoczone. Termin: piątek, 16 października 2026. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Glencoe, Stany Zjednoczone, piątek, 16 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glencoe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Little Rooster-5K-Ultra",
+  "registrationUrl": "https://raceroster.com/events/2026/165519/little-rooster-5k-ultra",
+  "slug": "little-rooster-5k-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:47.616Z",
+    "id": "runraceusa",
+    "ref": "little-rooster-5k-ultra-ky",
+    "url": "https://raceroster.com/events/2026/165519/little-rooster-5k-ultra"
+  },
+  "start": {
+    "lat": 38.72,
+    "lon": -84.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://raceroster.com/events/2026/165519/little-rooster-5k-ultra"
+}

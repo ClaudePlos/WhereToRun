@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "RunFluent Christmas is a ultramarathon. Location: Lutz, United States. Date: Saturday, 12 December 2026. Distances: 21.1 km, 7 h, 7 hour 2 person relay, 6.4 km, Youth <18 4 mile. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lutz, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "RunFluent Christmas to ultramaraton. Lokalizacja: Lutz, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 21.1 km, 7 h, 7 hour 2 person relay, 6.4 km, Youth <18 4 mile. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lutz, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "7 h",
+    "7 hour 2 person relay",
+    "6.4 km",
+    "Youth <18 4 mile"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lutz",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "RunFluent Christmas",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66286",
+  "slug": "runfluent-christmas-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
+    "id": "ultrasignup",
+    "ref": "16932",
+    "url": "https://ultrasignup.com/register.aspx?did=66286"
+  },
+  "start": {
+    "lat": 28.1212,
+    "lon": -82.5128,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "http://dontjustrun.com/events"
+}

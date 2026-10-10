@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Beat Box Hill 50k is a ultramarathon. Location: Tadworth, United Kingdom. Date: Saturday, 10 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tadworth, United Kingdom, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Beat Box Hill 50k to ultramaraton. Lokalizacja: Tadworth, Wielka Brytania. Termin: sobota, 10 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tadworth, Wielka Brytania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tadworth",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Beat Box Hill 50k",
+  "registrationUrl": null,
+  "slug": "beat-box-hill-50k-gb",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:54.461Z",
+    "id": "duv",
+    "ref": "136705",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136705"
+  },
+  "start": {
+    "lat": 51.291225,
+    "lon": -0.232671,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": null
+}

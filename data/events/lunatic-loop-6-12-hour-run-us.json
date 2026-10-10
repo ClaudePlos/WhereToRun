@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Lunatic Loop 6/12 hour run is a road race. Location: Ramona, United States. Date: Saturday, 12 December 2026. Distances: 12 hr 8am start, 6 hr 8am start, 6 hr 2pm start. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ramona, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Lunatic Loop 6/12 hour run to bieg uliczny. Lokalizacja: Ramona, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 12 hr 8am start, 6 hr 8am start, 6 hr 2pm start. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ramona, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 hr 8am start",
+    "6 hr 8am start",
+    "6 hr 2pm start"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ramona",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Lunatic Loop 6/12 hour run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68956",
+  "slug": "lunatic-loop-6-12-hour-run-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
+    "id": "ultrasignup",
+    "ref": "19551",
+    "url": "https://ultrasignup.com/register.aspx?did=68956"
+  },
+  "start": {
+    "lat": 33.0185,
+    "lon": -116.981,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://sdultrarunning.com/Lunatic-Loop"
+}

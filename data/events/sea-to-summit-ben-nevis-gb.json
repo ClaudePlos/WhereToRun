@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sea to Summit Ben Nevis is a ultramarathon. Location: Inchree, United Kingdom. Date: Saturday, 10 October 2026. Distances: 45.1 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Inchree, United Kingdom, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Sea to Summit Ben Nevis to ultramaraton. Lokalizacja: Inchree, Wielka Brytania. Termin: sobota, 10 października 2026. Dystanse: 45.1 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Inchree, Wielka Brytania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Inchree",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Sea to Summit Ben Nevis",
+  "registrationUrl": null,
+  "slug": "sea-to-summit-ben-nevis-gb",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:54.461Z",
+    "id": "duv",
+    "ref": "135239",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135239"
+  },
+  "start": {
+    "lat": 56.717525,
+    "lon": -5.229929,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": null
+}

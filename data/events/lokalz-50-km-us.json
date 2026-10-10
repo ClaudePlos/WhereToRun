@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lokalz 50 KM is a road race. Location: Peoria, United States. Date: Sunday, 13 December 2026. Distances: Lokalz 50 KM. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Peoria, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "Lokalz 50 KM to bieg uliczny. Lokalizacja: Peoria, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: Lokalz 50 KM. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Peoria, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Lokalz 50 KM"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Peoria",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Lokalz 50 KM",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68043",
+  "slug": "lokalz-50-km-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
+    "id": "ultrasignup",
+    "ref": "20807",
+    "url": "https://ultrasignup.com/register.aspx?did=68043"
+  },
+  "start": {
+    "lat": 40.8126,
+    "lon": -89.6401,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://www.beradracing.com/"
+}

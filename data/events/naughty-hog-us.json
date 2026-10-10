@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Naughty Hog is a ultramarathon. Location: Valley View, United States. Date: Saturday, 12 December 2026. Distances: 100 km, 50 km, 25 km, 25K RUCK, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Valley View, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Naughty Hog to ultramaraton. Lokalizacja: Valley View, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 100 km, 50 km, 25 km, 25K RUCK, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Valley View, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km",
+    "25 km",
+    "25K RUCK",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Valley View",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Naughty Hog",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65577",
+  "slug": "naughty-hog-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
+    "id": "ultrasignup",
+    "ref": "19285",
+    "url": "https://ultrasignup.com/register.aspx?did=65577"
+  },
+  "start": {
+    "lat": 33.4105,
+    "lon": -97.047,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://www.texasoutlawrunning.com/naughty"
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Memorial Day Bridge 50K, Marathon, Half, 10K & 5K – MileBuilt 3-Day Challenge is a trail race. Location: Winter Park, United States. Date: Saturday, 29 May 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Winter Park, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Memorial Day Bridge 50K, Marathon, Half, 10K & 5K – MileBuilt 3-Day Challenge to bieg trailowy. Lokalizacja: Winter Park, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Winter Park, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Winter Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Memorial Day Bridge 50K, Marathon, Half, 10K & 5K – MileBuilt 3-Day Challenge",
+  "registrationUrl": "https://runsignup.com/Race/FL/WinterPark/MileBuilt3DayMemorialDayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "memorial-day-bridge-50k-marathon-half-10k-5k-milebuilt-3-day-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:47.616Z",
+    "id": "runraceusa",
+    "ref": "memorial-day-bridge-50k-marathon-half-10k-5k-milebuilt-3-day",
+    "url": "https://runsignup.com/Race/FL/WinterPark/MileBuilt3DayMemorialDayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.6,
+    "lon": -81.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://runsignup.com/Race/FL/WinterPark/MileBuilt3DayMemorialDayBridgeChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

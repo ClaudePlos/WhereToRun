@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Endurancelife Suffolk Ultra is a ultramarathon. Location: Dunwich, United Kingdom. Date: Saturday, 10 October 2026. Distances: 51.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Dunwich, United Kingdom, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Endurancelife Suffolk Ultra to ultramaraton. Lokalizacja: Dunwich, Wielka Brytania. Termin: sobota, 10 października 2026. Dystanse: 51.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Dunwich, Wielka Brytania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "51.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dunwich",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Endurancelife Suffolk Ultra",
+  "registrationUrl": null,
+  "slug": "endurancelife-suffolk-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:54.461Z",
+    "id": "duv",
+    "ref": "136701",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136701"
+  },
+  "start": {
+    "lat": 52.276924,
+    "lon": 1.628473,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": null
+}

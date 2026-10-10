@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mourne Sky Ultra is a ultramarathon. Location: Newcastle, United Kingdom. Date: Saturday, 10 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Newcastle, United Kingdom, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Mourne Sky Ultra to ultramaraton. Lokalizacja: Newcastle, Wielka Brytania. Termin: sobota, 10 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Newcastle, Wielka Brytania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mourne Sky Ultra",
+  "registrationUrl": null,
+  "slug": "mourne-sky-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:54.461Z",
+    "id": "duv",
+    "ref": "136704",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136704"
+  },
+  "start": {
+    "lat": 54.973847,
+    "lon": -1.613157,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Glasgow to Edinburgh Ultra is a ultramarathon. Location: Glasgow, United Kingdom. Date: Saturday, 10 October 2026. Distances: 91.7 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Glasgow, United Kingdom, Saturday, 10 October 2026"
+    },
+    "pl": {
+      "description": "Glasgow to Edinburgh Ultra to ultramaraton. Lokalizacja: Glasgow, Wielka Brytania. Termin: sobota, 10 października 2026. Dystanse: 91.7 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Glasgow, Wielka Brytania, sobota, 10 października 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "91.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Glasgow to Edinburgh Ultra",
+  "registrationUrl": null,
+  "slug": "glasgow-to-edinburgh-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:54.461Z",
+    "id": "duv",
+    "ref": "132412",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132412"
+  },
+  "start": {
+    "lat": 55.861155,
+    "lon": -4.250169,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": null
+}

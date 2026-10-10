@@ -10,11 +10,12 @@
     }
   },
   "createdAt": "2026-10-08T19:17:01.127Z",
-  "date": "2026-12-11",
+  "date": "2026-12-12",
   "dateStatus": "confirmed",
   "distances": [
-    "241.4 km",
-    "164.2 km"
+    "120.7 km",
+    "82.1 km",
+    "53.1 km"
   ],
   "endDate": "2026-12-13",
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64556",
   "slug": "frigid-beast-feast-us",
   "source": {
-    "fetchedAt": "2026-10-08T19:17:09.736Z",
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
     "id": "ultrasignup",
     "ref": "19778",
     "url": "https://ultrasignup.com/register.aspx?did=64556"
@@ -47,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-08T19:17:01.127Z",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
   "website": "https://www.facebook.com/groups/252134567555520"
 }

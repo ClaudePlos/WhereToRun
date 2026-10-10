@@ -1577,6 +1577,9 @@
     "lon": 0.8492547,
     "name": "Bardwell, West Suffolk, Suffolk, England, United Kingdom"
   },
+  "GB|beechenhurst": {
+    "at": "2026-10-10T12:42:40.314Z"
+  },
   "GB|blackpool": {
     "at": "2026-09-23T17:51:30.120Z",
     "lat": 53.8179442,
@@ -1591,6 +1594,27 @@
   },
   "GB|caernafon airport": {
     "at": "2026-09-23T17:51:30.120Z"
+  },
+  "GB|caldbeck": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 54.7488621,
+    "lon": -3.0526079,
+    "name": "Caldbeck, Cumberland, England, United Kingdom"
+  },
+  "GB|dunwich": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 52.2769243,
+    "lon": 1.6284725,
+    "name": "Dunwich, East Suffolk, Suffolk, England, United Kingdom"
+  },
+  "GB|flete estate": {
+    "at": "2026-10-10T12:42:40.314Z"
+  },
+  "GB|glasgow": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "name": "Glasgow, Glasgow City, Alba / Scotland, G2 1AL, United Kingdom"
   },
   "GB|grasmere": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1627,6 +1651,12 @@
     "lat": 53.3637439,
     "lon": -1.7534784,
     "name": "Hope, High Peak, Derbyshire, East Midlands, England, United Kingdom"
+  },
+  "GB|inchree": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 56.7175251,
+    "lon": -5.2299287,
+    "name": "Inchree, Onich, Highland, Alba / Scotland, PH33 6SG, United Kingdom"
   },
   "GB|keswick": {
     "at": "2026-09-23T17:51:30.120Z",
@@ -1666,6 +1696,12 @@
     "lat": 51.5722675,
     "lon": -3.9945034,
     "name": "Mumbles, Swansea, Cymru / Wales, SA3 4DY, United Kingdom"
+  },
+  "GB|newcastle": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 54.9738474,
+    "lon": -1.6131572,
+    "name": "Newcastle upon Tyne, Tyne and Wear, North East, England, United Kingdom"
   },
   "GB|okehampton": {
     "at": "2026-09-23T22:56:06.292Z",
@@ -1727,11 +1763,29 @@
     "lon": -1.5575555,
     "name": "Swadlincote, South Derbyshire, Derbyshire, East Midlands, England, DE11 0AG, United Kingdom"
   },
+  "GB|tadworth": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 51.2912247,
+    "lon": -0.2326709,
+    "name": "Tadworth, Reigate and Banstead, Surrey, England, KT20 5SW, United Kingdom"
+  },
+  "GB|turvey": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 52.1575897,
+    "lon": -0.602738,
+    "name": "Turvey, Bedford, England, United Kingdom"
+  },
   "GB|vatersay, hebrides": {
     "at": "2026-09-15T11:52:51.618Z"
   },
   "GB|waterhead, ambleside": {
     "at": "2026-09-23T22:56:06.292Z"
+  },
+  "GB|welshpool": {
+    "at": "2026-10-10T12:42:40.314Z",
+    "lat": 52.6600742,
+    "lon": -3.1474212,
+    "name": "Welshpool, Powys, Cymru / Wales, SY21 7SD, United Kingdom"
   },
   "GB|welwyn garden city": {
     "at": "2026-09-23T17:51:30.120Z",

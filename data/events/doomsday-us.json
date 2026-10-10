@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Doomsday is a ultramarathon. Location: Cool, United States. Date: Saturday, 12 December 2026. Distances: 50 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cool, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "Doomsday to ultramaraton. Lokalizacja: Cool, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: 50 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cool, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-10T12:42:40.314Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cool",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Doomsday",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67795",
+  "slug": "doomsday-us",
+  "source": {
+    "fetchedAt": "2026-10-10T12:42:46.921Z",
+    "id": "ultrasignup",
+    "ref": "16935",
+    "url": "https://ultrasignup.com/register.aspx?did=67795"
+  },
+  "start": {
+    "lat": 38.8893,
+    "lon": -121.017,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T12:42:40.314Z",
+  "website": "https://www.facebook.com/profile.php?id=61551804203119"
+}
