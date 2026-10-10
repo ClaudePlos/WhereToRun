@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Notos Ultra Trail is a ultramarathon. Location: Victoriaville, Canada. Date: Saturday, 12 June 2027. Distances: 65 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Victoriaville, Canada, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "Notos Ultra Trail to ultramaraton. Lokalizacja: Victoriaville, Kanada. Termin: sobota, 12 czerwca 2027. Dystanse: 65 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Victoriaville, Kanada, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-10T00:01:18.840Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Victoriaville",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Notos Ultra Trail",
+  "registrationUrl": null,
+  "slug": "notos-ultra-trail-ca",
+  "source": {
+    "fetchedAt": "2026-10-10T00:01:42.581Z",
+    "id": "duv",
+    "ref": "134539",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134539"
+  },
+  "start": {
+    "lat": 46.055495,
+    "lon": -71.959859,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
+  "website": null
+}

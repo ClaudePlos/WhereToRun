@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-29T00:21:11.790Z",
-  "date": "2026-12-28",
+  "date": "2027-12-28",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "gruntal-winterultra-de",
   "source": {
-    "fetchedAt": "2026-10-07T13:36:14.026Z",
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
     "id": "duv",
-    "ref": "130528",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130528"
+    "ref": "135734",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135734"
   },
   "start": {
     "lat": 48.493896,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
   "website": null
 }

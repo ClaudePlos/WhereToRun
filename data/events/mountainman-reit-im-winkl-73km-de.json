@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountainman Reit im Winkl 73km is a ultramarathon. Location: Reit im Winkl, Germany. Date: Saturday, 25 September 2027. Distances: 73 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Reit im Winkl, Germany, Saturday, 25 September 2027"
+    },
+    "pl": {
+      "description": "Mountainman Reit im Winkl 73km to ultramaraton. Lokalizacja: Reit im Winkl, Niemcy. Termin: sobota, 25 września 2027. Dystanse: 73 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Reit im Winkl, Niemcy, sobota, 25 września 2027"
+    }
+  },
+  "createdAt": "2026-10-10T00:01:18.840Z",
+  "date": "2027-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "73 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Reit im Winkl",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Mountainman Reit im Winkl 73km",
+  "registrationUrl": null,
+  "slug": "mountainman-reit-im-winkl-73km-de",
+  "source": {
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
+    "id": "duv",
+    "ref": "136678",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136678"
+  },
+  "start": {
+    "lat": 47.667241,
+    "lon": 12.525651,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
+  "website": null
+}

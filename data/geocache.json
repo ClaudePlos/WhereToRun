@@ -699,7 +699,7 @@
     "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|golden, bc": {
-    "at": "2026-09-06T22:06:37.596Z"
+    "at": "2026-10-10T00:01:18.840Z"
   },
   "CA|head of saint margarets bay, ns": {
     "at": "2026-10-01T18:53:52.387Z"
@@ -708,7 +708,7 @@
     "at": "2026-10-01T18:53:52.387Z"
   },
   "CA|kamloops, bc": {
-    "at": "2026-09-06T22:06:37.596Z"
+    "at": "2026-10-10T00:01:18.840Z"
   },
   "CA|kelowna, bc": {
     "at": "2026-09-28T20:07:41.303Z"
@@ -752,6 +752,12 @@
   "CA|nordegg, ab": {
     "at": "2026-09-06T22:06:37.596Z"
   },
+  "CA|okotoks, ab": {
+    "at": "2026-10-10T00:01:18.840Z"
+  },
+  "CA|paradise, nl": {
+    "at": "2026-10-10T00:01:18.840Z"
+  },
   "CA|perce, qc": {
     "at": "2026-10-04T12:31:21.092Z"
   },
@@ -785,11 +791,20 @@
   "CA|sherwood park, ab": {
     "at": "2026-10-04T12:31:21.092Z"
   },
+  "CA|silver star, bc": {
+    "at": "2026-10-10T00:01:18.840Z"
+  },
   "CA|st john's, nl": {
     "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|st. paul, ab": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|sutton": {
+    "at": "2026-10-10T00:01:18.840Z",
+    "lat": 45.1115241,
+    "lon": -72.6186317,
+    "name": "Sutton, Brome-Missisquoi, Estrie, Québec, J0E 2K0, Canada"
   },
   "CA|tadoussac, quebec": {
     "at": "2026-09-17T22:50:40.759Z"
@@ -802,6 +817,12 @@
   },
   "CA|vernon, bc": {
     "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|victoriaville": {
+    "at": "2026-10-10T00:01:18.840Z",
+    "lat": 46.0554948,
+    "lon": -71.9598586,
+    "name": "Victoriaville, Arthabaska, Centre-du-Québec, Québec, Canada"
   },
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
@@ -2631,13 +2652,13 @@
     "name": "Puerto Peñasco, Sonora, 83550, México"
   },
   "MX|rosales, chihuahua": {
-    "at": "2026-09-06T16:17:46.960Z"
+    "at": "2026-10-10T00:01:18.840Z"
   },
   "MX|san pancho, aguascalientes": {
     "at": "2026-09-06T16:17:46.960Z"
   },
   "MX|tlaltizapán, morelos": {
-    "at": "2026-09-06T16:17:46.960Z"
+    "at": "2026-10-10T00:01:18.840Z"
   },
   "MX|urique": {
     "at": "2026-09-06T22:06:37.596Z",
@@ -2646,7 +2667,7 @@
     "name": "Urique, Chihuahua, México"
   },
   "MX|valle de bravo, mexico": {
-    "at": "2026-09-06T16:17:46.960Z"
+    "at": "2026-10-10T00:01:18.840Z"
   },
   "MX|villahermosa": {
     "at": "2026-09-06T16:17:46.960Z",

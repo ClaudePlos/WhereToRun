@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Der Ruf der alten Mauern 100 Meilen is a ultramarathon. Location: Isenburg, Germany. Date: 24 September 2027 – 26 September 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Isenburg, Germany, 24 September 2027 – 26 September 2027"
+    },
+    "pl": {
+      "description": "Der Ruf der alten Mauern 100 Meilen to ultramaraton. Lokalizacja: Isenburg, Niemcy. Termin: 24 września 2027 – 26 września 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Isenburg, Niemcy, 24 września 2027 – 26 września 2027"
+    }
+  },
+  "createdAt": "2026-10-10T00:01:18.840Z",
+  "date": "2027-09-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-09-26",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Isenburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Der Ruf der alten Mauern 100 Meilen",
+  "registrationUrl": null,
+  "slug": "der-ruf-der-alten-mauern-100-meilen-de",
+  "source": {
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
+    "id": "duv",
+    "ref": "136639",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136639"
+  },
+  "start": {
+    "lat": 50.475338,
+    "lon": 7.591768,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
+  "website": null
+}

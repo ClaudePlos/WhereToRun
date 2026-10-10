@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-20T22:25:00.188Z",
-  "date": "2026-09-26",
+  "date": "2027-09-25",
   "dateStatus": "confirmed",
   "distances": [
     "52 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "mountainman-reit-im-winkl-de",
   "source": {
-    "fetchedAt": "2026-09-23T11:49:23.059Z",
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
     "id": "duv",
-    "ref": "132583",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132583"
+    "ref": "136677",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136677"
   },
   "start": {
     "lat": 47.667241,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-23T11:48:59.496Z",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
   "website": null
 }

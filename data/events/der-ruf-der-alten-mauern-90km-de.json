@@ -10,12 +10,12 @@
     }
   },
   "createdAt": "2026-09-20T16:48:23.963Z",
-  "date": "2026-09-26",
+  "date": "2027-09-25",
   "dateStatus": "confirmed",
   "distances": [
     "90 km"
   ],
-  "endDate": null,
+  "endDate": "2027-09-26",
   "featured": false,
   "fees": [],
   "links": [],
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "der-ruf-der-alten-mauern-90km-de",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:41.784Z",
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
     "id": "duv",
-    "ref": "121605",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=121605"
+    "ref": "136640",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136640"
   },
   "start": {
     "lat": 50.475338,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
   "website": null
 }

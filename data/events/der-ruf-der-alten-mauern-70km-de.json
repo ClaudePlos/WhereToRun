@@ -10,17 +10,17 @@
     }
   },
   "createdAt": "2026-09-20T22:25:00.188Z",
-  "date": "2026-09-26",
+  "date": "2027-09-25",
   "dateStatus": "confirmed",
   "distances": [
     "70 km"
   ],
-  "endDate": null,
+  "endDate": "2027-09-26",
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Stebach",
+    "city": "Isenburg",
     "country": "Germany",
     "countryCode": "DE",
     "region": null
@@ -30,14 +30,14 @@
   "registrationUrl": null,
   "slug": "der-ruf-der-alten-mauern-70km-de",
   "source": {
-    "fetchedAt": "2026-09-20T22:25:26.433Z",
+    "fetchedAt": "2026-10-10T00:01:42.583Z",
     "id": "duv",
-    "ref": "123754",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123754"
+    "ref": "136641",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136641"
   },
   "start": {
-    "lat": 50.512174,
-    "lon": 7.66186,
+    "lat": 50.475338,
+    "lon": 7.591768,
     "name": null,
     "precision": "city"
   },
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T22:25:00.188Z",
+  "updatedAt": "2026-10-10T00:01:18.840Z",
   "website": null
 }
