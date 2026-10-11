@@ -13,11 +13,14 @@
   "date": "2026-12-19",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "other",
-    "21.1 km",
-    "5 km"
+    "30 km",
+    "1",
+    "2 Marathon",
+    "11.9 km",
+    "5 km",
+    "Kids Run"
   ],
   "endDate": null,
   "featured": false,
@@ -31,25 +34,25 @@
   },
   "manual": false,
   "name": "Magnolia Magic River Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19960",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67073",
   "slug": "magnolia-magic-river-trail-run-us",
   "source": {
-    "fetchedAt": "2026-10-10T12:42:47.616Z",
-    "id": "runraceusa",
-    "ref": "magnolia-magic-river-trail-run-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=19960"
+    "fetchedAt": "2026-10-11T23:38:27.232Z",
+    "id": "ultrasignup",
+    "ref": "19960",
+    "url": "https://ultrasignup.com/register.aspx?did=67073"
   },
   "start": {
-    "lat": 38.83,
-    "lon": -120.96,
+    "lat": 38.8265,
+    "lon": -120.956,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-10-10T12:42:40.314Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19960"
+  "type": "ultra",
+  "updatedAt": "2026-10-11T23:38:21.246Z",
+  "website": "https://tctruns.com/magnolia-magic-river-trail-run/"
 }
