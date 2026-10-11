@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "other"
+    "25.7 km",
+    "12.9 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "Otter Creek",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3191",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68708",
   "slug": "otter-creek-us",
   "source": {
-    "fetchedAt": "2026-09-20T22:25:10.111Z",
-    "id": "runraceusa",
-    "ref": "otter-creek-ky",
-    "url": "https://ultrasignup.com/register.aspx?eid=3191"
+    "fetchedAt": "2026-10-11T13:04:38.064Z",
+    "id": "ultrasignup",
+    "ref": "3191",
+    "url": "https://ultrasignup.com/register.aspx?did=68708"
   },
   "start": {
-    "lat": 37.94,
-    "lon": -86.05,
+    "lat": 37.9438,
+    "lon": -86.0483,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-20T22:25:00.188Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3191"
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "http://www.headfirstperformance.com/"
 }

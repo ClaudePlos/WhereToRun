@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Desert Solstice is a ultramarathon. Location: Phoenix, United States. Date: Saturday, 19 December 2026. Distances: 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Phoenix, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Desert Solstice to ultramaraton. Lokalizacja: Phoenix, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Phoenix, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-11T13:04:31.321Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Phoenix",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Desert Solstice",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65143",
+  "slug": "desert-solstice-us",
+  "source": {
+    "fetchedAt": "2026-10-11T13:04:38.064Z",
+    "id": "ultrasignup",
+    "ref": "2490",
+    "url": "https://ultrasignup.com/register.aspx?did=65143"
+  },
+  "start": {
+    "lat": 33.5027,
+    "lon": -112.073,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "http://www.aravaiparunning.com/avr/desert-solstice/"
+}

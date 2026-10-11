@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Soldier Creek Showdown V is a road race. Location: Oklahoma City, United States. Date: Sunday, 11 October 2026. Distances: 42.2 km, other, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oklahoma City, United States, Sunday, 11 October 2026"
+    },
+    "pl": {
+      "description": "The Soldier Creek Showdown V to bieg uliczny. Lokalizacja: Oklahoma City, Stany Zjednoczone. Termin: niedziela, 11 października 2026. Dystanse: 42.2 km, other, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oklahoma City, Stany Zjednoczone, niedziela, 11 października 2026"
+    }
+  },
+  "createdAt": "2026-10-11T13:04:31.321Z",
+  "date": "2026-10-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oklahoma City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "The Soldier Creek Showdown V",
+  "registrationUrl": "https://runsignup.com/Race/OK/OklahomaCity/TheSoldierCreekShowdown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-soldier-creek-showdown-v-us",
+  "source": {
+    "fetchedAt": "2026-10-11T13:04:39.289Z",
+    "id": "runraceusa",
+    "ref": "the-soldier-creek-showdown-v-ok",
+    "url": "https://runsignup.com/Race/OK/OklahomaCity/TheSoldierCreekShowdown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.49,
+    "lon": -97.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "https://runsignup.com/Race/OK/OklahomaCity/TheSoldierCreekShowdown?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

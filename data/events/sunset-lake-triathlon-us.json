@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunset Lake Triathlon # is a triathlon. Location: Bridgeton, United States. Date: Saturday, 19 June 2027. Distances: u50k, other, 21.1 km, 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Bridgeton, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Sunset Lake Triathlon # to triatlon. Lokalizacja: Bridgeton, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u50k, other, 21.1 km, 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Bridgeton, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-11T13:04:31.321Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "21.1 km",
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bridgeton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Sunset Lake Triathlon #",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Bridgeton/SunsetLakeTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunset-lake-triathlon-us",
+  "source": {
+    "fetchedAt": "2026-10-11T13:04:39.289Z",
+    "id": "runraceusa",
+    "ref": "sunset-lake-triathlon-nj",
+    "url": "https://runsignup.com/Race/NJ/Bridgeton/SunsetLakeTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.38,
+    "lon": -75.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "https://runsignup.com/Race/NJ/Bridgeton/SunsetLakeTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

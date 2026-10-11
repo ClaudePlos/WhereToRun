@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T17:15:45.729Z",
-  "date": "2026-10-10",
+  "date": "2027-10-02",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "look-good-feel-good-san-leandro-5k-10-half-marathon-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-10-11T13:04:39.289Z",
     "id": "runraceusa",
     "ref": "look-good-feel-good-san-leandro-5k-10-half-marathon-marathon-ca",
     "url": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
   "website": "https://runsignup.com/Race/CA/SanLeandro/LookGoodFeelGood5K10KHalfMarathonandMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

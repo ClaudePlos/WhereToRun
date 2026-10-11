@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trail of Fears is a trail race. Location: Jackson, United States. Date: Saturday, 19 December 2026. Distances: Variable Distance. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Jackson, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Trail of Fears to bieg trailowy. Lokalizacja: Jackson, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: Variable Distance. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Jackson, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-11T13:04:31.321Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Variable Distance"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jackson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Trail of Fears",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68837",
+  "slug": "trail-of-fears-us",
+  "source": {
+    "fetchedAt": "2026-10-11T13:04:38.064Z",
+    "id": "ultrasignup",
+    "ref": "3605",
+    "url": "https://ultrasignup.com/register.aspx?did=68837"
+  },
+  "start": {
+    "lat": 35.6754,
+    "lon": -88.8664,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "http://runitfast.com/trail-of-fears-the-day-after-the-world-ended/"
+}

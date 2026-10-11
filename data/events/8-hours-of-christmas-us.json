@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "8 Hours of Christmas is a road race. Location: Molena, United States. Date: Saturday, 19 December 2026. Distances: 50K- Vertical Elimination Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Molena, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "8 Hours of Christmas to bieg uliczny. Lokalizacja: Molena, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 50K- Vertical Elimination Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Molena, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-11T13:04:31.321Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50K- Vertical Elimination Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Molena",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "8 Hours of Christmas",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65911",
+  "slug": "8-hours-of-christmas-us",
+  "source": {
+    "fetchedAt": "2026-10-11T13:04:38.064Z",
+    "id": "ultrasignup",
+    "ref": "20154",
+    "url": "https://ultrasignup.com/register.aspx?did=65911"
+  },
+  "start": {
+    "lat": 32.9656,
+    "lon": -84.5299,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "website": "http://www.revolutionrunning.net"
+}
