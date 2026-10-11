@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Woodside Ramble is a ultramarathon. Location: Redwood City, United States. Date: Saturday, 19 December 2026. Distances: 50 km, 35 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Redwood City, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Woodside Ramble to ultramaraton. Lokalizacja: Redwood City, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 50 km, 35 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Redwood City, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-11T18:05:22.114Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "35 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Redwood City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Woodside Ramble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67704",
+  "slug": "woodside-ramble-us",
+  "source": {
+    "fetchedAt": "2026-10-11T18:05:29.395Z",
+    "id": "ultrasignup",
+    "ref": "3262",
+    "url": "https://ultrasignup.com/register.aspx?did=67704"
+  },
+  "start": {
+    "lat": 37.4363,
+    "lon": -122.299,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-11T18:05:22.114Z",
+  "website": "https://insidetrail.com/calendar/woodside-ramble-trail-run/"
+}

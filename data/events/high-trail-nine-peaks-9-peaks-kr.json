@@ -13,7 +13,7 @@
   "date": "2026-10-30",
   "dateStatus": "confirmed",
   "distances": [
-    "123 km"
+    "128 km"
   ],
   "endDate": "2026-10-31",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": null,
   "slug": "high-trail-nine-peaks-9-peaks-kr",
   "source": {
-    "fetchedAt": "2026-09-11T11:32:22.271Z",
+    "fetchedAt": "2026-10-11T18:05:36.671Z",
     "id": "duv",
     "ref": "134604",
     "url": "https://statistik.d-u-v.org/getresultevent.php?event=134604"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "updatedAt": "2026-10-11T18:05:22.114Z",
   "website": null
 }
