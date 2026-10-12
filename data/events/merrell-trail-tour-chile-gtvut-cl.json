@@ -13,7 +13,7 @@
   "date": "2026-11-21",
   "dateStatus": "confirmed",
   "distances": [
-    "50 km"
+    "70 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "merrell-trail-tour-chile-gtvut-cl",
   "source": {
-    "fetchedAt": "2026-10-09T18:49:52.663Z",
+    "fetchedAt": "2026-10-12T21:44:47.309Z",
     "id": "duv",
-    "ref": "131559",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131559"
+    "ref": "131558",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131558"
   },
   "start": {
     "lat": -37.411336,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-09T18:49:25.978Z",
+  "updatedAt": "2026-10-12T21:44:28.611Z",
   "website": null
 }

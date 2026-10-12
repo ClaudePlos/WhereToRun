@@ -13,7 +13,7 @@
   "date": "2027-06-19",
   "dateStatus": "confirmed",
   "distances": [
-    "52 km"
+    "66 km"
   ],
   "endDate": "2027-06-20",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "ultra-obscura-ca",
   "source": {
-    "fetchedAt": "2026-10-10T00:01:42.581Z",
+    "fetchedAt": "2026-10-12T21:44:47.310Z",
     "id": "duv",
-    "ref": "136358",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136358"
+    "ref": "136357",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136357"
   },
   "start": {
     "lat": 45.111524,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-10T00:01:18.840Z",
+  "updatedAt": "2026-10-12T21:44:28.611Z",
   "website": null
 }

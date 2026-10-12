@@ -18,7 +18,7 @@
     "name": "Chilecito, Departamento Chilecito, La Rioja, F5360, Argentina"
   },
   "AR|ciudad de corrientes": {
-    "at": "2026-09-09T11:33:01.537Z"
+    "at": "2026-10-12T21:44:28.611Z"
   },
   "AR|el chalten": {
     "at": "2026-09-09T11:33:01.537Z",
@@ -689,6 +689,9 @@
   "CA|bellevue, ab": {
     "at": "2026-10-01T18:53:52.387Z"
   },
+  "CA|blairmore, ab": {
+    "at": "2026-10-12T21:44:28.611Z"
+  },
   "CA|blue mountain resort": {
     "at": "2026-09-23T11:48:59.496Z"
   },
@@ -697,6 +700,9 @@
   },
   "CA|canmore, ab": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|coleman, ab": {
+    "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|creemore, on": {
     "at": "2026-09-28T20:07:41.303Z"
@@ -736,6 +742,9 @@
   },
   "CA|hornby island, bc": {
     "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|huntsville, on": {
+    "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|kamloops, bc": {
     "at": "2026-10-10T00:01:18.840Z"
@@ -791,6 +800,9 @@
   "CA|perce, qc": {
     "at": "2026-10-04T12:31:21.092Z"
   },
+  "CA|petite-riviere-saint-francois, qc": {
+    "at": "2026-10-12T21:44:28.611Z"
+  },
   "CA|port moody, bc": {
     "at": "2026-10-01T18:53:52.387Z"
   },
@@ -803,8 +815,14 @@
     "lon": -64.8033246,
     "name": "Town of Riverview, Albert County, New Brunswick / Nouveau-Brunswick, Canada"
   },
+  "CA|rossland, bc": {
+    "at": "2026-10-12T21:44:28.611Z"
+  },
   "CA|saint georges, quebec": {
     "at": "2026-10-01T18:53:52.387Z"
+  },
+  "CA|saint-tite-des-caps, qc": {
+    "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|salmon arm, bc": {
     "at": "2026-10-01T18:53:52.387Z"
@@ -845,6 +863,12 @@
   "CA|twillingate, nl": {
     "at": "2026-09-23T11:48:59.496Z"
   },
+  "CA|utopia, on": {
+    "at": "2026-10-12T21:44:28.611Z"
+  },
+  "CA|valemount, bc": {
+    "at": "2026-10-12T21:44:28.611Z"
+  },
   "CA|vernon, bc": {
     "at": "2026-09-17T22:50:40.759Z"
   },
@@ -856,6 +880,9 @@
   },
   "CA|west guilford, on": {
     "at": "2026-09-06T22:06:37.596Z"
+  },
+  "CA|west vancouver, bc": {
+    "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|whistler, bc": {
     "at": "2026-09-23T11:48:59.496Z"

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Your Race is a ultramarathon. Location: Idalou, United States. Date: Saturday, 21 November 2026. Distances: 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Idalou, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Run Your Race to ultramaraton. Lokalizacja: Idalou, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Idalou, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-12T21:44:28.611Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Idalou",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Run Your Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69275",
+  "slug": "run-your-race-us",
+  "source": {
+    "fetchedAt": "2026-10-12T21:44:36.485Z",
+    "id": "ultrasignup",
+    "ref": "21158",
+    "url": "https://ultrasignup.com/register.aspx?did=69275"
+  },
+  "start": {
+    "lat": 33.6825,
+    "lon": -101.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-12T21:44:28.611Z",
+  "website": null
+}

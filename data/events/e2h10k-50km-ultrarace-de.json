@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-29T00:21:11.790Z",
-  "date": "2026-10-03",
+  "date": "2027-07-10",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "e2h10k-50km-ultrarace-de",
   "source": {
-    "fetchedAt": "2026-09-29T00:21:36.250Z",
+    "fetchedAt": "2026-10-12T21:44:47.314Z",
     "id": "duv",
-    "ref": "123228",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123228"
+    "ref": "136772",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136772"
   },
   "start": {
     "lat": 48.724295,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-29T00:21:11.790Z",
+  "updatedAt": "2026-10-12T21:44:28.611Z",
   "website": null
 }
