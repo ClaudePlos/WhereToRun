@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Winter Solstice Vertical Challenge is a ultramarathon. Location: Quilcene, United States. Date: Saturday, 19 December 2026. Distances: 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Quilcene, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Winter Solstice Vertical Challenge to ultramaraton. Lokalizacja: Quilcene, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Quilcene, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Quilcene",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Winter Solstice Vertical Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68268",
+  "slug": "winter-solstice-vertical-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:36.300Z",
+    "id": "ultrasignup",
+    "ref": "19409",
+    "url": "https://ultrasignup.com/register.aspx?did=68268"
+  },
+  "start": {
+    "lat": 47.7755,
+    "lon": -122.916,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://wintersolsticevert.com/"
+}

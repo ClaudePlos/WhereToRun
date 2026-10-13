@@ -27,13 +27,13 @@
   },
   "manual": false,
   "name": "Run to Pub Fall Marathon Relay",
-  "registrationUrl": "http://www.active.com/tinley-park-il/running/distance-running-races/run-to-pub-fall-marathon-relay-2026",
+  "registrationUrl": "http://www.active.com/tinley-park-il/running/distance-running-camps/run-to-pub-fall-marathon-relay-2026",
   "slug": "run-to-pub-fall-marathon-relay-us",
   "source": {
-    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "run-to-pub-fall-marathon-relay-il",
-    "url": "http://www.active.com/tinley-park-il/running/distance-running-races/run-to-pub-fall-marathon-relay-2026"
+    "url": "http://www.active.com/tinley-park-il/running/distance-running-camps/run-to-pub-fall-marathon-relay-2026"
   },
   "start": {
     "lat": 41.56,
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T22:32:11.988Z",
-  "website": "http://www.active.com/tinley-park-il/running/distance-running-races/run-to-pub-fall-marathon-relay-2026"
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "http://www.active.com/tinley-park-il/running/distance-running-camps/run-to-pub-fall-marathon-relay-2026"
 }

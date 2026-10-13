@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T17:15:45.729Z",
-  "date": "2026-10-10",
+  "date": "2027-10-09",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/PA/Greentown/PoconoMountainsMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "pocono-mountains-marathon-race-festival-marathon-half-marathon-10k-and-5k-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "pocono-mountains-marathon-race-festival-marathon-half-marathon-10k",
     "url": "https://runsignup.com/Race/PA/Greentown/PoconoMountainsMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
   "website": "https://runsignup.com/Race/PA/Greentown/PoconoMountainsMarathonRaceFestivalMarathonHalfMarathon10Kand5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

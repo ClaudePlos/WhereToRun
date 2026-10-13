@@ -14,9 +14,10 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km",
+    "1",
+    "2 Marathon",
     "10 km",
-    "ultra"
+    "Hill Climb 6HR"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +31,25 @@
   },
   "manual": false,
   "name": "Dirty December Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5044",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64676",
   "slug": "dirty-december-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-13T22:23:17.679Z",
-    "id": "runraceusa",
-    "ref": "dirty-december-trail-run-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=5044"
+    "fetchedAt": "2026-10-13T14:22:36.300Z",
+    "id": "ultrasignup",
+    "ref": "5044",
+    "url": "https://ultrasignup.com/register.aspx?did=64676"
   },
   "start": {
     "lat": 32.93,
-    "lon": -116.97,
+    "lon": -116.969,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "trail",
+    "ultrasignup"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-13T22:23:08.200Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5044"
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "http://dirtyfeet.us/trailraces/decemberrun/"
 }

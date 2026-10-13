@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-22T11:50:06.240Z",
-  "date": "2026-10-11",
+  "date": "2026-10-25",
   "dateStatus": "confirmed",
   "distances": [
     "ultra",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/TX/Houston/HARRAWarmupSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "2026-harra-warm-up-series-bundles-round-2-us",
   "source": {
-    "fetchedAt": "2026-09-22T11:50:17.049Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "2026-harra-warm-up-series-bundles-round-2-tx",
     "url": "https://runsignup.com/Race/TX/Houston/HARRAWarmupSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
   "website": "https://runsignup.com/Race/TX/Houston/HARRAWarmupSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Conquer the Cove 25k and Marathon Trail Races is a trail race. Location: Roanoke, United States. Date: Sunday, 30 May 2027. Distances: other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Roanoke, United States, Sunday, 30 May 2027"
+    },
+    "pl": {
+      "description": "Conquer the Cove 25k and Marathon Trail Races to bieg trailowy. Lokalizacja: Roanoke, Stany Zjednoczone. Termin: niedziela, 30 maja 2027. Dystanse: other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Roanoke, Stany Zjednoczone, niedziela, 30 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-05-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roanoke",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Conquer the Cove 25k and Marathon Trail Races",
+  "registrationUrl": "https://runsignup.com/Race/VA/Roanoke/ConquertheCoveTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "conquer-the-cove-25k-and-marathon-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "id": "runraceusa",
+    "ref": "conquer-the-cove-25k-and-marathon-trail-races-va",
+    "url": "https://runsignup.com/Race/VA/Roanoke/ConquertheCoveTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.35,
+    "lon": -79.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://runsignup.com/Race/VA/Roanoke/ConquertheCoveTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

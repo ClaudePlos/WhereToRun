@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Antwerp Backyard Ultra is a ultramarathon. Location: Schelle, Belgium. Date: 25 June 2027 – 27 June 2027. Distances: 65 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Schelle, Belgium, 25 June 2027 – 27 June 2027"
+    },
+    "pl": {
+      "description": "Antwerp Backyard Ultra to ultramaraton. Lokalizacja: Schelle, Belgia. Termin: 25 czerwca 2027 – 27 czerwca 2027. Dystanse: 65 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Schelle, Belgia, 25 czerwca 2027 – 27 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-06-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "65 h"
+  ],
+  "endDate": "2027-06-27",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Schelle",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Antwerp Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "antwerp-backyard-ultra-be",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:52.467Z",
+    "id": "duv",
+    "ref": "136765",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136765"
+  },
+  "start": {
+    "lat": 51.124564,
+    "lon": 4.336188,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": null
+}

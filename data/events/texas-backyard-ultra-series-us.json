@@ -20,24 +20,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Bastrop",
+    "city": "Matagorda",
     "country": "United States",
     "countryCode": "US",
     "region": "TX"
   },
   "manual": false,
   "name": "Texas Backyard Ultra Series",
-  "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TX/Matagorda/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "texas-backyard-ultra-series-us",
   "source": {
-    "fetchedAt": "2026-10-05T14:56:09.579Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "texas-backyard-ultra-series-tx",
-    "url": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TX/Matagorda/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 30.14,
-    "lon": -97.29,
+    "lat": 28.69,
+    "lon": -95.97,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-05T14:56:00.351Z",
-  "website": "https://runsignup.com/Race/TX/Bastrop/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://runsignup.com/Race/TX/Matagorda/TheLastFrontierCircuitTexasBackyardUltraSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

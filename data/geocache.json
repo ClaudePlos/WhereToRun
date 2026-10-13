@@ -452,6 +452,12 @@
     "lon": 5.7978592,
     "name": "Pepinster, Verviers, Liège, Wallonie, België / Belgique / Belgien"
   },
+  "BE|schelle": {
+    "at": "2026-10-13T14:22:28.193Z",
+    "lat": 51.1245635,
+    "lon": 4.3361875,
+    "name": "Schelle, Antwerpen, Vlaanderen, 2627, België / Belgique / Belgien"
+  },
   "BE|wingene": {
     "at": "2026-09-07T12:45:22.898Z",
     "lat": 51.0581655,
@@ -898,6 +904,12 @@
     "lat": 46.2104977,
     "lon": 7.2576107,
     "name": "Ardon, Conthey, Valais central, Valais/Wallis, 1957, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|arosa": {
+    "at": "2026-10-13T14:22:28.193Z",
+    "lat": 46.7797248,
+    "lon": 9.6781356,
+    "name": "Arosa, Plessur, Graubünden/Grischun/Grigioni, Schweiz/Suisse/Svizzera/Svizra"
   },
   "CH|bern": {
     "at": "2026-09-18T11:26:42.874Z",

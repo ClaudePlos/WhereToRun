@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T11:27:32.075Z",
-  "date": "2026-10-09",
+  "date": "2027-09-24",
   "dateStatus": "confirmed",
   "distances": [
     "u100m"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4726",
   "slug": "the-yeti-100-mile-endurance-run-us",
   "source": {
-    "fetchedAt": "2026-09-08T11:27:40.085Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "the-yeti-100-mile-endurance-run-va",
     "url": "https://ultrasignup.com/register.aspx?eid=4726"
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T11:27:32.075Z",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
   "website": "https://ultrasignup.com/register.aspx?eid=4726"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "CDA Ultra 73.2 (Trail of the Coeur D’Alenes) is a ultramarathon. Location: Coeur D Alene, United States. Date: Friday, 10 September 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Coeur D Alene, United States, Friday, 10 September 2027"
+    },
+    "pl": {
+      "description": "CDA Ultra 73.2 (Trail of the Coeur D’Alenes) to ultramaraton. Lokalizacja: Coeur D Alene, Stany Zjednoczone. Termin: piątek, 10 września 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Coeur D Alene, Stany Zjednoczone, piątek, 10 września 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-09-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coeur D Alene",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "CDA Ultra 73.2 (Trail of the Coeur D’Alenes)",
+  "registrationUrl": "https://runsignup.com/Race/ID/CoeurDAlene/CDAUltraTrailOfTheCoeurDAlenes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cda-ultra-73-2-trail-of-the-coeur-d-alenes-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "id": "runraceusa",
+    "ref": "cda-ultra-73-2-trail-of-the-coeur-d-alenes-id",
+    "url": "https://runsignup.com/Race/ID/CoeurDAlene/CDAUltraTrailOfTheCoeurDAlenes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.69,
+    "lon": -116.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://runsignup.com/Race/ID/CoeurDAlene/CDAUltraTrailOfTheCoeurDAlenes?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

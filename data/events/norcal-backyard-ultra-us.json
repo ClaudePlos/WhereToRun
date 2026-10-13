@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-04T22:20:28.980Z",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
-    "Last Person Standing"
+    "Mini Last Person"
   ],
   "endDate": "2026-10-24",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64125",
   "slug": "norcal-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-10-13T02:00:12.166Z",
+    "fetchedAt": "2026-10-13T14:22:36.300Z",
     "id": "ultrasignup",
     "ref": "16873",
     "url": "https://ultrasignup.com/register.aspx?did=64125"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-10-13T02:00:03.110Z",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
   "website": "https://www.badluckrunclub.com/the-backyard"
 }

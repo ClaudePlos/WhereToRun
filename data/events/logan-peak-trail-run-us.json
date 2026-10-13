@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Logan Peak Trail Run is a trail race. Location: Logan, United States. Date: Saturday, 19 June 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Logan, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Logan Peak Trail Run to bieg trailowy. Lokalizacja: Logan, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Logan, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Logan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Logan Peak Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2065",
+  "slug": "logan-peak-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "id": "runraceusa",
+    "ref": "logan-peak-trail-run-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=2065"
+  },
+  "start": {
+    "lat": 41.73,
+    "lon": -111.8,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2065"
+}

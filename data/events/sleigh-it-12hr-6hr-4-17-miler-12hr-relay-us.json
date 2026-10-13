@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sleigh It (12hr / 6hr / 4.17 Miler / 12hr Relay) is a ultramarathon. Location: Lake Wales, United States. Date: Saturday, 19 December 2026. Distances: 12 h, 12 Hour Relay, 6.7 km, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake Wales, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Sleigh It (12hr / 6hr / 4.17 Miler / 12hr Relay) to ultramaraton. Lokalizacja: Lake Wales, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 12 h, 12 Hour Relay, 6.7 km, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake Wales, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12 Hour Relay",
+    "6.7 km",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Wales",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Sleigh It (12hr / 6hr / 4.17 Miler / 12hr Relay)",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66310",
+  "slug": "sleigh-it-12hr-6hr-4-17-miler-12hr-relay-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:36.300Z",
+    "id": "ultrasignup",
+    "ref": "19529",
+    "url": "https://ultrasignup.com/register.aspx?did=66310"
+  },
+  "start": {
+    "lat": 27.9027,
+    "lon": -81.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://www.facebook.com/groups/219869929731537"
+}

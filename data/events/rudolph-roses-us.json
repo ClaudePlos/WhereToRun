@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Rudolph & Roses is a ultramarathon. Location: Tyler, United States. Date: Saturday, 19 December 2026. Distances: 100 km, 50 km, 30 km, 20 km, 10 km, 10K RUCK. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tyler, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Rudolph & Roses to ultramaraton. Lokalizacja: Tyler, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 100 km, 50 km, 30 km, 20 km, 10 km, 10K RUCK. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tyler, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km",
+    "30 km",
+    "20 km",
+    "10 km",
+    "10K RUCK"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tyler",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Rudolph & Roses",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68135",
+  "slug": "rudolph-roses-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:36.300Z",
+    "id": "ultrasignup",
+    "ref": "20834",
+    "url": "https://ultrasignup.com/register.aspx?did=68135"
+  },
+  "start": {
+    "lat": 32.4782,
+    "lon": -95.2928,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://www.texasoutlawrunning.com/rudolph"
+}

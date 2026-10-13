@@ -13,6 +13,8 @@
   "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
+    "other",
+    "u50k",
     "42.2 km"
   ],
   "endDate": null,
@@ -27,13 +29,13 @@
   },
   "manual": false,
   "name": "Ghost Train Trail Races",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2908",
+  "registrationUrl": "https://runsignup.com/Race/NH/Brookline/GhostTrainTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "ghost-train-trail-races-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "ghost-train-trail-races-nh",
-    "url": "https://ultrasignup.com/register.aspx?eid=2908"
+    "url": "https://runsignup.com/Race/NH/Brookline/GhostTrainTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 42.74,
@@ -46,6 +48,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2908"
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://runsignup.com/Race/NH/Brookline/GhostTrainTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

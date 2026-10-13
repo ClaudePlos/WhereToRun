@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "u50m"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "grit-city-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
     "id": "runraceusa",
     "ref": "grit-city-backyard-ultra-wa",
     "url": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
   "website": "https://runsignup.com/Race/WA/Tacoma/GritCityBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

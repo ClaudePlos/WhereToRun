@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Arosa TrailRun AT54 is a ultramarathon. Location: Arosa, Switzerland. Date: Saturday, 11 September 2027. Distances: 54.3 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Arosa, Switzerland, Saturday, 11 September 2027"
+    },
+    "pl": {
+      "description": "Arosa TrailRun AT54 to ultramaraton. Lokalizacja: Arosa, Szwajcaria. Termin: sobota, 11 września 2027. Dystanse: 54.3 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Arosa, Szwajcaria, sobota, 11 września 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-09-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "54.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Arosa",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Arosa TrailRun AT54",
+  "registrationUrl": null,
+  "slug": "arosa-trailrun-at54-ch",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:52.466Z",
+    "id": "duv",
+    "ref": "136687",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136687"
+  },
+  "start": {
+    "lat": 46.779725,
+    "lon": 9.678136,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": null
+}

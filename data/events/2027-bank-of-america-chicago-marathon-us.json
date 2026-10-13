@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Bank of America Chicago Marathon is a road race. Location: Chicago, United States. Date: Sunday, 10 October 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chicago, United States, Sunday, 10 October 2027"
+    },
+    "pl": {
+      "description": "2027 Bank of America Chicago Marathon to bieg uliczny. Lokalizacja: Chicago, Stany Zjednoczone. Termin: niedziela, 10 października 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chicago, Stany Zjednoczone, niedziela, 10 października 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-10-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "2027 Bank of America Chicago Marathon",
+  "registrationUrl": "https://www.chicagomarathon.com/",
+  "slug": "2027-bank-of-america-chicago-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "id": "runraceusa",
+    "ref": "2027-bank-of-america-chicago-marathon-il",
+    "url": "https://www.chicagomarathon.com/"
+  },
+  "start": {
+    "lat": 41.8721,
+    "lon": -87.6203,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://www.chicagomarathon.com/"
+}

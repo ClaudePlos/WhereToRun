@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Massanutten Mountain Trails 100M and 100K is a trail race. Location: Fort Valley, United States. Date: Saturday, 15 May 2027. Distances: u100k, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Fort Valley, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Massanutten Mountain Trails 100M and 100K to bieg trailowy. Lokalizacja: Fort Valley, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u100k, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Fort Valley, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-13T14:22:28.193Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Massanutten Mountain Trails 100M and 100K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=188",
+  "slug": "massanutten-mountain-trails-100m-and-100k-us",
+  "source": {
+    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "id": "runraceusa",
+    "ref": "massanutten-mountain-trails-100m-and-100k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=188"
+  },
+  "start": {
+    "lat": 38.74,
+    "lon": -78.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=188"
+}
