@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "S24H Timisoara - 12h is a ultramarathon. Location: Timisoara, Romania. Date: Saturday, 22 May 2027. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Timisoara, Romania, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "S24H Timisoara - 12h to ultramaraton. Lokalizacja: Timisoara, Rumunia. Termin: sobota, 22 maja 2027. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Timisoara, Rumunia, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-13T19:52:20.079Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Timisoara",
+    "country": "Romania",
+    "countryCode": "RO",
+    "region": null
+  },
+  "manual": false,
+  "name": "S24H Timisoara - 12h",
+  "registrationUrl": null,
+  "slug": "s24h-timisoara-12h-ro",
+  "source": {
+    "fetchedAt": "2026-10-13T19:52:41.327Z",
+    "id": "duv",
+    "ref": "136786",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136786"
+  },
+  "start": {
+    "lat": 45.753836,
+    "lon": 21.225747,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T19:52:20.079Z",
+  "website": null
+}

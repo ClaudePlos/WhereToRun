@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Evia Ultra Trail is a ultramarathon. Location: Steni, Greece. Date: Saturday, 24 April 2027. Distances: 110 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Steni, Greece, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Evia Ultra Trail to ultramaraton. Lokalizacja: Steni, Grecja. Termin: sobota, 24 kwietnia 2027. Dystanse: 110 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Steni, Grecja, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-13T19:52:20.079Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "110 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Steni",
+    "country": "Greece",
+    "countryCode": "GR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Evia Ultra Trail",
+  "registrationUrl": null,
+  "slug": "evia-ultra-trail-gr",
+  "source": {
+    "fetchedAt": "2026-10-13T19:52:41.327Z",
+    "id": "duv",
+    "ref": "136762",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136762"
+  },
+  "start": {
+    "lat": 37.576393,
+    "lon": 25.196843,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T19:52:20.079Z",
+  "website": null
+}
