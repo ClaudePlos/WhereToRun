@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Kent Backyard Ultra – Vigo is a ultramarathon. Location: Vigo, United Kingdom. Date: 16 October 2026 – 15 November 2026. Distances: 28 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Vigo, United Kingdom, 16 October 2026 – 15 November 2026"
+    },
+    "pl": {
+      "description": "Kent Backyard Ultra – Vigo to ultramaraton. Lokalizacja: Vigo, Wielka Brytania. Termin: 16 października 2026 – 15 listopada 2026. Dystanse: 28 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Vigo, Wielka Brytania, 16 października 2026 – 15 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-13T02:00:03.110Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "28 h"
+  ],
+  "endDate": "2026-11-15",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Vigo",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Kent Backyard Ultra – Vigo",
+  "registrationUrl": null,
+  "slug": "kent-backyard-ultra-vigo-gb",
+  "source": {
+    "fetchedAt": "2026-10-13T02:00:20.346Z",
+    "id": "duv",
+    "ref": "136459",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136459"
+  },
+  "start": {
+    "lat": 51.329586,
+    "lon": 0.354344,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T02:00:03.110Z",
+  "website": null
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-04T16:52:44.278Z",
-  "date": "2026-10-17",
+  "date": "2026-11-14",
   "dateStatus": "confirmed",
   "distances": [
     "160.9 km",
@@ -35,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63775",
   "slug": "cahuilla-rez-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-04T16:52:50.575Z",
+    "fetchedAt": "2026-10-13T02:00:12.166Z",
     "id": "ultrasignup",
     "ref": "16494",
     "url": "https://ultrasignup.com/register.aspx?did=63775"
@@ -51,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T16:52:44.278Z",
+  "updatedAt": "2026-10-13T02:00:03.110Z",
   "website": "http://www.Redroadracing.org"
 }

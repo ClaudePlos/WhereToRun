@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trailcat50 is a ultramarathon. Location: Tarragona, Spain. Date: Saturday, 17 October 2026. Distances: 76 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Tarragona, Spain, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Trailcat50 to ultramaraton. Lokalizacja: Tarragona, Hiszpania. Termin: sobota, 17 października 2026. Dystanse: 76 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Tarragona, Hiszpania, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-10-13T02:00:03.110Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "76 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tarragona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trailcat50",
+  "registrationUrl": null,
+  "slug": "trailcat50-es",
+  "source": {
+    "fetchedAt": "2026-10-13T02:00:20.345Z",
+    "id": "duv",
+    "ref": "136692",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136692"
+  },
+  "start": {
+    "lat": 41.117236,
+    "lon": 1.254606,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T02:00:03.110Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Chianti classico marathon is a ultramarathon. Location: Mercatale in Val di Pesa, Italy. Date: Sunday, 9 May 2027. Distances: 47, 8 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Mercatale in Val di Pesa, Italy, Sunday, 9 May 2027"
+    },
+    "pl": {
+      "description": "Chianti classico marathon to ultramaraton. Lokalizacja: Mercatale in Val di Pesa, Włochy. Termin: niedziela, 9 maja 2027. Dystanse: 47, 8 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Mercatale in Val di Pesa, Włochy, niedziela, 9 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-13T02:00:03.110Z",
+  "date": "2027-05-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "47",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mercatale in Val di Pesa",
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chianti classico marathon",
+  "registrationUrl": null,
+  "slug": "chianti-classico-marathon-it",
+  "source": {
+    "fetchedAt": "2026-10-13T02:00:20.345Z",
+    "id": "duv",
+    "ref": "136558",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136558"
+  },
+  "start": {
+    "lat": 43.634362,
+    "lon": 11.233612,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-13T02:00:03.110Z",
+  "website": null
+}
