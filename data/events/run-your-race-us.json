@@ -30,13 +30,13 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=69275",
   "slug": "run-your-race-us",
   "source": {
-    "fetchedAt": "2026-10-12T21:44:36.485Z",
+    "fetchedAt": "2026-10-13T23:43:08.643Z",
     "id": "ultrasignup",
     "ref": "21158",
     "url": "https://ultrasignup.com/register.aspx?did=69275"
   },
   "start": {
-    "lat": 33.6825,
+    "lat": 33.6824,
     "lon": -101.65,
     "name": null,
     "precision": "exact"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-12T21:44:28.611Z",
+  "updatedAt": "2026-10-13T23:43:02.330Z",
   "website": null
 }
