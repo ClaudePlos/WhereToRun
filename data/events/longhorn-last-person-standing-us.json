@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65856",
   "slug": "longhorn-last-person-standing-us",
   "source": {
-    "fetchedAt": "2026-10-05T21:12:36.831Z",
+    "fetchedAt": "2026-10-14T23:11:39.365Z",
     "id": "ultrasignup",
     "ref": "20137",
     "url": "https://ultrasignup.com/register.aspx?did=65856"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-10-05T21:12:27.278Z",
-  "website": "https://capstone.run/longhorn-lms"
+  "updatedAt": "2026-10-14T23:11:31.281Z",
+  "website": "https://longhornlaststand.com"
 }

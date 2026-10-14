@@ -3,13 +3,13 @@
   "dryRun": false,
   "eventCount": 2615,
   "geocoding": {
-    "capped": 8,
+    "capped": 0,
     "errors": 0,
     "hits": 98,
-    "lookups": 10,
-    "misses": 93
+    "lookups": 3,
+    "misses": 101
   },
-  "lastRun": "2026-10-14T18:01:19.461Z",
+  "lastRun": "2026-10-14T23:11:31.281Z",
   "skipped": 7,
   "sources": {
     "ai-discovery": {
@@ -37,10 +37,10 @@
       "fetched": 314
     },
     "wikidata": {
-      "error": "Wikidata SPARQL returned 500 Internal Server Error",
+      "error": "Wikidata SPARQL returned 504 Gateway Timeout",
       "fetched": 0
     }
   },
-  "unchanged": 1604,
-  "updated": 68
+  "unchanged": 1603,
+  "updated": 69
 }
