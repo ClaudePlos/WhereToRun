@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Charleston Itty Bitty 50 is a ultramarathon. Location: Mount Pleasant, United States. Date: Sunday, 20 December 2026. Distances: 80.5 km, Moore On 50 Mile Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mount Pleasant, United States, Sunday, 20 December 2026"
+    },
+    "pl": {
+      "description": "Charleston Itty Bitty 50 to ultramaraton. Lokalizacja: Mount Pleasant, Stany Zjednoczone. Termin: niedziela, 20 grudnia 2026. Dystanse: 80.5 km, Moore On 50 Mile Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mount Pleasant, Stany Zjednoczone, niedziela, 20 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "Moore On 50 Mile Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mount Pleasant",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Charleston Itty Bitty 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65092",
+  "slug": "charleston-itty-bitty-50-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "15482",
+    "url": "https://ultrasignup.com/register.aspx?did=65092"
+  },
+  "start": {
+    "lat": 32.7936,
+    "lon": -80.1044,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "http://www.charleston100.com"
+}

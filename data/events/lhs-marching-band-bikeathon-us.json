@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "LHS Marching Band Bikeathon is a road race. Location: Celeste, United States. Date: Saturday, 14 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Celeste, United States, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "LHS Marching Band Bikeathon to bieg uliczny. Lokalizacja: Celeste, Stany Zjednoczone. Termin: sobota, 14 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Celeste, Stany Zjednoczone, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Celeste",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "LHS Marching Band Bikeathon",
+  "registrationUrl": "https://runsignup.com/Race/TX/Celeste/LHSMarchingBandBikeathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lhs-marching-band-bikeathon-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
+    "id": "runraceusa",
+    "ref": "lhs-marching-band-bikeathon-tx",
+    "url": "https://runsignup.com/Race/TX/Celeste/LHSMarchingBandBikeathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.26,
+    "lon": -96.21,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://runsignup.com/Race/TX/Celeste/LHSMarchingBandBikeathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

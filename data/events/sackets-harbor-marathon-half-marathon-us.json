@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-05T22:03:13.980Z",
-  "date": "2026-09-06",
+  "date": "2027-09-05",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sackets-harbor-marathon-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-05T22:03:20.719Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
     "ref": "sackets-harbor-marathon-half-marathon-ny",
     "url": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-05T22:03:13.980Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://runsignup.com/Race/NY/SacketsHarbor/SacketsHarborMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

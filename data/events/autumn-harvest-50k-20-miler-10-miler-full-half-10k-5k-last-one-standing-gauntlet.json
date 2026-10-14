@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Autumn Harvest 50K • 20-Miler • 10-Miler • Full • Half • 10K • 5K • Last One Standing Gauntlet • Last Rucker Standing is a road race. Location: Bastrop, United States. Date: Saturday, 9 October 2027. Distances: u100p, u50k, other, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bastrop, United States, Saturday, 9 October 2027"
+    },
+    "pl": {
+      "description": "Autumn Harvest 50K • 20-Miler • 10-Miler • Full • Half • 10K • 5K • Last One Standing Gauntlet • Last Rucker Standing to bieg uliczny. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 9 października 2027. Dystanse: u100p, u50k, other, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bastrop, Stany Zjednoczone, sobota, 9 października 2027"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2027-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u50k",
+    "other",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Autumn Harvest 50K • 20-Miler • 10-Miler • Full • Half • 10K • 5K • Last One Standing Gauntlet • Last Rucker Standing",
+  "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "autumn-harvest-50k-20-miler-10-miler-full-half-10k-5k-last-one-standing-gauntlet",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
+    "id": "runraceusa",
+    "ref": "autumn-harvest-50k-20-miler-10-miler-full-half-10k-5k-last-one",
+    "url": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.14,
+    "lon": -97.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://runsignup.com/Race/TX/Bastrop/TrailsByMoonlightOnLakeTravisHarvestMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

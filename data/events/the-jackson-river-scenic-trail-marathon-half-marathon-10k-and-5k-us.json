@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Jackson River Scenic Trail Marathon, Half Marathon, 10k,  and 5k is a trail race. Location: Covington, United States. Date: Saturday, 12 June 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Covington, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "The Jackson River Scenic Trail Marathon, Half Marathon, 10k,  and 5k to bieg trailowy. Lokalizacja: Covington, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Covington, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Covington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "The Jackson River Scenic Trail Marathon, Half Marathon, 10k,  and 5k",
+  "registrationUrl": "https://runsignup.com/Race/VA/Covington/JRSTHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-jackson-river-scenic-trail-marathon-half-marathon-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
+    "id": "runraceusa",
+    "ref": "the-jackson-river-scenic-trail-marathon-half-marathon-10k-and-5k-va",
+    "url": "https://runsignup.com/Race/VA/Covington/JRSTHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.78,
+    "lon": -79.99,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://runsignup.com/Race/VA/Covington/JRSTHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

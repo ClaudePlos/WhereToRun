@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Going Running…. is a ultramarathon. Location: Kennesaw, United States. Date: Saturday, 26 December 2026. Distances: 85.3 km, 69.2 km, 53.1 km, 37 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kennesaw, United States, Saturday, 26 December 2026"
+    },
+    "pl": {
+      "description": "Going Running…. to ultramaraton. Lokalizacja: Kennesaw, Stany Zjednoczone. Termin: sobota, 26 grudnia 2026. Dystanse: 85.3 km, 69.2 km, 53.1 km, 37 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kennesaw, Stany Zjednoczone, sobota, 26 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-12-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "85.3 km",
+    "69.2 km",
+    "53.1 km",
+    "37 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kennesaw",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Going Running….",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68610",
+  "slug": "going-running-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "20970",
+    "url": "https://ultrasignup.com/register.aspx?did=68610"
+  },
+  "start": {
+    "lat": 34.0328,
+    "lon": -84.6316,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://thehottestrun.carrd.co/"
+}

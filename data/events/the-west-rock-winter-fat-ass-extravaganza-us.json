@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The West Rock Winter Fat Ass Extravaganza is a ultramarathon. Location: Hamden, United States. Date: Sunday, 27 December 2026. Distances: 8 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hamden, United States, Sunday, 27 December 2026"
+    },
+    "pl": {
+      "description": "The West Rock Winter Fat Ass Extravaganza to ultramaraton. Lokalizacja: Hamden, Stany Zjednoczone. Termin: niedziela, 27 grudnia 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hamden, Stany Zjednoczone, niedziela, 27 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-12-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hamden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "The West Rock Winter Fat Ass Extravaganza",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68833",
+  "slug": "the-west-rock-winter-fat-ass-extravaganza-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "10793",
+    "url": "https://ultrasignup.com/register.aspx?did=68833"
+  },
+  "start": {
+    "lat": 41.3601,
+    "lon": -72.9675,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://www.liveloudrunning.com/"
+}

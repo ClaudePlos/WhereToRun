@@ -33,9 +33,9 @@
   "registrationUrl": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon",
   "slug": "2027-university-hospitals-cleveland-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-13T23:43:09.724Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
-    "ref": "2027-university-hospitals-cleveland-marathon-cleveland-oh",
+    "ref": "2027-university-hospitals-cleveland-marathon-oh",
     "url": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon"
   },
   "start": {
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-13T23:43:02.330Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://raceroster.com/events/2027/129867/2027-university-hospitals-cleveland-marathon"
 }

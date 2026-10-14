@@ -33,9 +33,9 @@
   "registrationUrl": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "2027-walt-disney-world-marathon-weekend-us",
   "source": {
-    "fetchedAt": "2026-10-13T23:43:09.724Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
-    "ref": "2027-walt-disney-world-marathon-weekend-orlando-fl",
+    "ref": "2027-walt-disney-world-marathon-weekend-fl",
     "url": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-13T23:43:02.330Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://runsignup.com/Race/FL/Orlando/WaltDisneyWorldMarathonWeekend2027?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -13,7 +13,7 @@
   "date": "2026-12-27",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "59.2 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Round the Bay Relay and Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4670",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67449",
   "slug": "round-the-bay-relay-and-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-13T22:23:17.679Z",
-    "id": "runraceusa",
-    "ref": "round-the-bay-relay-and-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=4670"
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "4670",
+    "url": "https://ultrasignup.com/register.aspx?did=67449"
   },
   "start": {
-    "lat": 30.4,
-    "lon": -86.58,
+    "lat": 30.396,
+    "lon": -86.5843,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-13T22:23:08.200Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4670"
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://www.roundthebayrelayandultra.com/"
 }

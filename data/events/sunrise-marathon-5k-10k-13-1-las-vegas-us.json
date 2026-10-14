@@ -33,9 +33,9 @@
   "registrationUrl": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-las-vegas-us",
   "source": {
-    "fetchedAt": "2026-10-13T23:43:09.724Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
-    "ref": "sunrise-marathon-5k-10k-13-1-las-vegas-las-vegas-nv-2027-03-20",
+    "ref": "sunrise-marathon-5k-10k-13-1-las-vegas-nv",
     "url": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-13T23:43:02.330Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

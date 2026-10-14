@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Loop Out the Year is a ultramarathon. Location: Lakewood, United States. Date: Saturday, 26 December 2026. Distances: 8 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakewood, United States, Saturday, 26 December 2026"
+    },
+    "pl": {
+      "description": "Loop Out the Year to ultramaraton. Lokalizacja: Lakewood, Stany Zjednoczone. Termin: sobota, 26 grudnia 2026. Dystanse: 8 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakewood, Stany Zjednoczone, sobota, 26 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-12-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakewood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Loop Out the Year",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64891",
+  "slug": "loop-out-the-year-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "19662",
+    "url": "https://ultrasignup.com/register.aspx?did=64891"
+  },
+  "start": {
+    "lat": 47.176,
+    "lon": -122.556,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://www.trailtherapyrunning.com"
+}

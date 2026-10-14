@@ -33,9 +33,9 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17047",
   "slug": "2027-texas-ultra-series-us",
   "source": {
-    "fetchedAt": "2026-10-13T23:43:09.724Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
-    "ref": "2027-texas-ultra-series-multiple-cities-tx",
+    "ref": "2027-texas-ultra-series-tx",
     "url": "https://ultrasignup.com/register.aspx?eid=17047"
   },
   "start": {
@@ -49,6 +49,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-13T23:43:02.330Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://ultrasignup.com/register.aspx?eid=17047"
 }

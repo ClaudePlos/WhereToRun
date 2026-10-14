@@ -32,9 +32,9 @@
   "registrationUrl": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-memphis-us",
   "source": {
-    "fetchedAt": "2026-10-13T23:43:09.724Z",
+    "fetchedAt": "2026-10-14T12:05:12.407Z",
     "id": "runraceusa",
-    "ref": "sunrise-marathon-5k-10k-13-1-memphis-memphis-tn",
+    "ref": "sunrise-marathon-5k-10k-13-1-memphis-tn",
     "url": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-13T23:43:02.330Z",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
   "website": "https://runsignup.com/Race/TN/Memphis/SunriseMarathon5K10KMEMPHIS0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

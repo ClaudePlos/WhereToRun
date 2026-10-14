@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Jupiter Ridge Sand Spur is a ultramarathon. Location: Jupiter, United States. Date: Saturday, 26 December 2026. Distances: 50 km, Silent Night 30k, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jupiter, United States, Saturday, 26 December 2026"
+    },
+    "pl": {
+      "description": "Jupiter Ridge Sand Spur to ultramaraton. Lokalizacja: Jupiter, Stany Zjednoczone. Termin: sobota, 26 grudnia 2026. Dystanse: 50 km, Silent Night 30k, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jupiter, Stany Zjednoczone, sobota, 26 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-14T12:05:01.599Z",
+  "date": "2026-12-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "Silent Night 30k",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jupiter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Jupiter Ridge Sand Spur",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66443",
+  "slug": "jupiter-ridge-sand-spur-us",
+  "source": {
+    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "id": "ultrasignup",
+    "ref": "7887",
+    "url": "https://ultrasignup.com/register.aspx?did=66443"
+  },
+  "start": {
+    "lat": 26.916,
+    "lon": -80.0721,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "website": "https://www.sandspurultras.com"
+}
