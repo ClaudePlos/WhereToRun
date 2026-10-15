@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Otzberger Silvester-Ultra is a ultramarathon. Location: Otzberg, Germany. Date: Thursday, 31 December 2026. Distances: 45 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Otzberg, Germany, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Otzberger Silvester-Ultra to ultramaraton. Lokalizacja: Otzberg, Niemcy. Termin: czwartek, 31 grudnia 2026. Dystanse: 45 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Otzberg, Niemcy, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "45 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Otzberg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Otzberger Silvester-Ultra",
+  "registrationUrl": null,
+  "slug": "otzberger-silvester-ultra-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.336Z",
+    "id": "duv",
+    "ref": "128532",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128532"
+  },
+  "start": {
+    "lat": 49.8261,
+    "lon": 8.9225,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

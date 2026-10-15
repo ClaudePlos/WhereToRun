@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Aiken Trails Club at Stable View is a trail race. Location: Aiken, United States. Date: Thursday, 31 December 2026. Distances: Trails Club Membership. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Aiken, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Aiken Trails Club at Stable View to bieg trailowy. Lokalizacja: Aiken, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: Trails Club Membership. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Aiken, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Trails Club Membership"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Aiken",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Aiken Trails Club at Stable View",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=63955",
+  "slug": "aiken-trails-club-at-stable-view-us",
+  "source": {
+    "fetchedAt": "2026-10-15T17:46:42.240Z",
+    "id": "ultrasignup",
+    "ref": "18754",
+    "url": "https://ultrasignup.com/register.aspx?did=63955"
+  },
+  "start": {
+    "lat": 33.6455,
+    "lon": -81.8024,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": "https://svagatheringplace.com/stable-view-events/aiken-trails-club/"
+}

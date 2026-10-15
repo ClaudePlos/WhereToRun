@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Chiemgauer100 StundenRunden - 100mi is a ultramarathon. Location: Bergen, Germany. Date: 17 October 2026 – 18 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bergen, Germany, 17 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Chiemgauer100 StundenRunden - 100mi to ultramaraton. Lokalizacja: Bergen, Niemcy. Termin: 17 października 2026 – 18 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bergen, Niemcy, 17 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bergen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Chiemgauer100 StundenRunden - 100mi",
+  "registrationUrl": null,
+  "slug": "chiemgauer100-stundenrunden-100mi-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.335Z",
+    "id": "duv",
+    "ref": "129640",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129640"
+  },
+  "start": {
+    "lat": 49.780894,
+    "lon": 7.417606,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

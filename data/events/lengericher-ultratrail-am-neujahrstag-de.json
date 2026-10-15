@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lengericher Ultratrail am Neujahrstag is a ultramarathon. Location: Lengerich, Germany. Date: Friday, 1 January 2027. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lengerich, Germany, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Lengericher Ultratrail am Neujahrstag to ultramaraton. Lokalizacja: Lengerich, Niemcy. Termin: piątek, 1 stycznia 2027. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lengerich, Niemcy, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lengerich",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Lengericher Ultratrail am Neujahrstag",
+  "registrationUrl": null,
+  "slug": "lengericher-ultratrail-am-neujahrstag-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.336Z",
+    "id": "duv",
+    "ref": "128110",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128110"
+  },
+  "start": {
+    "lat": 52.188512,
+    "lon": 7.850436,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

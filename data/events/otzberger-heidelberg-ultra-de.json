@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Otzberger Heidelberg-Ultra is a ultramarathon. Location: Otzberg, Germany. Date: Saturday, 17 October 2026. Distances: 48 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Otzberg, Germany, Saturday, 17 October 2026"
+    },
+    "pl": {
+      "description": "Otzberger Heidelberg-Ultra to ultramaraton. Lokalizacja: Otzberg, Niemcy. Termin: sobota, 17 października 2026. Dystanse: 48 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Otzberg, Niemcy, sobota, 17 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Otzberg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Otzberger Heidelberg-Ultra",
+  "registrationUrl": null,
+  "slug": "otzberger-heidelberg-ultra-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.335Z",
+    "id": "duv",
+    "ref": "128432",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128432"
+  },
+  "start": {
+    "lat": 49.8261,
+    "lon": 8.9225,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

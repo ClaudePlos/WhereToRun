@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Lengericher Ultratrail is a ultramarathon. Location: Lengerich, Germany. Date: Sunday, 18 October 2026. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Lengerich, Germany, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Lengericher Ultratrail to ultramaraton. Lokalizacja: Lengerich, Niemcy. Termin: niedziela, 18 października 2026. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Lengerich, Niemcy, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lengerich",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Lengericher Ultratrail",
+  "registrationUrl": null,
+  "slug": "lengericher-ultratrail-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.335Z",
+    "id": "duv",
+    "ref": "127949",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=127949"
+  },
+  "start": {
+    "lat": 52.188512,
+    "lon": 7.850436,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

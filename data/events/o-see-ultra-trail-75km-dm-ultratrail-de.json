@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "O-SEE Ultra Trail 75km - DM Ultratrail is a ultramarathon. Location: Oybin, Germany. Date: Saturday, 16 October 2027. Distances: 75 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Oybin, Germany, Saturday, 16 October 2027"
+    },
+    "pl": {
+      "description": "O-SEE Ultra Trail 75km - DM Ultratrail to ultramaraton. Lokalizacja: Oybin, Niemcy. Termin: sobota, 16 października 2027. Dystanse: 75 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Oybin, Niemcy, sobota, 16 października 2027"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2027-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "75 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oybin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "O-SEE Ultra Trail 75km - DM Ultratrail",
+  "registrationUrl": null,
+  "slug": "o-see-ultra-trail-75km-dm-ultratrail-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.338Z",
+    "id": "duv",
+    "ref": "134715",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134715"
+  },
+  "start": {
+    "lat": 50.842086,
+    "lon": 14.74301,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rund um Detmold is a ultramarathon. Location: Detmold, Germany. Date: Saturday, 24 July 2027. Distances: 57 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Detmold, Germany, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Rund um Detmold to ultramaraton. Lokalizacja: Detmold, Niemcy. Termin: sobota, 24 lipca 2027. Dystanse: 57 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Detmold, Niemcy, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "57 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Detmold",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Rund um Detmold",
+  "registrationUrl": null,
+  "slug": "rund-um-detmold-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.338Z",
+    "id": "duv",
+    "ref": "132670",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132670"
+  },
+  "start": {
+    "lat": 51.936284,
+    "lon": 8.879153,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Altmühltal-Panoramaweg Ultra Trail is a ultramarathon. Location: Kelheim, Germany. Date: 16 October 2026 – 18 October 2026. Distances: 200 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kelheim, Germany, 16 October 2026 – 18 October 2026"
+    },
+    "pl": {
+      "description": "Altmühltal-Panoramaweg Ultra Trail to ultramaraton. Lokalizacja: Kelheim, Niemcy. Termin: 16 października 2026 – 18 października 2026. Dystanse: 200 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kelheim, Niemcy, 16 października 2026 – 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "200 km"
+  ],
+  "endDate": "2026-10-18",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kelheim",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Altmühltal-Panoramaweg Ultra Trail",
+  "registrationUrl": null,
+  "slug": "altmuhltal-panoramaweg-ultra-trail-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.334Z",
+    "id": "duv",
+    "ref": "131320",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131320"
+  },
+  "start": {
+    "lat": 48.91849,
+    "lon": 11.872278,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

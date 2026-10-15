@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Schönbuch Ultra 50km is a ultramarathon. Location: Hildrizhausen, Germany. Date: Sunday, 18 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hildrizhausen, Germany, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Schönbuch Ultra 50km to ultramaraton. Lokalizacja: Hildrizhausen, Niemcy. Termin: niedziela, 18 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hildrizhausen, Niemcy, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T17:46:34.999Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hildrizhausen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Schönbuch Ultra 50km",
+  "registrationUrl": null,
+  "slug": "schonbuch-ultra-50km-de",
+  "source": {
+    "fetchedAt": "2026-10-15T17:47:00.335Z",
+    "id": "duv",
+    "ref": "129709",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129709"
+  },
+  "start": {
+    "lat": 48.62534,
+    "lon": 8.970204,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "website": null
+}

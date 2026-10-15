@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-07T13:35:45.220Z",
-  "date": "2026-10-11",
+  "date": "2027-10-10",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "burgenlauf-bad-belzig-de",
   "source": {
-    "fetchedAt": "2026-10-07T13:36:14.025Z",
+    "fetchedAt": "2026-10-15T17:47:00.338Z",
     "id": "duv",
-    "ref": "123365",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123365"
+    "ref": "136806",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136806"
   },
   "start": {
     "lat": 52.140562,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-07T13:35:45.220Z",
+  "updatedAt": "2026-10-15T17:46:34.999Z",
   "website": null
 }
