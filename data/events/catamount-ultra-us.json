@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Catamount Ultra is a ultramarathon. Location: Stowe, United States. Date: Saturday, 26 June 2027. Distances: u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stowe, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Catamount Ultra to ultramaraton. Lokalizacja: Stowe, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stowe, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-15T11:42:04.688Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stowe",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "Catamount Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4285",
+  "slug": "catamount-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-15T11:42:13.888Z",
+    "id": "runraceusa",
+    "ref": "catamount-ultra-vt",
+    "url": "https://ultrasignup.com/register.aspx?eid=4285"
+  },
+  "start": {
+    "lat": 44.47,
+    "lon": -72.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=4285"
+}

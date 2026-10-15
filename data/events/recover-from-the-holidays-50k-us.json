@@ -13,7 +13,7 @@
   "date": "2026-12-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Recover from the Holidays 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2868",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69082",
   "slug": "recover-from-the-holidays-50k-us",
   "source": {
-    "fetchedAt": "2026-09-30T12:46:04.098Z",
-    "id": "runraceusa",
-    "ref": "recover-from-the-holidays-50k-al",
-    "url": "https://ultrasignup.com/register.aspx?eid=2868"
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "2868",
+    "url": "https://ultrasignup.com/register.aspx?did=69082"
   },
   "start": {
-    "lat": 34.69,
-    "lon": -86.59,
+    "lat": 34.6862,
+    "lon": -86.587,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-30T12:45:58.942Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2868"
+  "type": "ultra",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "http://huntsvilletrackclub.org/huntsville-track-club-events/"
 }

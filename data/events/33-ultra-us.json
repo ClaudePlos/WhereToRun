@@ -14,11 +14,11 @@
   "dateStatus": "confirmed",
   "distances": [
     "u50k",
+    "42.2 km",
     "21.1 km",
-    "5 km",
-    "1.6 km",
     "10 km",
-    "42.2 km"
+    "5 km",
+    "1.6 km"
   ],
   "endDate": null,
   "featured": false,
@@ -35,7 +35,7 @@
   "registrationUrl": "https://runsignup.com/Race/NE/Odell/33Ultra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "33-ultra-us",
   "source": {
-    "fetchedAt": "2026-10-14T12:05:12.407Z",
+    "fetchedAt": "2026-10-15T11:42:13.888Z",
     "id": "runraceusa",
     "ref": "33-ultra-ne",
     "url": "https://runsignup.com/Race/NE/Odell/33Ultra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -51,6 +51,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
   "website": "https://runsignup.com/Race/NE/Odell/33Ultra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

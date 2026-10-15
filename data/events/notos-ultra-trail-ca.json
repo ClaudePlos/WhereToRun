@@ -13,7 +13,7 @@
   "date": "2027-06-12",
   "dateStatus": "confirmed",
   "distances": [
-    "65 km"
+    "45 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "notos-ultra-trail-ca",
   "source": {
-    "fetchedAt": "2026-10-12T21:44:47.310Z",
+    "fetchedAt": "2026-10-15T11:42:26.475Z",
     "id": "duv",
-    "ref": "134538",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134538"
+    "ref": "134539",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134539"
   },
   "start": {
     "lat": 46.055495,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-12T21:44:28.611Z",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
   "website": null
 }

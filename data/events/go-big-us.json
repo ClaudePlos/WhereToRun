@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Go Big is a ultramarathon. Location: Hilo, United States. Date: Thursday, 31 December 2026. Distances: 418.4 km, 160.9 km, 50-Miler, 50K Relay, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hilo, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Go Big to ultramaraton. Lokalizacja: Hilo, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: 418.4 km, 160.9 km, 50-Miler, 50K Relay, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hilo, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-15T11:42:04.688Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "418.4 km",
+    "160.9 km",
+    "50-Miler",
+    "50K Relay",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hilo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "Go Big",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66549",
+  "slug": "go-big-us",
+  "source": {
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "12878",
+    "url": "https://ultrasignup.com/register.aspx?did=66549"
+  },
+  "start": {
+    "lat": 19.4342,
+    "lon": -155.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://hawaiimountainrunning.org"
+}

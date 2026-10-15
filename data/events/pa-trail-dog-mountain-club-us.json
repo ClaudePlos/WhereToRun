@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "PA Trail Dog Mountain Club is a trail race. Location: Lockhaven, United States. Date: Thursday, 31 December 2026. Distances: Membership. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Lockhaven, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "PA Trail Dog Mountain Club to bieg trailowy. Lokalizacja: Lockhaven, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: Membership. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Lockhaven, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-15T11:42:04.688Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Membership"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lockhaven",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "PA Trail Dog Mountain Club",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66413",
+  "slug": "pa-trail-dog-mountain-club-us",
+  "source": {
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "14262",
+    "url": "https://ultrasignup.com/register.aspx?did=66413"
+  },
+  "start": {
+    "lat": 41.1917,
+    "lon": -77.3715,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "http://www.patraildogs.com"
+}

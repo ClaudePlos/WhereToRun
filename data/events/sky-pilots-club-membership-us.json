@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sky Pilots Club Membership is a road race. Location: Ouray, United States. Date: Thursday, 31 December 2026. Distances: Membership. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ouray, United States, Thursday, 31 December 2026"
+    },
+    "pl": {
+      "description": "Sky Pilots Club Membership to bieg uliczny. Lokalizacja: Ouray, Stany Zjednoczone. Termin: czwartek, 31 grudnia 2026. Dystanse: Membership. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ouray, Stany Zjednoczone, czwartek, 31 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-15T11:42:04.688Z",
+  "date": "2026-12-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Membership"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ouray",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Sky Pilots Club Membership",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64833",
+  "slug": "sky-pilots-club-membership-us",
+  "source": {
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "14121",
+    "url": "https://ultrasignup.com/register.aspx?did=64833"
+  },
+  "start": {
+    "lat": 38.0228,
+    "lon": -107.671,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://skypilots.org/"
+}

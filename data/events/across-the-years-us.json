@@ -13,13 +13,17 @@
   "date": "2026-12-28",
   "dateStatus": "confirmed",
   "distances": [
-    "u100p",
-    "u100m",
-    "u100k",
-    "ultra",
-    "42.2 km"
+    "321.9 km",
+    "160.9 km",
+    "6 d",
+    "100 km",
+    "Last Person Standing",
+    "72 h",
+    "48 h",
+    "Dec 28 Marathon",
+    "24 Hou"
   ],
-  "endDate": null,
+  "endDate": "2027-01-03",
   "featured": false,
   "fees": [],
   "links": [],
@@ -31,25 +35,25 @@
   },
   "manual": false,
   "name": "Across the Years",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1414",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65492",
   "slug": "across-the-years-us",
   "source": {
-    "fetchedAt": "2026-09-13T22:23:17.679Z",
-    "id": "runraceusa",
-    "ref": "across-the-years-az",
-    "url": "https://ultrasignup.com/register.aspx?eid=1414"
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "1414",
+    "url": "https://ultrasignup.com/register.aspx?did=65492"
   },
   "start": {
-    "lat": 33.63,
-    "lon": -112.23,
+    "lat": 33.6321,
+    "lon": -112.233,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-13T22:23:08.200Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=1414"
+  "type": "ultra",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://www.aravaiparunning.com/across-the-years/"
 }

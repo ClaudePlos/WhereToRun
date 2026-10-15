@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tough Ruck Boston 26.2 For The Fallen is a road race. Location: Concord, United States. Date: Sunday, 18 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Concord, United States, Sunday, 18 April 2027"
+    },
+    "pl": {
+      "description": "Tough Ruck Boston 26.2 For The Fallen to bieg uliczny. Lokalizacja: Concord, Stany Zjednoczone. Termin: niedziela, 18 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Concord, Stany Zjednoczone, niedziela, 18 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-15T11:42:04.688Z",
+  "date": "2027-04-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Concord",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Tough Ruck Boston 26.2 For The Fallen",
+  "registrationUrl": "https://runsignup.com/Race/MA/Concord/toughruck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tough-ruck-boston-26-2-for-the-fallen-us",
+  "source": {
+    "fetchedAt": "2026-10-15T11:42:13.888Z",
+    "id": "runraceusa",
+    "ref": "tough-ruck-boston-26-2-for-the-fallen-ma",
+    "url": "https://runsignup.com/Race/MA/Concord/toughruck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.46,
+    "lon": -71.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://runsignup.com/Race/MA/Concord/toughruck?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

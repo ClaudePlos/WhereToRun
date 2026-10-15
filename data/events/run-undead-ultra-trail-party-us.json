@@ -13,11 +13,11 @@
   "date": "2026-12-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50m",
-    "u50k",
-    "other"
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Run Undead Ultra Trail Party",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15177",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66300",
   "slug": "run-undead-ultra-trail-party-us",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:21.524Z",
-    "id": "runraceusa",
-    "ref": "run-undead-ultra-trail-party-al",
-    "url": "https://ultrasignup.com/register.aspx?eid=15177"
+    "fetchedAt": "2026-10-15T11:42:13.316Z",
+    "id": "ultrasignup",
+    "ref": "15177",
+    "url": "https://ultrasignup.com/register.aspx?did=66300"
   },
   "start": {
-    "lat": 33.32,
-    "lon": -86.76,
+    "lat": 33.3247,
+    "lon": -86.7593,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=15177"
+  "updatedAt": "2026-10-15T11:42:04.688Z",
+  "website": "https://www.facebook.com/zombietrailraces/"
 }
