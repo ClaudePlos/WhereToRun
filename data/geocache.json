@@ -1130,6 +1130,12 @@
     "lon": 10.9528155,
     "name": "Aindling, Landkreis Aichach-Friedberg, Bayern, 86447, Deutschland"
   },
+  "DE|albig": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 49.7735495,
+    "lon": 8.1217095,
+    "name": "Albig, Alzey-Land, Landkreis Alzey-Worms, Rheinland-Pfalz, Deutschland"
+  },
   "DE|alt schwerin": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 53.5133185,
@@ -1166,6 +1172,9 @@
     "lon": 8.0118561,
     "name": "Bramsche, Landkreis Osnabrück, Niedersachsen, 49565, Deutschland"
   },
+  "DE|brandenburg": {
+    "at": "2026-10-15T23:03:50.696Z"
+  },
   "DE|breckerfeld": {
     "at": "2026-09-29T00:21:11.790Z",
     "lat": 51.2603083,
@@ -1177,6 +1186,12 @@
     "lat": 53.5505392,
     "lon": 8.5851945,
     "name": "Bremerhaven, Bremen, Deutschland"
+  },
+  "DE|burgbernheim": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 49.4609113,
+    "lon": 10.3125215,
+    "name": "Burgbernheim, Burgbernheim (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Bayern, 91593, Deutschland"
   },
   "DE|calw-altburg": {
     "at": "2026-09-29T00:21:11.790Z",
@@ -1220,6 +1235,12 @@
     "lon": 8.0713324,
     "name": "Elzach, GVV Elzach, Landkreis Emmendingen, Baden-Württemberg, 79215, Deutschland"
   },
+  "DE|erlangen": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 49.5977469,
+    "lon": 11.0037372,
+    "name": "Erlangen, Bayern, 91054, Deutschland"
+  },
   "DE|essen": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 51.4582235,
@@ -1256,6 +1277,12 @@
     "lon": 8.9702038,
     "name": "Hildrizhausen, GVV Holzgerlingen, Landkreis Böblingen, Baden-Württemberg, 71157, Deutschland"
   },
+  "DE|horn-bad meinberg": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 51.8801277,
+    "lon": 8.9731695,
+    "name": "Horn-Bad Meinberg, Kreis Lippe, Nordrhein-Westfalen, 32805, Deutschland"
+  },
   "DE|ibbenbüren": {
     "at": "2026-09-20T16:48:23.963Z",
     "lat": 52.2774772,
@@ -1285,6 +1312,12 @@
     "lat": 48.91849,
     "lon": 11.8722777,
     "name": "Kelheim, Landkreis Kelheim, Bayern, 93309, Deutschland"
+  },
+  "DE|köln": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 50.938361,
+    "lon": 6.959974,
+    "name": "Köln, Nordrhein-Westfalen, Deutschland"
   },
   "DE|laatzen": {
     "at": "2026-10-07T13:35:45.220Z",
@@ -1346,6 +1379,9 @@
     "lon": 10.8809805,
     "name": "Oldenburg in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23758, Deutschland"
   },
+  "DE|osnabrück-sutthausen": {
+    "at": "2026-10-15T23:03:50.696Z"
+  },
   "DE|osterode am harz": {
     "at": "2026-10-07T13:35:45.220Z",
     "lat": 51.72784,
@@ -1364,6 +1400,12 @@
     "lon": 14.74301,
     "name": "Oybin, Olbersdorf, Görlitz, Sachsen, 02797, Deutschland"
   },
+  "DE|pommelsbrunn": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 49.5046383,
+    "lon": 11.5078943,
+    "name": "Pommelsbrunn, Landkreis Nürnberger Land, Bayern, 91224, Deutschland"
+  },
   "DE|potsdam": {
     "at": "2026-10-07T13:35:45.220Z",
     "lat": 52.4009309,
@@ -1381,6 +1423,12 @@
     "lat": 50.5792112,
     "lon": 7.2286788,
     "name": "Remagen, Landkreis Ahrweiler, Rheinland-Pfalz, 53424, Deutschland"
+  },
+  "DE|remscheid": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 51.1798706,
+    "lon": 7.1943544,
+    "name": "Remscheid, Nordrhein-Westfalen, Deutschland"
   },
   "DE|remshalden-grunbach": {
     "at": "2026-09-20T22:25:00.188Z"
@@ -1426,6 +1474,12 @@
     "lat": 48.2720696,
     "lon": 12.2611725,
     "name": "Schwindegg, Landkreis Mühldorf am Inn, Bayern, Deutschland"
+  },
+  "DE|schwäbisch gmünd": {
+    "at": "2026-10-15T23:03:50.696Z",
+    "lat": 48.7999036,
+    "lon": 9.7977584,
+    "name": "Schwäbisch Gmünd, VVG der Stadt Schwäbisch Gmünd, Ostalbkreis, Baden-Württemberg, Deutschland"
   },
   "DE|sprockhövel": {
     "at": "2026-09-12T10:56:17.596Z",

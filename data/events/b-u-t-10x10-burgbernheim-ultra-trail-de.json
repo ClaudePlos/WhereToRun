@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "B.U.T.10x10 Burgbernheim Ultra Trail is a ultramarathon. Location: Burgbernheim, Germany. Date: Saturday, 24 October 2026. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Burgbernheim, Germany, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "B.U.T.10x10 Burgbernheim Ultra Trail to ultramaraton. Lokalizacja: Burgbernheim, Niemcy. Termin: sobota, 24 października 2026. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Burgbernheim, Niemcy, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Burgbernheim",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "B.U.T.10x10 Burgbernheim Ultra Trail",
+  "registrationUrl": null,
+  "slug": "b-u-t-10x10-burgbernheim-ultra-trail-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.438Z",
+    "id": "duv",
+    "ref": "129454",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129454"
+  },
+  "start": {
+    "lat": 49.460911,
+    "lon": 10.312522,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

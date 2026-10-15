@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Erlangen Ultramarathon is a ultramarathon. Location: Erlangen, Germany. Date: Sunday, 1 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Erlangen, Germany, Sunday, 1 November 2026"
+    },
+    "pl": {
+      "description": "Erlangen Ultramarathon to ultramaraton. Lokalizacja: Erlangen, Niemcy. Termin: niedziela, 1 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Erlangen, Niemcy, niedziela, 1 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2026-12-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Erlangen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Erlangen Ultramarathon",
+  "registrationUrl": null,
+  "slug": "erlangen-ultramarathon-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.439Z",
+    "id": "duv",
+    "ref": "130751",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130751"
+  },
+  "start": {
+    "lat": 49.597747,
+    "lon": 11.003737,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "G1 Grüngürtel Ultra Köln is a ultramarathon. Location: Köln, Germany. Date: 10 January 2027 – 11 January 2027. Distances: 63 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Köln, Germany, 10 January 2027 – 11 January 2027"
+    },
+    "pl": {
+      "description": "G1 Grüngürtel Ultra Köln to ultramaraton. Lokalizacja: Köln, Niemcy. Termin: 10 stycznia 2027 – 11 stycznia 2027. Dystanse: 63 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Köln, Niemcy, 10 stycznia 2027 – 11 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2027-01-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "63 km"
+  ],
+  "endDate": "2027-01-11",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Köln",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "G1 Grüngürtel Ultra Köln",
+  "registrationUrl": null,
+  "slug": "g1-grungurtel-ultra-koln-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.439Z",
+    "id": "duv",
+    "ref": "128372",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128372"
+  },
+  "start": {
+    "lat": 50.938361,
+    "lon": 6.959974,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

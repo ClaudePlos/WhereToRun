@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Pommel2K is a ultramarathon. Location: Pommelsbrunn, Germany. Date: Saturday, 24 October 2026. Distances: 46 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Pommelsbrunn, Germany, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Pommel2K to ultramaraton. Lokalizacja: Pommelsbrunn, Niemcy. Termin: sobota, 24 października 2026. Dystanse: 46 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Pommelsbrunn, Niemcy, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "46 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pommelsbrunn",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Pommel2K",
+  "registrationUrl": null,
+  "slug": "pommel2k-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.438Z",
+    "id": "duv",
+    "ref": "133188",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133188"
+  },
+  "start": {
+    "lat": 49.504638,
+    "lon": 11.507894,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

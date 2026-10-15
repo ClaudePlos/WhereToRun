@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bergischer 6 Stundenlauf is a ultramarathon. Location: Remscheid, Germany. Date: Saturday, 22 May 2027. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Remscheid, Germany, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Bergischer 6 Stundenlauf to ultramaraton. Lokalizacja: Remscheid, Niemcy. Termin: sobota, 22 maja 2027. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Remscheid, Niemcy, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Remscheid",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Bergischer 6 Stundenlauf",
+  "registrationUrl": null,
+  "slug": "bergischer-6-stundenlauf-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.440Z",
+    "id": "duv",
+    "ref": "133452",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133452"
+  },
+  "start": {
+    "lat": 51.179871,
+    "lon": 7.194354,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

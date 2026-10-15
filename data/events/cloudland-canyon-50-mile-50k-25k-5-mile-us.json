@@ -14,9 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "80.5 km",
-    "50 km",
-    "25 km",
-    "8 km"
+    "50 km"
   ],
   "endDate": "2026-12-06",
   "featured": false,
@@ -33,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64473",
   "slug": "cloudland-canyon-50-mile-50k-25k-5-mile-us",
   "source": {
-    "fetchedAt": "2026-10-03T11:48:38.725Z",
+    "fetchedAt": "2026-10-15T23:04:01.189Z",
     "id": "ultrasignup",
     "ref": "4513",
     "url": "https://ultrasignup.com/register.aspx?did=64473"
@@ -49,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-03T11:48:30.351Z",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
   "website": "https://www.runbumtours.com"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "LippeUltraTrail is a ultramarathon. Location: Horn-Bad Meinberg, Germany. Date: Sunday, 25 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Horn-Bad Meinberg, Germany, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "LippeUltraTrail to ultramaraton. Lokalizacja: Horn-Bad Meinberg, Niemcy. Termin: niedziela, 25 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Horn-Bad Meinberg, Niemcy, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Horn-Bad Meinberg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "LippeUltraTrail",
+  "registrationUrl": null,
+  "slug": "lippeultratrail-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.438Z",
+    "id": "duv",
+    "ref": "134691",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134691"
+  },
+  "start": {
+    "lat": 51.880128,
+    "lon": 8.97317,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

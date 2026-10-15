@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Albiger 12-Stunden-Lauf is a ultramarathon. Location: Albig, Germany. Date: Saturday, 24 October 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Albig, Germany, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Albiger 12-Stunden-Lauf to ultramaraton. Lokalizacja: Albig, Niemcy. Termin: sobota, 24 października 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Albig, Niemcy, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-15T23:03:50.696Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albig",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Albiger 12-Stunden-Lauf",
+  "registrationUrl": null,
+  "slug": "albiger-12-stunden-lauf-de",
+  "source": {
+    "fetchedAt": "2026-10-15T23:04:09.438Z",
+    "id": "duv",
+    "ref": "135679",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135679"
+  },
+  "start": {
+    "lat": 49.77355,
+    "lon": 8.12171,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "website": null
+}

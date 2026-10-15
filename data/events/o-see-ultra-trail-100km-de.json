@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-15T17:46:34.999Z",
-  "date": "2027-10-16",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "100 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "o-see-ultra-trail-100km-de",
   "source": {
-    "fetchedAt": "2026-10-15T17:47:00.338Z",
+    "fetchedAt": "2026-10-15T23:04:09.438Z",
     "id": "duv",
-    "ref": "134716",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134716"
+    "ref": "128387",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128387"
   },
   "start": {
     "lat": 50.842086,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-15T17:46:34.999Z",
+  "updatedAt": "2026-10-15T23:03:50.696Z",
   "website": null
 }
