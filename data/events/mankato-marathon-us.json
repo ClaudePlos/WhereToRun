@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T11:33:01.537Z",
-  "date": "2026-10-17",
+  "date": "2027-10-16",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,13 +32,13 @@
   },
   "manual": false,
   "name": "Mankato Marathon",
-  "registrationUrl": "https://raceroster.com/events/2026/110648/mankato-marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/141912/mankato-marathon",
   "slug": "mankato-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-16T17:25:17.683Z",
+    "fetchedAt": "2026-10-16T22:49:34.090Z",
     "id": "runraceusa",
     "ref": "mankato-marathon-mn",
-    "url": "https://raceroster.com/events/2026/110648/mankato-marathon"
+    "url": "https://raceroster.com/events/2027/141912/mankato-marathon"
   },
   "start": {
     "lat": 44.1591,
@@ -51,6 +51,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-16T17:25:06.361Z",
-  "website": "https://raceroster.com/events/2026/110648/mankato-marathon"
+  "updatedAt": "2026-10-16T22:49:23.327Z",
+  "website": "https://raceroster.com/events/2027/141912/mankato-marathon"
 }
