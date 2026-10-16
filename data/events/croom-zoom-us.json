@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Croom Zoom is a ultramarathon. Location: Brooksville, United States. Date: Saturday, 2 January 2027. Distances: 50 km, 32.2 km, 16.1 km, Spectator Fee. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brooksville, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Croom Zoom to ultramaraton. Lokalizacja: Brooksville, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: 50 km, 32.2 km, 16.1 km, Spectator Fee. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brooksville, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "Spectator Fee"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooksville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Croom Zoom",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68242",
+  "slug": "croom-zoom-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "2643",
+    "url": "https://ultrasignup.com/register.aspx?did=68242"
+  },
+  "start": {
+    "lat": 28.6373,
+    "lon": -82.3394,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "http://www.croomzoom.com/"
+}

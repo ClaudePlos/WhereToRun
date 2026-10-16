@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "WinterRock is a ultramarathon. Location: Independence, United States. Date: Saturday, 2 January 2027. Distances: Triple Crown w, 162.5 km, 101 km, 25 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Independence, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "WinterRock to ultramaraton. Lokalizacja: Independence, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: Triple Crown w, 162.5 km, 101 km, 25 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Independence, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Triple Crown w",
+    "162.5 km",
+    "101 km",
+    "25 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Independence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "WinterRock",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66503",
+  "slug": "winterrock-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "3679",
+    "url": "https://ultrasignup.com/register.aspx?did=66503"
+  },
+  "start": {
+    "lat": 37.279,
+    "lon": -95.7873,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://ultrasignup.com/register.aspx?did=116250"
+}

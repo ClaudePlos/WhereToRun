@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Prairie Spirit Trail is a trail race. Location: Ottawa, United States. Date: Saturday, 3 April 2027. Distances: u100m, u100k, u50m, u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ottawa, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Prairie Spirit Trail to bieg trailowy. Lokalizacja: Ottawa, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u100m, u100k, u50m, u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ottawa, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50m",
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ottawa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Prairie Spirit Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3439",
+  "slug": "prairie-spirit-trail-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "id": "runraceusa",
+    "ref": "prairie-spirit-trail-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=3439"
+  },
+  "start": {
+    "lat": 38.59,
+    "lon": -95.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3439"
+}

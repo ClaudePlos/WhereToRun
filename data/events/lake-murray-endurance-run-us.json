@@ -34,14 +34,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65089",
   "slug": "lake-murray-endurance-run-us",
   "source": {
-    "fetchedAt": "2026-09-05T10:43:43.739Z",
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
     "id": "ultrasignup",
     "ref": "10740",
     "url": "https://ultrasignup.com/register.aspx?did=65089"
   },
   "start": {
-    "lat": 34.1069,
-    "lon": -97.1095,
+    "lat": 34.0861,
+    "lon": -97.0995,
     "name": null,
     "precision": "exact"
   },
@@ -50,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-05T10:43:37.273Z",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
   "website": "https://blazetrails.com/lake-murray-endurance-run/?utm_source=ultrasignup&utm_medium=web&utm_campaign=website-link"
 }

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop Endurance Weekend | 01/01/27 is a ultramarathon. Location: St. Louis, United States. Date: Friday, 1 January 2027. Distances: 160.9 km, 100 km, 80.5 km, 50 km, The Next Loop Endurance Series, The Next 48 Hour Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St. Louis, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "The Next Loop Endurance Weekend | 01/01/27 to ultramaraton. Lokalizacja: St. Louis, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: 160.9 km, 100 km, 80.5 km, 50 km, The Next Loop Endurance Series, The Next 48 Hour Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St. Louis, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "The Next Loop Endurance Series",
+    "The Next 48 Hour Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Louis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "The Next Loop Endurance Weekend | 01/01/27",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68492",
+  "slug": "the-next-loop-endurance-weekend-01-01-27-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "20939",
+    "url": "https://ultrasignup.com/register.aspx?did=68492"
+  },
+  "start": {
+    "lat": 38.8813,
+    "lon": -90.9246,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://www.everfurther.net/the-next-new-year-s-weekend"
+}

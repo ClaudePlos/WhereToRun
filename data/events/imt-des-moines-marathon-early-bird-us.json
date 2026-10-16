@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-10-18",
+  "date": "2027-10-16",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathonEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "imt-des-moines-marathon-early-bird-us",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
     "id": "runraceusa",
     "ref": "imt-des-moines-marathon-early-bird-ia",
     "url": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathonEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
   "website": "https://runsignup.com/Race/IA/DesMoines/IMTDesMoinesMarathonEarlyBird?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

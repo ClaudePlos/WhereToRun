@@ -17,7 +17,8 @@
     "21.1 km",
     "ultra",
     "10 km",
-    "5 km"
+    "5 km",
+    "u50m"
   ],
   "endDate": null,
   "featured": false,
@@ -34,7 +35,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events",
   "slug": "lake-tahoe-marathon-events-us",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
     "id": "runraceusa",
     "ref": "lake-tahoe-marathon-events-ca",
     "url": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events"
@@ -50,6 +51,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
   "website": "https://raceroster.com/events/2026/82291/lake-tahoe-marathon-events"
 }

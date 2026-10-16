@@ -13,9 +13,13 @@
   "date": "2027-01-02",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "42.2 km",
-    "21.1 km",
+    "50 Mile Run",
+    "50 MTB",
+    "27 MTB",
+    "43.5 km",
+    "15 MTB",
+    "1",
+    "2 Marathon",
     "10 km"
   ],
   "endDate": null,
@@ -30,25 +34,25 @@
   },
   "manual": false,
   "name": "Wild Azalea Trail Challenge",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4229",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68227",
   "slug": "wild-azalea-trail-challenge-us",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:21.524Z",
-    "id": "runraceusa",
-    "ref": "wild-azalea-trail-challenge-la",
-    "url": "https://ultrasignup.com/register.aspx?eid=4229"
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "4229",
+    "url": "https://ultrasignup.com/register.aspx?did=68227"
   },
   "start": {
-    "lat": 31.24,
-    "lon": -92.68,
+    "lat": 31.2398,
+    "lon": -92.6842,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4229"
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "http://www.wildazaleatrail.com"
 }

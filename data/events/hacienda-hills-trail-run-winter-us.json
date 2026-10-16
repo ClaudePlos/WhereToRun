@@ -13,12 +13,16 @@
   "date": "2027-01-02",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
-    "other",
-    "21.1 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "14.5 km",
     "10 km",
-    "5 km"
+    "5 km",
+    "Mile",
+    "Kids Run"
   ],
   "endDate": null,
   "featured": false,
@@ -32,25 +36,25 @@
   },
   "manual": false,
   "name": "Hacienda Hills Trail Run - Winter",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3058",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68319",
   "slug": "hacienda-hills-trail-run-winter-us",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:21.524Z",
-    "id": "runraceusa",
-    "ref": "hacienda-hills-trail-run-winter-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=3058"
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "3058",
+    "url": "https://ultrasignup.com/register.aspx?did=68319"
   },
   "start": {
-    "lat": 37.33,
-    "lon": -121.89,
+    "lat": 37.3336,
+    "lon": -121.891,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3058"
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://tctruns.com/hacienda-hills-trail-run-winter/"
 }

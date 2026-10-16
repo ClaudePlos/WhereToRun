@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Feral Mtn 50 miler is a road race. Location: Ellijay, United States. Date: Saturday, 24 April 2027. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ellijay, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Feral Mtn 50 miler to bieg uliczny. Lokalizacja: Ellijay, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ellijay, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ellijay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Feral Mtn 50 miler",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18195",
+  "slug": "feral-mtn-50-miler-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "id": "runraceusa",
+    "ref": "feral-mtn-50-miler-ga",
+    "url": "https://ultrasignup.com/register.aspx?eid=18195"
+  },
+  "start": {
+    "lat": 34.8,
+    "lon": -84.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18195"
+}

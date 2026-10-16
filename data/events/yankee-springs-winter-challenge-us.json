@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Yankee Springs Winter Challenge is a ultramarathon. Location: Middleville, United States. Date: Saturday, 2 January 2027. Distances: 50 km, 25 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Middleville, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Yankee Springs Winter Challenge to ultramaraton. Lokalizacja: Middleville, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: 50 km, 25 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Middleville, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Middleville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Yankee Springs Winter Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68465",
+  "slug": "yankee-springs-winter-challenge-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "4004",
+    "url": "https://ultrasignup.com/register.aspx?did=68465"
+  },
+  "start": {
+    "lat": 42.6137,
+    "lon": -85.4908,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://switchbackendurance.com/races/winter-challenge/"
+}

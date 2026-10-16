@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-17T22:50:40.759Z",
-  "date": "2027-04-17",
+  "date": "2027-04-10",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15282",
   "slug": "happy-trails-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
     "id": "runraceusa",
     "ref": "happy-trails-marathon-ut",
     "url": "https://ultrasignup.com/register.aspx?eid=15282"
@@ -47,6 +47,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
   "website": "https://ultrasignup.com/register.aspx?eid=15282"
 }

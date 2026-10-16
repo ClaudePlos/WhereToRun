@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Firebird Trail Races is a trail race. Location: Windham, United States. Date: Saturday, 21 August 2027. Distances: u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Windham, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Firebird Trail Races to bieg trailowy. Lokalizacja: Windham, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Windham, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Windham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Firebird Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10773",
+  "slug": "firebird-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "id": "runraceusa",
+    "ref": "firebird-trail-races-me",
+    "url": "https://ultrasignup.com/register.aspx?eid=10773"
+  },
+  "start": {
+    "lat": 43.79,
+    "lon": -70.36,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10773"
+}

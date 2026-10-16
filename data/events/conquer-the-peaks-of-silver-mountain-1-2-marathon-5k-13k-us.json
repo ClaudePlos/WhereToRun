@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Conquer The Peaks of Silver Mountain 1/2 Marathon, 5K, 13K is a trail race. Location: Kellogg, United States. Date: Saturday, 14 August 2027. Distances: 21.1 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Kellogg, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Conquer The Peaks of Silver Mountain 1/2 Marathon, 5K, 13K to bieg trailowy. Lokalizacja: Kellogg, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: 21.1 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Kellogg, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kellogg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Conquer The Peaks of Silver Mountain 1/2 Marathon, 5K, 13K",
+  "registrationUrl": "https://runsignup.com/Race/ID/Kellogg/ConquerThePeaksOfSilverMountainTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "conquer-the-peaks-of-silver-mountain-1-2-marathon-5k-13k-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "id": "runraceusa",
+    "ref": "conquer-the-peaks-of-silver-mountain-1-2-marathon-5k-13k-id",
+    "url": "https://runsignup.com/Race/ID/Kellogg/ConquerThePeaksOfSilverMountainTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.54,
+    "lon": -116.13,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://runsignup.com/Race/ID/Kellogg/ConquerThePeaksOfSilverMountainTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "BMW Dallas Marathon Video Shoot RSVP is a road race. Location: Dallas, United States. Date: Saturday, 31 October 2026. Distances: 5 km, 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Dallas, United States, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "BMW Dallas Marathon Video Shoot RSVP to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: sobota, 31 października 2026. Dystanse: 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "BMW Dallas Marathon Video Shoot RSVP",
+  "registrationUrl": "https://raceroster.com/events/2026/165379/bmw-dallas-marathon-video-shoot-rsvp",
+  "slug": "bmw-dallas-marathon-video-shoot-rsvp-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "id": "runraceusa",
+    "ref": "bmw-dallas-marathon-video-shoot-rsvp-tx",
+    "url": "https://raceroster.com/events/2026/165379/bmw-dallas-marathon-video-shoot-rsvp"
+  },
+  "start": {
+    "lat": 32.7813,
+    "lon": -96.8019,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://raceroster.com/events/2026/165379/bmw-dallas-marathon-video-shoot-rsvp"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "North Florida 3 Day Trail Running Camp is a trail race. Location: White Springs, United States. Date: 1 January 2027 – 3 January 2027. Distances: Tent camping, Group Runs Only. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — White Springs, United States, 1 January 2027 – 3 January 2027"
+    },
+    "pl": {
+      "description": "North Florida 3 Day Trail Running Camp to bieg trailowy. Lokalizacja: White Springs, Stany Zjednoczone. Termin: 1 stycznia 2027 – 3 stycznia 2027. Dystanse: Tent camping, Group Runs Only. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — White Springs, Stany Zjednoczone, 1 stycznia 2027 – 3 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Tent camping",
+    "Group Runs Only"
+  ],
+  "endDate": "2027-01-03",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "White Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "North Florida 3 Day Trail Running Camp",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67805",
+  "slug": "north-florida-3-day-trail-running-camp-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "20723",
+    "url": "https://ultrasignup.com/register.aspx?did=67805"
+  },
+  "start": {
+    "lat": 30.3297,
+    "lon": -82.759,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://www.wanderingrunner.com"
+}

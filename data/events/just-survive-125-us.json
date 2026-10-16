@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Just Survive 125 is a ultramarathon. Location: Hobe Sound, United States. Date: Friday, 1 January 2027. Distances: 200 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hobe Sound, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "Just Survive 125 to ultramaraton. Lokalizacja: Hobe Sound, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: 200 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hobe Sound, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T11:35:30.531Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "200 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hobe Sound",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Just Survive 125",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64846",
+  "slug": "just-survive-125-us",
+  "source": {
+    "fetchedAt": "2026-10-16T11:35:38.508Z",
+    "id": "ultrasignup",
+    "ref": "9197",
+    "url": "https://ultrasignup.com/register.aspx?did=64846"
+  },
+  "start": {
+    "lat": 27.0668,
+    "lon": -80.115,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "website": "https://www.facebook.com/groups/1228244070569182/"
+}
