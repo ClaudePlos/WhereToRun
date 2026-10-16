@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Frozen: H3 is a ultramarathon. Location: Bethera, United States. Date: 8 January 2027 – 10 January 2027. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bethera, United States, 8 January 2027 – 10 January 2027"
+    },
+    "pl": {
+      "description": "Frozen: H3 to ultramaraton. Lokalizacja: Bethera, Stany Zjednoczone. Termin: 8 stycznia 2027 – 10 stycznia 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bethera, Stany Zjednoczone, 8 stycznia 2027 – 10 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T17:25:06.361Z",
+  "date": "2027-01-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-01-10",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bethera",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Frozen: H3",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64990",
+  "slug": "frozen-h3-us",
+  "source": {
+    "fetchedAt": "2026-10-16T17:25:16.702Z",
+    "id": "ultrasignup",
+    "ref": "8064",
+    "url": "https://ultrasignup.com/register.aspx?did=64990"
+  },
+  "start": {
+    "lat": 33.2004,
+    "lon": -79.7651,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T17:25:06.361Z",
+  "website": "https://www.palmettoultras.com"
+}

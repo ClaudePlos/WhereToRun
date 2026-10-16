@@ -36,14 +36,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64035",
   "slug": "weekend-at-burney-us",
   "source": {
-    "fetchedAt": "2026-09-04T22:20:34.907Z",
+    "fetchedAt": "2026-10-16T17:25:16.702Z",
     "id": "ultrasignup",
     "ref": "16590",
     "url": "https://ultrasignup.com/register.aspx?did=64035"
   },
   "start": {
-    "lat": 40.985,
-    "lon": -121.598,
+    "lat": 40.9549,
+    "lon": -121.561,
     "name": null,
     "precision": "exact"
   },
@@ -52,6 +52,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-04T22:20:28.980Z",
+  "updatedAt": "2026-10-16T17:25:06.361Z",
   "website": "https://jeniferrishel.wixsite.com/intermountain-endura"
 }

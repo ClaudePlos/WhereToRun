@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Hard Times 100 is a ultramarathon. Location: Paris, United States. Date: Saturday, 2 January 2027. Distances: 160.9 km, 100 km, 100K RUCK, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Paris, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Hard Times 100 to ultramaraton. Lokalizacja: Paris, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: 160.9 km, 100 km, 100K RUCK, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Paris, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T17:25:06.361Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "100K RUCK",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Paris",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Hard Times 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=62983",
+  "slug": "hard-times-100-us",
+  "source": {
+    "fetchedAt": "2026-10-16T17:25:16.702Z",
+    "id": "ultrasignup",
+    "ref": "19354",
+    "url": "https://ultrasignup.com/register.aspx?did=62983"
+  },
+  "start": {
+    "lat": 33.6399,
+    "lon": -95.5239,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T17:25:06.361Z",
+  "website": "https://www.texasoutlawrunning.com/hardtimes"
+}

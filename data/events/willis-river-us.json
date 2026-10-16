@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Willis River is a ultramarathon. Location: Cumberland, United States. Date: Sunday, 3 January 2027. Distances: 50 km, 35 km, 20 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cumberland, United States, Sunday, 3 January 2027"
+    },
+    "pl": {
+      "description": "Willis River to ultramaraton. Lokalizacja: Cumberland, Stany Zjednoczone. Termin: niedziela, 3 stycznia 2027. Dystanse: 50 km, 35 km, 20 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cumberland, Stany Zjednoczone, niedziela, 3 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-16T17:25:06.361Z",
+  "date": "2027-01-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "35 km",
+    "20 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cumberland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Willis River",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68257",
+  "slug": "willis-river-us",
+  "source": {
+    "fetchedAt": "2026-10-16T17:25:16.702Z",
+    "id": "ultrasignup",
+    "ref": "3597",
+    "url": "https://ultrasignup.com/register.aspx?did=68257"
+  },
+  "start": {
+    "lat": 37.531,
+    "lon": -78.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-16T17:25:06.361Z",
+  "website": "http://virginiaadventures.net/willis-river-50k-or-less-fat-ass/"
+}
