@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-22T17:38:39.624Z",
-  "date": "2027-02-07",
+  "date": "2027-02-06",
   "dateStatus": "confirmed",
   "distances": [
-    "63 km"
+    "100 km"
   ],
   "endDate": "2027-02-07",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "ultra-trail-phu-wiang-th",
   "source": {
-    "fetchedAt": "2026-10-17T16:25:55.566Z",
+    "fetchedAt": "2026-10-17T22:16:24.881Z",
     "id": "duv",
-    "ref": "134031",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134031"
+    "ref": "134030",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134030"
   },
   "start": {
     "lat": 16.653267,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-17T16:25:31.633Z",
+  "updatedAt": "2026-10-17T22:15:46.268Z",
   "website": null
 }

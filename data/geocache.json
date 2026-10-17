@@ -213,13 +213,16 @@
     "name": "Tulln an der Donau, Bezirk Tulln, Niederösterreich, Österreich"
   },
   "AU|adelaide, sa": {
-    "at": "2026-09-17T11:51:05.899Z"
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|anakie, vic": {
     "at": "2026-10-06T23:47:06.887Z"
   },
   "AU|apollo bay, vic": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|augusta, wa": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|australind, wa": {
     "at": "2026-10-06T23:47:06.887Z"
@@ -241,6 +244,9 @@
   },
   "AU|cairns, qld": {
     "at": "2026-09-25T17:57:24.902Z"
+  },
+  "AU|campbelltown, nsw": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|cape schanck, vic": {
     "at": "2026-10-09T13:26:42.112Z"
@@ -278,6 +284,9 @@
   "AU|glenelg north, sa": {
     "at": "2026-10-06T23:47:06.887Z"
   },
+  "AU|greens beach, tas": {
+    "at": "2026-10-17T22:15:46.268Z"
+  },
   "AU|greenvale, vic": {
     "at": "2026-10-06T23:47:06.887Z"
   },
@@ -305,6 +314,9 @@
   "AU|latrobe, tas": {
     "at": "2026-09-25T17:57:24.902Z"
   },
+  "AU|leongatha, vic": {
+    "at": "2026-10-17T22:15:46.268Z"
+  },
   "AU|lithgow, nsw": {
     "at": "2026-10-12T15:42:41.570Z"
   },
@@ -322,6 +334,9 @@
   },
   "AU|mile end south, sa": {
     "at": "2026-09-17T11:51:05.899Z"
+  },
+  "AU|moodiarrup, wa": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|mount victoria, nsw": {
     "at": "2026-09-25T23:17:23.268Z"
@@ -374,8 +389,14 @@
   "AU|pyalong, vic": {
     "at": "2026-09-25T23:17:23.268Z"
   },
+  "AU|rocklea, qld": {
+    "at": "2026-10-17T22:15:46.268Z"
+  },
   "AU|scottsdale, tas": {
     "at": "2026-09-17T11:51:05.899Z"
+  },
+  "AU|serpentine falls np, wa": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|shepparton, vic": {
     "at": "2026-09-03T11:24:47.198Z"
@@ -409,6 +430,9 @@
   },
   "AU|wilsons promontory, vic": {
     "at": "2026-10-09T13:26:42.112Z"
+  },
+  "AU|wulkuraka, qld": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "AU|yellagonga regional park, wa": {
     "at": "2026-09-03T11:24:47.198Z"
@@ -3421,6 +3445,9 @@
     "lat": 58.2844813,
     "lon": 6.9059424,
     "name": "Øye, Kvinesdal, Agder, 4484, Norge"
+  },
+  "NZ|waihaha bridge": {
+    "at": "2026-10-17T22:15:46.268Z"
   },
   "PT|ansiao": {
     "at": "2026-09-18T17:05:45.373Z",

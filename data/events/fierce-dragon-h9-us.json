@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fierce Dragon (H9) is a ultramarathon. Location: Blairsville, United States. Date: 12 January 2027 – 17 January 2027. Distances: 321.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Blairsville, United States, 12 January 2027 – 17 January 2027"
+    },
+    "pl": {
+      "description": "Fierce Dragon (H9) to ultramaraton. Lokalizacja: Blairsville, Stany Zjednoczone. Termin: 12 stycznia 2027 – 17 stycznia 2027. Dystanse: 321.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Blairsville, Stany Zjednoczone, 12 stycznia 2027 – 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T22:15:46.268Z",
+  "date": "2027-01-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km"
+  ],
+  "endDate": "2027-01-17",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Blairsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Fierce Dragon (H9)",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67620",
+  "slug": "fierce-dragon-h9-us",
+  "source": {
+    "fetchedAt": "2026-10-17T22:15:55.512Z",
+    "id": "ultrasignup",
+    "ref": "9905",
+    "url": "https://ultrasignup.com/register.aspx?did=67620"
+  },
+  "start": {
+    "lat": 34.7649,
+    "lon": -83.9255,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T22:15:46.268Z",
+  "website": "https://www.h9fiercedragon.com"
+}
