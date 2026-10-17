@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "No Hands Trail Run is a ultramarathon. Location: Auburn, United States. Date: Saturday, 9 January 2027. Distances: 50 km, 35 km, 21.1 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Auburn, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "No Hands Trail Run to ultramaraton. Lokalizacja: Auburn, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km, 35 km, 21.1 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Auburn, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "35 km",
+    "21.1 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Auburn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "No Hands Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67731",
+  "slug": "no-hands-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "13825",
+    "url": "https://ultrasignup.com/register.aspx?did=67731"
+  },
+  "start": {
+    "lat": 38.8885,
+    "lon": -121.069,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://insidetrail.com/calendar/no-hands-trail-run/"
+}

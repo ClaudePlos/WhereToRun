@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Great Scorpion Trail Run is a ultramarathon. Location: Meridian, United States. Date: Saturday, 9 January 2027. Distances: 50 km, 25 km, 12.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Meridian, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "The Great Scorpion Trail Run to ultramaraton. Lokalizacja: Meridian, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km, 25 km, 12.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Meridian, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Meridian",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "The Great Scorpion Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66421",
+  "slug": "the-great-scorpion-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "8541",
+    "url": "https://ultrasignup.com/register.aspx?did=66421"
+  },
+  "start": {
+    "lat": 32.354,
+    "lon": -88.6628,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "http://www.greatscorpiontrailrun.com"
+}

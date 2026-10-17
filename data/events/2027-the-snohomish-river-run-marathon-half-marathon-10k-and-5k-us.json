@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 The Snohomish River Run Marathon, Half Marathon, 10K and 5K is a road race. Location: Snohomish, United States. Date: Sunday, 17 October 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Snohomish, United States, Sunday, 17 October 2027"
+    },
+    "pl": {
+      "description": "2027 The Snohomish River Run Marathon, Half Marathon, 10K and 5K to bieg uliczny. Lokalizacja: Snohomish, Stany Zjednoczone. Termin: niedziela, 17 października 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Snohomish, Stany Zjednoczone, niedziela, 17 października 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Snohomish",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "2027 The Snohomish River Run Marathon, Half Marathon, 10K and 5K",
+  "registrationUrl": "https://runsignup.com/Race/WA/Snohomish/TheSnohomishRiverRunMarathonHalfMarathon10KAnd5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-the-snohomish-river-run-marathon-half-marathon-10k-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
+    "id": "runraceusa",
+    "ref": "2027-the-snohomish-river-run-marathon-half-marathon-10k-and-5k-wa",
+    "url": "https://runsignup.com/Race/WA/Snohomish/TheSnohomishRiverRunMarathonHalfMarathon10KAnd5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.9,
+    "lon": -122.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://runsignup.com/Race/WA/Snohomish/TheSnohomishRiverRunMarathonHalfMarathon10KAnd5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

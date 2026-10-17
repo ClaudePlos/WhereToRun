@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Angela Ivory Memorial Runs is a ultramarathon. Location: Felton, United States. Date: Saturday, 9 January 2027. Distances: 160.9 km, 50 km, 24 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Felton, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Angela Ivory Memorial Runs to ultramaraton. Lokalizacja: Felton, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 160.9 km, 50 km, 24 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Felton, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "50 km",
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Felton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DE"
+  },
+  "manual": false,
+  "name": "Angela Ivory Memorial Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68217",
+  "slug": "angela-ivory-memorial-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "4421",
+    "url": "https://ultrasignup.com/register.aspx?did=68217"
+  },
+  "start": {
+    "lat": 38.9854,
+    "lon": -75.5366,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://www.facebook.com/Angela-Ivory-Memorial-Trail-Runs-107711848537262/"
+}

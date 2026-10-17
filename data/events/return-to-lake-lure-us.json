@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Return to Lake Lure is a ultramarathon. Location: Lake Lure, United States. Date: Saturday, 9 January 2027. Distances: 50 km, 32.2 km, 16.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lake Lure, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Return to Lake Lure to ultramaraton. Lokalizacja: Lake Lure, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km, 32.2 km, 16.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lake Lure, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lake Lure",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Return to Lake Lure",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64077",
+  "slug": "return-to-lake-lure-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "15250",
+    "url": "https://ultrasignup.com/register.aspx?did=64077"
+  },
+  "start": {
+    "lat": 35.4279,
+    "lon": -82.2048,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://dirtywolfracing.com/"
+}

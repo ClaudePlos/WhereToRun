@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Sandy Bottom 8-Hour Training Run is a ultramarathon. Location: Hampton, United States. Date: Saturday, 9 January 2027. Distances: 8 h, 5 km, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hampton, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Sandy Bottom 8-Hour Training Run to ultramaraton. Lokalizacja: Hampton, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 8 h, 5 km, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hampton, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "5 km",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hampton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Sandy Bottom 8-Hour Training Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67823",
+  "slug": "sandy-bottom-8-hour-training-run-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "13210",
+    "url": "https://ultrasignup.com/register.aspx?did=67823"
+  },
+  "start": {
+    "lat": 37.0634,
+    "lon": -76.4311,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://peninsulatrackclub.com/"
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T22:38:34.998Z",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "silver-falls-trail-runs-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
     "id": "runraceusa",
     "ref": "silver-falls-trail-runs-or",
     "url": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
   "website": "https://runsignup.com/Race/OR/Silverton/SilverFallsTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

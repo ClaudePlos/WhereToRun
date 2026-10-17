@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ironstone 100K is a road race. Location: Hollidaysburg, United States. Date: Saturday, 10 July 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hollidaysburg, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Ironstone 100K to bieg uliczny. Lokalizacja: Hollidaysburg, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hollidaysburg, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hollidaysburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Ironstone 100K",
+  "registrationUrl": "https://runsignup.com/Race/PA/Hollidaysburg/Ironstone100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ironstone-100k-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
+    "id": "runraceusa",
+    "ref": "ironstone-100k-pa",
+    "url": "https://runsignup.com/Race/PA/Hollidaysburg/Ironstone100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.44,
+    "lon": -78.37,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://runsignup.com/Race/PA/Hollidaysburg/Ironstone100K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

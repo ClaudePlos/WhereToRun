@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T22:38:34.998Z",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "fargo-mini-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
     "id": "runraceusa",
     "ref": "fargo-mini-marathon-nd",
     "url": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
   "website": "https://runsignup.com/Race/ND/Fargo/FargoMiniMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

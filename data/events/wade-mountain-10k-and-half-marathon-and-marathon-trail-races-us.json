@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Wade Mountain 10k and Half Marathon and Marathon Trail Races is a trail race. Location: Huntsville, United States. Date: Sunday, 18 October 2026. Distances: 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Huntsville, United States, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Wade Mountain 10k and Half Marathon and Marathon Trail Races to bieg trailowy. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: niedziela, 18 października 2026. Dystanse: 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Huntsville, Stany Zjednoczone, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Wade Mountain 10k and Half Marathon and Marathon Trail Races",
+  "registrationUrl": "https://runsignup.com/Race/AL/Huntsville/WadeMountain10kAndHalfMarathonAndMarathonTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "wade-mountain-10k-and-half-marathon-and-marathon-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
+    "id": "runraceusa",
+    "ref": "wade-mountain-10k-and-half-marathon-and-marathon-trail-races-al",
+    "url": "https://runsignup.com/Race/AL/Huntsville/WadeMountain10kAndHalfMarathonAndMarathonTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.78,
+    "lon": -86.61,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://runsignup.com/Race/AL/Huntsville/WadeMountain10kAndHalfMarathonAndMarathonTrailRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

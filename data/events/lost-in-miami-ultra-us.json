@@ -13,7 +13,7 @@
   "date": "2027-01-09",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Lost in Miami Ultra"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Lost in Miami Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18157",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64991",
   "slug": "lost-in-miami-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T13:00:21.524Z",
-    "id": "runraceusa",
-    "ref": "lost-in-miami-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=18157"
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "18157",
+    "url": "https://ultrasignup.com/register.aspx?did=64991"
   },
   "start": {
-    "lat": 25.61,
-    "lon": -80.35,
+    "lat": 25.6112,
+    "lon": -80.3461,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-14T13:00:11.188Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18157"
+  "type": "road",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://runningninjamiami.com/lost-in-miami-ultra"
 }

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "San Tan Scramble is a ultramarathon. Location: Queen Creek, United States. Date: Saturday, 9 January 2027. Distances: 50 km, 26 km, 17 km, 9 km, 5 km, Kids Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Queen Creek, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "San Tan Scramble to ultramaraton. Lokalizacja: Queen Creek, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km, 26 km, 17 km, 9 km, 5 km, Kids Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Queen Creek, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "26 km",
+    "17 km",
+    "9 km",
+    "5 km",
+    "Kids Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Queen Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "San Tan Scramble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66405",
+  "slug": "san-tan-scramble-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "id": "ultrasignup",
+    "ref": "2539",
+    "url": "https://ultrasignup.com/register.aspx?did=66405"
+  },
+  "start": {
+    "lat": 33.1677,
+    "lon": -111.636,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "http://www.aravaiparunning.com/san-tan-scramble/"
+}

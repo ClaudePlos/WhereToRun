@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "GDTC Annual Dinner is a road race. Location: Atkinson, United States. Date: Friday, 20 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Atkinson, United States, Friday, 20 November 2026"
+    },
+    "pl": {
+      "description": "GDTC Annual Dinner to bieg uliczny. Lokalizacja: Atkinson, Stany Zjednoczone. Termin: piątek, 20 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Atkinson, Stany Zjednoczone, piątek, 20 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-17T10:55:03.631Z",
+  "date": "2026-11-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Atkinson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NH"
+  },
+  "manual": false,
+  "name": "GDTC Annual Dinner",
+  "registrationUrl": "https://runsignup.com/Race/NH/Atkinson/GDTCAnnualDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gdtc-annual-dinner-us",
+  "source": {
+    "fetchedAt": "2026-10-17T10:55:11.332Z",
+    "id": "runraceusa",
+    "ref": "gdtc-annual-dinner-nh",
+    "url": "https://runsignup.com/Race/NH/Atkinson/GDTCAnnualDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.84,
+    "lon": -71.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "website": "https://runsignup.com/Race/NH/Atkinson/GDTCAnnualDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
