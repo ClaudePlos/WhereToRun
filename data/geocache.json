@@ -245,6 +245,9 @@
   "AU|cape schanck, vic": {
     "at": "2026-10-09T13:26:42.112Z"
   },
+  "AU|carlton north, vic": {
+    "at": "2026-10-17T16:25:31.633Z"
+  },
   "AU|collie, wa": {
     "at": "2026-09-17T11:51:05.899Z"
   },
@@ -2205,10 +2208,10 @@
     "name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
   },
   "IN|bhandardara, maharashtra": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|coorg, karnataka": {
-    "at": "2026-09-11T17:02:01.760Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|dehradun": {
     "at": "2026-09-28T14:09:26.019Z",
@@ -2247,10 +2250,10 @@
     "name": "Jaisalmer, Jaisalmer Tehsil, Jaisalmer, Rajasthan, 345001, India"
   },
   "IN|jamunamathur": {
-    "at": "2026-09-11T17:02:01.760Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|karnataka": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|kerala state": {
     "at": "2026-09-28T14:09:26.019Z",
@@ -2283,7 +2286,7 @@
     "name": "Lucknow, Uttar Pradesh, 226027, India"
   },
   "IN|lucknow city": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|mana": {
     "at": "2026-09-28T14:09:26.019Z",
@@ -2313,7 +2316,7 @@
     "name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
   },
   "IN|mussoorie, uttarakhand": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|new delhi": {
     "at": "2026-09-03T11:24:47.198Z",
@@ -2355,7 +2358,7 @@
     "name": "Solang Valley, Manali, Kullu, Himachal Pradesh, 175103, India"
   },
   "IN|udaipur, rajasthan": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|udaipurwati": {
     "at": "2026-09-11T17:02:01.760Z",
@@ -2364,10 +2367,10 @@
     "name": "Udaipurwati, Udaipurwati Tehsil, Jhunjhunu, Rajasthan, 333307, India"
   },
   "IN|vagamon, kerala": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IN|visakhapatnam  city": {
-    "at": "2026-09-11T22:33:20.292Z"
+    "at": "2026-10-17T16:25:31.633Z"
   },
   "IS|reykjavik": {
     "at": "2026-09-05T10:43:37.273Z",
