@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Four Reservoirs 53Km Ultra Run is a ultramarathon. Location: Consett, United Kingdom. Date: Sunday, 18 October 2026. Distances: 53 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Consett, United Kingdom, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Four Reservoirs 53Km Ultra Run to ultramaraton. Lokalizacja: Consett, Wielka Brytania. Termin: niedziela, 18 października 2026. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Consett, Wielka Brytania, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Consett",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Four Reservoirs 53Km Ultra Run",
+  "registrationUrl": null,
+  "slug": "four-reservoirs-53km-ultra-run-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "136841",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136841"
+  },
+  "start": {
+    "lat": 54.851878,
+    "lon": -1.833374,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

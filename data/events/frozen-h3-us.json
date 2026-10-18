@@ -10,10 +10,14 @@
     }
   },
   "createdAt": "2026-10-16T17:25:06.361Z",
-  "date": "2027-01-08",
+  "date": "2027-01-09",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km"
+    "80.5 km",
+    "50 km",
+    "25 km",
+    "Night 25k",
+    "10 km"
   ],
   "endDate": "2027-01-10",
   "featured": false,
@@ -30,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=64990",
   "slug": "frozen-h3-us",
   "source": {
-    "fetchedAt": "2026-10-18T11:21:23.461Z",
+    "fetchedAt": "2026-10-18T16:33:17.223Z",
     "id": "ultrasignup",
     "ref": "8064",
     "url": "https://ultrasignup.com/register.aspx?did=64990"
@@ -46,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
   "website": "https://www.palmettoultras.com"
 }

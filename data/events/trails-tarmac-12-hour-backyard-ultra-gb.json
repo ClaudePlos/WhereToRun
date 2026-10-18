@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Trails & Tarmac 12 hour Backyard Ultra is a ultramarathon. Location: Crickhowell, United Kingdom. Date: Saturday, 7 November 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Crickhowell, United Kingdom, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Trails & Tarmac 12 hour Backyard Ultra to ultramaraton. Lokalizacja: Crickhowell, Wielka Brytania. Termin: sobota, 7 listopada 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Crickhowell, Wielka Brytania, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Crickhowell",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Trails & Tarmac 12 hour Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "trails-tarmac-12-hour-backyard-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "129397",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=129397"
+  },
+  "start": {
+    "lat": 51.859112,
+    "lon": -3.138355,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

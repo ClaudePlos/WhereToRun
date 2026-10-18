@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Thames Trail Ultra is a ultramarathon. Location: Iffley, United Kingdom. Date: Saturday, 24 October 2026. Distances: 77.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Iffley, United Kingdom, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Thames Trail Ultra to ultramaraton. Lokalizacja: Iffley, Wielka Brytania. Termin: sobota, 24 października 2026. Dystanse: 77.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Iffley, Wielka Brytania, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "77.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Iffley",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Thames Trail Ultra",
+  "registrationUrl": null,
+  "slug": "thames-trail-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "132941",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132941"
+  },
+  "start": {
+    "lat": 51.728714,
+    "lon": -1.238098,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

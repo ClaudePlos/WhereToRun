@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "John Muir Way Nocturnal Ultra 6h is a ultramarathon. Location: North Berwick, United Kingdom. Date: Saturday, 7 November 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — North Berwick, United Kingdom, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "John Muir Way Nocturnal Ultra 6h to ultramaraton. Lokalizacja: North Berwick, Wielka Brytania. Termin: sobota, 7 listopada 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — North Berwick, Wielka Brytania, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Berwick",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "John Muir Way Nocturnal Ultra 6h",
+  "registrationUrl": null,
+  "slug": "john-muir-way-nocturnal-ultra-6h-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "133901",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133901"
+  },
+  "start": {
+    "lat": 56.058118,
+    "lon": -2.720913,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

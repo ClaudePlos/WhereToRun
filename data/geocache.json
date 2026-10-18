@@ -1850,11 +1850,35 @@
     "lon": -3.0526079,
     "name": "Caldbeck, Cumberland, England, United Kingdom"
   },
+  "GB|consett": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 54.8518781,
+    "lon": -1.8333741,
+    "name": "Consett, County Durham, North East, England, United Kingdom"
+  },
+  "GB|corwen": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 52.9804731,
+    "lon": -3.3731677,
+    "name": "Corwen, Denbighshire, Cymru / Wales, LL21 0DL, United Kingdom"
+  },
+  "GB|crickhowell": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 51.859112,
+    "lon": -3.138355,
+    "name": "Crickhowell, Powys, Cymru / Wales, NP8 1BB, United Kingdom"
+  },
   "GB|dunwich": {
     "at": "2026-10-10T12:42:40.314Z",
     "lat": 52.2769243,
     "lon": 1.6284725,
     "name": "Dunwich, East Suffolk, Suffolk, England, United Kingdom"
+  },
+  "GB|ely": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 52.3990199,
+    "lon": 0.262039,
+    "name": "Ely, East Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom"
   },
   "GB|fermanagh": {
     "at": "2026-10-13T02:00:03.110Z"
@@ -1862,11 +1886,20 @@
   "GB|flete estate": {
     "at": "2026-10-10T12:42:40.314Z"
   },
+  "GB|gisburn": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 53.9273793,
+    "lon": -2.2573029,
+    "name": "Gisburn, Ribble Valley, Lancashire, England, United Kingdom"
+  },
   "GB|glasgow": {
     "at": "2026-10-10T12:42:40.314Z",
     "lat": 55.861155,
     "lon": -4.2501687,
     "name": "Glasgow, Glasgow City, Alba / Scotland, G2 1AL, United Kingdom"
+  },
+  "GB|golspie, sutherland": {
+    "at": "2026-10-18T16:33:08.420Z"
   },
   "GB|grasmere": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1879,6 +1912,12 @@
     "lat": 54.5359551,
     "lon": -1.051085,
     "name": "Guisborough, Redcar and Cleveland, Tees Valley, England, United Kingdom"
+  },
+  "GB|hartland quay": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 50.994881,
+    "lon": -4.534609,
+    "name": "Hartland Quay, Hartland, Torridge, Devon, Devon and Torbay, England, United Kingdom"
   },
   "GB|hathersage": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1903,6 +1942,12 @@
     "lat": 53.3637439,
     "lon": -1.7534784,
     "name": "Hope, High Peak, Derbyshire, East Midlands, England, United Kingdom"
+  },
+  "GB|iffley": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 51.7287144,
+    "lon": -1.2380985,
+    "name": "Iffley, Oxford, Oxfordshire, England, United Kingdom"
   },
   "GB|inchree": {
     "at": "2026-10-10T12:42:40.314Z",
@@ -1960,6 +2005,12 @@
     "lat": 54.9738474,
     "lon": -1.6131572,
     "name": "Newcastle upon Tyne, Tyne and Wear, North East, England, United Kingdom"
+  },
+  "GB|north berwick": {
+    "at": "2026-10-18T16:33:08.420Z",
+    "lat": 56.0581178,
+    "lon": -2.7209129,
+    "name": "North Berwick, East Lothian, Alba / Scotland, EH39 4HE, United Kingdom"
   },
   "GB|okehampton": {
     "at": "2026-09-23T22:56:06.292Z",
@@ -2026,6 +2077,9 @@
     "lat": 51.2912247,
     "lon": -0.2326709,
     "name": "Tadworth, Reigate and Banstead, Surrey, England, KT20 5SW, United Kingdom"
+  },
+  "GB|tentsmuir forest": {
+    "at": "2026-10-18T16:33:08.420Z"
   },
   "GB|turvey": {
     "at": "2026-10-10T12:42:40.314Z",

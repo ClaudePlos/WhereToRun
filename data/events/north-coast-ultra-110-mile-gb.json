@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "North Coast Ultra 110 Mile is a ultramarathon. Location: Hartland Quay, United Kingdom. Date: 7 November 2026 – 8 November 2026. Distances: 177 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hartland Quay, United Kingdom, 7 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "North Coast Ultra 110 Mile to ultramaraton. Lokalizacja: Hartland Quay, Wielka Brytania. Termin: 7 listopada 2026 – 8 listopada 2026. Dystanse: 177 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hartland Quay, Wielka Brytania, 7 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "177 km"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hartland Quay",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "North Coast Ultra 110 Mile",
+  "registrationUrl": null,
+  "slug": "north-coast-ultra-110-mile-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "136401",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136401"
+  },
+  "start": {
+    "lat": 50.994881,
+    "lon": -4.534609,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

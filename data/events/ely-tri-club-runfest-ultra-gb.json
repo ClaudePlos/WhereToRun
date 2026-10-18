@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ely Tri Club Runfest Ultra is a ultramarathon. Location: Ely, United Kingdom. Date: Sunday, 18 October 2026. Distances: 66 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ely, United Kingdom, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Ely Tri Club Runfest Ultra to ultramaraton. Lokalizacja: Ely, Wielka Brytania. Termin: niedziela, 18 października 2026. Dystanse: 66 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ely, Wielka Brytania, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "66 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ely",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ely Tri Club Runfest Ultra",
+  "registrationUrl": null,
+  "slug": "ely-tri-club-runfest-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "136412",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136412"
+  },
+  "start": {
+    "lat": 52.39902,
+    "lon": 0.262039,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}

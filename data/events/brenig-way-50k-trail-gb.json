@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Brenig Way 50k Trail is a ultramarathon. Location: Corwen, United Kingdom. Date: Sunday, 18 October 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Corwen, United Kingdom, Sunday, 18 October 2026"
+    },
+    "pl": {
+      "description": "Brenig Way 50k Trail to ultramaraton. Lokalizacja: Corwen, Wielka Brytania. Termin: niedziela, 18 października 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Corwen, Wielka Brytania, niedziela, 18 października 2026"
+    }
+  },
+  "createdAt": "2026-10-18T16:33:08.420Z",
+  "date": "2026-10-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Corwen",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Brenig Way 50k Trail",
+  "registrationUrl": null,
+  "slug": "brenig-way-50k-trail-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "id": "duv",
+    "ref": "136840",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136840"
+  },
+  "start": {
+    "lat": 52.980473,
+    "lon": -3.373168,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "website": null
+}
