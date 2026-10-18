@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Coldwater Hundred is a ultramarathon. Location: Goodyear, United States. Date: Saturday, 16 January 2027. Distances: 160.9 km, 100 km, 50 km, 32.2 km, 16.1 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Goodyear, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Coldwater Hundred to ultramaraton. Lokalizacja: Goodyear, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 160.9 km, 100 km, 50 km, 32.2 km, 16.1 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Goodyear, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-18T11:21:14.798Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 km",
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Goodyear",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Coldwater Hundred",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66404",
+  "slug": "coldwater-hundred-us",
+  "source": {
+    "fetchedAt": "2026-10-18T11:21:23.461Z",
+    "id": "ultrasignup",
+    "ref": "2538",
+    "url": "https://ultrasignup.com/register.aspx?did=66404"
+  },
+  "start": {
+    "lat": 33.366,
+    "lon": -112.318,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "website": "https://www.aravaiparunning.com/coldwater/"
+}

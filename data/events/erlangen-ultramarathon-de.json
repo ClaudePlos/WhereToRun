@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-15T23:03:50.696Z",
-  "date": "2026-12-20",
+  "date": "2026-11-22",
   "dateStatus": "confirmed",
   "distances": [
     "50 km"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "erlangen-ultramarathon-de",
   "source": {
-    "fetchedAt": "2026-10-15T23:04:09.439Z",
+    "fetchedAt": "2026-10-18T11:21:42.576Z",
     "id": "duv",
-    "ref": "130751",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=130751"
+    "ref": "136045",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136045"
   },
   "start": {
     "lat": 49.597747,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
   "website": null
 }

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-15T23:03:50.696Z",
-  "date": "2026-10-25",
+  "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
     "12 h"
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "albiger-12-stunden-lauf-de",
   "source": {
-    "fetchedAt": "2026-10-15T23:04:09.438Z",
+    "fetchedAt": "2026-10-18T11:21:42.575Z",
     "id": "duv",
-    "ref": "135679",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135679"
+    "ref": "135678",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135678"
   },
   "start": {
     "lat": 49.77355,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
   "website": null
 }

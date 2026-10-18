@@ -740,6 +740,9 @@
   "CA|creemore, on": {
     "at": "2026-09-28T20:07:41.303Z"
   },
+  "CA|deep cove, north vancouver, bc": {
+    "at": "2026-10-18T11:21:14.798Z"
+  },
   "CA|denholm, qc": {
     "at": "2026-09-23T11:48:59.496Z"
   },
@@ -757,6 +760,9 @@
   },
   "CA|falcon lake, mb": {
     "at": "2026-10-04T12:31:21.092Z"
+  },
+  "CA|fernie, bc": {
+    "at": "2026-10-18T11:21:14.798Z"
   },
   "CA|gaspe": {
     "at": "2026-09-17T22:50:40.759Z",
@@ -785,6 +791,12 @@
   "CA|kelowna, bc": {
     "at": "2026-09-28T20:07:41.303Z"
   },
+  "CA|l'anse-saint-jean": {
+    "at": "2026-10-18T11:21:14.798Z",
+    "lat": 48.235223,
+    "lon": -70.20101,
+    "name": "L'Anse-Saint-Jean, Le Fjord-du-Saguenay, Saguenay–Lac-Saint-Jean, Québec, G0V 1J0, Canada"
+  },
   "CA|la malbaie, qc": {
     "at": "2026-09-06T22:06:37.596Z"
   },
@@ -802,6 +814,9 @@
   },
   "CA|london, on": {
     "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|mabou, ns": {
+    "at": "2026-10-18T11:21:14.798Z"
   },
   "CA|maple creek, sk": {
     "at": "2026-10-04T12:31:21.092Z"
@@ -836,6 +851,9 @@
   "CA|petite-riviere-saint-francois, qc": {
     "at": "2026-10-12T21:44:28.611Z"
   },
+  "CA|pincher creek, ab": {
+    "at": "2026-10-18T11:21:14.798Z"
+  },
   "CA|port moody, bc": {
     "at": "2026-10-01T18:53:52.387Z"
   },
@@ -857,6 +875,9 @@
   "CA|saint-tite-des-caps, qc": {
     "at": "2026-10-12T21:44:28.611Z"
   },
+  "CA|sainte-anne-des-monts, qc": {
+    "at": "2026-10-18T11:21:14.798Z"
+  },
   "CA|salmon arm, bc": {
     "at": "2026-10-01T18:53:52.387Z"
   },
@@ -875,11 +896,20 @@
   "CA|silver star, bc": {
     "at": "2026-10-10T00:01:18.840Z"
   },
+  "CA|squamish, bc": {
+    "at": "2026-10-18T11:21:14.798Z"
+  },
   "CA|st john's, nl": {
     "at": "2026-09-28T20:07:41.303Z"
   },
   "CA|st. paul, ab": {
     "at": "2026-09-23T11:48:59.496Z"
+  },
+  "CA|stake lake, bc": {
+    "at": "2026-10-18T11:21:14.798Z"
+  },
+  "CA|station flats, ab": {
+    "at": "2026-10-18T11:21:14.798Z"
   },
   "CA|sutton": {
     "at": "2026-10-10T00:01:18.840Z",
@@ -904,6 +934,9 @@
   },
   "CA|vernon, bc": {
     "at": "2026-09-17T22:50:40.759Z"
+  },
+  "CA|vernon, british columbia": {
+    "at": "2026-10-18T11:21:14.798Z"
   },
   "CA|victoriaville": {
     "at": "2026-10-10T00:01:18.840Z",

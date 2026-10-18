@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Long Haul 100 is a ultramarathon. Location: Lakeland, United States. Date: Saturday, 16 January 2027. Distances: 160.9 km, 100 Furlongs. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakeland, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Long Haul 100 to ultramaraton. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 160.9 km, 100 Furlongs. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakeland, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-18T11:21:14.798Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 Furlongs"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Long Haul 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65137",
+  "slug": "long-haul-100-us",
+  "source": {
+    "fetchedAt": "2026-10-18T11:21:23.461Z",
+    "id": "ultrasignup",
+    "ref": "2593",
+    "url": "https://ultrasignup.com/register.aspx?did=65137"
+  },
+  "start": {
+    "lat": 28.2894,
+    "lon": -82.0416,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "website": "https://a1ultraevents.wordpress.com/"
+}

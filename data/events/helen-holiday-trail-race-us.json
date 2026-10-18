@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Helen Holiday Trail Race is a ultramarathon. Location: Helen, United States. Date: Saturday, 16 January 2027. Distances: 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Helen, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Helen Holiday Trail Race to ultramaraton. Lokalizacja: Helen, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Helen, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-18T11:21:14.798Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Helen",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Helen Holiday Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64609",
+  "slug": "helen-holiday-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-10-18T11:21:23.461Z",
+    "id": "ultrasignup",
+    "ref": "3985",
+    "url": "https://ultrasignup.com/register.aspx?did=64609"
+  },
+  "start": {
+    "lat": 34.715,
+    "lon": -83.7279,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "website": "https://www.runbumtours.com"
+}

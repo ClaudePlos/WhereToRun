@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra-Trail du Fjord du Saguenay is a ultramarathon. Location: L'Anse-Saint-Jean, Canada. Date: 6 August 2027 – 7 August 2027. Distances: 135 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — L'Anse-Saint-Jean, Canada, 6 August 2027 – 7 August 2027"
+    },
+    "pl": {
+      "description": "Ultra-Trail du Fjord du Saguenay to ultramaraton. Lokalizacja: L'Anse-Saint-Jean, Kanada. Termin: 6 sierpnia 2027 – 7 sierpnia 2027. Dystanse: 135 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — L'Anse-Saint-Jean, Kanada, 6 sierpnia 2027 – 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-18T11:21:14.798Z",
+  "date": "2027-08-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "55 km"
+  ],
+  "endDate": "2027-08-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "L'Anse-Saint-Jean",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": null
+  },
+  "manual": false,
+  "name": "Ultra-Trail du Fjord du Saguenay",
+  "registrationUrl": null,
+  "slug": "ultra-trail-du-fjord-du-saguenay-ca",
+  "source": {
+    "fetchedAt": "2026-10-18T11:21:42.575Z",
+    "id": "duv",
+    "ref": "136373",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136373"
+  },
+  "start": {
+    "lat": 48.235223,
+    "lon": -70.20101,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "website": null
+}
