@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Five Trails Ultra 50km is a ultramarathon. Location: Graffham, United Kingdom. Date: Saturday, 14 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Graffham, United Kingdom, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Five Trails Ultra 50km to ultramaraton. Lokalizacja: Graffham, Wielka Brytania. Termin: sobota, 14 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Graffham, Wielka Brytania, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Graffham",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Five Trails Ultra 50km",
+  "registrationUrl": null,
+  "slug": "five-trails-ultra-50km-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "134789",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=134789"
+  },
+  "start": {
+    "lat": 50.957552,
+    "lon": -0.68863,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

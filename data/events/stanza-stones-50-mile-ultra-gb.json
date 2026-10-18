@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Stanza Stones 50 Mile Ultra is a ultramarathon. Location: Marsden, United Kingdom. Date: Saturday, 28 November 2026. Distances: 80.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Marsden, United Kingdom, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Stanza Stones 50 Mile Ultra to ultramaraton. Lokalizacja: Marsden, Wielka Brytania. Termin: sobota, 28 listopada 2026. Dystanse: 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Marsden, Wielka Brytania, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marsden",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Stanza Stones 50 Mile Ultra",
+  "registrationUrl": null,
+  "slug": "stanza-stones-50-mile-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "132339",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=132339"
+  },
+  "start": {
+    "lat": 53.600773,
+    "lon": -1.927903,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

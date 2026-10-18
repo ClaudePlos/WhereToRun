@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "New Forest Xmas Trail 50k is a ultramarathon. Location: Christchurch, United Kingdom. Date: Sunday, 6 December 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Christchurch, United Kingdom, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "New Forest Xmas Trail 50k to ultramaraton. Lokalizacja: Christchurch, Wielka Brytania. Termin: niedziela, 6 grudnia 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Christchurch, Wielka Brytania, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Christchurch",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "New Forest Xmas Trail 50k",
+  "registrationUrl": null,
+  "slug": "new-forest-xmas-trail-50k-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "123690",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123690"
+  },
+  "start": {
+    "lat": 50.734902,
+    "lon": -1.777885,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

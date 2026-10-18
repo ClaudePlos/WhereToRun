@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Sunrise to Sunset Challenge is a ultramarathon. Location: Shrewsbury, United Kingdom. Date: Sunday, 27 December 2026. Distances: 7:41h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Shrewsbury, United Kingdom, Sunday, 27 December 2026"
+    },
+    "pl": {
+      "description": "The Sunrise to Sunset Challenge to ultramaraton. Lokalizacja: Shrewsbury, Wielka Brytania. Termin: niedziela, 27 grudnia 2026. Dystanse: 7:41h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Shrewsbury, Wielka Brytania, niedziela, 27 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-12-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "7:41h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Shrewsbury",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Sunrise to Sunset Challenge",
+  "registrationUrl": null,
+  "slug": "the-sunrise-to-sunset-challenge-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "133526",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133526"
+  },
+  "start": {
+    "lat": 52.707755,
+    "lon": -2.754066,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Winter Wirral Ultra is a ultramarathon. Location: Eastham, United Kingdom. Date: Saturday, 14 November 2026. Distances: 57.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Eastham, United Kingdom, Saturday, 14 November 2026"
+    },
+    "pl": {
+      "description": "Winter Wirral Ultra to ultramaraton. Lokalizacja: Eastham, Wielka Brytania. Termin: sobota, 14 listopada 2026. Dystanse: 57.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Eastham, Wielka Brytania, sobota, 14 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "57.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eastham",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Winter Wirral Ultra",
+  "registrationUrl": null,
+  "slug": "winter-wirral-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "136455",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136455"
+  },
+  "start": {
+    "lat": 52.302591,
+    "lon": -2.488554,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

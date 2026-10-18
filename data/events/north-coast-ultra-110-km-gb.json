@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "North Coast Ultra 110 km is a ultramarathon. Location: Barnstaple, United Kingdom. Date: 7 November 2026 – 8 November 2026. Distances: 114 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Barnstaple, United Kingdom, 7 November 2026 – 8 November 2026"
+    },
+    "pl": {
+      "description": "North Coast Ultra 110 km to ultramaraton. Lokalizacja: Barnstaple, Wielka Brytania. Termin: 7 listopada 2026 – 8 listopada 2026. Dystanse: 114 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Barnstaple, Wielka Brytania, 7 listopada 2026 – 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "114 km"
+  ],
+  "endDate": "2026-11-08",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Barnstaple",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "North Coast Ultra 110 km",
+  "registrationUrl": null,
+  "slug": "north-coast-ultra-110-km-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "136402",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136402"
+  },
+  "start": {
+    "lat": 51.080406,
+    "lon": -4.060047,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}

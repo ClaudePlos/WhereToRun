@@ -1820,11 +1820,23 @@
     "lon": -3.7065827,
     "name": "Auchterarder, Perth and Kinross, Alba / Scotland, PH3 1BJ, United Kingdom"
   },
+  "GB|bangor": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 53.2277163,
+    "lon": -4.1268822,
+    "name": "Bangor, Gwynedd, Cymru / Wales, United Kingdom"
+  },
   "GB|bardwell": {
     "at": "2026-09-15T11:52:51.618Z",
     "lat": 52.3266392,
     "lon": 0.8492547,
     "name": "Bardwell, West Suffolk, Suffolk, England, United Kingdom"
+  },
+  "GB|barnstaple": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 51.0804057,
+    "lon": -4.0600467,
+    "name": "Barnstaple, North Devon, Devon, Devon and Torbay, England, United Kingdom"
   },
   "GB|beechenhurst": {
     "at": "2026-10-10T12:42:40.314Z"
@@ -1850,6 +1862,18 @@
     "lon": -3.0526079,
     "name": "Caldbeck, Cumberland, England, United Kingdom"
   },
+  "GB|christchurch": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 50.734902,
+    "lon": -1.7778853,
+    "name": "Christchurch, Bournemouth, Christchurch and Poole, England, United Kingdom"
+  },
+  "GB|combe martin": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 51.203165,
+    "lon": -4.0060067,
+    "name": "Combe Martin, North Devon, Devon, Devon and Torbay, England, United Kingdom"
+  },
   "GB|consett": {
     "at": "2026-10-18T16:33:08.420Z",
     "lat": 54.8518781,
@@ -1874,6 +1898,12 @@
     "lon": 1.6284725,
     "name": "Dunwich, East Suffolk, Suffolk, England, United Kingdom"
   },
+  "GB|eastham": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 52.3025913,
+    "lon": -2.4885543,
+    "name": "Eastham, Malvern Hills, Worcestershire, England, United Kingdom"
+  },
   "GB|ely": {
     "at": "2026-10-18T16:33:08.420Z",
     "lat": 52.3990199,
@@ -1892,6 +1922,12 @@
     "lon": -2.2573029,
     "name": "Gisburn, Ribble Valley, Lancashire, England, United Kingdom"
   },
+  "GB|glamis": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 56.608319,
+    "lon": -3.0034297,
+    "name": "Glamis, Angus, Alba / Scotland, DD8 1RS, United Kingdom"
+  },
   "GB|glasgow": {
     "at": "2026-10-10T12:42:40.314Z",
     "lat": 55.861155,
@@ -1900,6 +1936,12 @@
   },
   "GB|golspie, sutherland": {
     "at": "2026-10-18T16:33:08.420Z"
+  },
+  "GB|graffham": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 50.9575524,
+    "lon": -0.6886301,
+    "name": "Graffham, Chichester, West Sussex, England, United Kingdom"
   },
   "GB|grasmere": {
     "at": "2026-09-15T11:52:51.618Z",
@@ -1988,6 +2030,12 @@
     "lon": -1.1964165,
     "name": "Mansfield, Nottinghamshire, East Midlands, England, NG18 1JA, United Kingdom"
   },
+  "GB|marsden": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 53.6007726,
+    "lon": -1.9279026,
+    "name": "Marsden, Kirklees, West Yorkshire, England, HD7 6BX, United Kingdom"
+  },
   "GB|mickleham": {
     "at": "2026-09-23T22:56:06.292Z",
     "lat": 51.2649194,
@@ -2047,6 +2095,12 @@
     "lat": 53.3806626,
     "lon": -1.4702278,
     "name": "Sheffield, South Yorkshire, England, United Kingdom"
+  },
+  "GB|shrewsbury": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 52.707755,
+    "lon": -2.7540658,
+    "name": "Shrewsbury, Shropshire, England, United Kingdom"
   },
   "GB|sterling": {
     "at": "2026-09-23T17:51:30.120Z",
@@ -2110,6 +2164,12 @@
     "lat": 51.8031083,
     "lon": -0.2068872,
     "name": "Welwyn Garden City, Welwyn Hatfield, Hertfordshire, England, AL8 6TP, United Kingdom"
+  },
+  "GB|winchburgh": {
+    "at": "2026-10-18T22:24:17.608Z",
+    "lat": 55.9601601,
+    "lon": -3.4664354,
+    "name": "Winchburgh, West Lothian, Alba / Scotland, EH52 6FE, United Kingdom"
   },
   "GR|athens": {
     "at": "2026-09-07T18:15:31.685Z",

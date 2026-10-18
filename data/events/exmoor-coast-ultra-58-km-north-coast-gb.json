@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Exmoor Coast Ultra 58 km (North Coast) is a ultramarathon. Location: Combe Martin, United Kingdom. Date: Sunday, 8 November 2026. Distances: 58 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Combe Martin, United Kingdom, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Exmoor Coast Ultra 58 km (North Coast) to ultramaraton. Lokalizacja: Combe Martin, Wielka Brytania. Termin: niedziela, 8 listopada 2026. Dystanse: 58 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Combe Martin, Wielka Brytania, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-18T22:24:17.608Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "58 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Combe Martin",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Exmoor Coast Ultra 58 km (North Coast)",
+  "registrationUrl": null,
+  "slug": "exmoor-coast-ultra-58-km-north-coast-gb",
+  "source": {
+    "fetchedAt": "2026-10-18T22:24:41.960Z",
+    "id": "duv",
+    "ref": "136404",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136404"
+  },
+  "start": {
+    "lat": 51.203165,
+    "lon": -4.006007,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-18T22:24:17.608Z",
+  "website": null
+}
