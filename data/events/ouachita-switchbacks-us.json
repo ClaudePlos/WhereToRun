@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Ouachita Switchbacks is a ultramarathon. Location: Big Cedar, United States. Date: Saturday, 16 January 2027. Distances: 50 km, 25 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Big Cedar, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Ouachita Switchbacks to ultramaraton. Lokalizacja: Big Cedar, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 50 km, 25 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Big Cedar, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Cedar",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Ouachita Switchbacks",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68210",
+  "slug": "ouachita-switchbacks-us",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:28.758Z",
+    "id": "ultrasignup",
+    "ref": "4183",
+    "url": "https://ultrasignup.com/register.aspx?did=68210"
+  },
+  "start": {
+    "lat": 34.6865,
+    "lon": -94.6259,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "http://ouachitaswitchbacks.blogspot.com/"
+}

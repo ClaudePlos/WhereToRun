@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Mighty Moraine Spring Multi-Sport Festival is a road race. Location: Portersville, United States. Date: Saturday, 15 May 2027. Distances: u50k, 42.2 km, other, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Portersville, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Mighty Moraine Spring Multi-Sport Festival to bieg uliczny. Lokalizacja: Portersville, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u50k, 42.2 km, other, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Portersville, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Portersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Mighty Moraine Spring Multi-Sport Festival",
+  "registrationUrl": "https://runsignup.com/Race/PA/Portersville/MightyMoraineSpringMultiSportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mighty-moraine-spring-multi-sport-festival-us",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
+    "id": "runraceusa",
+    "ref": "mighty-moraine-spring-multi-sport-festival-pa",
+    "url": "https://runsignup.com/Race/PA/Portersville/MightyMoraineSpringMultiSportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.95,
+    "lon": -80.14,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "https://runsignup.com/Race/PA/Portersville/MightyMoraineSpringMultiSportFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

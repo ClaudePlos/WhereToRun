@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-18T17:05:45.373Z",
-  "date": "2027-04-24",
+  "date": "2027-04-17",
   "dateStatus": "confirmed",
   "distances": [
     "other",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/CastroValley/SPASMLakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "spasm-lake-chabot-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-18T17:05:54.181Z",
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
     "id": "runraceusa",
     "ref": "spasm-lake-chabot-trail-run-ca",
     "url": "https://runsignup.com/Race/CA/CastroValley/SPASMLakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-18T17:05:45.373Z",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
   "website": "https://runsignup.com/Race/CA/CastroValley/SPASMLakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

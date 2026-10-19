@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Dormie Challenge: 12-Hour and 6-Hour Ultra Marathon is a ultramarathon. Location: Stevens Point, United States. Date: Sunday, 23 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stevens Point, United States, Sunday, 23 May 2027"
+    },
+    "pl": {
+      "description": "The Dormie Challenge: 12-Hour and 6-Hour Ultra Marathon to ultramaraton. Lokalizacja: Stevens Point, Stany Zjednoczone. Termin: niedziela, 23 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stevens Point, Stany Zjednoczone, niedziela, 23 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2027-05-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stevens Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "The Dormie Challenge: 12-Hour and 6-Hour Ultra Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WI/StevensPoint/TheDormie?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-dormie-challenge-12-hour-and-6-hour-ultra-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
+    "id": "runraceusa",
+    "ref": "the-dormie-challenge-12-hour-and-6-hour-ultra-marathon-wi",
+    "url": "https://runsignup.com/Race/WI/StevensPoint/TheDormie?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.52,
+    "lon": -89.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "https://runsignup.com/Race/WI/StevensPoint/TheDormie?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

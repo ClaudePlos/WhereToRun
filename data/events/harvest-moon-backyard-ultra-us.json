@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Harvest Moon Backyard Ultra is a ultramarathon. Location: Waterloo, United States. Date: Saturday, 2 October 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Waterloo, United States, Saturday, 2 October 2027"
+    },
+    "pl": {
+      "description": "Harvest Moon Backyard Ultra to ultramaraton. Lokalizacja: Waterloo, Stany Zjednoczone. Termin: sobota, 2 października 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Waterloo, Stany Zjednoczone, sobota, 2 października 2027"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2027-10-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waterloo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Harvest Moon Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21126",
+  "slug": "harvest-moon-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
+    "id": "runraceusa",
+    "ref": "harvest-moon-backyard-ultra-ia",
+    "url": "https://ultrasignup.com/register.aspx?eid=21126"
+  },
+  "start": {
+    "lat": 42.53,
+    "lon": -92.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21126"
+}

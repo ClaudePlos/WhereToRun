@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "DeBary 50K, Marathon, Half, 10K & 5K – MileBuilt Gemini Springs Labor Day 4-Day Challenge is a road race. Location: DeBary, United States. Date: Friday, 3 September 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — DeBary, United States, Friday, 3 September 2027"
+    },
+    "pl": {
+      "description": "DeBary 50K, Marathon, Half, 10K & 5K – MileBuilt Gemini Springs Labor Day 4-Day Challenge to bieg uliczny. Lokalizacja: DeBary, Stany Zjednoczone. Termin: piątek, 3 września 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — DeBary, Stany Zjednoczone, piątek, 3 września 2027"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2027-09-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "DeBary",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "DeBary 50K, Marathon, Half, 10K & 5K – MileBuilt Gemini Springs Labor Day 4-Day Challenge",
+  "registrationUrl": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSpringsLaborDay4DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "debary-50k-marathon-half-10k-5k-milebuilt-gemini-springs-labor-day-4-day-challen",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
+    "id": "runraceusa",
+    "ref": "debary-50k-marathon-half-10k-5k-milebuilt-gemini-springs-labor-day-4",
+    "url": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSpringsLaborDay4DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 28.88,
+    "lon": -81.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "https://runsignup.com/Race/FL/DeBary/MileBuiltGeminiSpringsLaborDay4DayChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

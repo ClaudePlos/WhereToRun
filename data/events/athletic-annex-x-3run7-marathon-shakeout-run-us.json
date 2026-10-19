@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Athletic Annex X 3RUN7 Marathon Shakeout Run! is a road race. Location: Indianapolis, United States. Date: Wednesday, 4 November 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Indianapolis, United States, Wednesday, 4 November 2026"
+    },
+    "pl": {
+      "description": "Athletic Annex X 3RUN7 Marathon Shakeout Run! to bieg uliczny. Lokalizacja: Indianapolis, Stany Zjednoczone. Termin: środa, 4 listopada 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Indianapolis, Stany Zjednoczone, środa, 4 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-19T13:35:21.337Z",
+  "date": "2026-11-04",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Indianapolis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Athletic Annex X 3RUN7 Marathon Shakeout Run!",
+  "registrationUrl": "https://runsignup.com/Race/IN/Indianapolis/MarathonShakeoutRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "athletic-annex-x-3run7-marathon-shakeout-run-us",
+  "source": {
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
+    "id": "runraceusa",
+    "ref": "athletic-annex-x-3run7-marathon-shakeout-run-in",
+    "url": "https://runsignup.com/Race/IN/Indianapolis/MarathonShakeoutRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.79,
+    "lon": -86.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
+  "website": "https://runsignup.com/Race/IN/Indianapolis/MarathonShakeoutRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

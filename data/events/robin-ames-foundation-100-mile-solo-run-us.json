@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-05T14:56:00.351Z",
-  "date": "2026-12-05",
+  "date": "2026-12-12",
   "dateStatus": "confirmed",
   "distances": [
     "u100m"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "robin-ames-foundation-100-mile-solo-run-us",
   "source": {
-    "fetchedAt": "2026-10-05T14:56:09.579Z",
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
     "id": "runraceusa",
     "ref": "robin-ames-foundation-100-mile-solo-run-ca",
     "url": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-05T14:56:00.351Z",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
   "website": "https://runsignup.com/Race/CA/SanClemente/RobinAmesFoundation100MileSoloRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

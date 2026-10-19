@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-17T22:50:40.759Z",
-  "date": "2027-04-17",
+  "date": "2027-04-24",
   "dateStatus": "confirmed",
   "distances": [
     "other",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/LosGatos/HorseshoeLakeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "horseshoe-lake-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "fetchedAt": "2026-10-19T13:35:29.481Z",
     "id": "runraceusa",
     "ref": "horseshoe-lake-trail-run-ca",
     "url": "https://runsignup.com/Race/CA/LosGatos/HorseshoeLakeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "updatedAt": "2026-10-19T13:35:21.337Z",
   "website": "https://runsignup.com/Race/CA/LosGatos/HorseshoeLakeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
