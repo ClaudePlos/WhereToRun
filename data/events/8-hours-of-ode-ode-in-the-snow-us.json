@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "8 Hours of Ode | Ode in the Snow is a ultramarathon. Location: Holly, United States. Date: Saturday, 16 January 2027. Distances: Trail 10k, 8 h, Virtual 8 Hour, Trail 4.17 miler, Trail 5k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Holly, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "8 Hours of Ode | Ode in the Snow to ultramaraton. Lokalizacja: Holly, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: Trail 10k, 8 h, Virtual 8 Hour, Trail 4.17 miler, Trail 5k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Holly, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-19T19:20:17.400Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Trail 10k",
+    "8 h",
+    "Virtual 8 Hour",
+    "Trail 4.17 miler",
+    "Trail 5k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Holly",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "8 Hours of Ode | Ode in the Snow",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65195",
+  "slug": "8-hours-of-ode-ode-in-the-snow-us",
+  "source": {
+    "fetchedAt": "2026-10-19T19:20:26.861Z",
+    "id": "ultrasignup",
+    "ref": "12264",
+    "url": "https://ultrasignup.com/register.aspx?did=65195"
+  },
+  "start": {
+    "lat": 42.8033,
+    "lon": -83.5094,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-19T19:20:17.400Z",
+  "website": "https://odetolaz.com"
+}
