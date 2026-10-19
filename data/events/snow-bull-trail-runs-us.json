@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Snow Bull Trail Runs is a ultramarathon. Location: Whitwell, United States. Date: Saturday, 16 January 2027. Distances: Half-marathon, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Whitwell, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Snow Bull Trail Runs to ultramaraton. Lokalizacja: Whitwell, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: Half-marathon, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Whitwell, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-19T23:36:31.866Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Half-marathon",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Whitwell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Snow Bull Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65098",
+  "slug": "snow-bull-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-19T23:36:39.409Z",
+    "id": "ultrasignup",
+    "ref": "14504",
+    "url": "https://ultrasignup.com/register.aspx?did=65098"
+  },
+  "start": {
+    "lat": 35.2317,
+    "lon": -85.5765,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-19T23:36:31.866Z",
+  "website": "https://www.facebook.com/groups/1209612246249409"
+}

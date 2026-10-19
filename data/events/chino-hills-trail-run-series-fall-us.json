@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "50 km",
-    "30 km"
+    "30 km",
+    "10 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=68097",
   "slug": "chino-hills-trail-run-series-fall-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:01.768Z",
+    "fetchedAt": "2026-10-19T23:36:39.409Z",
     "id": "ultrasignup",
     "ref": "6404",
     "url": "https://ultrasignup.com/register.aspx?did=68097"
@@ -47,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
+  "updatedAt": "2026-10-19T23:36:31.866Z",
   "website": "https://www.chinohillstrailrun.com/"
 }
