@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "The Shippey Endurance Runs is a ultramarathon. Location: High Ridge, United States. Date: 16 January 2027 – 17 January 2027. Distances: Night 50K, 160.9 km, 100 km, 64.4 km, 50 km, Pacer. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — High Ridge, United States, 16 January 2027 – 17 January 2027"
+    },
+    "pl": {
+      "description": "The Shippey Endurance Runs to ultramaraton. Lokalizacja: High Ridge, Stany Zjednoczone. Termin: 16 stycznia 2027 – 17 stycznia 2027. Dystanse: Night 50K, 160.9 km, 100 km, 64.4 km, 50 km, Pacer. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — High Ridge, Stany Zjednoczone, 16 stycznia 2027 – 17 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-20T11:49:35.893Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Night 50K",
+    "160.9 km",
+    "100 km",
+    "64.4 km",
+    "50 km",
+    "Pacer"
+  ],
+  "endDate": "2027-01-17",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "High Ridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "The Shippey Endurance Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65338",
+  "slug": "the-shippey-endurance-runs-us",
+  "source": {
+    "fetchedAt": "2026-10-20T11:49:42.953Z",
+    "id": "ultrasignup",
+    "ref": "10358",
+    "url": "https://ultrasignup.com/register.aspx?did=65338"
+  },
+  "start": {
+    "lat": 38.5018,
+    "lon": -90.5481,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
+  "website": "https://theshippey.com/"
+}

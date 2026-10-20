@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Sacfit Ultra 2027 Combo Program is a ultramarathon. Location: Sacramento, United States. Date: Sunday, 3 January 2027. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Sacramento, United States, Sunday, 3 January 2027"
+    },
+    "pl": {
+      "description": "Sacfit Ultra 2027 Combo Program to ultramaraton. Lokalizacja: Sacramento, Stany Zjednoczone. Termin: niedziela, 3 stycznia 2027. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Sacramento, Stany Zjednoczone, niedziela, 3 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-20T11:49:35.893Z",
+  "date": "2027-01-03",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sacramento",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sacfit Ultra 2027 Combo Program",
+  "registrationUrl": "https://raceroster.com/events/2027/165825/sacfit-ultra-2027-combo-program",
+  "slug": "sacfit-ultra-2027-combo-program-us",
+  "source": {
+    "fetchedAt": "2026-10-20T11:49:43.713Z",
+    "id": "runraceusa",
+    "ref": "sacfit-ultra-2027-combo-program-ca",
+    "url": "https://raceroster.com/events/2027/165825/sacfit-ultra-2027-combo-program"
+  },
+  "start": {
+    "lat": 38.5816,
+    "lon": -121.4944,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
+  "website": "https://raceroster.com/events/2027/165825/sacfit-ultra-2027-combo-program"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Notchview Ultra is a ultramarathon. Location: Windsor, United States. Date: Friday, 9 July 2027. Distances: u100m, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Windsor, United States, Friday, 9 July 2027"
+    },
+    "pl": {
+      "description": "Notchview Ultra to ultramaraton. Lokalizacja: Windsor, Stany Zjednoczone. Termin: piątek, 9 lipca 2027. Dystanse: u100m, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Windsor, Stany Zjednoczone, piątek, 9 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-20T11:49:35.893Z",
+  "date": "2027-07-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Windsor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "Notchview Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5058",
+  "slug": "notchview-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-20T11:49:43.713Z",
+    "id": "runraceusa",
+    "ref": "notchview-ultra-ma",
+    "url": "https://ultrasignup.com/register.aspx?eid=5058"
+  },
+  "start": {
+    "lat": 42.5,
+    "lon": -73.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=5058"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ohio's Backyard Ultra is a ultramarathon. Location: Lucasville, United States. Date: Saturday, 20 March 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lucasville, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Ohio's Backyard Ultra to ultramaraton. Lokalizacja: Lucasville, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lucasville, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-20T11:49:35.893Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lucasville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Ohio's Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9865",
+  "slug": "ohio-s-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-20T11:49:43.713Z",
+    "id": "runraceusa",
+    "ref": "ohio-s-backyard-ultra-oh",
+    "url": "https://ultrasignup.com/register.aspx?eid=9865"
+  },
+  "start": {
+    "lat": 38.92,
+    "lon": -83.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=9865"
+}

@@ -15,7 +15,6 @@
   "distances": [
     "42.2 km",
     "21.1 km",
-    "10 km",
     "5 km"
   ],
   "endDate": null,
@@ -33,7 +32,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/111318/7-bridges-marathon",
   "slug": "7-bridges-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-11T13:04:39.289Z",
+    "fetchedAt": "2026-10-20T11:49:43.713Z",
     "id": "runraceusa",
     "ref": "7-bridges-marathon-tn",
     "url": "https://raceroster.com/events/2026/111318/7-bridges-marathon"
@@ -49,6 +48,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-10-11T13:04:31.321Z",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
   "website": "https://raceroster.com/events/2026/111318/7-bridges-marathon"
 }

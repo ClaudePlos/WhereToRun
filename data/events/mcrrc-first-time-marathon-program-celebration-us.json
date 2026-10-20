@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "MCRRC First Time Marathon Program Celebration is a road race. Location: Rockville, United States. Date: Tuesday, 27 October 2026. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rockville, United States, Tuesday, 27 October 2026"
+    },
+    "pl": {
+      "description": "MCRRC First Time Marathon Program Celebration to bieg uliczny. Lokalizacja: Rockville, Stany Zjednoczone. Termin: wtorek, 27 października 2026. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rockville, Stany Zjednoczone, wtorek, 27 października 2026"
+    }
+  },
+  "createdAt": "2026-10-20T11:49:35.893Z",
+  "date": "2026-10-27",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "MCRRC First Time Marathon Program Celebration",
+  "registrationUrl": "https://runsignup.com/Race/MD/Rockville/MCRRCFTMProgramCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "mcrrc-first-time-marathon-program-celebration-us",
+  "source": {
+    "fetchedAt": "2026-10-20T11:49:43.713Z",
+    "id": "runraceusa",
+    "ref": "mcrrc-first-time-marathon-program-celebration-md",
+    "url": "https://runsignup.com/Race/MD/Rockville/MCRRCFTMProgramCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.09,
+    "lon": -77.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-20T11:49:35.893Z",
+  "website": "https://runsignup.com/Race/MD/Rockville/MCRRCFTMProgramCelebration?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
