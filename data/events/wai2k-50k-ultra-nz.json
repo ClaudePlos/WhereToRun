@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "WAI2K 50K Ultra is a ultramarathon. Location: Greytown, New Zealand. Date: Saturday, 21 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Greytown, New Zealand, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "WAI2K 50K Ultra to ultramaraton. Lokalizacja: Greytown, Nowa Zelandia. Termin: sobota, 21 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Greytown, Nowa Zelandia, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greytown",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "WAI2K 50K Ultra",
+  "registrationUrl": null,
+  "slug": "wai2k-50k-ultra-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "128654",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128654"
+  },
+  "start": {
+    "lat": -41.080634,
+    "lon": 175.460547,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}

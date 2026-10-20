@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rage Against Riverhead - 8h is a ultramarathon. Location: Auckland, New Zealand. Date: Saturday, 21 November 2026. Distances: 8 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Auckland, New Zealand, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "Rage Against Riverhead - 8h to ultramaraton. Lokalizacja: Auckland, Nowa Zelandia. Termin: sobota, 21 listopada 2026. Dystanse: 8 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Auckland, Nowa Zelandia, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Rage Against Riverhead - 8h",
+  "registrationUrl": null,
+  "slug": "rage-against-riverhead-8h-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "128661",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=128661"
+  },
+  "start": {
+    "lat": -36.852095,
+    "lon": 174.76318,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}

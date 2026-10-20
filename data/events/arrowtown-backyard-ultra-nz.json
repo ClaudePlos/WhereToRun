@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Arrowtown Backyard Ultra is a ultramarathon. Location: Arrowtown, New Zealand. Date: Saturday, 7 November 2026. Distances: 40 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Arrowtown, New Zealand, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Arrowtown Backyard Ultra to ultramaraton. Lokalizacja: Arrowtown, Nowa Zelandia. Termin: sobota, 7 listopada 2026. Dystanse: 40 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Arrowtown, Nowa Zelandia, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "40 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Arrowtown",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Arrowtown Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "arrowtown-backyard-ultra-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "124782",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124782"
+  },
+  "start": {
+    "lat": -44.940563,
+    "lon": 168.835076,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}

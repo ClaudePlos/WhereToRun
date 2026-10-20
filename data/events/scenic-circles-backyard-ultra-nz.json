@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Scenic Circles Backyard Ultra is a ultramarathon. Location: Timaru, New Zealand. Date: Saturday, 4 September 2027. Distances: 38 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Timaru, New Zealand, Saturday, 4 September 2027"
+    },
+    "pl": {
+      "description": "Scenic Circles Backyard Ultra to ultramaraton. Lokalizacja: Timaru, Nowa Zelandia. Termin: sobota, 4 września 2027. Dystanse: 38 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Timaru, Nowa Zelandia, sobota, 4 września 2027"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2027-09-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "38 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Timaru",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Scenic Circles Backyard Ultra",
+  "registrationUrl": null,
+  "slug": "scenic-circles-backyard-ultra-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "135615",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=135615"
+  },
+  "start": {
+    "lat": -44.393025,
+    "lon": 171.250979,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Krayzie Chicks Frontyard Ultra is a ultramarathon. Location: Kaiapoi, New Zealand. Date: Saturday, 16 January 2027. Distances: 32 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kaiapoi, New Zealand, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Krayzie Chicks Frontyard Ultra to ultramaraton. Lokalizacja: Kaiapoi, Nowa Zelandia. Termin: sobota, 16 stycznia 2027. Dystanse: 32 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kaiapoi, Nowa Zelandia, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "32 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kaiapoi",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Krayzie Chicks Frontyard Ultra",
+  "registrationUrl": null,
+  "slug": "krayzie-chicks-frontyard-ultra-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "133205",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133205"
+  },
+  "start": {
+    "lat": -43.383162,
+    "lon": 172.652169,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}

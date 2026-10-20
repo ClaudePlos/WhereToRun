@@ -603,7 +603,7 @@
     "at": "2026-09-03T17:03:15.961Z"
   },
   "BR|mucuge, chapada diamantina": {
-    "at": "2026-09-14T23:06:54.508Z"
+    "at": "2026-10-20T17:59:05.291Z"
   },
   "BR|natal, rn": {
     "at": "2026-09-14T23:06:54.508Z"
@@ -3593,8 +3593,56 @@
     "lon": 6.9059424,
     "name": "Øye, Kvinesdal, Agder, 4484, Norge"
   },
+  "NZ|arrowtown": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -44.9405627,
+    "lon": 168.8350761,
+    "name": "Arrowtown, Queenstown-Lakes District, Otago, 9302, New Zealand / Aotearoa"
+  },
+  "NZ|auckland": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "name": "Auckland, Waitematā, Auckland, 1010, New Zealand / Aotearoa"
+  },
+  "NZ|greytown": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -41.0806338,
+    "lon": 175.460547,
+    "name": "Greytown, Greytown Community, South Wairarapa District, Wellington, 5712, New Zealand / Aotearoa"
+  },
+  "NZ|hanmer springs": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -42.5217947,
+    "lon": 172.8302995,
+    "name": "Hanmer Springs, Hurunui District, Canterbury, 7334, New Zealand / Aotearoa"
+  },
+  "NZ|kaiapoi": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -43.3831623,
+    "lon": 172.6521689,
+    "name": "Kaiapoi, Waimakariri District, Canterbury, 7630, New Zealand / Aotearoa"
+  },
+  "NZ|seddonville, west coast": {
+    "at": "2026-10-20T17:59:05.291Z"
+  },
+  "NZ|timaru": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -44.3930254,
+    "lon": 171.2509786,
+    "name": "Timaru, Timaru District, Canterbury, 7910, New Zealand / Aotearoa"
+  },
   "NZ|waihaha bridge": {
     "at": "2026-10-17T22:15:46.268Z"
+  },
+  "NZ|waipukurau, hawke": {
+    "at": "2026-10-20T17:59:05.291Z"
+  },
+  "NZ|wanaka": {
+    "at": "2026-10-20T17:59:05.291Z",
+    "lat": -44.6941691,
+    "lon": 169.1364637,
+    "name": "Wānaka, Queenstown-Lakes District, Otago, 9305, New Zealand / Aotearoa"
   },
   "PT|ansiao": {
     "at": "2026-09-18T17:05:45.373Z",

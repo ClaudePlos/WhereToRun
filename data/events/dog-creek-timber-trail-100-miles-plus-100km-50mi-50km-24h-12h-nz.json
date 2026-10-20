@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dog Creek Timber Trail - 100 Miles (plus 100km, 50Mi, 50km, 24h, 12h) is a ultramarathon. Location: Hanmer Springs, New Zealand. Date: Friday, 9 April 2027. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Hanmer Springs, New Zealand, Friday, 9 April 2027"
+    },
+    "pl": {
+      "description": "Dog Creek Timber Trail - 100 Miles (plus 100km, 50Mi, 50km, 24h, 12h) to ultramaraton. Lokalizacja: Hanmer Springs, Nowa Zelandia. Termin: piątek, 9 kwietnia 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Hanmer Springs, Nowa Zelandia, piątek, 9 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-20T17:59:05.291Z",
+  "date": "2027-04-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hanmer Springs",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dog Creek Timber Trail - 100 Miles (plus 100km, 50Mi, 50km, 24h, 12h)",
+  "registrationUrl": null,
+  "slug": "dog-creek-timber-trail-100-miles-plus-100km-50mi-50km-24h-12h-nz",
+  "source": {
+    "fetchedAt": "2026-10-20T17:59:27.915Z",
+    "id": "duv",
+    "ref": "131720",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131720"
+  },
+  "start": {
+    "lat": -42.521795,
+    "lon": 172.8303,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-20T17:59:05.291Z",
+  "website": null
+}
