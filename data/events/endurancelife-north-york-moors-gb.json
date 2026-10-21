@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Endurancelife North York Moors is a ultramarathon. Location: Ravenscar, United Kingdom. Date: Saturday, 24 October 2026. Distances: 54.7 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ravenscar, United Kingdom, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Endurancelife North York Moors to ultramaraton. Lokalizacja: Ravenscar, Wielka Brytania. Termin: sobota, 24 października 2026. Dystanse: 54.7 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ravenscar, Wielka Brytania, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "54.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ravenscar",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Endurancelife North York Moors",
+  "registrationUrl": null,
+  "slug": "endurancelife-north-york-moors-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136864",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136864"
+  },
+  "start": {
+    "lat": 54.397585,
+    "lon": -0.493073,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}

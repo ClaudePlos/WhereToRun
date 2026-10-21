@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Tri Millennium is a road race. Location: Walker, United States. Date: Friday, 23 July 2027. Distances: other, 21.1 km, u50k, ultra, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Walker, United States, Friday, 23 July 2027"
+    },
+    "pl": {
+      "description": "Tri Millennium to bieg uliczny. Lokalizacja: Walker, Stany Zjednoczone. Termin: piątek, 23 lipca 2027. Dystanse: other, 21.1 km, u50k, ultra, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Walker, Stany Zjednoczone, piątek, 23 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2027-07-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "u50k",
+    "ultra",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Walker",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Tri Millennium",
+  "registrationUrl": "https://runsignup.com/Race/MI/Walker/MilleniumTri?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tri-millennium-us",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:30.422Z",
+    "id": "runraceusa",
+    "ref": "tri-millennium-mi",
+    "url": "https://runsignup.com/Race/MI/Walker/MilleniumTri?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.01,
+    "lon": -85.75,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": "https://runsignup.com/Race/MI/Walker/MilleniumTri?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

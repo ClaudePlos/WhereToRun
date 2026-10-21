@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Nationwide Children's Hospital Columbus Marathon is a road race. Location: Columbus, United States. Date: Sunday, 17 October 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Columbus, United States, Sunday, 17 October 2027"
+    },
+    "pl": {
+      "description": "Nationwide Children's Hospital Columbus Marathon to bieg uliczny. Lokalizacja: Columbus, Stany Zjednoczone. Termin: niedziela, 17 października 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Columbus, Stany Zjednoczone, niedziela, 17 października 2027"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2027-10-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Nationwide Children's Hospital Columbus Marathon",
+  "registrationUrl": "https://www.columbusmarathon.com/",
+  "slug": "nationwide-children-s-hospital-columbus-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:30.422Z",
+    "id": "runraceusa",
+    "ref": "nationwide-children-s-hospital-columbus-marathon-oh",
+    "url": "https://www.columbusmarathon.com/"
+  },
+  "start": {
+    "lat": 39.97,
+    "lon": -83.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": "https://www.columbusmarathon.com/"
+}

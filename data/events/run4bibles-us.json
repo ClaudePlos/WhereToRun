@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run4Bibles is a road race. Location: Dallas, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dallas, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Run4Bibles to bieg uliczny. Lokalizacja: Dallas, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dallas, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dallas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Run4Bibles",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8435",
+  "slug": "run4bibles-us",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:30.422Z",
+    "id": "runraceusa",
+    "ref": "run4bibles-tx",
+    "url": "https://ultrasignup.com/register.aspx?eid=8435"
+  },
+  "start": {
+    "lat": 32.66,
+    "lon": -96.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8435"
+}

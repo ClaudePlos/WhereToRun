@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Track 100 is a ultramarathon. Location: St Ives, United Kingdom. Date: 24 October 2026 – 25 October 2026. Distances: 160.9 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — St Ives, United Kingdom, 24 October 2026 – 25 October 2026"
+    },
+    "pl": {
+      "description": "The Track 100 to ultramaraton. Lokalizacja: St Ives, Wielka Brytania. Termin: 24 października 2026 – 25 października 2026. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — St Ives, Wielka Brytania, 24 października 2026 – 25 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2026-10-25",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St Ives",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Track 100",
+  "registrationUrl": null,
+  "slug": "the-track-100-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136865",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136865"
+  },
+  "start": {
+    "lat": 50.214906,
+    "lon": -5.479508,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}

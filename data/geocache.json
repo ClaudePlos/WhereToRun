@@ -1841,6 +1841,12 @@
   "GB|beechenhurst": {
     "at": "2026-10-10T12:42:40.314Z"
   },
+  "GB|bishop's stortford": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 51.8676279,
+    "lon": 0.1631961,
+    "name": "Bishop's Stortford, Thorley, East Hertfordshire, Hertfordshire, England, United Kingdom"
+  },
   "GB|blackpool": {
     "at": "2026-09-23T17:51:30.120Z",
     "lat": 53.8179442,
@@ -1897,6 +1903,12 @@
     "lat": 52.2769243,
     "lon": 1.6284725,
     "name": "Dunwich, East Suffolk, Suffolk, England, United Kingdom"
+  },
+  "GB|eastbourne": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 50.7664372,
+    "lon": 0.2781546,
+    "name": "Eastbourne, East Sussex, England, United Kingdom"
   },
   "GB|eastham": {
     "at": "2026-10-18T22:24:17.608Z",
@@ -1973,6 +1985,12 @@
     "lon": -2.1965261,
     "name": "Hawes, North Yorkshire, York and North Yorkshire, England, United Kingdom"
   },
+  "GB|hay-on-wye": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 52.0744595,
+    "lon": -3.1243132,
+    "name": "Hay on Wye, Powys, Cymru / Wales, HR3 5BN, United Kingdom"
+  },
   "GB|holy island": {
     "at": "2026-09-23T17:51:30.120Z",
     "lat": 55.6710152,
@@ -1996,6 +2014,12 @@
     "lat": 56.7175251,
     "lon": -5.2299287,
     "name": "Inchree, Onich, Highland, Alba / Scotland, PH33 6SG, United Kingdom"
+  },
+  "GB|jedburgh": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 55.4776435,
+    "lon": -2.5553768,
+    "name": "Jedburgh, Scottish Borders, Alba / Scotland, TD8 6AP, United Kingdom"
   },
   "GB|keswick": {
     "at": "2026-09-23T17:51:30.120Z",
@@ -2042,6 +2066,12 @@
     "lon": -0.3206489,
     "name": "Mickleham, Mole Valley, Surrey, England, United Kingdom"
   },
+  "GB|morpeth": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 55.1675437,
+    "lon": -1.6907444,
+    "name": "Morpeth, Northumberland, North East, England, United Kingdom"
+  },
   "GB|mumbles": {
     "at": "2026-09-23T22:56:06.292Z",
     "lat": 51.5722675,
@@ -2084,6 +2114,18 @@
     "lon": -0.06523,
     "name": "Plumpton, Plumpton Green, Lewes, East Sussex, England, United Kingdom"
   },
+  "GB|ravenscar": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 54.3975847,
+    "lon": -0.4930728,
+    "name": "Ravenscar, North Yorkshire, York and North Yorkshire, England, YO13 0NB, United Kingdom"
+  },
+  "GB|ripley": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 54.0467187,
+    "lon": -1.5647551,
+    "name": "Ripley, North Yorkshire, York and North Yorkshire, England, United Kingdom"
+  },
   "GB|scorriton": {
     "at": "2026-09-23T22:56:06.292Z",
     "lat": 50.5019479,
@@ -2101,6 +2143,12 @@
     "lat": 52.707755,
     "lon": -2.7540658,
     "name": "Shrewsbury, Shropshire, England, United Kingdom"
+  },
+  "GB|st ives": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 50.2149064,
+    "lon": -5.4795083,
+    "name": "St. Ives, Kernow / Cornwall, England, United Kingdom"
   },
   "GB|sterling": {
     "at": "2026-09-23T17:51:30.120Z",
@@ -2564,6 +2612,12 @@
   "IT|bettona (pg)": {
     "at": "2026-09-09T17:09:58.614Z"
   },
+  "IT|breuil-cervinia": {
+    "at": "2026-10-21T12:01:21.106Z",
+    "lat": 45.9356034,
+    "lon": 7.6304397,
+    "name": "Breuil-Cervinia, Valtournenche, Valle d'Aosta / Vallée d'Aoste, 11021, Italia"
+  },
   "IT|breul-cervinia": {
     "at": "2026-09-09T17:09:58.614Z"
   },
@@ -2689,6 +2743,9 @@
   },
   "IT|valbruna (ud)": {
     "at": "2026-10-13T02:00:03.110Z"
+  },
+  "IT|valtornenche (ao)": {
+    "at": "2026-10-21T12:01:21.106Z"
   },
   "IT|velo veronese": {
     "at": "2026-09-09T17:09:58.614Z",

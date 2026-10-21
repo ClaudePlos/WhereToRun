@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Nidderdale Way 32 miles is a ultramarathon. Location: Ripley, United Kingdom. Date: Saturday, 24 October 2026. Distances: 51.5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Ripley, United Kingdom, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Nidderdale Way 32 miles to ultramaraton. Lokalizacja: Ripley, Wielka Brytania. Termin: sobota, 24 października 2026. Dystanse: 51.5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Ripley, Wielka Brytania, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "51.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ripley",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Nidderdale Way 32 miles",
+  "registrationUrl": null,
+  "slug": "nidderdale-way-32-miles-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136871",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136871"
+  },
+  "start": {
+    "lat": 54.046719,
+    "lon": -1.564755,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}

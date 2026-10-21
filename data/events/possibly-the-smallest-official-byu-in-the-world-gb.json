@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Possibly the smallest official BYU in the world is a ultramarathon. Location: Morpeth, United Kingdom. Date: Friday, 30 October 2026. Distances: 24 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Morpeth, United Kingdom, Friday, 30 October 2026"
+    },
+    "pl": {
+      "description": "Possibly the smallest official BYU in the world to ultramaraton. Lokalizacja: Morpeth, Wielka Brytania. Termin: piątek, 30 października 2026. Dystanse: 24 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Morpeth, Wielka Brytania, piątek, 30 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Morpeth",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Possibly the smallest official BYU in the world",
+  "registrationUrl": null,
+  "slug": "possibly-the-smallest-official-byu-in-the-world-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136876",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136876"
+  },
+  "start": {
+    "lat": 55.167544,
+    "lon": -1.690744,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}

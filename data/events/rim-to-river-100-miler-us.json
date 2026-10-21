@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Rim to River 100 Miler is a road race. Location: Oak Hill, United States. Date: Saturday, 24 October 2026. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oak Hill, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Rim to River 100 Miler to bieg uliczny. Lokalizacja: Oak Hill, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oak Hill, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oak Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Rim to River 100 Miler",
+  "registrationUrl": "https://runsignup.com/Race/WV/OakHill/RimtoRiver100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "rim-to-river-100-miler-us",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:30.422Z",
+    "id": "runraceusa",
+    "ref": "rim-to-river-100-miler-wv",
+    "url": "https://runsignup.com/Race/WV/OakHill/RimtoRiver100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.97,
+    "lon": -81.15,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": "https://runsignup.com/Race/WV/OakHill/RimtoRiver100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

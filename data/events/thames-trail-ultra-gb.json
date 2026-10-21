@@ -13,7 +13,7 @@
   "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
-    "77.2 km"
+    "75.6 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": null,
   "slug": "thames-trail-ultra-gb",
   "source": {
-    "fetchedAt": "2026-10-18T16:33:33.647Z",
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
     "id": "duv",
     "ref": "132941",
     "url": "https://statistik.d-u-v.org/getresultevent.php?event=132941"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-18T16:33:08.420Z",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
   "website": null
 }

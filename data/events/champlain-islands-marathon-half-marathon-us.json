@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-10-18",
+  "date": "2027-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/VT/SouthHero/GreenMountainMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "champlain-islands-marathon-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "fetchedAt": "2026-10-21T12:01:30.422Z",
     "id": "runraceusa",
     "ref": "champlain-islands-marathon-half-marathon-vt",
     "url": "https://runsignup.com/Race/VT/SouthHero/GreenMountainMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
   "website": "https://runsignup.com/Race/VT/SouthHero/GreenMountainMarathonHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

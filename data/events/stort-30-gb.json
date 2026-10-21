@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Stort 30 is a ultramarathon. Location: Bishop's Stortford, United Kingdom. Date: Sunday, 25 October 2026. Distances: 48.3 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Bishop's Stortford, United Kingdom, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Stort 30 to ultramaraton. Lokalizacja: Bishop's Stortford, Wielka Brytania. Termin: niedziela, 25 października 2026. Dystanse: 48.3 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Bishop's Stortford, Wielka Brytania, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bishop's Stortford",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Stort 30",
+  "registrationUrl": null,
+  "slug": "stort-30-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136706",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136706"
+  },
+  "start": {
+    "lat": 51.867628,
+    "lon": 0.163196,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}

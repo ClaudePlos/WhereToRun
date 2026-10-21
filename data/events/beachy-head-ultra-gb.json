@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Beachy Head Ultra is a ultramarathon. Location: Eastbourne, United Kingdom. Date: Saturday, 24 October 2026. Distances: 52.6 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Eastbourne, United Kingdom, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "Beachy Head Ultra to ultramaraton. Lokalizacja: Eastbourne, Wielka Brytania. Termin: sobota, 24 października 2026. Dystanse: 52.6 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Eastbourne, Wielka Brytania, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T12:01:21.106Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "52.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eastbourne",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": null
+  },
+  "manual": false,
+  "name": "Beachy Head Ultra",
+  "registrationUrl": null,
+  "slug": "beachy-head-ultra-gb",
+  "source": {
+    "fetchedAt": "2026-10-21T12:01:44.224Z",
+    "id": "duv",
+    "ref": "136866",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136866"
+  },
+  "start": {
+    "lat": 50.766437,
+    "lon": 0.278155,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "website": null
+}
