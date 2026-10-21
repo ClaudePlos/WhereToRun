@@ -16,7 +16,8 @@
     "10 km",
     "80.5 km",
     "50 km",
-    "25 km"
+    "25 km",
+    "White Rock Ascent"
   ],
   "endDate": "2026-10-24",
   "featured": false,
@@ -33,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63905",
   "slug": "hare-mountain-100-us",
   "source": {
-    "fetchedAt": "2026-10-15T23:04:01.189Z",
+    "fetchedAt": "2026-10-21T18:03:38.427Z",
     "id": "ultrasignup",
     "ref": "16340",
     "url": "https://ultrasignup.com/register.aspx?did=63905"
@@ -49,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-15T23:03:50.696Z",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
   "website": "https://www.haremountain100.com/"
 }

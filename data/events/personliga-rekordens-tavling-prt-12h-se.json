@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Personliga Rekordens Tävling - PRT 12h is a ultramarathon. Location: Växjö, Sweden. Date: Friday, 4 December 2026. Distances: 12 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Växjö, Sweden, Friday, 4 December 2026"
+    },
+    "pl": {
+      "description": "Personliga Rekordens Tävling - PRT 12h to ultramaraton. Lokalizacja: Växjö, Szwecja. Termin: piątek, 4 grudnia 2026. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Växjö, Szwecja, piątek, 4 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-21T18:03:29.376Z",
+  "date": "2026-12-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Växjö",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Personliga Rekordens Tävling - PRT 12h",
+  "registrationUrl": null,
+  "slug": "personliga-rekordens-tavling-prt-12h-se",
+  "source": {
+    "fetchedAt": "2026-10-21T18:03:52.949Z",
+    "id": "duv",
+    "ref": "136915",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136915"
+  },
+  "start": {
+    "lat": 56.878718,
+    "lon": 14.809439,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "iau-label",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "website": null
+}

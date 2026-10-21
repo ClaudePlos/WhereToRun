@@ -13,8 +13,8 @@
   "date": "2027-01-16",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "32.2 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Tatonka 50k & 20mi",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19711",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68489",
   "slug": "tatonka-50k-20mi-us",
   "source": {
-    "fetchedAt": "2026-09-14T18:39:09.659Z",
-    "id": "runraceusa",
-    "ref": "tatonka-50k-20mi-wv",
-    "url": "https://ultrasignup.com/register.aspx?eid=19711"
+    "fetchedAt": "2026-10-21T18:03:38.427Z",
+    "id": "ultrasignup",
+    "ref": "19711",
+    "url": "https://ultrasignup.com/register.aspx?did=68489"
   },
   "start": {
-    "lat": 37.47,
-    "lon": -80.42,
+    "lat": 37.4714,
+    "lon": -80.4198,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-14T18:39:01.162Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19711"
+  "type": "ultra",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "website": "https://www.dttrunning.com/races"
 }

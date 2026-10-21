@@ -13,7 +13,7 @@
   "date": "2026-11-21",
   "dateStatus": "confirmed",
   "distances": [
-    "12 h"
+    "24 h"
   ],
   "endDate": "2026-11-22",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "viborg-ultratrack-by-liiteguard-dk",
   "source": {
-    "fetchedAt": "2026-10-16T11:35:50.179Z",
+    "fetchedAt": "2026-10-21T18:03:52.950Z",
     "id": "duv",
-    "ref": "133546",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133546"
+    "ref": "133547",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=133547"
   },
   "start": {
     "lat": 56.446913,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
   "website": null
 }

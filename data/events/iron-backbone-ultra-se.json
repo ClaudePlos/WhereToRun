@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Iron Backbone Ultra is a ultramarathon. Location: Kristinehamn, Sweden. Date: Saturday, 7 November 2026. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Kristinehamn, Sweden, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Iron Backbone Ultra to ultramaraton. Lokalizacja: Kristinehamn, Szwecja. Termin: sobota, 7 listopada 2026. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Kristinehamn, Szwecja, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-21T18:03:29.376Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kristinehamn",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Iron Backbone Ultra",
+  "registrationUrl": null,
+  "slug": "iron-backbone-ultra-se",
+  "source": {
+    "fetchedAt": "2026-10-21T18:03:52.949Z",
+    "id": "duv",
+    "ref": "131689",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=131689"
+  },
+  "start": {
+    "lat": 59.311362,
+    "lon": 14.11176,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "website": null
+}

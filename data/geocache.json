@@ -3380,6 +3380,12 @@
     "lon": 5.9170257,
     "name": "Berg en Dal, Gelderland, Nederland"
   },
+  "NL|den helder": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 52.957976,
+    "lon": 4.760279,
+    "name": "Den Helder, Noord-Holland, Nederland"
+  },
   "NL|ellertshaar": {
     "at": "2026-09-29T13:04:18.539Z",
     "lat": 52.8964673,
@@ -3433,6 +3439,12 @@
     "lat": 51.51187,
     "lon": 6.0869555,
     "name": "Meerlo, Horst aan de Maas, Limburg, Nederland"
+  },
+  "NL|nijverdal": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 52.3592015,
+    "lon": 6.4654075,
+    "name": "Nijverdal, Hellendoorn, Overijssel, Nederland"
   },
   "NL|noordwijk": {
     "at": "2026-09-26T22:46:58.435Z",
@@ -3573,7 +3585,7 @@
     "name": "Oslo, Norge"
   },
   "NO|ringsaker, sjusjøen": {
-    "at": "2026-09-21T12:59:25.178Z"
+    "at": "2026-10-21T18:03:29.376Z"
   },
   "NO|saksumdal": {
     "at": "2026-09-04T16:52:44.278Z"
@@ -3761,6 +3773,12 @@
     "lon": 13.0216436,
     "name": "Bjärred, Lomma kommun, Skåne län, 237 31, Sverige"
   },
+  "SE|borås": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 57.7210839,
+    "lon": 12.9407407,
+    "name": "Borås, Borås kommun, Västra Götalands län, 503 07, Sverige"
+  },
   "SE|bromölla": {
     "at": "2026-09-15T17:40:53.953Z",
     "lat": 56.116667,
@@ -3824,11 +3842,23 @@
     "lon": 15.622841,
     "name": "Kisa, Kinda kommun, Östergötlands län, 590 37, Sverige"
   },
+  "SE|kristinehamn": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 59.3113619,
+    "lon": 14.11176,
+    "name": "Kristinehamn, Kristinehamns kommun, Värmlands län, 681 21, Sverige"
+  },
   "SE|limhamn": {
     "at": "2026-09-15T17:40:53.953Z",
     "lat": 55.5832831,
     "lon": 12.9357813,
     "name": "Limhamn, Gamla Limhamn, Väster, Malmö, Malmö kommun, Skåne län, 216 14, Sverige"
+  },
+  "SE|linghem": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 58.4290823,
+    "lon": 15.7871809,
+    "name": "Linghem, Linköpings kommun, Östergötlands län, 585 65, Sverige"
   },
   "SE|ljungby": {
     "at": "2026-09-15T17:40:53.953Z",
@@ -3934,6 +3964,12 @@
   },
   "SE|väven, umeå": {
     "at": "2026-09-15T22:52:27.272Z"
+  },
+  "SE|växjö": {
+    "at": "2026-10-21T18:03:29.376Z",
+    "lat": 56.8787183,
+    "lon": 14.8094385,
+    "name": "Växjö, Växjö kommun, Kronobergs län, 352 30, Sverige"
   },
   "SE|öster malma, nyköping": {
     "at": "2026-10-07T19:21:02.295Z"

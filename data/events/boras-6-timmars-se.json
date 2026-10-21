@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Borås 6-timmars is a ultramarathon. Location: Borås, Sweden. Date: Saturday, 31 October 2026. Distances: 6 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Borås, Sweden, Saturday, 31 October 2026"
+    },
+    "pl": {
+      "description": "Borås 6-timmars to ultramaraton. Lokalizacja: Borås, Szwecja. Termin: sobota, 31 października 2026. Dystanse: 6 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Borås, Szwecja, sobota, 31 października 2026"
+    }
+  },
+  "createdAt": "2026-10-21T18:03:29.376Z",
+  "date": "2026-10-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Borås",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "region": null
+  },
+  "manual": false,
+  "name": "Borås 6-timmars",
+  "registrationUrl": null,
+  "slug": "boras-6-timmars-se",
+  "source": {
+    "fetchedAt": "2026-10-21T18:03:52.949Z",
+    "id": "duv",
+    "ref": "136917",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136917"
+  },
+  "start": {
+    "lat": 57.721084,
+    "lon": 12.940741,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "website": null
+}

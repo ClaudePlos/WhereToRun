@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dutch Coast Ultra Run by Night 50km is a ultramarathon. Location: Den Helder, Netherlands. Date: 12 February 2027 – 13 February 2027. Distances: 50 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Den Helder, Netherlands, 12 February 2027 – 13 February 2027"
+    },
+    "pl": {
+      "description": "Dutch Coast Ultra Run by Night 50km to ultramaraton. Lokalizacja: Den Helder, Holandia. Termin: 12 lutego 2027 – 13 lutego 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Den Helder, Holandia, 12 lutego 2027 – 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-21T18:03:29.376Z",
+  "date": "2027-02-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2027-02-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Den Helder",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "region": null
+  },
+  "manual": false,
+  "name": "Dutch Coast Ultra Run by Night 50km",
+  "registrationUrl": null,
+  "slug": "dutch-coast-ultra-run-by-night-50km-nl",
+  "source": {
+    "fetchedAt": "2026-10-21T18:03:52.948Z",
+    "id": "duv",
+    "ref": "136809",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136809"
+  },
+  "start": {
+    "lat": 52.957976,
+    "lon": 4.760279,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "website": null
+}
