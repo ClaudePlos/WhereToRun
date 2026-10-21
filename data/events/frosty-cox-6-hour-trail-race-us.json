@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Frosty Cox 6 Hour Trail Race is a trail race. Location: Concord, United States. Date: Saturday, 16 January 2027. Distances: Frosty Cox 6 Hour Trail Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Concord, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Frosty Cox 6 Hour Trail Race to bieg trailowy. Lokalizacja: Concord, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: Frosty Cox 6 Hour Trail Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Concord, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-21T23:16:21.850Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Frosty Cox 6 Hour Trail Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Concord",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Frosty Cox 6 Hour Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66956",
+  "slug": "frosty-cox-6-hour-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-10-21T23:16:29.926Z",
+    "id": "ultrasignup",
+    "ref": "19181",
+    "url": "https://ultrasignup.com/register.aspx?did=66956"
+  },
+  "start": {
+    "lat": 35.4101,
+    "lon": -80.582,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-21T23:16:21.850Z",
+  "website": "https://www.facebook.com/people/Frosty-Cox-6-Hour-Trail-Race/61578072305042/?mibextid=wwXIfr"
+}

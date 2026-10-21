@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "hoho100-hollandse-honderd-mijlen-nl",
   "source": {
-    "fetchedAt": "2026-10-21T18:03:52.948Z",
+    "fetchedAt": "2026-10-21T23:16:34.335Z",
     "id": "duv",
-    "ref": "136463",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136463"
+    "ref": "136465",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136465"
   },
   "start": {
     "lat": 52.16377,
@@ -47,6 +47,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-21T18:03:29.376Z",
+  "updatedAt": "2026-10-21T23:16:21.850Z",
   "website": null
 }
