@@ -13,9 +13,9 @@
   "date": "2027-01-23",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "other"
+    "50 Mile Ultra",
+    "50 km",
+    "17 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Monroe Cross Trail 50 Mile Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14616",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67094",
   "slug": "monroe-cross-trail-50-mile-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
-    "id": "runraceusa",
-    "ref": "monroe-cross-trail-50-mile-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=14616"
+    "fetchedAt": "2026-10-22T17:59:42.009Z",
+    "id": "ultrasignup",
+    "ref": "14616",
+    "url": "https://ultrasignup.com/register.aspx?did=67094"
   },
   "start": {
-    "lat": 28.87,
-    "lon": -81.33,
+    "lat": 28.8693,
+    "lon": -81.3275,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14616"
+  "updatedAt": "2026-10-22T17:59:34.770Z",
+  "website": "https://www.facebook.com/MonroeCrossTrailUltra"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Huntsville Slam is a road race. Location: Huntsville, United States. Date: Saturday, 23 January 2027. Distances: Slam Series. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Huntsville, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Huntsville Slam to bieg uliczny. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: Slam Series. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Huntsville, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T17:59:34.770Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Slam Series"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Huntsville Slam",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67559",
+  "slug": "huntsville-slam-us",
+  "source": {
+    "fetchedAt": "2026-10-22T17:59:42.009Z",
+    "id": "ultrasignup",
+    "ref": "4631",
+    "url": "https://ultrasignup.com/register.aspx?did=67559"
+  },
+  "start": {
+    "lat": 34.7304,
+    "lon": -86.5861,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T17:59:34.770Z",
+  "website": "http://www.huntsvilletrackclub.org "
+}
