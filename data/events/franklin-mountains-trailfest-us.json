@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Franklin Mountains TrailFest is a ultramarathon. Location: El Paso, United States. Date: 23 January 2027 – 24 January 2027. Distances: 100 km, 50 km, 30 km, 30K RELAY. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — El Paso, United States, 23 January 2027 – 24 January 2027"
+    },
+    "pl": {
+      "description": "Franklin Mountains TrailFest to ultramaraton. Lokalizacja: El Paso, Stany Zjednoczone. Termin: 23 stycznia 2027 – 24 stycznia 2027. Dystanse: 100 km, 50 km, 30 km, 30K RELAY. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — El Paso, Stany Zjednoczone, 23 stycznia 2027 – 24 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T23:20:40.711Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "50 km",
+    "30 km",
+    "30K RELAY"
+  ],
+  "endDate": "2027-01-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "El Paso",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Franklin Mountains TrailFest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66312",
+  "slug": "franklin-mountains-trailfest-us",
+  "source": {
+    "fetchedAt": "2026-10-22T23:20:50.531Z",
+    "id": "ultrasignup",
+    "ref": "4912",
+    "url": "https://ultrasignup.com/register.aspx?did=66312"
+  },
+  "start": {
+    "lat": 31.9176,
+    "lon": -106.514,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-22T23:20:40.711Z",
+  "website": "https://wanderlust.run/"
+}
