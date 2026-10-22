@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Kentucky Derby Festival Race Weekend is a road race. Location: Louisville, United States. Date: Friday, 23 April 2027. Distances: 21.1 km, 42.2 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Louisville, United States, Friday, 23 April 2027"
+    },
+    "pl": {
+      "description": "Kentucky Derby Festival Race Weekend to bieg uliczny. Lokalizacja: Louisville, Stany Zjednoczone. Termin: piątek, 23 kwietnia 2027. Dystanse: 21.1 km, 42.2 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Louisville, Stany Zjednoczone, piątek, 23 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-04-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Louisville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Kentucky Derby Festival Race Weekend",
+  "registrationUrl": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "kentucky-derby-festival-race-weekend-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "id": "runraceusa",
+    "ref": "kentucky-derby-festival-race-weekend-ky",
+    "url": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.25,
+    "lon": -85.77,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://runsignup.com/Race/KY/Louisville/KDFMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

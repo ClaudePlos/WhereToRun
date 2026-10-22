@@ -17,8 +17,7 @@
     "21.1 km",
     "10 km",
     "5 km",
-    "other",
-    "u50k"
+    "other"
   ],
   "endDate": null,
   "featured": false,
@@ -35,7 +34,7 @@
   "registrationUrl": "https://raceroster.com/events/2027/141912/mankato-marathon",
   "slug": "mankato-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-18T11:21:24.472Z",
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
     "id": "runraceusa",
     "ref": "mankato-marathon-mn",
     "url": "https://raceroster.com/events/2027/141912/mankato-marathon"
@@ -51,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-18T11:21:14.798Z",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
   "website": "https://raceroster.com/events/2027/141912/mankato-marathon"
 }

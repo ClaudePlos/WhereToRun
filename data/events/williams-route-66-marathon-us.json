@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Williams Route 66 Marathon is a road race. Location: Tulsa, United States. Date: Sunday, 22 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Tulsa, United States, Sunday, 22 November 2026"
+    },
+    "pl": {
+      "description": "Williams Route 66 Marathon to bieg uliczny. Lokalizacja: Tulsa, Stany Zjednoczone. Termin: niedziela, 22 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Tulsa, Stany Zjednoczone, niedziela, 22 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2026-11-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tulsa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Williams Route 66 Marathon",
+  "registrationUrl": "https://raceroster.com/events/2026/140242/williams-route-66-marathon",
+  "slug": "williams-route-66-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "id": "runraceusa",
+    "ref": "williams-route-66-marathon-ok",
+    "url": "https://raceroster.com/events/2026/140242/williams-route-66-marathon"
+  },
+  "start": {
+    "lat": 36.1407,
+    "lon": -95.9902,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://raceroster.com/events/2026/140242/williams-route-66-marathon"
+}

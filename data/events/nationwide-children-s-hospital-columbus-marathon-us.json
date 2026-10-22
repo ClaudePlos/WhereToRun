@@ -33,14 +33,14 @@
   "registrationUrl": "https://www.columbusmarathon.com/",
   "slug": "nationwide-children-s-hospital-columbus-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-21T12:01:30.422Z",
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
     "id": "runraceusa",
     "ref": "nationwide-children-s-hospital-columbus-marathon-oh",
     "url": "https://www.columbusmarathon.com/"
   },
   "start": {
     "lat": 39.97,
-    "lon": -83.01,
+    "lon": -83,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-21T12:01:21.106Z",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
   "website": "https://www.columbusmarathon.com/"
 }

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Frederick Running Festival with Girls on the Run is a road race. Location: Frederick, United States. Date: Saturday, 1 May 2027. Distances: 21.1 km, 5 km, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Frederick, United States, Saturday, 1 May 2027"
+    },
+    "pl": {
+      "description": "2027 Frederick Running Festival with Girls on the Run to bieg uliczny. Lokalizacja: Frederick, Stany Zjednoczone. Termin: sobota, 1 maja 2027. Dystanse: 21.1 km, 5 km, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Frederick, Stany Zjednoczone, sobota, 1 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-05-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "5 km",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Frederick",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "2027 Frederick Running Festival with Girls on the Run",
+  "registrationUrl": "https://runsignup.com/Race/MD/Frederick/FrederickRunningFestivalWithGirlsOnTheRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-frederick-running-festival-with-girls-on-the-run-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "id": "runraceusa",
+    "ref": "2027-frederick-running-festival-with-girls-on-the-run-md",
+    "url": "https://runsignup.com/Race/MD/Frederick/FrederickRunningFestivalWithGirlsOnTheRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.49,
+    "lon": -77.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://runsignup.com/Race/MD/Frederick/FrederickRunningFestivalWithGirlsOnTheRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

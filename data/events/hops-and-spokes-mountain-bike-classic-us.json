@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Hops and Spokes Mountain Bike Classic is a ultramarathon. Location: Yucaipa, United States. Date: Saturday, 16 January 2027. Distances: 6 h, 6 Hours 4 Person Relay, 6 Hour Duo Team. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Yucaipa, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Hops and Spokes Mountain Bike Classic to ultramaraton. Lokalizacja: Yucaipa, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 6 h, 6 Hours 4 Person Relay, 6 Hour Duo Team. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Yucaipa, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6 h",
+    "6 Hours 4 Person Relay",
+    "6 Hour Duo Team"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yucaipa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Hops and Spokes Mountain Bike Classic",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65202",
+  "slug": "hops-and-spokes-mountain-bike-classic-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:31.779Z",
+    "id": "ultrasignup",
+    "ref": "19567",
+    "url": "https://ultrasignup.com/register.aspx?did=65202"
+  },
+  "start": {
+    "lat": 34.0529,
+    "lon": -116.992,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://yucaipaadventurecompany.com"
+}

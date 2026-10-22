@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Pemberton Trail is a ultramarathon. Location: Fountain Hills, United States. Date: Saturday, 23 January 2027. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fountain Hills, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Pemberton Trail to ultramaraton. Lokalizacja: Fountain Hills, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fountain Hills, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fountain Hills",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Pemberton Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66733",
+  "slug": "pemberton-trail-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:31.779Z",
+    "id": "ultrasignup",
+    "ref": "111",
+    "url": "https://ultrasignup.com/register.aspx?did=66733"
+  },
+  "start": {
+    "lat": 33.6904,
+    "lon": -111.718,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://bquickrunning.com/races/xsKisadFYpcRVPR4BSVE"
+}

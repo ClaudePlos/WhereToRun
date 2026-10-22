@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-09T11:33:01.537Z",
-  "date": "2026-10-18",
+  "date": "2027-10-17",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "ultra"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Bimblers Bluff 50K",
-  "registrationUrl": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k",
+  "registrationUrl": "https://www.bimblersound.com/bluff/",
   "slug": "bimblers-bluff-50k-us",
   "source": {
-    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
     "id": "runraceusa",
     "ref": "bimblers-bluff-50k-ct",
-    "url": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k"
+    "url": "https://www.bimblersound.com/bluff/"
   },
   "start": {
-    "lat": 41.3154,
-    "lon": -72.6968,
+    "lat": 41.32,
+    "lon": -72.7,
     "name": null,
-    "precision": "city"
+    "precision": "exact"
   },
   "tags": [
     "road",
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T11:33:01.537Z",
-  "website": "https://raceroster.com/events/2026/130518/bimblers-bluff-50k"
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://www.bimblersound.com/bluff/"
 }

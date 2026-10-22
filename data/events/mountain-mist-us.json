@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Mountain Mist is a ultramarathon. Location: Huntsville, United States. Date: Saturday, 23 January 2027. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Huntsville, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Mountain Mist to ultramaraton. Lokalizacja: Huntsville, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Huntsville, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Huntsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Mountain Mist",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69075",
+  "slug": "mountain-mist-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:31.779Z",
+    "id": "ultrasignup",
+    "ref": "103",
+    "url": "https://ultrasignup.com/register.aspx?did=69075"
+  },
+  "start": {
+    "lat": 34.7417,
+    "lon": -86.515,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "http://www.huntsvilletrackclub.org/"
+}

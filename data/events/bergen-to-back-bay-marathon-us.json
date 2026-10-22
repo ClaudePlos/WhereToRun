@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Bergen to Back Bay Marathon is a road race. Location: Rochelle Park, United States. Date: Sunday, 6 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rochelle Park, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Bergen to Back Bay Marathon to bieg uliczny. Lokalizacja: Rochelle Park, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rochelle Park, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rochelle Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Bergen to Back Bay Marathon",
+  "registrationUrl": "https://runsignup.com/Race/NJ/RochellePark/BergenToBackBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "bergen-to-back-bay-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "id": "runraceusa",
+    "ref": "bergen-to-back-bay-marathon-nj",
+    "url": "https://runsignup.com/Race/NJ/RochellePark/BergenToBackBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.91,
+    "lon": -74.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://runsignup.com/Race/NJ/RochellePark/BergenToBackBayMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

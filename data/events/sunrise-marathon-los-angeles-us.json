@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon LOS ANGELES is a road race. Location: Los Angeles, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Los Angeles, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon LOS ANGELES to bieg uliczny. Lokalizacja: Los Angeles, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Los Angeles, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-22T12:04:23.999Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon LOS ANGELES",
+  "registrationUrl": "https://runsignup.com/Race/CA/LosAngeles/2027summerSunriseMarathonLOSANGELES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-los-angeles-us",
+  "source": {
+    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-los-angeles-ca",
+    "url": "https://runsignup.com/Race/CA/LosAngeles/2027summerSunriseMarathonLOSANGELES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.05,
+    "lon": -118.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "website": "https://runsignup.com/Race/CA/LosAngeles/2027summerSunriseMarathonLOSANGELES?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
