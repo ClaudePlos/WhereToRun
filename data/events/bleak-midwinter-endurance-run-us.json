@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Bleak Midwinter Endurance Run is a ultramarathon. Location: Springfield, United States. Date: Saturday, 23 January 2027. Distances: 12 h, 6 h, 3 h, 1 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Springfield, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Bleak Midwinter Endurance Run to ultramaraton. Lokalizacja: Springfield, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 12 h, 6 h, 3 h, 1 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Springfield, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6 h",
+    "3 h",
+    "1 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Springfield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Bleak Midwinter Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66642",
+  "slug": "bleak-midwinter-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "15866",
+    "url": "https://ultrasignup.com/register.aspx?did=66642"
+  },
+  "start": {
+    "lat": 37.2888,
+    "lon": -93.3387,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://www.omgrunningclub.com/events"
+}

@@ -17,7 +17,8 @@
     "21.1 km",
     "42.2 km",
     "u50k",
-    "5 km"
+    "5 km",
+    "1.6 km"
   ],
   "endDate": null,
   "featured": false,
@@ -34,7 +35,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "lake-chabot-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "fetchedAt": "2026-10-23T11:49:19.172Z",
     "id": "runraceusa",
     "ref": "lake-chabot-trail-run-ca",
     "url": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +51,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
   "website": "https://runsignup.com/Race/CA/CastroValley/LakeChabotTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

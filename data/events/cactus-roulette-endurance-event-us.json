@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Cactus Roulette Endurance Event is a ultramarathon. Location: Lawrence, United States. Date: 23 January 2027 – 24 January 2027. Distances: 24 h, 12 Hour Owl. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lawrence, United States, 23 January 2027 – 24 January 2027"
+    },
+    "pl": {
+      "description": "Cactus Roulette Endurance Event to ultramaraton. Lokalizacja: Lawrence, Stany Zjednoczone. Termin: 23 stycznia 2027 – 24 stycznia 2027. Dystanse: 24 h, 12 Hour Owl. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lawrence, Stany Zjednoczone, 23 stycznia 2027 – 24 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 Hour Lark",
+    "6 h"
+  ],
+  "endDate": "2027-01-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lawrence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Cactus Roulette Endurance Event",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65283",
+  "slug": "cactus-roulette-endurance-event-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "14607",
+    "url": "https://ultrasignup.com/register.aspx?did=65283"
+  },
+  "start": {
+    "lat": 38.9404,
+    "lon": -95.3802,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://trailhawks.com/races/2022/jan/29/cactus-roulette/"
+}

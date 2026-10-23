@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-17T11:51:05.899Z",
-  "date": "2027-04-03",
+  "date": "2027-04-10",
   "dateStatus": "confirmed",
   "distances": [
     "5 km"
@@ -30,14 +30,14 @@
   "registrationUrl": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "helotes-beer-garden-run-5k-1-2-marathon-and-2-person-relay-us",
   "source": {
-    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "fetchedAt": "2026-10-23T11:49:19.172Z",
     "id": "runraceusa",
     "ref": "helotes-beer-garden-run-5k-1-2-marathon-and-2-person-relay-tx",
     "url": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 29.65,
-    "lon": -98.61,
+    "lat": 29.63,
+    "lon": -98.75,
     "name": null,
     "precision": "exact"
   },
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
   "website": "https://runsignup.com/Race/TX/Helotes/Helotes5kBeerGardenRun2?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

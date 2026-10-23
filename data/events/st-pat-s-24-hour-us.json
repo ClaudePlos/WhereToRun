@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "St. Pat's 24 Hour is a road race. Location: South Bend, United States. Date: Saturday, 16 October 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — South Bend, United States, Saturday, 16 October 2027"
+    },
+    "pl": {
+      "description": "St. Pat's 24 Hour to bieg uliczny. Lokalizacja: South Bend, Stany Zjednoczone. Termin: sobota, 16 października 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — South Bend, Stany Zjednoczone, sobota, 16 października 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Bend",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "St. Pat's 24 Hour",
+  "registrationUrl": "https://runsignup.com/Race/IN/SouthBend/StPats24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "st-pat-s-24-hour-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:19.172Z",
+    "id": "runraceusa",
+    "ref": "st-pat-s-24-hour-in",
+    "url": "https://runsignup.com/Race/IN/SouthBend/StPats24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.73,
+    "lon": -86.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://runsignup.com/Race/IN/SouthBend/StPats24Hour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

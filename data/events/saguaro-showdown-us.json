@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Saguaro Showdown is a road race. Location: Mesa, United States. Date: Saturday, 23 January 2027. Distances: Run Event, Ruck Event, Backyard 24. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mesa, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Saguaro Showdown to bieg uliczny. Lokalizacja: Mesa, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: Run Event, Ruck Event, Backyard 24. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mesa, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Run Event",
+    "Ruck Event",
+    "Backyard 24"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mesa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Saguaro Showdown",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65245",
+  "slug": "saguaro-showdown-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "16093",
+    "url": "https://ultrasignup.com/register.aspx?did=65245"
+  },
+  "start": {
+    "lat": 33.438,
+    "lon": -111.725,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://backyardultra.com/races/saguaro-showdown-backyard-ultra/"
+}

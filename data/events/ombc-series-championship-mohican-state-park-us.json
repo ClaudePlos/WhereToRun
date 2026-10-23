@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "OMBC Series Championship - Mohican State Park is a road race. Location: Loudonville, United States. Date: Saturday, 24 October 2026. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Loudonville, United States, Saturday, 24 October 2026"
+    },
+    "pl": {
+      "description": "OMBC Series Championship - Mohican State Park to bieg uliczny. Lokalizacja: Loudonville, Stany Zjednoczone. Termin: sobota, 24 października 2026. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Loudonville, Stany Zjednoczone, sobota, 24 października 2026"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2026-10-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Loudonville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "OMBC Series Championship - Mohican State Park",
+  "registrationUrl": "https://runsignup.com/Race/OH/Loudonville/OMBCRace8MohicanStateParkOMBCSeriesChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ombc-series-championship-mohican-state-park-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:19.172Z",
+    "id": "runraceusa",
+    "ref": "ombc-series-championship-mohican-state-park-oh",
+    "url": "https://runsignup.com/Race/OH/Loudonville/OMBCRace8MohicanStateParkOMBCSeriesChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.64,
+    "lon": -82.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://runsignup.com/Race/OH/Loudonville/OMBCRace8MohicanStateParkOMBCSeriesChampionship?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

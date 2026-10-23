@@ -13,13 +13,17 @@
   "date": "2027-01-23",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra",
-    "u50k",
+    "61.2 km",
+    "50 km",
     "42.2 km",
-    "other",
-    "21.1 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "14.5 km",
     "10 km",
-    "5 km"
+    "5 km",
+    "Mile",
+    "Kids Run"
   ],
   "endDate": null,
   "featured": false,
@@ -33,25 +37,25 @@
   },
   "manual": false,
   "name": "Folsom Lake Sweetwater Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6052",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68717",
   "slug": "folsom-lake-sweetwater-trail-run-us",
   "source": {
-    "fetchedAt": "2026-10-15T11:42:13.888Z",
-    "id": "runraceusa",
-    "ref": "folsom-lake-sweetwater-trail-run-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=6052"
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "6052",
+    "url": "https://ultrasignup.com/register.aspx?did=68717"
   },
   "start": {
-    "lat": 38.77,
-    "lon": -121.04,
+    "lat": 38.7715,
+    "lon": -121.042,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-10-15T11:42:04.688Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=6052"
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://tctruns.com/folsom-lake-sweetwater-trail-run/"
 }

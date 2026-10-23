@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Calico Trail Run is a ultramarathon. Location: Yermo, United States. Date: Sunday, 24 January 2027. Distances: 50 km, 30 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Yermo, United States, Sunday, 24 January 2027"
+    },
+    "pl": {
+      "description": "Calico Trail Run to ultramaraton. Lokalizacja: Yermo, Stany Zjednoczone. Termin: niedziela, 24 stycznia 2027. Dystanse: 50 km, 30 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Yermo, Stany Zjednoczone, niedziela, 24 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Yermo",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Calico Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68907",
+  "slug": "calico-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "99",
+    "url": "https://ultrasignup.com/register.aspx?did=68907"
+  },
+  "start": {
+    "lat": 34.9421,
+    "lon": -116.867,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://www.CalicoTrailRun.com/"
+}

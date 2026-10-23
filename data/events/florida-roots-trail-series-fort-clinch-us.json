@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Florida Roots Trail Series: Fort Clinch is a ultramarathon. Location: Fernandina Beach, United States. Date: Saturday, 23 January 2027. Distances: 50 km, 30 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fernandina Beach, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Florida Roots Trail Series: Fort Clinch to ultramaraton. Lokalizacja: Fernandina Beach, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 50 km, 30 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fernandina Beach, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fernandina Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Florida Roots Trail Series: Fort Clinch",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65375",
+  "slug": "florida-roots-trail-series-fort-clinch-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "10349",
+    "url": "https://ultrasignup.com/register.aspx?did=65375"
+  },
+  "start": {
+    "lat": 30.7034,
+    "lon": -81.4524,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://www.zerofeetabove.com/florida-roots-trail-series/fort-clinch/"
+}

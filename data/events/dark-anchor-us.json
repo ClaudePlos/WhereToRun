@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dark Anchor is a ultramarathon. Location: Jekyll Island, United States. Date: Friday, 29 January 2027. Distances: 34 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Jekyll Island, United States, Friday, 29 January 2027"
+    },
+    "pl": {
+      "description": "Dark Anchor to ultramaraton. Lokalizacja: Jekyll Island, Stany Zjednoczone. Termin: piątek, 29 stycznia 2027. Dystanse: 34 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Jekyll Island, Stany Zjednoczone, piątek, 29 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "34 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jekyll Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Dark Anchor",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65353",
+  "slug": "dark-anchor-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "15215",
+    "url": "https://ultrasignup.com/register.aspx?did=65353"
+  },
+  "start": {
+    "lat": 31.0735,
+    "lon": -81.4114,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://yetitrailrunners.com/"
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Cowboy YETI is a ultramarathon. Location: Bastrop, United States. Date: Saturday, 23 January 2027. Distances: 100 km, 60 km, 40 km, 20 km, 20K RUCK, 7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bastrop, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Cowboy YETI to ultramaraton. Lokalizacja: Bastrop, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 100 km, 60 km, 40 km, 20 km, 20K RUCK, 7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bastrop, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km",
+    "60 km",
+    "40 km",
+    "20 km",
+    "20K RUCK",
+    "7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bastrop",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Cowboy YETI",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66126",
+  "slug": "cowboy-yeti-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "17954",
+    "url": "https://ultrasignup.com/register.aspx?did=66126"
+  },
+  "start": {
+    "lat": 30.1085,
+    "lon": -97.2824,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "https://www.texasoutlawrunning.com/yeti"
+}

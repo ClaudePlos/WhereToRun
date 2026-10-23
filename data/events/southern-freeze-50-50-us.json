@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Southern Freeze 50/50 is a ultramarathon. Location: Columbus, United States. Date: Saturday, 23 January 2027. Distances: 80.5 km, Freeze and Fry 50 Miles, Freeze and Fry 50k, 50 km, 25 km, Freeze and Fry 25k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Columbus, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Southern Freeze 50/50 to ultramaraton. Lokalizacja: Columbus, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 80.5 km, Freeze and Fry 50 Miles, Freeze and Fry 50k, 50 km, 25 km, Freeze and Fry 25k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Columbus, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T11:49:12.588Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "Freeze and Fry 50 Miles",
+    "Freeze and Fry 50k",
+    "50 km",
+    "25 km",
+    "Freeze and Fry 25k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbus",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Southern Freeze 50/50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68269",
+  "slug": "southern-freeze-50-50-us",
+  "source": {
+    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "id": "ultrasignup",
+    "ref": "13546",
+    "url": "https://ultrasignup.com/register.aspx?did=68269"
+  },
+  "start": {
+    "lat": 32.5553,
+    "lon": -84.8623,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "website": "http://www.project42running.com"
+}
