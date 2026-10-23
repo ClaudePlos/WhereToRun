@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Eco Trail do Taim is a ultramarathon. Location: Rio Grande, Brazil. Date: 23 January 2027 – 24 January 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Rio Grande, Brazil, 23 January 2027 – 24 January 2027"
+    },
+    "pl": {
+      "description": "Eco Trail do Taim to ultramaraton. Lokalizacja: Rio Grande, Brazylia. Termin: 23 stycznia 2027 – 24 stycznia 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Rio Grande, Brazylia, 23 stycznia 2027 – 24 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-23T17:52:50.139Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2027-01-24",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rio Grande",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": null
+  },
+  "manual": false,
+  "name": "Eco Trail do Taim",
+  "registrationUrl": null,
+  "slug": "eco-trail-do-taim-br",
+  "source": {
+    "fetchedAt": "2026-10-23T17:53:10.700Z",
+    "id": "duv",
+    "ref": "136771",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136771"
+  },
+  "start": {
+    "lat": -32.033425,
+    "lon": -52.09913,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-23T17:52:50.139Z",
+  "website": null
+}

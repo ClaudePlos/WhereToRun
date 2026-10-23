@@ -13,7 +13,10 @@
   "date": "2027-01-29",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Big Hoot 48 Hr",
+    "Little Hoot 24 Hr",
+    "Bulldog 12 Hr",
+    "Frenchie 6 Hr"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +30,25 @@
   },
   "manual": false,
   "name": "The Hoot'n Bulldog Track Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17510",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=64292",
   "slug": "the-hoot-n-bulldog-track-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
-    "id": "runraceusa",
-    "ref": "the-hoot-n-bulldog-track-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=17510"
+    "fetchedAt": "2026-10-23T17:53:03.319Z",
+    "id": "ultrasignup",
+    "ref": "17510",
+    "url": "https://ultrasignup.com/register.aspx?did=64292"
   },
   "start": {
-    "lat": 25.99,
-    "lon": -80.29,
+    "lat": 25.9879,
+    "lon": -80.2903,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17510"
+  "type": "road",
+  "updatedAt": "2026-10-23T17:52:50.139Z",
+  "website": "https://www.facebook.com/share/g/1H3Ee1PhTq/"
 }

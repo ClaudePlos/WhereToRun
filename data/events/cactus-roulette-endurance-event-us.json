@@ -10,11 +10,11 @@
     }
   },
   "createdAt": "2026-10-23T11:49:12.588Z",
-  "date": "2027-01-24",
+  "date": "2027-01-23",
   "dateStatus": "confirmed",
   "distances": [
-    "12 Hour Lark",
-    "6 h"
+    "24 h",
+    "12 Hour Owl"
   ],
   "endDate": "2027-01-24",
   "featured": false,
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65283",
   "slug": "cactus-roulette-endurance-event-us",
   "source": {
-    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "fetchedAt": "2026-10-23T17:53:03.319Z",
     "id": "ultrasignup",
     "ref": "14607",
     "url": "https://ultrasignup.com/register.aspx?did=65283"
@@ -47,6 +47,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-23T11:49:12.588Z",
+  "updatedAt": "2026-10-23T17:52:50.139Z",
   "website": "https://trailhawks.com/races/2022/jan/29/cactus-roulette/"
 }
