@@ -36,7 +36,7 @@
     "name": "Municipio de Esquel, Departamento Futaleufú, Chubut, U9200, Argentina"
   },
   "AR|huerta grande, cordoba": {
-    "at": "2026-09-17T17:38:14.220Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "AR|ita ibate": {
     "at": "2026-09-09T11:33:01.537Z",
@@ -51,7 +51,7 @@
     "name": "Lago Puelo, Municipio de Lago Puelo, Departamento Cushamen, Chubut, U8431, Argentina"
   },
   "AR|puan, prcia de bs as": {
-    "at": "2026-09-17T17:38:14.220Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "AR|quilmes": {
     "at": "2026-09-17T17:38:14.220Z",
@@ -749,6 +749,9 @@
   "CA|coleman, ab": {
     "at": "2026-10-12T21:44:28.611Z"
   },
+  "CA|cooking blackfoot lake, ab": {
+    "at": "2026-10-23T23:07:10.205Z"
+  },
   "CA|creemore, on": {
     "at": "2026-09-28T20:07:41.303Z"
   },
@@ -781,6 +784,9 @@
     "lat": 48.8317223,
     "lon": -64.4837569,
     "name": "Gaspé, La Côte-de-Gaspé, Gaspésie–Îles-de-la-Madeleine, Québec, Canada"
+  },
+  "CA|glenboro, mb": {
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CA|goderich, on": {
     "at": "2026-09-28T20:07:41.303Z"
@@ -856,6 +862,9 @@
   },
   "CA|paradise, nl": {
     "at": "2026-10-10T00:01:18.840Z"
+  },
+  "CA|penticton, bc": {
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CA|perce, qc": {
     "at": "2026-10-04T12:31:21.092Z"
@@ -945,7 +954,7 @@
     "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|vernon, bc": {
-    "at": "2026-09-17T22:50:40.759Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CA|vernon, british columbia": {
     "at": "2026-10-18T11:21:14.798Z"
@@ -963,7 +972,7 @@
     "at": "2026-10-12T21:44:28.611Z"
   },
   "CA|whistler, bc": {
-    "at": "2026-09-23T11:48:59.496Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CA|whitehorse, yt": {
     "at": "2026-10-01T18:53:52.387Z"
@@ -1086,7 +1095,7 @@
     "name": "Zürich, Bezirk Zürich, Zürich, Schweiz/Suisse/Svizzera/Svizra"
   },
   "CL|chillan, nuble": {
-    "at": "2026-09-17T22:50:40.759Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CL|estancia el kark, torres del paine": {
     "at": "2026-09-17T17:38:14.220Z"
@@ -1098,7 +1107,7 @@
     "name": "Las Trancas, Los Ángeles, Provincia de Bío-Bío, Región del Biobío, Chile"
   },
   "CL|neltume, los rios": {
-    "at": "2026-09-17T22:50:40.759Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CL|ovalle": {
     "at": "2026-09-17T22:50:40.759Z",
@@ -1113,7 +1122,7 @@
     "name": "San Pedro de Atacama, Provincia de El Loa, Región de Antofagasta, Chile"
   },
   "CL|union glacier, antarctica": {
-    "at": "2026-09-17T22:50:40.759Z"
+    "at": "2026-10-23T23:07:10.205Z"
   },
   "CN|antu county": {
     "at": "2026-09-11T11:31:46.015Z",

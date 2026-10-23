@@ -13,7 +13,7 @@
   "date": "2027-08-06",
   "dateStatus": "confirmed",
   "distances": [
-    "90 km"
+    "55 km"
   ],
   "endDate": "2027-08-07",
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "ultra-trail-du-fjord-du-saguenay-ca",
   "source": {
-    "fetchedAt": "2026-10-23T17:53:10.701Z",
+    "fetchedAt": "2026-10-23T23:07:35.016Z",
     "id": "duv",
-    "ref": "136372",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136372"
+    "ref": "136373",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136373"
   },
   "start": {
     "lat": 48.235223,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-23T17:52:50.139Z",
+  "updatedAt": "2026-10-23T23:07:10.205Z",
   "website": null
 }
