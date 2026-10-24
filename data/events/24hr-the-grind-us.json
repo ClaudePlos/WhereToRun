@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "24HR \"The Grind\" is a road race. Location: Perris, United States. Date: Friday, 29 January 2027. Distances: Individual 24H, Team 24H. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Perris, United States, Friday, 29 January 2027"
+    },
+    "pl": {
+      "description": "24HR \"The Grind\" to bieg uliczny. Lokalizacja: Perris, Stany Zjednoczone. Termin: piątek, 29 stycznia 2027. Dystanse: Individual 24H, Team 24H. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Perris, Stany Zjednoczone, piątek, 29 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-01-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Individual 24H",
+    "Team 24H"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Perris",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "24HR \"The Grind\"",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66322",
+  "slug": "24hr-the-grind-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "20278",
+    "url": "https://ultrasignup.com/register.aspx?did=66322"
+  },
+  "start": {
+    "lat": 33.8686,
+    "lon": -117.178,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.machetemadness.com/"
+}

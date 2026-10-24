@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Elephant Mountain is a ultramarathon. Location: Cave Creek, United States. Date: Saturday, 6 February 2027. Distances: 80.5 km, 50 km, 35 km, 22 km, 12 km, 6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cave Creek, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Elephant Mountain to ultramaraton. Lokalizacja: Cave Creek, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 80.5 km, 50 km, 35 km, 22 km, 12 km, 6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cave Creek, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "35 km",
+    "22 km",
+    "12 km",
+    "6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cave Creek",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Elephant Mountain",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66400",
+  "slug": "elephant-mountain-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "3286",
+    "url": "https://ultrasignup.com/register.aspx?did=66400"
+  },
+  "start": {
+    "lat": 33.8288,
+    "lon": -112.004,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "http://www.aravaiparunning.com/elephant-mountain/"
+}

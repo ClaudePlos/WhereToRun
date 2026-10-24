@@ -13,7 +13,8 @@
   "date": "2027-02-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km",
+    "50K Relay"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +28,25 @@
   },
   "manual": false,
   "name": "Mid-Maryland Trail Festival 50k and 50k Relay",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3197",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69260",
   "slug": "mid-maryland-trail-festival-50k-and-50k-relay-us",
   "source": {
-    "fetchedAt": "2026-10-08T13:41:42.741Z",
-    "id": "runraceusa",
-    "ref": "mid-maryland-trail-festival-50k-and-50k-relay-md",
-    "url": "https://ultrasignup.com/register.aspx?eid=3197"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "3197",
+    "url": "https://ultrasignup.com/register.aspx?did=69260"
   },
   "start": {
-    "lat": 39.22,
-    "lon": -76.76,
+    "lat": 39.2208,
+    "lon": -76.7647,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-10-08T13:41:33.334Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3197"
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "http://www.bullseyerunning.com"
 }

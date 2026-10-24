@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Louisville Lovin' the Hills is a ultramarathon. Location: Fairdale, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 24.1 km, 9.7 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fairdale, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Louisville Lovin' the Hills to ultramaraton. Lokalizacja: Fairdale, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 24.1 km, 9.7 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fairdale, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "24.1 km",
+    "9.7 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fairdale",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Louisville Lovin' the Hills",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68710",
+  "slug": "louisville-lovin-the-hills-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "115",
+    "url": "https://ultrasignup.com/register.aspx?did=68710"
+  },
+  "start": {
+    "lat": 38.0845,
+    "lon": -85.7652,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "http://headfirstperformance.com"
+}

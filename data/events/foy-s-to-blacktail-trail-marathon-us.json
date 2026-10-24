@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Foy's to Blacktail Trail Marathon is a trail race. Location: Kalispell, United States. Date: Sunday, 20 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Kalispell, United States, Sunday, 20 June 2027"
+    },
+    "pl": {
+      "description": "Foy's to Blacktail Trail Marathon to bieg trailowy. Lokalizacja: Kalispell, Stany Zjednoczone. Termin: niedziela, 20 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Kalispell, Stany Zjednoczone, niedziela, 20 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-06-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kalispell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Foy's to Blacktail Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MT/Kalispell/FoystoBlacktailTrailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "foy-s-to-blacktail-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.891Z",
+    "id": "runraceusa",
+    "ref": "foy-s-to-blacktail-trail-marathon-mt",
+    "url": "https://runsignup.com/Race/MT/Kalispell/FoystoBlacktailTrailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.2,
+    "lon": -114.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://runsignup.com/Race/MT/Kalispell/FoystoBlacktailTrailsMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

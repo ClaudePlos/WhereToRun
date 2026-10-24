@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sadlers Creek Stumble (36 Hour - 26.2 - 13.1 - 10k) is a road race. Location: Anderson, United States. Date: Saturday, 16 October 2027. Distances: u100m, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Anderson, United States, Saturday, 16 October 2027"
+    },
+    "pl": {
+      "description": "Sadlers Creek Stumble (36 Hour - 26.2 - 13.1 - 10k) to bieg uliczny. Lokalizacja: Anderson, Stany Zjednoczone. Termin: sobota, 16 października 2027. Dystanse: u100m, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Anderson, Stany Zjednoczone, sobota, 16 października 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anderson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Sadlers Creek Stumble (36 Hour - 26.2 - 13.1 - 10k)",
+  "registrationUrl": "https://runsignup.com/Race/SC/Anderson/SadlersCreekStumble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sadlers-creek-stumble-36-hour-26-2-13-1-10k-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.891Z",
+    "id": "runraceusa",
+    "ref": "sadlers-creek-stumble-36-hour-26-2-13-1-10k-sc",
+    "url": "https://runsignup.com/Race/SC/Anderson/SadlersCreekStumble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.46,
+    "lon": -82.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://runsignup.com/Race/SC/Anderson/SadlersCreekStumble?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

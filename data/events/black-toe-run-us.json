@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Toe Run is a ultramarathon. Location: Watertown, United States. Date: Saturday, 30 January 2027. Distances: 48HR SOLO | Alone for 12, 48HRS RUCK, 24HR 4 Person Relay, 24 h, 24HR RUCK, 2 Person 24 Hour Team. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Watertown, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Black Toe Run to ultramaraton. Lokalizacja: Watertown, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 48HR SOLO | Alone for 12, 48HRS RUCK, 24HR 4 Person Relay, 24 h, 24HR RUCK, 2 Person 24 Hour Team. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Watertown, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48HR SOLO | Alone for 12",
+    "48HRS RUCK",
+    "24HR 4 Person Relay",
+    "24 h",
+    "24HR RUCK",
+    "2 Person 24 Hour Team"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Watertown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Black Toe Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66568",
+  "slug": "black-toe-run-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "3549",
+    "url": "https://ultrasignup.com/register.aspx?did=66568"
+  },
+  "start": {
+    "lat": 35.9865,
+    "lon": -86.087,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://hardwinadventures.com/trail-races/black-toe-run-the-pursuit-of-congelatio/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Scenic 500 is a ultramarathon. Location: Roveredo, Switzerland. Date: 7 August 2027 – 19 August 2027. Distances: 520 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Roveredo, Switzerland, 7 August 2027 – 19 August 2027"
+    },
+    "pl": {
+      "description": "Scenic 500 to ultramaraton. Lokalizacja: Roveredo, Szwajcaria. Termin: 7 sierpnia 2027 – 19 sierpnia 2027. Dystanse: 520 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Roveredo, Szwajcaria, 7 sierpnia 2027 – 19 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "520 km"
+  ],
+  "endDate": "2027-08-19",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roveredo",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": null
+  },
+  "manual": false,
+  "name": "Scenic 500",
+  "registrationUrl": null,
+  "slug": "scenic-500-ch",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:14.538Z",
+    "id": "duv",
+    "ref": "136964",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136964"
+  },
+  "start": {
+    "lat": 46.234901,
+    "lon": 9.124975,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": null
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bootleg Boogie is a ultramarathon. Location: Boulder City, United States. Date: Saturday, 30 January 2027. Distances: 160.9 km, 80.5 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Boulder City, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "The Bootleg Boogie to ultramaraton. Lokalizacja: Boulder City, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 160.9 km, 80.5 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Boulder City, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boulder City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "The Bootleg Boogie",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65559",
+  "slug": "the-bootleg-boogie-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "16555",
+    "url": "https://ultrasignup.com/register.aspx?did=65559"
+  },
+  "start": {
+    "lat": 35.9827,
+    "lon": -114.86,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.facebook.com/groups/750097274050417"
+}

@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-12T22:15:14.303Z",
-  "date": "2026-10-17",
+  "date": "2027-10-09",
   "dateStatus": "confirmed",
   "distances": [
-    "40 h"
+    "32 h"
   ],
   "endDate": null,
   "featured": false,
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "austria-backyard-ultra-seekirchen-at",
   "source": {
-    "fetchedAt": "2026-09-12T22:15:26.823Z",
+    "fetchedAt": "2026-10-24T11:15:14.538Z",
     "id": "duv",
-    "ref": "124574",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=124574"
+    "ref": "136947",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136947"
   },
   "start": {
     "lat": 47.894248,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-12T22:15:14.303Z",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
   "website": null
 }

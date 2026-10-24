@@ -13,11 +13,11 @@
   "date": "2027-01-30",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50m",
-    "u50k",
-    "42.2 km",
-    "other"
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "26.2",
+    "30 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Sean O'Brien 100K/50M/50K/26.2/30K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4040",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66151",
   "slug": "sean-o-brien-100k-50m-50k-26-2-30k-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
-    "id": "runraceusa",
-    "ref": "sean-o-brien-100k-50m-50k-26-2-30k-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=4040"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "4040",
+    "url": "https://ultrasignup.com/register.aspx?did=66151"
   },
   "start": {
-    "lat": 34.1,
-    "lon": -118.73,
+    "lat": 34.098,
+    "lon": -118.731,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4040"
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.khraces.com/series/sean-obrien-trail-runs"
 }

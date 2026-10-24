@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Jacks 50K Trail Race is a trail race. Location: Palm Coast, United States. Date: Sunday, 25 October 2026. Distances: 5 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Palm Coast, United States, Sunday, 25 October 2026"
+    },
+    "pl": {
+      "description": "Jacks 50K Trail Race to bieg trailowy. Lokalizacja: Palm Coast, Stany Zjednoczone. Termin: niedziela, 25 października 2026. Dystanse: 5 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Palm Coast, Stany Zjednoczone, niedziela, 25 października 2026"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2026-10-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palm Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Jacks 50K Trail Race",
+  "registrationUrl": "https://runsignup.com/Race/FL/PalmCoast/Jacks12kTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "jacks-50k-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.891Z",
+    "id": "runraceusa",
+    "ref": "jacks-50k-trail-race-fl",
+    "url": "https://runsignup.com/Race/FL/PalmCoast/Jacks12kTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.56,
+    "lon": -81.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://runsignup.com/Race/FL/PalmCoast/Jacks12kTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

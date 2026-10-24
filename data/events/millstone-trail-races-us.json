@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Millstone Trail Races is a ultramarathon. Location: Fort Mill, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 25 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fort Mill, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Millstone Trail Races to ultramaraton. Lokalizacja: Fort Mill, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 25 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fort Mill, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Mill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Millstone Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66424",
+  "slug": "millstone-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "3528",
+    "url": "https://ultrasignup.com/register.aspx?did=66424"
+  },
+  "start": {
+    "lat": 35.04,
+    "lon": -80.944,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.ascgreenway.org/events/signature-events/millstone-trail-races/"
+}

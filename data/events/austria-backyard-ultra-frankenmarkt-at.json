@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Austria Backyard Ultra - Frankenmarkt is a ultramarathon. Location: Frankenmarkt, Austria. Date: Saturday, 19 June 2027. Distances: 41 h. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Frankenmarkt, Austria, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Austria Backyard Ultra - Frankenmarkt to ultramaraton. Lokalizacja: Frankenmarkt, Austria. Termin: sobota, 19 czerwca 2027. Dystanse: 41 h. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Frankenmarkt, Austria, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "41 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Frankenmarkt",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Austria Backyard Ultra - Frankenmarkt",
+  "registrationUrl": null,
+  "slug": "austria-backyard-ultra-frankenmarkt-at",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:14.538Z",
+    "id": "duv",
+    "ref": "136943",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136943"
+  },
+  "start": {
+    "lat": 47.985543,
+    "lon": 13.419166,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": null
+}

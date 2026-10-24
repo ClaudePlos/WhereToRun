@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Krewe de Loops 36 Backyard Ultra 3.2K-115.2K is a ultramarathon. Location: Benton, United States. Date: Saturday, 23 January 2027. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Benton, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Krewe de Loops 36 Backyard Ultra 3.2K-115.2K to ultramaraton. Lokalizacja: Benton, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Benton, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Benton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Krewe de Loops 36 Backyard Ultra 3.2K-115.2K",
+  "registrationUrl": "https://runsignup.com/Race/LA/Benton/KreweDeLoops36?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "krewe-de-loops-36-backyard-ultra-3-2k-115-2k-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.891Z",
+    "id": "runraceusa",
+    "ref": "krewe-de-loops-36-backyard-ultra-3-2k-115-2k-la",
+    "url": "https://runsignup.com/Race/LA/Benton/KreweDeLoops36?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.7,
+    "lon": -93.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://runsignup.com/Race/LA/Benton/KreweDeLoops36?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bello Gallico Trail 200km is a ultramarathon. Location: Oud-Heverlee, Belgium. Date: 11 December 2026 – 13 December 2026. Distances: 200 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Oud-Heverlee, Belgium, 11 December 2026 – 13 December 2026"
+    },
+    "pl": {
+      "description": "The Bello Gallico Trail 200km to ultramaraton. Lokalizacja: Oud-Heverlee, Belgia. Termin: 11 grudnia 2026 – 13 grudnia 2026. Dystanse: 200 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Oud-Heverlee, Belgia, 11 grudnia 2026 – 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2026-12-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "200 km"
+  ],
+  "endDate": "2026-12-13",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oud-Heverlee",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "region": null
+  },
+  "manual": false,
+  "name": "The Bello Gallico Trail 200km",
+  "registrationUrl": null,
+  "slug": "the-bello-gallico-trail-200km-be",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:14.538Z",
+    "id": "duv",
+    "ref": "136946",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136946"
+  },
+  "start": {
+    "lat": 50.837628,
+    "lon": 4.662925,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": null
+}

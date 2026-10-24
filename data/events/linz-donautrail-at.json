@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Linz Donautrail is a ultramarathon. Location: Linz, Austria. Date: Saturday, 13 March 2027. Distances: 100 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Linz, Austria, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Linz Donautrail to ultramaraton. Lokalizacja: Linz, Austria. Termin: sobota, 13 marca 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Linz, Austria, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Linz",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": null
+  },
+  "manual": false,
+  "name": "Linz Donautrail",
+  "registrationUrl": null,
+  "slug": "linz-donautrail-at",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:14.537Z",
+    "id": "duv",
+    "ref": "136960",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136960"
+  },
+  "start": {
+    "lat": 48.305908,
+    "lon": 14.286198,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "duv",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": null
+}

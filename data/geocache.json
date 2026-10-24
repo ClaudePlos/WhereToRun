@@ -128,6 +128,12 @@
     "lon": 14.0964965,
     "name": "Feldkirchen in Kärnten, Bezirk Feldkirchen, Kärnten, 9560, Österreich"
   },
+  "AT|frankenmarkt": {
+    "at": "2026-10-24T11:14:53.888Z",
+    "lat": 47.9855432,
+    "lon": 13.4191655,
+    "name": "Frankenmarkt, Bezirk Vöcklabruck, Oberösterreich, Österreich"
+  },
   "AT|fuschl am see": {
     "at": "2026-09-29T13:04:18.539Z",
     "lat": 47.7963895,
@@ -136,6 +142,12 @@
   },
   "AT|garmisch-partenkirchen": {
     "at": "2026-09-29T13:04:18.539Z"
+  },
+  "AT|großarl": {
+    "at": "2026-10-24T11:14:53.888Z",
+    "lat": 47.2374042,
+    "lon": 13.2013974,
+    "name": "Großarl, Salzburg, 5611, Österreich"
   },
   "AT|kirchdorf": {
     "at": "2026-09-04T11:30:01.450Z",
@@ -157,6 +169,12 @@
   },
   "AT|leutasch-weidach": {
     "at": "2026-09-29T13:04:18.539Z"
+  },
+  "AT|linz": {
+    "at": "2026-10-24T11:14:53.888Z",
+    "lat": 48.3059078,
+    "lon": 14.286198,
+    "name": "Linz, Oberösterreich, Österreich"
   },
   "AT|loosdorf": {
     "at": "2026-09-12T22:15:14.303Z",
@@ -208,6 +226,12 @@
   },
   "AT|tulln  an der donau": {
     "at": "2026-09-04T11:30:01.450Z",
+    "lat": 48.3311702,
+    "lon": 16.05179,
+    "name": "Tulln an der Donau, Bezirk Tulln, Niederösterreich, Österreich"
+  },
+  "AT|tulln an der donau": {
+    "at": "2026-10-24T11:14:53.888Z",
     "lat": 48.3311702,
     "lon": 16.05179,
     "name": "Tulln an der Donau, Bezirk Tulln, Niederösterreich, Österreich"
@@ -466,6 +490,12 @@
     "lat": 50.1815604,
     "lon": 5.5759476,
     "name": "La Roche-en-Ardenne, Marche-en-Famenne, Luxembourg, Wallonie, België / Belgique / Belgien"
+  },
+  "BE|oud-heverlee": {
+    "at": "2026-10-24T11:14:53.888Z",
+    "lat": 50.8376275,
+    "lon": 4.6629253,
+    "name": "Oud-Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, België / Belgique / Belgien"
   },
   "BE|ovifat": {
     "at": "2026-09-07T12:45:22.898Z",
@@ -1058,6 +1088,12 @@
     "lon": 9.12655,
     "name": "Rossa, Moesa, Graubünden/Grischun/Grigioni, Schweiz/Suisse/Svizzera/Svizra"
   },
+  "CH|roveredo": {
+    "at": "2026-10-24T11:14:53.888Z",
+    "lat": 46.2349007,
+    "lon": 9.1249754,
+    "name": "Roveredo GR, Moesa, Graubünden/Grischun/Grigioni, 6535, Schweiz/Suisse/Svizzera/Svizra"
+  },
   "CH|samedan": {
     "at": "2026-09-26T17:10:56.840Z",
     "lat": 46.5332403,
@@ -1075,6 +1111,9 @@
     "lat": 47.223677,
     "lon": 7.1030216,
     "name": "Tramelan, Arrondissement administratif du Jura bernois, Région administrative du Jura bernois, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "CH|travers, ne": {
+    "at": "2026-10-24T11:14:53.888Z"
   },
   "CH|uerzlikon": {
     "at": "2026-09-26T17:10:56.840Z",

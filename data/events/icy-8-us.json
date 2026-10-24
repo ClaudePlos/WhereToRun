@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "ICY-8 is a ultramarathon. Location: Spotsylvania, United States. Date: Saturday, 6 February 2027. Distances: 1, 2 Marathon, 12.9 km, 8 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Spotsylvania, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "ICY-8 to ultramaraton. Lokalizacja: Spotsylvania, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 1, 2 Marathon, 12.9 km, 8 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Spotsylvania, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "1",
+    "2 Marathon",
+    "12.9 km",
+    "8 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spotsylvania",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "ICY-8",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67886",
+  "slug": "icy-8-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "1830",
+    "url": "https://ultrasignup.com/register.aspx?did=67886"
+  },
+  "start": {
+    "lat": 38.1133,
+    "lon": -77.8315,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://athletic-equation.com/endurance-events/the-ultrail-series/icy-8/"
+}

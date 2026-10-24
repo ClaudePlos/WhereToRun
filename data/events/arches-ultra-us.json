@@ -13,10 +13,11 @@
   "date": "2027-01-30",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "21.1 km",
-    "other"
+    "80.5 km",
+    "50 km",
+    "1",
+    "2 Marathon",
+    "9 km"
   ],
   "endDate": null,
   "featured": false,
@@ -30,25 +31,25 @@
   },
   "manual": false,
   "name": "Arches Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7810",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65336",
   "slug": "arches-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
-    "id": "runraceusa",
-    "ref": "arches-ultra-ut",
-    "url": "https://ultrasignup.com/register.aspx?eid=7810"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "7810",
+    "url": "https://ultrasignup.com/register.aspx?did=65336"
   },
   "start": {
-    "lat": 38.66,
-    "lon": -109.68,
+    "lat": 38.6555,
+    "lon": -109.679,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=7810"
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.madmooseevents.com/arches-ultra"
 }

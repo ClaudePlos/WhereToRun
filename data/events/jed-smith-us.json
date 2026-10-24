@@ -13,10 +13,10 @@
   "date": "2027-02-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
+    "80.5 km",
+    "50 km",
     "42.2 km",
-    "other",
+    "30 km",
     "21.1 km"
   ],
   "endDate": null,
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Jed Smith",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1417",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68683",
   "slug": "jed-smith-us",
   "source": {
-    "fetchedAt": "2026-09-21T12:59:31.301Z",
-    "id": "runraceusa",
-    "ref": "jed-smith-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=1417"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "1417",
+    "url": "https://ultrasignup.com/register.aspx?did=68683"
   },
   "start": {
-    "lat": 38.56,
-    "lon": -121.38,
+    "lat": 38.5649,
+    "lon": -121.382,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-21T12:59:25.178Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=1417"
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.buffalochips.com/jedsmith"
 }

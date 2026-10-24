@@ -13,8 +13,8 @@
   "date": "2027-01-30",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "21.1 km"
+    "50 km",
+    "Half-Marathon"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Live Oak Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18345",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66100",
   "slug": "live-oak-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
-    "id": "runraceusa",
-    "ref": "live-oak-ultra-ms",
-    "url": "https://ultrasignup.com/register.aspx?eid=18345"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "18345",
+    "url": "https://ultrasignup.com/register.aspx?did=66100"
   },
   "start": {
-    "lat": 30.4,
-    "lon": -88.9,
+    "lat": 30.3972,
+    "lon": -88.8964,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18345"
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.facebook.com/profile.php?id=61569338407363"
 }

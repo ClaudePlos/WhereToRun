@@ -10,17 +10,17 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-09-26",
+  "date": "2027-09-25",
   "dateStatus": "confirmed",
   "distances": [
     "24 h"
   ],
-  "endDate": "2026-09-27",
+  "endDate": "2027-09-26",
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Tulln  an der Donau",
+    "city": "Tulln an der Donau",
     "country": "Austria",
     "countryCode": "AT",
     "region": null
@@ -30,10 +30,10 @@
   "registrationUrl": null,
   "slug": "tullner-lauftage-24h-at",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:16.248Z",
+    "fetchedAt": "2026-10-24T11:15:14.538Z",
     "id": "duv",
-    "ref": "123574",
-    "url": "https://statistik.d-u-v.org/getresultevent.php?event=123574"
+    "ref": "136830",
+    "url": "https://statistik.d-u-v.org/getresultevent.php?event=136830"
   },
   "start": {
     "lat": 48.33117,
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
   "website": null
 }

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "AZT Oracle Rumble is a ultramarathon. Location: Oracle, United States. Date: Saturday, 30 January 2027. Distances: 80.5 km, 50 km, 1, 2 Marathon, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Oracle, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "AZT Oracle Rumble to ultramaraton. Lokalizacja: Oracle, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 80.5 km, 50 km, 1, 2 Marathon, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Oracle, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "1",
+    "2 Marathon",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oracle",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "AZT Oracle Rumble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65482",
+  "slug": "azt-oracle-rumble-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "5993",
+    "url": "https://ultrasignup.com/register.aspx?did=65482"
+  },
+  "start": {
+    "lat": 32.6103,
+    "lon": -110.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://runazt.org/oracle-rumble/"
+}

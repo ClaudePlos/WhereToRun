@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fort Ord Trail Run is a ultramarathon. Location: Salinas, United States. Date: 6 February 2027 – 7 February 2027. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Salinas, United States, 6 February 2027 – 7 February 2027"
+    },
+    "pl": {
+      "description": "Fort Ord Trail Run to ultramaraton. Lokalizacja: Salinas, Stany Zjednoczone. Termin: 6 lutego 2027 – 7 lutego 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Salinas, Stany Zjednoczone, 6 lutego 2027 – 7 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2027-02-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Salinas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Fort Ord Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67733",
+  "slug": "fort-ord-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "3675",
+    "url": "https://ultrasignup.com/register.aspx?did=67733"
+  },
+  "start": {
+    "lat": 36.5881,
+    "lon": -121.751,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://insidetrail.com/calendar/fort-ord-trail-run/"
+}

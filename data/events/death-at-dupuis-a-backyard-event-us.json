@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Death at DuPuis (A Backyard Event) is a road race. Location: Canal Point, United States. Date: Saturday, 6 February 2027. Distances: Last person standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Canal Point, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Death at DuPuis (A Backyard Event) to bieg uliczny. Lokalizacja: Canal Point, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: Last person standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Canal Point, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T11:14:53.888Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last person standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canal Point",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Death at DuPuis (A Backyard Event)",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66965",
+  "slug": "death-at-dupuis-a-backyard-event-us",
+  "source": {
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "9862",
+    "url": "https://ultrasignup.com/register.aspx?did=66965"
+  },
+  "start": {
+    "lat": 26.9997,
+    "lon": -80.5526,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://www.facebook.com/groups/543691289583790/"
+}

@@ -13,9 +13,10 @@
   "date": "2027-01-31",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "42.2 km",
-    "other"
+    "50 km",
+    "Trail Marathon",
+    "12 km",
+    "7 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "This ain't your Mothers 50k & Trail Marathon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14746",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66951",
   "slug": "this-ain-t-your-mothers-50k-trail-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-15T11:53:00.902Z",
-    "id": "runraceusa",
-    "ref": "this-ain-t-your-mothers-50k-trail-marathon-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=14746"
+    "fetchedAt": "2026-10-24T11:15:01.352Z",
+    "id": "ultrasignup",
+    "ref": "14746",
+    "url": "https://ultrasignup.com/register.aspx?did=66951"
   },
   "start": {
-    "lat": 30.13,
-    "lon": -81.96,
+    "lat": 30.1284,
+    "lon": -81.9643,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-15T11:52:51.618Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14746"
+  "type": "ultra",
+  "updatedAt": "2026-10-24T11:14:53.888Z",
+  "website": "https://sombrerorunning.com/events"
 }
