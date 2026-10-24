@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Stone Mountain Massacre is a ultramarathon. Location: Roaring Gap, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 25 km, 12.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Roaring Gap, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Stone Mountain Massacre to ultramaraton. Lokalizacja: Roaring Gap, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 25 km, 12.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Roaring Gap, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-24T22:27:29.277Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "12.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roaring Gap",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Stone Mountain Massacre",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65622",
+  "slug": "stone-mountain-massacre-us",
+  "source": {
+    "fetchedAt": "2026-10-24T22:27:36.518Z",
+    "id": "ultrasignup",
+    "ref": "10326",
+    "url": "https://ultrasignup.com/register.aspx?did=65622"
+  },
+  "start": {
+    "lat": 36.3841,
+    "lon": -81.0276,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-24T22:27:29.277Z",
+  "website": "https://www.facebook.com/dirtywolfracing/?ref=page_internal"
+}

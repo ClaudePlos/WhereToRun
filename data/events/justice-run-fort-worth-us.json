@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T22:32:11.988Z",
-  "date": "2027-10-23",
+  "date": "2026-10-24",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -30,13 +30,13 @@
   },
   "manual": false,
   "name": "Justice Run Fort Worth",
-  "registrationUrl": "https://raceroster.com/events/2027/165963/justice-run-fort-worth",
+  "registrationUrl": "https://raceroster.com/events/2026/111887/justice-run-fort-worth",
   "slug": "justice-run-fort-worth-us",
   "source": {
-    "fetchedAt": "2026-10-24T16:35:47.784Z",
+    "fetchedAt": "2026-10-24T22:27:37.309Z",
     "id": "runraceusa",
     "ref": "justice-run-fort-worth-tx",
-    "url": "https://raceroster.com/events/2027/165963/justice-run-fort-worth"
+    "url": "https://raceroster.com/events/2026/111887/justice-run-fort-worth"
   },
   "start": {
     "lat": 32.7714,
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-24T16:35:39.274Z",
-  "website": "https://raceroster.com/events/2027/165963/justice-run-fort-worth"
+  "updatedAt": "2026-10-24T22:27:29.277Z",
+  "website": "https://raceroster.com/events/2026/111887/justice-run-fort-worth"
 }
