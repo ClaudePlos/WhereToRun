@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Flint Hills 50 and Marathon is a road race. Location: Manhattan, United States. Date: Saturday, 10 April 2027. Distances: u50m, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Manhattan, United States, Saturday, 10 April 2027"
+    },
+    "pl": {
+      "description": "Flint Hills 50 and Marathon to bieg uliczny. Lokalizacja: Manhattan, Stany Zjednoczone. Termin: sobota, 10 kwietnia 2027. Dystanse: u50m, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Manhattan, Stany Zjednoczone, sobota, 10 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-04-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manhattan",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Flint Hills 50 and Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6098",
+  "slug": "flint-hills-50-and-marathon-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
+    "id": "runraceusa",
+    "ref": "flint-hills-50-and-marathon-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=6098"
+  },
+  "start": {
+    "lat": 39.2,
+    "lon": -96.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6098"
+}

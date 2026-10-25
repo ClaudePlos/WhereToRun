@@ -13,10 +13,11 @@
   "date": "2027-02-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50m",
-    "u50k",
-    "other",
+    "100 km",
+    "83.7 km",
+    "50 km",
+    "25 km",
+    "25K RUCK",
     "10 km",
     "5 km"
   ],
@@ -32,25 +33,25 @@
   },
   "manual": false,
   "name": "North Texas Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15978",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66208",
   "slug": "north-texas-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T11:53:00.902Z",
-    "id": "runraceusa",
-    "ref": "north-texas-ultra-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=15978"
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "15978",
+    "url": "https://ultrasignup.com/register.aspx?did=66208"
   },
   "start": {
-    "lat": 33.24,
-    "lon": -98.14,
+    "lat": 33.2449,
+    "lon": -98.1386,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T11:52:51.618Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=15978"
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://www.texasoutlawrunning.com/northtexas"
 }

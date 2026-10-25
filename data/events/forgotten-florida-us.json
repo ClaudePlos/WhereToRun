@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Forgotten Florida is a ultramarathon. Location: Christmas, United States. Date: 6 February 2027 – 7 February 2027. Distances: 160.9 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Christmas, United States, 6 February 2027 – 7 February 2027"
+    },
+    "pl": {
+      "description": "Forgotten Florida to ultramaraton. Lokalizacja: Christmas, Stany Zjednoczone. Termin: 6 lutego 2027 – 7 lutego 2027. Dystanse: 160.9 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Christmas, Stany Zjednoczone, 6 lutego 2027 – 7 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km"
+  ],
+  "endDate": "2027-02-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Christmas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Forgotten Florida",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65310",
+  "slug": "forgotten-florida-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "13123",
+    "url": "https://ultrasignup.com/register.aspx?did=65310"
+  },
+  "start": {
+    "lat": 28.4929,
+    "lon": -80.9924,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://www.runbumtours.com/forgotten-florida"
+}

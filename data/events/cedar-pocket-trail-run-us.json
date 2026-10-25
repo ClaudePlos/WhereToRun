@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cedar Pocket Trail Run is a trail race. Location: Littlefield, United States. Date: Saturday, 6 March 2027. Distances: 10 km, 21.1 km, 42.2 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Littlefield, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Cedar Pocket Trail Run to bieg trailowy. Lokalizacja: Littlefield, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 10 km, 21.1 km, 42.2 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Littlefield, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "10 km",
+    "21.1 km",
+    "42.2 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Littlefield",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Cedar Pocket Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/AZ/Littlefield/CedarPocketTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cedar-pocket-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
+    "id": "runraceusa",
+    "ref": "cedar-pocket-trail-run-az",
+    "url": "https://runsignup.com/Race/AZ/Littlefield/CedarPocketTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.89,
+    "lon": -113.93,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://runsignup.com/Race/AZ/Littlefield/CedarPocketTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

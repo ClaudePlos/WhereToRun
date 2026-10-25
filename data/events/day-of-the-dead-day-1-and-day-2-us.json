@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -36,7 +36,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2",
   "slug": "day-of-the-dead-day-1-and-day-2-us",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
     "id": "runraceusa",
     "ref": "day-of-the-dead-day-1-and-day-2-nm",
     "url": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2"
@@ -52,6 +52,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
   "website": "https://raceroster.com/events/2026/112366/day-of-the-dead-day-1-and-day-2"
 }

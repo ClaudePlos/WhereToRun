@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "BURT 100 is a ultramarathon. Location: Bainbridge Island, United States. Date: Saturday, 6 February 2027. Distances: 160.9 km, 110 km, 55 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bainbridge Island, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "BURT 100 to ultramaraton. Lokalizacja: Bainbridge Island, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 160.9 km, 110 km, 55 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bainbridge Island, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "110 km",
+    "55 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bainbridge Island",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "BURT 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69128",
+  "slug": "burt-100-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "17000",
+    "url": "https://ultrasignup.com/register.aspx?did=69128"
+  },
+  "start": {
+    "lat": 47.6617,
+    "lon": -122.576,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "http://www.burt100.com"
+}

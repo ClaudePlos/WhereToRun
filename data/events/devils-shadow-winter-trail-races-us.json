@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Devils Shadow Winter Trail Races is a ultramarathon. Location: Honeoye Falls, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 25 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Honeoye Falls, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Devils Shadow Winter Trail Races to ultramaraton. Lokalizacja: Honeoye Falls, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 25 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Honeoye Falls, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honeoye Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Devils Shadow Winter Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66772",
+  "slug": "devils-shadow-winter-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "17169",
+    "url": "https://ultrasignup.com/register.aspx?did=66772"
+  },
+  "start": {
+    "lat": 43.0289,
+    "lon": -77.5699,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://www.gofarfetched.com/devils-shadow"
+}

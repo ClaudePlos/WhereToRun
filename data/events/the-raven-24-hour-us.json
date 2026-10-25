@@ -13,7 +13,7 @@
   "date": "2027-02-06",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "24 h"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "The Raven 24-Hour",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16030",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67600",
   "slug": "the-raven-24-hour-us",
   "source": {
-    "fetchedAt": "2026-09-15T11:53:00.902Z",
-    "id": "runraceusa",
-    "ref": "the-raven-24-hour-sc",
-    "url": "https://ultrasignup.com/register.aspx?eid=16030"
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "16030",
+    "url": "https://ultrasignup.com/register.aspx?did=67600"
   },
   "start": {
-    "lat": 32.8,
-    "lon": -79.89,
+    "lat": 32.7998,
+    "lon": -79.8877,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-15T11:52:51.618Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16030"
+  "type": "ultra",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://www.facebook.com/events/436628828588657/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_li"
 }

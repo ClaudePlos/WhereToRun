@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TwentyThree Ranch - Last Man Standing is a road race. Location: Dripping Springs, United States. Date: Friday, 22 January 2027. Distances: LAST MAN STANDING. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dripping Springs, United States, Friday, 22 January 2027"
+    },
+    "pl": {
+      "description": "TwentyThree Ranch - Last Man Standing to bieg uliczny. Lokalizacja: Dripping Springs, Stany Zjednoczone. Termin: piątek, 22 stycznia 2027. Dystanse: LAST MAN STANDING. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dripping Springs, Stany Zjednoczone, piątek, 22 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2027-01-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "LAST MAN STANDING"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dripping Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "TwentyThree Ranch - Last Man Standing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69486",
+  "slug": "twentythree-ranch-last-man-standing-us",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:44.701Z",
+    "id": "ultrasignup",
+    "ref": "21218",
+    "url": "https://ultrasignup.com/register.aspx?did=69486"
+  },
+  "start": {
+    "lat": 30.1312,
+    "lon": -98.1745,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://www.twentythreeranch.com/"
+}

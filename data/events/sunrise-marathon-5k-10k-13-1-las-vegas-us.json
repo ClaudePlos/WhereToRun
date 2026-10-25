@@ -23,24 +23,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Las Vegas",
+    "city": "Henderson",
     "country": "United States",
     "countryCode": "US",
     "region": "NV"
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 LAS VEGAS",
-  "registrationUrl": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/NV/Henderson/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-las-vegas-us",
   "source": {
-    "fetchedAt": "2026-10-24T22:27:37.309Z",
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
     "id": "runraceusa",
-    "ref": "sunrise-marathon-5k-10k-13-1-las-vegas-nv",
-    "url": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "sunrise-marathon-5k-10k-13-1-las-vegas-henderson-nv",
+    "url": "https://runsignup.com/Race/NV/Henderson/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 36.1,
-    "lon": -115.14,
+    "lat": 36.04,
+    "lon": -115.09,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-24T22:27:29.277Z",
-  "website": "https://runsignup.com/Race/NV/LasVegas/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://runsignup.com/Race/NV/Henderson/SunriseMarathon5K10KLASVEGAS320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

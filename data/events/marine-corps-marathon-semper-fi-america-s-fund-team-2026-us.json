@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T22:32:11.988Z",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/VA/Arlington/SemperFiFundMCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "marine-corps-marathon-semper-fi-america-s-fund-team-2026-us",
   "source": {
-    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
     "id": "runraceusa",
     "ref": "marine-corps-marathon-semper-fi-america-s-fund-team-2026-va",
     "url": "https://runsignup.com/Race/VA/Arlington/SemperFiFundMCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
   "website": "https://runsignup.com/Race/VA/Arlington/SemperFiFundMCM?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

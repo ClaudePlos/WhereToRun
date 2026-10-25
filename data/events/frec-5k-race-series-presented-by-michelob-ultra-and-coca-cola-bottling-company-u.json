@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "FREC 5k Race Series Presented by Michelob Ultra and Coca-Cola Bottling Company is a ultramarathon. Location: Albany, United States. Date: Saturday, 21 November 2026. Distances: other, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Albany, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "FREC 5k Race Series Presented by Michelob Ultra and Coca-Cola Bottling Company to ultramaraton. Lokalizacja: Albany, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: other, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Albany, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-25T11:44:35.473Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albany",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "FREC 5k Race Series Presented by Michelob Ultra and Coca-Cola Bottling Company",
+  "registrationUrl": "https://runsignup.com/Race/GA/Albany/FREC5kRaceSeriesMichelobUltraandCocaColaBottlingCompany?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "frec-5k-race-series-presented-by-michelob-ultra-and-coca-cola-bottling-company-u",
+  "source": {
+    "fetchedAt": "2026-10-25T11:44:45.224Z",
+    "id": "runraceusa",
+    "ref": "frec-5k-race-series-presented-by-michelob-ultra-and-coca-cola",
+    "url": "https://runsignup.com/Race/GA/Albany/FREC5kRaceSeriesMichelobUltraandCocaColaBottlingCompany?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.57,
+    "lon": -84.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-25T11:44:35.473Z",
+  "website": "https://runsignup.com/Race/GA/Albany/FREC5kRaceSeriesMichelobUltraandCocaColaBottlingCompany?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
