@@ -1,0 +1,59 @@
+{
+  "content": {
+    "en": {
+      "description": "Mt. Umunhum Trail Conquest-Winter is a ultramarathon. Location: San Jose, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 42.2 km, 30 km, 1, 2 Marathon, 11.3 km, 5 km, Mile, Kids Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — San Jose, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Mt. Umunhum Trail Conquest-Winter to ultramaraton. Lokalizacja: San Jose, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 42.2 km, 30 km, 1, 2 Marathon, 11.3 km, 5 km, Mile, Kids Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — San Jose, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-26T23:50:33.554Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "42.2 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "11.3 km",
+    "5 km",
+    "Mile",
+    "Kids Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Jose",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Mt. Umunhum Trail Conquest-Winter",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69589",
+  "slug": "mt-umunhum-trail-conquest-winter-us",
+  "source": {
+    "fetchedAt": "2026-10-26T23:50:40.349Z",
+    "id": "ultrasignup",
+    "ref": "14447",
+    "url": "https://ultrasignup.com/register.aspx?did=69589"
+  },
+  "start": {
+    "lat": 37.174,
+    "lon": -121.825,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-26T23:50:33.554Z",
+  "website": "https://tctruns.com/mt-umunhum-trail-conquest-winter"
+}

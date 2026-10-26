@@ -24,7 +24,7 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Lutz",
+    "city": "New Port Richey",
     "country": "United States",
     "countryCode": "US",
     "region": "FL"
@@ -34,14 +34,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66286",
   "slug": "runfluent-christmas-us",
   "source": {
-    "fetchedAt": "2026-10-26T19:20:40.422Z",
+    "fetchedAt": "2026-10-26T23:50:40.349Z",
     "id": "ultrasignup",
     "ref": "16932",
     "url": "https://ultrasignup.com/register.aspx?did=66286"
   },
   "start": {
     "lat": 28.2522,
-    "lon": -82.6478,
+    "lon": -82.6473,
     "name": null,
     "precision": "exact"
   },
@@ -50,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-26T19:20:32.929Z",
+  "updatedAt": "2026-10-26T23:50:33.554Z",
   "website": "http://dontjustrun.com/events"
 }
