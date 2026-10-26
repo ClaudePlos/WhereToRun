@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Trident Trail Races is a trail race. Location: Jupiter, United States. Date: Saturday, 24 July 2027. Distances: 42.2 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Jupiter, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "The Trident Trail Races to bieg trailowy. Lokalizacja: Jupiter, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 42.2 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Jupiter, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-10-26T13:17:21.677Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Jupiter",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "The Trident Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=8885",
+  "slug": "the-trident-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-26T13:17:30.387Z",
+    "id": "runraceusa",
+    "ref": "the-trident-trail-races-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=8885"
+  },
+  "start": {
+    "lat": 26.92,
+    "lon": -80.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-26T13:17:21.677Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=8885"
+}

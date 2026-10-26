@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Anchorage RunFest is a road race. Location: Anchorage, United States. Date: Saturday, 21 August 2027. Distances: u50k, 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Anchorage, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Anchorage RunFest to bieg uliczny. Lokalizacja: Anchorage, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Anchorage, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-26T13:17:21.677Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anchorage",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Anchorage RunFest",
+  "registrationUrl": "https://runsignup.com/Race/AK/Anchorage/AnchorageRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "anchorage-runfest-us",
+  "source": {
+    "fetchedAt": "2026-10-26T13:17:30.387Z",
+    "id": "runraceusa",
+    "ref": "anchorage-runfest-ak",
+    "url": "https://runsignup.com/Race/AK/Anchorage/AnchorageRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 61.21,
+    "lon": -149.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-26T13:17:21.677Z",
+  "website": "https://runsignup.com/Race/AK/Anchorage/AnchorageRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

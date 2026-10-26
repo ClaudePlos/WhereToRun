@@ -10,10 +10,9 @@
     }
   },
   "createdAt": "2026-09-09T22:32:11.988Z",
-  "date": "2026-10-24",
+  "date": "2027-10-23",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
     "other"
   ],
   "endDate": null,
@@ -31,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/SC/Spartanburg/PrisonerofWarUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "prisoner-of-war-trail-race-50k-25k-8mi-us",
   "source": {
-    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "fetchedAt": "2026-10-26T13:17:30.387Z",
     "id": "runraceusa",
     "ref": "prisoner-of-war-trail-race-50k-25k-8mi-sc",
     "url": "https://runsignup.com/Race/SC/Spartanburg/PrisonerofWarUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +46,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "updatedAt": "2026-10-26T13:17:21.677Z",
   "website": "https://runsignup.com/Race/SC/Spartanburg/PrisonerofWarUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

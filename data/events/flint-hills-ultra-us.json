@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Flint Hills Ultra is a ultramarathon. Location: Emporia, United States. Date: Saturday, 29 May 2027. Distances: other, u100p. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Ultramarathon — Emporia, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Flint Hills Ultra to ultramaraton. Lokalizacja: Emporia, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: other, u100p. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Ultramaraton — Emporia, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-10-26T13:17:21.677Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u100p"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Emporia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Flint Hills Ultra",
+  "registrationUrl": "https://raceroster.com/events/2027/166134/flint-hills-ultra",
+  "slug": "flint-hills-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-26T13:17:30.387Z",
+    "id": "runraceusa",
+    "ref": "flint-hills-ultra-ks",
+    "url": "https://raceroster.com/events/2027/166134/flint-hills-ultra"
+  },
+  "start": {
+    "lat": 38.4184,
+    "lon": -96.1871,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-26T13:17:21.677Z",
+  "website": "https://raceroster.com/events/2027/166134/flint-hills-ultra"
+}
