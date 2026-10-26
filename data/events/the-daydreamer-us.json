@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Daydreamer is a ultramarathon. Location: Patagonia, United States. Date: Saturday, 6 February 2027. Distances: 50 km, 30 km, 1, 2 Marathon, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Patagonia, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "The Daydreamer to ultramaraton. Lokalizacja: Patagonia, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 50 km, 30 km, 1, 2 Marathon, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Patagonia, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-26T19:20:32.929Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Patagonia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "The Daydreamer",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68026",
+  "slug": "the-daydreamer-us",
+  "source": {
+    "fetchedAt": "2026-10-26T19:20:40.422Z",
+    "id": "ultrasignup",
+    "ref": "19855",
+    "url": "https://ultrasignup.com/register.aspx?did=68026"
+  },
+  "start": {
+    "lat": 31.541,
+    "lon": -110.754,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-26T19:20:32.929Z",
+  "website": "https://www.runthedaydreamer.com"
+}

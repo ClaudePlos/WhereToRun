@@ -16,6 +16,7 @@
     "50k Relay - 5 Per",
     "50k Relay - 2 Per",
     "50 km",
+    "3 person team",
     "10 km"
   ],
   "endDate": null,
@@ -33,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=68594",
   "slug": "frozen-gnome-us",
   "source": {
-    "fetchedAt": "2026-10-17T10:55:10.812Z",
+    "fetchedAt": "2026-10-26T19:20:40.422Z",
     "id": "ultrasignup",
     "ref": "3567",
     "url": "https://ultrasignup.com/register.aspx?did=68594"
@@ -49,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-17T10:55:03.631Z",
+  "updatedAt": "2026-10-26T19:20:32.929Z",
   "website": "http://www.runfrozengnome.com/"
 }

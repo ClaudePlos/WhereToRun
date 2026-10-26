@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Arrowhead 135 is a road race. Location: International Falls, United States. Date: Monday, 25 January 2027. Distances: 135M Veteran, 135M Rookie, 135M Bike, 135M Run, 135M Ski, 135M Kick Sled. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — International Falls, United States, Monday, 25 January 2027"
+    },
+    "pl": {
+      "description": "Arrowhead 135 to bieg uliczny. Lokalizacja: International Falls, Stany Zjednoczone. Termin: poniedziałek, 25 stycznia 2027. Dystanse: 135M Veteran, 135M Rookie, 135M Bike, 135M Run, 135M Ski, 135M Kick Sled. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — International Falls, Stany Zjednoczone, poniedziałek, 25 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-26T19:20:32.929Z",
+  "date": "2027-01-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "135M Veteran",
+    "135M Rookie",
+    "135M Bike",
+    "135M Run",
+    "135M Ski",
+    "135M Kick Sled"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "International Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Arrowhead 135",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68262",
+  "slug": "arrowhead-135-us",
+  "source": {
+    "fetchedAt": "2026-10-26T19:20:40.422Z",
+    "id": "ultrasignup",
+    "ref": "110",
+    "url": "https://ultrasignup.com/register.aspx?did=68262"
+  },
+  "start": {
+    "lat": 48.5927,
+    "lon": -93.4082,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-26T19:20:32.929Z",
+  "website": "http://www.arrowheadultra.com/"
+}
