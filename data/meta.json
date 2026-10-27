@@ -1,5 +1,5 @@
 {
-  "added": 7,
+  "added": 0,
   "dryRun": false,
   "eventCount": 2855,
   "geocoding": {
@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-10-27T12:25:04.814Z",
+  "lastRun": "2026-10-27T18:41:54.785Z",
   "skipped": 8,
   "sources": {
     "ai-discovery": {
@@ -41,6 +41,6 @@
       "fetched": 0
     }
   },
-  "unchanged": 1437,
-  "updated": 59
+  "unchanged": 1447,
+  "updated": 56
 }
