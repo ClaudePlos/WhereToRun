@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Déjà Vu is a road race. Location: Las Vegas, United States. Date: Saturday, 3 April 2027. Distances: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Déjà Vu to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, 10 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-27T12:25:04.814Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Déjà Vu",
+  "registrationUrl": "https://runsignup.com/Race/NV/LasVegas/dejavu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "deja-vu-us",
+  "source": {
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
+    "id": "runraceusa",
+    "ref": "d-j-vu-nv",
+    "url": "https://runsignup.com/Race/NV/LasVegas/dejavu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36,
+    "lon": -115.29,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
+  "website": "https://runsignup.com/Race/NV/LasVegas/dejavu?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

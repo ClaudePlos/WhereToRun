@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Chicago is a road race. Location: Chicago, United States. Date: Saturday, 12 June 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chicago, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Chicago to bieg uliczny. Lokalizacja: Chicago, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chicago, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-27T12:25:04.814Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Chicago",
+  "registrationUrl": "https://runsignup.com/Race/IL/Chicago/LivFreeHourHockeyMarathonChicago?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-chicago-us",
+  "source": {
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-chicago-il",
+    "url": "https://runsignup.com/Race/IL/Chicago/LivFreeHourHockeyMarathonChicago?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.88,
+    "lon": -87.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
+  "website": "https://runsignup.com/Race/IL/Chicago/LivFreeHourHockeyMarathonChicago?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Wild Woman Trail Race Weekend is a trail race. Location: Trout Lake, United States. Date: Saturday, 19 June 2027. Distances: u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Trout Lake, United States, Saturday, 19 June 2027"
+    },
+    "pl": {
+      "description": "Wild Woman Trail Race Weekend to bieg trailowy. Lokalizacja: Trout Lake, Stany Zjednoczone. Termin: sobota, 19 czerwca 2027. Dystanse: u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Trout Lake, Stany Zjednoczone, sobota, 19 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-27T12:25:04.814Z",
+  "date": "2027-06-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Trout Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Wild Woman Trail Race Weekend",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3283",
+  "slug": "wild-woman-trail-race-weekend-us",
+  "source": {
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
+    "id": "runraceusa",
+    "ref": "wild-woman-trail-race-weekend-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=3283"
+  },
+  "start": {
+    "lat": 46.01,
+    "lon": -121.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3283"
+}

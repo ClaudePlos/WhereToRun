@@ -1,7 +1,7 @@
 {
-  "added": 1,
+  "added": 7,
   "dryRun": false,
-  "eventCount": 2848,
+  "eventCount": 2855,
   "geocoding": {
     "capped": 0,
     "errors": 0,
@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-10-26T23:50:33.554Z",
+  "lastRun": "2026-10-27T12:25:04.814Z",
   "skipped": 8,
   "sources": {
     "ai-discovery": {
@@ -26,7 +26,7 @@
     },
     "runraceusa": {
       "error": null,
-      "fetched": 1174
+      "fetched": 1184
     },
     "runsignup": {
       "error": null,
@@ -34,13 +34,13 @@
     },
     "ultrasignup": {
       "error": null,
-      "fetched": 310
+      "fetched": 312
     },
     "wikidata": {
-      "error": "Wikidata SPARQL returned 502 Bad Gateway",
+      "error": "Wikidata SPARQL returned 504 Gateway Timeout",
       "fetched": 0
     }
   },
-  "unchanged": 1434,
-  "updated": 56
+  "unchanged": 1437,
+  "updated": 59
 }

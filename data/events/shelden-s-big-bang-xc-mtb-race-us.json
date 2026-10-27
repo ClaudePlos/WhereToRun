@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-10T11:30:18.139Z",
-  "date": "2026-10-25",
+  "date": "2027-07-17",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/MI/Utica/SheldenSBIGBangXCMTBRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "shelden-s-big-bang-xc-mtb-race-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
     "id": "runraceusa",
     "ref": "shelden-s-big-bang-xc-mtb-race-mi",
     "url": "https://runsignup.com/Race/MI/Utica/SheldenSBIGBangXCMTBRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
   "website": "https://runsignup.com/Race/MI/Utica/SheldenSBIGBangXCMTBRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

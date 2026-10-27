@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Paws, Claws & Renegades Endurance Festival is a road race. Location: Greer, United States. Date: Sunday, 21 February 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greer, United States, Sunday, 21 February 2027"
+    },
+    "pl": {
+      "description": "Paws, Claws & Renegades Endurance Festival to bieg uliczny. Lokalizacja: Greer, Stany Zjednoczone. Termin: niedziela, 21 lutego 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greer, Stany Zjednoczone, niedziela, 21 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-27T12:25:04.814Z",
+  "date": "2027-02-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Paws, Claws & Renegades Endurance Festival",
+  "registrationUrl": "https://runsignup.com/Race/SC/Greer/PawsClawsRenegades?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "paws-claws-renegades-endurance-festival-us",
+  "source": {
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
+    "id": "runraceusa",
+    "ref": "paws-claws-renegades-endurance-festival-sc",
+    "url": "https://runsignup.com/Race/SC/Greer/PawsClawsRenegades?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.9,
+    "lon": -82.27,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
+  "website": "https://runsignup.com/Race/SC/Greer/PawsClawsRenegades?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

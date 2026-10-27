@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Froggy Mountain Sweet Sixteen 50k is a trail race. Location: Galax, United States. Date: Saturday, 17 April 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Galax, United States, Saturday, 17 April 2027"
+    },
+    "pl": {
+      "description": "Froggy Mountain Sweet Sixteen 50k to bieg trailowy. Lokalizacja: Galax, Stany Zjednoczone. Termin: sobota, 17 kwietnia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Galax, Stany Zjednoczone, sobota, 17 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-27T12:25:04.814Z",
+  "date": "2027-04-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Galax",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Froggy Mountain Sweet Sixteen 50k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18351",
+  "slug": "froggy-mountain-sweet-sixteen-50k-us",
+  "source": {
+    "fetchedAt": "2026-10-27T12:25:12.648Z",
+    "id": "runraceusa",
+    "ref": "froggy-mountain-sweet-sixteen-50k-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=18351"
+  },
+  "start": {
+    "lat": 36.64,
+    "lon": -80.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-27T12:25:04.814Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18351"
+}
