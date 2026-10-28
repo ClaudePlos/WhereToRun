@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Tidewater Strider Marathon and Half Marathon Spring Edition is a road race. Location: Chesapeake, United States. Date: Sunday, 25 April 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chesapeake, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "Tidewater Strider Marathon and Half Marathon Spring Edition to bieg uliczny. Lokalizacja: Chesapeake, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chesapeake, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-28T13:11:12.427Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chesapeake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Tidewater Strider Marathon and Half Marathon Spring Edition",
+  "registrationUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tidewater-strider-marathon-and-half-marathon-spring-edition-us",
+  "source": {
+    "fetchedAt": "2026-10-28T13:11:22.303Z",
+    "id": "runraceusa",
+    "ref": "tidewater-strider-marathon-and-half-marathon-spring-edition-va",
+    "url": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.64,
+    "lon": -76.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-28T13:11:12.427Z",
+  "website": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

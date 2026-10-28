@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Send Rachel to NYC!!! is a road race. Location: Anacortes, United States. Date: Sunday, 8 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Anacortes, United States, Sunday, 8 November 2026"
+    },
+    "pl": {
+      "description": "Send Rachel to NYC!!! to bieg uliczny. Lokalizacja: Anacortes, Stany Zjednoczone. Termin: niedziela, 8 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Anacortes, Stany Zjednoczone, niedziela, 8 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-28T13:11:12.427Z",
+  "date": "2026-11-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anacortes",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Send Rachel to NYC!!!",
+  "registrationUrl": "https://runsignup.com/Race/WA/Anacortes/SendRachelToNYC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "send-rachel-to-nyc-us",
+  "source": {
+    "fetchedAt": "2026-10-28T13:11:22.303Z",
+    "id": "runraceusa",
+    "ref": "send-rachel-to-nyc-wa",
+    "url": "https://runsignup.com/Race/WA/Anacortes/SendRachelToNYC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.5,
+    "lon": -122.63,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-28T13:11:12.427Z",
+  "website": "https://runsignup.com/Race/WA/Anacortes/SendRachelToNYC?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

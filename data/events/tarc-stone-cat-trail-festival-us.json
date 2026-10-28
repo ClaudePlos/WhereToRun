@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "TARC Stone Cat Trail Festival is a trail race. Location: Ipswich, United States. Date: Saturday, 7 November 2026. Distances: u100k, u50m, 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Ipswich, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "TARC Stone Cat Trail Festival to bieg trailowy. Lokalizacja: Ipswich, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: u100k, u50m, 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Ipswich, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-10-28T13:11:12.427Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ipswich",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "TARC Stone Cat Trail Festival",
+  "registrationUrl": "https://runsignup.com/Race/MA/Ipswich/TARCStoneCatTrailFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tarc-stone-cat-trail-festival-us",
+  "source": {
+    "fetchedAt": "2026-10-28T13:11:22.303Z",
+    "id": "runraceusa",
+    "ref": "tarc-stone-cat-trail-festival-ma",
+    "url": "https://runsignup.com/Race/MA/Ipswich/TARCStoneCatTrailFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.68,
+    "lon": -70.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-28T13:11:12.427Z",
+  "website": "https://runsignup.com/Race/MA/Ipswich/TARCStoneCatTrailFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
