@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Baby Backyard 5K - 50K ULTRA is a ultramarathon. Location: Maple Grove, United States. Date: Saturday, 14 August 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Maple Grove, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Baby Backyard 5K - 50K ULTRA to ultramaraton. Lokalizacja: Maple Grove, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Maple Grove, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-29T13:18:14.753Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Maple Grove",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Baby Backyard 5K - 50K ULTRA",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13859",
+  "slug": "baby-backyard-5k-50k-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-29T13:18:24.874Z",
+    "id": "runraceusa",
+    "ref": "baby-backyard-5k-50k-ultra-mn",
+    "url": "https://ultrasignup.com/register.aspx?eid=13859"
+  },
+  "start": {
+    "lat": 45.14,
+    "lon": -93.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13859"
+}

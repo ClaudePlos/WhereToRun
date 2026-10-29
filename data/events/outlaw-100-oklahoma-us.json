@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Outlaw 100 Oklahoma is a ultramarathon. Location: Quinton, United States. Date: 12 February 2027 – 14 February 2027. Distances: 217.3 km, 160.9 km, 100 Mile 5 Person Relay, 100 Mile Ruck Relay, Friday 4 Mile Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Quinton, United States, 12 February 2027 – 14 February 2027"
+    },
+    "pl": {
+      "description": "Outlaw 100 Oklahoma to ultramaraton. Lokalizacja: Quinton, Stany Zjednoczone. Termin: 12 lutego 2027 – 14 lutego 2027. Dystanse: 217.3 km, 160.9 km, 100 Mile 5 Person Relay, 100 Mile Ruck Relay, Friday 4 Mile Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Quinton, Stany Zjednoczone, 12 lutego 2027 – 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-29T13:18:14.753Z",
+  "date": "2027-02-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "217.3 km",
+    "160.9 km",
+    "100 Mile 5 Person Relay",
+    "100 Mile Ruck Relay",
+    "Friday 4 Mile Run"
+  ],
+  "endDate": "2027-02-14",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Quinton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Outlaw 100 Oklahoma",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66014",
+  "slug": "outlaw-100-oklahoma-us",
+  "source": {
+    "fetchedAt": "2026-10-29T13:18:23.835Z",
+    "id": "ultrasignup",
+    "ref": "9615",
+    "url": "https://ultrasignup.com/register.aspx?did=66014"
+  },
+  "start": {
+    "lat": 35.0854,
+    "lon": -95.3607,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
+  "website": "https://trailultras.com/welcome/"
+}

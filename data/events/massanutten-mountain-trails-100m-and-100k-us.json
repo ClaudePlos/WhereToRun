@@ -13,8 +13,8 @@
   "date": "2027-05-15",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u100m"
+    "u100m",
+    "u100k"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +31,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=188",
   "slug": "massanutten-mountain-trails-100m-and-100k-us",
   "source": {
-    "fetchedAt": "2026-10-13T14:22:37.944Z",
+    "fetchedAt": "2026-10-29T13:18:24.874Z",
     "id": "runraceusa",
     "ref": "massanutten-mountain-trails-100m-and-100k-va",
     "url": "https://ultrasignup.com/register.aspx?eid=188"
@@ -47,6 +47,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-10-13T14:22:28.193Z",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
   "website": "https://ultrasignup.com/register.aspx?eid=188"
 }

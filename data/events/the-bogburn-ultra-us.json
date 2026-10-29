@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Bogburn Ultra is a ultramarathon. Location: South Royalton, United States. Date: Saturday, 16 October 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — South Royalton, United States, Saturday, 16 October 2027"
+    },
+    "pl": {
+      "description": "The Bogburn Ultra to ultramaraton. Lokalizacja: South Royalton, Stany Zjednoczone. Termin: sobota, 16 października 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — South Royalton, Stany Zjednoczone, sobota, 16 października 2027"
+    }
+  },
+  "createdAt": "2026-10-29T13:18:14.753Z",
+  "date": "2027-10-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "South Royalton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VT"
+  },
+  "manual": false,
+  "name": "The Bogburn Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21256",
+  "slug": "the-bogburn-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-29T13:18:24.874Z",
+    "id": "runraceusa",
+    "ref": "the-bogburn-ultra-vt",
+    "url": "https://ultrasignup.com/register.aspx?eid=21256"
+  },
+  "start": {
+    "lat": 43.73,
+    "lon": -72.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21256"
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-13T16:58:09.062Z",
-  "date": "2027-03-20",
+  "date": "2027-01-16",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -30,17 +30,17 @@
   },
   "manual": false,
   "name": "Sunrise Marathon 5K/10K/13.1 AUSTIN/ROUNDROCK",
-  "registrationUrl": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sunrise-marathon-5k-10k-13-1-austin-roundrock-us",
   "source": {
-    "fetchedAt": "2026-10-28T23:59:36.116Z",
+    "fetchedAt": "2026-10-29T13:18:24.874Z",
     "id": "runraceusa",
     "ref": "sunrise-marathon-5k-10k-13-1-austin-roundrock-austin-tx",
-    "url": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 30.18,
-    "lon": -97.67,
+    "lat": 30.44,
+    "lon": -97.63,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-28T23:59:25.840Z",
-  "website": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK320?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-29T13:18:14.753Z",
+  "website": "https://runsignup.com/Race/TX/Austin/SunriseMarathon5K10KAUSTINROUNDROCK0116?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

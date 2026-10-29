@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Thunder Run 2027 is a road race. Location: San Antonio, United States. Date: Saturday, 6 February 2027. Distances: Pre-Race Spaghetti Dinner, 24 Hour - Individual, 24 Hour - Relay (4 person), 24 Hour - Relay (2 pe. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Antonio, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "The Thunder Run 2027 to bieg uliczny. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: Pre-Race Spaghetti Dinner, 24 Hour - Individual, 24 Hour - Relay (4 person), 24 Hour - Relay (2 pe. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Antonio, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-29T13:18:14.753Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Pre-Race Spaghetti Dinner",
+    "24 Hour - Individual",
+    "24 Hour - Relay (4 person)",
+    "24 Hour - Relay (2 pe"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "The Thunder Run 2027",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69452",
+  "slug": "the-thunder-run-2027-us",
+  "source": {
+    "fetchedAt": "2026-10-29T13:18:23.835Z",
+    "id": "ultrasignup",
+    "ref": "21209",
+    "url": "https://ultrasignup.com/register.aspx?did=69452"
+  },
+  "start": {
+    "lat": 29.2394,
+    "lon": -98.522,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
+  "website": "https://teamrwb.org/gwot100"
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-28T14:09:26.019Z",
-  "date": "2027-06-05",
+  "date": "2027-05-22",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "red-cedar-trail-races-at-giant-city-state-park-us",
   "source": {
-    "fetchedAt": "2026-09-28T14:09:34.639Z",
+    "fetchedAt": "2026-10-29T13:18:24.874Z",
     "id": "runraceusa",
     "ref": "red-cedar-trail-races-at-giant-city-state-park-il",
     "url": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "updatedAt": "2026-10-29T13:18:14.753Z",
   "website": "https://runsignup.com/Race/IL/Makanda/RedCedarTrailHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
