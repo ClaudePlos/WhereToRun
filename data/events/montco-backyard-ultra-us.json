@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "MontCo Backyard Ultra is a road race. Location: Conshohocken, United States. Date: Saturday, 5 December 2026. Distances: Backyard Ultra; Last Person Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Conshohocken, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "MontCo Backyard Ultra to bieg uliczny. Lokalizacja: Conshohocken, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: Backyard Ultra; Last Person Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Conshohocken, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-10-29T23:55:16.564Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra; Last Person Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Conshohocken",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "MontCo Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69378",
+  "slug": "montco-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-29T23:55:36.241Z",
+    "id": "ultrasignup",
+    "ref": "21190",
+    "url": "https://ultrasignup.com/register.aspx?did=69378"
+  },
+  "start": {
+    "lat": 40.0726,
+    "lon": -75.2912,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-29T23:55:16.564Z",
+  "website": "https://www.teamfoster.org/lastpersonstanding"
+}
