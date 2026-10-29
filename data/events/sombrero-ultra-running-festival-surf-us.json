@@ -13,7 +13,12 @@
   "date": "2027-02-12",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "48 h",
+    "48 Hour Relay 4-person",
+    "24 hour 4 person relay",
+    "24 h",
+    "12 Hour Night",
+    "12 Hour - Day"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +32,25 @@
   },
   "manual": false,
   "name": "Sombrero Ultra Running Festival ( SURF )",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18084",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66027",
   "slug": "sombrero-ultra-running-festival-surf-us",
   "source": {
-    "fetchedAt": "2026-09-15T11:53:00.902Z",
-    "id": "runraceusa",
-    "ref": "sombrero-ultra-running-festival-surf-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=18084"
+    "fetchedAt": "2026-10-29T18:57:47.513Z",
+    "id": "ultrasignup",
+    "ref": "18084",
+    "url": "https://ultrasignup.com/register.aspx?did=66027"
   },
   "start": {
-    "lat": 30,
-    "lon": -81.89,
+    "lat": 29.9994,
+    "lon": -81.8938,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T11:52:51.618Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=18084"
+  "updatedAt": "2026-10-29T18:57:38.517Z",
+  "website": "https://sombrerorunning.com/events"
 }
