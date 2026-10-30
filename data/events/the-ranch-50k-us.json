@@ -13,8 +13,9 @@
   "date": "2027-02-13",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "21.1 km"
+    "50 km",
+    "1",
+    "2 Marathon"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "The Ranch 50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10882",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65509",
   "slug": "the-ranch-50k-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "the-ranch-50k-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=10882"
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "10882",
+    "url": "https://ultrasignup.com/register.aspx?did=65509"
   },
   "start": {
-    "lat": 33.17,
-    "lon": -117.05,
+    "lat": 33.1666,
+    "lon": -117.051,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=10882"
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://secondwindtrailrunning.com/ranch50k"
 }

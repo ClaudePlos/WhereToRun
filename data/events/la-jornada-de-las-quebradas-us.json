@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "La Jornada de las Quebradas is a ultramarathon. Location: Socorro, United States. Date: Saturday, 13 February 2027. Distances: 53 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Socorro, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "La Jornada de las Quebradas to ultramaraton. Lokalizacja: Socorro, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 53 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Socorro, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Socorro",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "La Jornada de las Quebradas",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67481",
+  "slug": "la-jornada-de-las-quebradas-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "15647",
+    "url": "https://ultrasignup.com/register.aspx?did=67481"
+  },
+  "start": {
+    "lat": 34.1087,
+    "lon": -106.828,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://www.socorrotrailrunningseries.com/la-jornada-de-las-quebradas-53k-copy"
+}

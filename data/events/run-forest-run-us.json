@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Forest Run is a ultramarathon. Location: Montesano, United States. Date: Saturday, 13 February 2027. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Montesano, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Run Forest Run to ultramaraton. Lokalizacja: Montesano, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Montesano, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Montesano",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Run Forest Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69566",
+  "slug": "run-forest-run-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "8620",
+    "url": "https://ultrasignup.com/register.aspx?did=69566"
+  },
+  "start": {
+    "lat": 46.9952,
+    "lon": -123.595,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "http://www.olytrailrunners.com/run-forest-run/"
+}

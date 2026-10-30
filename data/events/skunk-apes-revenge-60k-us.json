@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Skunk Apes Revenge 60K is a ultramarathon. Location: Dade City, United States. Date: Saturday, 13 February 2027. Distances: 60 km, 30 km, 30k Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dade City, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Skunk Apes Revenge 60K to ultramaraton. Lokalizacja: Dade City, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 60 km, 30 km, 30k Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dade City, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "60 km",
+    "30 km",
+    "30k Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dade City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Skunk Apes Revenge 60K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69413",
+  "slug": "skunk-apes-revenge-60k-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "14405",
+    "url": "https://ultrasignup.com/register.aspx?did=69413"
+  },
+  "start": {
+    "lat": 28.3539,
+    "lon": -82.1235,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://www.facebook.com/skunkapeevents/"
+}

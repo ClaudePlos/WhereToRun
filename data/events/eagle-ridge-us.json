@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Eagle Ridge is a ultramarathon. Location: Guntersville, United States. Date: Saturday, 13 February 2027. Distances: 50 km, 1, 2 Marathon, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Guntersville, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Eagle Ridge to ultramaraton. Lokalizacja: Guntersville, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 50 km, 1, 2 Marathon, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Guntersville, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "1",
+    "2 Marathon",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Guntersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Eagle Ridge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69367",
+  "slug": "eagle-ridge-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "8310",
+    "url": "https://ultrasignup.com/register.aspx?did=69367"
+  },
+  "start": {
+    "lat": 34.3953,
+    "lon": -86.205,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "http://www.runninglane.com/runs/eagleridge"
+}

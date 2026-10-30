@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ouray 50 Mile Endurance Run is a road race. Location: Ouray, United States. Date: Saturday, 14 August 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ouray, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Ouray 50 Mile Endurance Run to bieg uliczny. Lokalizacja: Ouray, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ouray, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ouray",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Ouray 50 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15588",
+  "slug": "ouray-50-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.919Z",
+    "id": "runraceusa",
+    "ref": "ouray-50-mile-endurance-run-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=15588"
+  },
+  "start": {
+    "lat": 38.03,
+    "lon": -107.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15588"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Cactus Classic Trail Races is a trail race. Location: Manito, United States. Date: Saturday, 6 March 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Manito, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Cactus Classic Trail Races to bieg trailowy. Lokalizacja: Manito, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Manito, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Manito",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Cactus Classic Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6200",
+  "slug": "cactus-classic-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.919Z",
+    "id": "runraceusa",
+    "ref": "cactus-classic-trail-races-il",
+    "url": "https://ultrasignup.com/register.aspx?eid=6200"
+  },
+  "start": {
+    "lat": 40.41,
+    "lon": -89.87,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=6200"
+}

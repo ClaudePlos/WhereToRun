@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Susitna 100 is a road race. Location: Big Lake, United States. Date: Saturday, 13 February 2027. Distances: 100 Mile Bike, 100 Mile Ski, 100 Mile Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Big Lake, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Susitna 100 to bieg uliczny. Lokalizacja: Big Lake, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 100 Mile Bike, 100 Mile Ski, 100 Mile Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Big Lake, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 Mile Bike",
+    "100 Mile Ski",
+    "100 Mile Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Big Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Susitna 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68110",
+  "slug": "susitna-100-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "118",
+    "url": "https://ultrasignup.com/register.aspx?did=68110"
+  },
+  "start": {
+    "lat": 61.5503,
+    "lon": -149.938,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "http://www.susitna100.com/"
+}

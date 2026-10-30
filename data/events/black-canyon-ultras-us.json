@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Canyon Ultras is a ultramarathon. Location: Mayer, United States. Date: 13 February 2027 – 14 February 2027. Distances: 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mayer, United States, 13 February 2027 – 14 February 2027"
+    },
+    "pl": {
+      "description": "Black Canyon Ultras to ultramaraton. Lokalizacja: Mayer, Stany Zjednoczone. Termin: 13 lutego 2027 – 14 lutego 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mayer, Stany Zjednoczone, 13 lutego 2027 – 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": "2027-02-14",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mayer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Black Canyon Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66041",
+  "slug": "black-canyon-ultras-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "4023",
+    "url": "https://ultrasignup.com/register.aspx?did=66041"
+  },
+  "start": {
+    "lat": 34.3488,
+    "lon": -112.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://www.aravaiparunning.com/blackcanyon/"
+}

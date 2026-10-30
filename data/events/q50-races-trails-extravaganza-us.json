@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Q50 Races Trails Extravaganza is a ultramarathon. Location: Franklinton, United States. Date: Saturday, 13 February 2027. Distances: 80.5 km, 48.3 km, 32.2 km, 16.1 km, 8 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Franklinton, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Q50 Races Trails Extravaganza to ultramaraton. Lokalizacja: Franklinton, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 80.5 km, 48.3 km, 32.2 km, 16.1 km, 8 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Franklinton, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-30T13:10:12.084Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "48.3 km",
+    "32.2 km",
+    "16.1 km",
+    "8 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Franklinton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "LA"
+  },
+  "manual": false,
+  "name": "Q50 Races Trails Extravaganza",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67730",
+  "slug": "q50-races-trails-extravaganza-us",
+  "source": {
+    "fetchedAt": "2026-10-30T13:10:21.267Z",
+    "id": "ultrasignup",
+    "ref": "7790",
+    "url": "https://ultrasignup.com/register.aspx?did=67730"
+  },
+  "start": {
+    "lat": 30.7671,
+    "lon": -90.1575,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-30T13:10:12.084Z",
+  "website": "https://www.q50races.com/"
+}
