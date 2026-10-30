@@ -15,6 +15,7 @@
   "distances": [
     "12 Hour Jail Break",
     "12 Hour Team Jail Break",
+    "6 Hour Team Pursuit",
     "6 Hour Pursuit"
   ],
   "endDate": null,
@@ -32,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=68698",
   "slug": "sheriff-s-shootout-us",
   "source": {
-    "fetchedAt": "2026-10-30T18:38:27.329Z",
+    "fetchedAt": "2026-10-30T23:44:02.458Z",
     "id": "ultrasignup",
     "ref": "19373",
     "url": "https://ultrasignup.com/register.aspx?did=68698"
@@ -48,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-10-30T18:38:17.229Z",
+  "updatedAt": "2026-10-30T23:43:56.146Z",
   "website": "https://www.doloresbikehostel.com/sheriffsshootout"
 }

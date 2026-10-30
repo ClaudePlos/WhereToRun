@@ -13,10 +13,11 @@
   "date": "2027-02-13",
   "dateStatus": "confirmed",
   "distances": [
-    "other",
-    "u100k",
-    "u50k",
-    "21.1 km",
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "20 km",
     "10 km",
     "5 km"
   ],
@@ -32,25 +33,25 @@
   },
   "manual": false,
   "name": "Iron Heart Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19162",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67663",
   "slug": "iron-heart-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "iron-heart-ultra-mo",
-    "url": "https://ultrasignup.com/register.aspx?eid=19162"
+    "fetchedAt": "2026-10-30T23:44:02.458Z",
+    "id": "ultrasignup",
+    "ref": "19162",
+    "url": "https://ultrasignup.com/register.aspx?did=67663"
   },
   "start": {
-    "lat": 37.95,
-    "lon": -91.54,
+    "lat": 37.9533,
+    "lon": -91.5383,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19162"
+  "updatedAt": "2026-10-30T23:43:56.146Z",
+  "website": "https://www.split-secondtiming.com"
 }
