@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-10-31T17:44:22.947Z",
+  "lastRun": "2026-10-31T23:21:12.768Z",
   "skipped": 10,
   "sources": {
     "ai-discovery": {
@@ -37,10 +37,10 @@
       "fetched": 317
     },
     "wikidata": {
-      "error": "Wikidata SPARQL returned 502 Bad Gateway",
+      "error": "Wikidata SPARQL returned 504 Gateway Timeout",
       "fetched": 0
     }
   },
-  "unchanged": 1479,
-  "updated": 61
+  "unchanged": 1484,
+  "updated": 56
 }
