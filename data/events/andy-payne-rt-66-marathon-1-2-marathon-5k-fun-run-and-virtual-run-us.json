@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Andy Payne Rt 66 Marathon, 1/2 Marathon, 5K, Fun Run and Virtual Run is a road race. Location: Claremore, United States. Date: Saturday, 3 April 2027. Distances: 42.2 km, 21.1 km, 5 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Claremore, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Andy Payne Rt 66 Marathon, 1/2 Marathon, 5K, Fun Run and Virtual Run to bieg uliczny. Lokalizacja: Claremore, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 5 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Claremore, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-10-31T12:45:55.848Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Claremore",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Andy Payne Rt 66 Marathon, 1/2 Marathon, 5K, Fun Run and Virtual Run",
+  "registrationUrl": "https://runsignup.com/Race/OK/Claremore/AndyPayneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "andy-payne-rt-66-marathon-1-2-marathon-5k-fun-run-and-virtual-run-us",
+  "source": {
+    "fetchedAt": "2026-10-31T12:46:03.605Z",
+    "id": "runraceusa",
+    "ref": "andy-payne-rt-66-marathon-1-2-marathon-5k-fun-run-and-virtual-run-ok",
+    "url": "https://runsignup.com/Race/OK/Claremore/AndyPayneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.32,
+    "lon": -95.6,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://runsignup.com/Race/OK/Claremore/AndyPayneHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

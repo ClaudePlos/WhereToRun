@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Jackpot Ultras is a ultramarathon. Location: Henderson, United States. Date: 19 February 2027 – 21 February 2027. Distances: 100 Mile Short Course, 100 Mile USATF, 48 h, 12 h, 6 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Henderson, United States, 19 February 2027 – 21 February 2027"
+    },
+    "pl": {
+      "description": "Jackpot Ultras to ultramaraton. Lokalizacja: Henderson, Stany Zjednoczone. Termin: 19 lutego 2027 – 21 lutego 2027. Dystanse: 100 Mile Short Course, 100 Mile USATF, 48 h, 12 h, 6 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Henderson, Stany Zjednoczone, 19 lutego 2027 – 21 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-31T12:45:55.848Z",
+  "date": "2027-02-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 Mile Short Course",
+    "100 Mile USATF",
+    "48 h",
+    "12 h",
+    "6 h"
+  ],
+  "endDate": "2027-02-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Henderson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "Jackpot Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66314",
+  "slug": "jackpot-ultras-us",
+  "source": {
+    "fetchedAt": "2026-10-31T12:46:02.644Z",
+    "id": "ultrasignup",
+    "ref": "4009",
+    "url": "https://ultrasignup.com/register.aspx?did=66314"
+  },
+  "start": {
+    "lat": 36.0362,
+    "lon": -115.054,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://www.aravaiparunning.com/jackpot/"
+}

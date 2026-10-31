@@ -13,8 +13,8 @@
   "date": "2027-02-13",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Nature Park 50K & 25K Trail Race",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19542",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68975",
   "slug": "nature-park-50k-25k-trail-race-us",
   "source": {
-    "fetchedAt": "2026-09-27T12:12:28.115Z",
-    "id": "runraceusa",
-    "ref": "nature-park-50k-25k-trail-race-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=19542"
+    "fetchedAt": "2026-10-31T12:46:02.644Z",
+    "id": "ultrasignup",
+    "ref": "19542",
+    "url": "https://ultrasignup.com/register.aspx?did=68975"
   },
   "start": {
-    "lat": 35.08,
-    "lon": -85.13,
+    "lat": 35.0777,
+    "lon": -85.1256,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-27T12:12:19.053Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19542"
+  "type": "ultra",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://wildtrails.org/"
 }

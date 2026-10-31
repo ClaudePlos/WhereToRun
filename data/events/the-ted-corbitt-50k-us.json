@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Ted Corbitt 50K is a road race. Location: Brooklyn, United States. Date: Sunday, 31 January 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brooklyn, United States, Sunday, 31 January 2027"
+    },
+    "pl": {
+      "description": "The Ted Corbitt 50K to bieg uliczny. Lokalizacja: Brooklyn, Stany Zjednoczone. Termin: niedziela, 31 stycznia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brooklyn, Stany Zjednoczone, niedziela, 31 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-10-31T12:45:55.848Z",
+  "date": "2027-01-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooklyn",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "The Ted Corbitt 50K",
+  "registrationUrl": "https://runsignup.com/Race/NY/Brooklyn/TheTedCorbitt50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-ted-corbitt-50k-us",
+  "source": {
+    "fetchedAt": "2026-10-31T12:46:03.605Z",
+    "id": "runraceusa",
+    "ref": "the-ted-corbitt-50k-ny",
+    "url": "https://runsignup.com/Race/NY/Brooklyn/TheTedCorbitt50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.68,
+    "lon": -73.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://runsignup.com/Race/NY/Brooklyn/TheTedCorbitt50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

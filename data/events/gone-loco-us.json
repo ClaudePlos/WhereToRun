@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Gone Loco is a ultramarathon. Location: Athens, United States. Date: Sunday, 14 February 2027. Distances: 50 km, 17.7 km, 11 Mile Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Athens, United States, Sunday, 14 February 2027"
+    },
+    "pl": {
+      "description": "Gone Loco to ultramaraton. Lokalizacja: Athens, Stany Zjednoczone. Termin: niedziela, 14 lutego 2027. Dystanse: 50 km, 17.7 km, 11 Mile Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Athens, Stany Zjednoczone, niedziela, 14 lutego 2027"
+    }
+  },
+  "createdAt": "2026-10-31T12:45:55.848Z",
+  "date": "2027-02-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "17.7 km",
+    "11 Mile Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Gone Loco",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67912",
+  "slug": "gone-loco-us",
+  "source": {
+    "fetchedAt": "2026-10-31T12:46:02.644Z",
+    "id": "ultrasignup",
+    "ref": "13237",
+    "url": "https://ultrasignup.com/register.aspx?did=67912"
+  },
+  "start": {
+    "lat": 35.4557,
+    "lon": -84.5712,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://www.runeastcoastadventures.com/home"
+}

@@ -13,7 +13,7 @@
   "date": "2027-02-13",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k"
+    "100 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Lake Ray Roberts 100K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21028",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68807",
   "slug": "lake-ray-roberts-100k-us",
   "source": {
-    "fetchedAt": "2026-10-01T13:30:20.519Z",
-    "id": "runraceusa",
-    "ref": "lake-ray-roberts-100k-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=21028"
+    "fetchedAt": "2026-10-31T12:46:02.644Z",
+    "id": "ultrasignup",
+    "ref": "21028",
+    "url": "https://ultrasignup.com/register.aspx?did=68807"
   },
   "start": {
-    "lat": 33.38,
-    "lon": -97.03,
+    "lat": 33.3834,
+    "lon": -97.0318,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-10-01T13:30:11.098Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=21028"
+  "type": "ultra",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://www.texasoutlawrunning.com/roberts100"
 }

@@ -29,17 +29,17 @@
   },
   "manual": false,
   "name": "Novant Health Charlotte Marathon",
-  "registrationUrl": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/NC/Charlotte/NovantHealthCharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "novant-health-charlotte-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "fetchedAt": "2026-10-31T12:46:03.605Z",
     "id": "runraceusa",
     "ref": "novant-health-charlotte-marathon-nc",
-    "url": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/NC/Charlotte/NovantHealthCharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 35.23,
-    "lon": -80.84,
+    "lat": 35.18,
+    "lon": -80.86,
     "name": null,
     "precision": "exact"
   },
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
-  "website": "https://runsignup.com/Race/NC/Charlotte/CharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://runsignup.com/Race/NC/Charlotte/NovantHealthCharlotteMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

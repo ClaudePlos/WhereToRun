@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "great-balloon-chase-5k-10k-1-2-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-10-31T12:46:03.605Z",
     "id": "runraceusa",
     "ref": "great-balloon-chase-5k-10k-1-2-marathon-nm",
     "url": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
   "website": "https://runsignup.com/Race/NM/Albuquerque/GreatBalloonChase?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

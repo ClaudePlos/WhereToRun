@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Great Divide Ultra is a ultramarathon. Location: Divide, United States. Date: Saturday, 5 June 2027. Distances: u100m, u100k, u50k, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Divide, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "The Great Divide Ultra to ultramaraton. Lokalizacja: Divide, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: u100m, u100k, u50k, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Divide, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-10-31T12:45:55.848Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u100k",
+    "u50k",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Divide",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "The Great Divide Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13941",
+  "slug": "the-great-divide-ultra-us",
+  "source": {
+    "fetchedAt": "2026-10-31T12:46:03.605Z",
+    "id": "runraceusa",
+    "ref": "the-great-divide-ultra-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=13941"
+  },
+  "start": {
+    "lat": 38.89,
+    "lon": -105.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13941"
+}
