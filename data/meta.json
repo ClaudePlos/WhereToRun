@@ -1,5 +1,5 @@
 {
-  "added": 11,
+  "added": 0,
   "dryRun": false,
   "eventCount": 2898,
   "geocoding": {
@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-10-31T12:45:55.848Z",
+  "lastRun": "2026-10-31T17:44:22.947Z",
   "skipped": 10,
   "sources": {
     "ai-discovery": {
@@ -34,13 +34,13 @@
     },
     "ultrasignup": {
       "error": null,
-      "fetched": 318
+      "fetched": 317
     },
     "wikidata": {
-      "error": "Wikidata SPARQL returned 504 Gateway Timeout",
+      "error": "Wikidata SPARQL returned 502 Bad Gateway",
       "fetched": 0
     }
   },
-  "unchanged": 1468,
-  "updated": 62
+  "unchanged": 1479,
+  "updated": 61
 }

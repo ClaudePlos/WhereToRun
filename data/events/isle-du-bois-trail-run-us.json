@@ -33,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65409",
   "slug": "isle-du-bois-trail-run-us",
   "source": {
-    "fetchedAt": "2026-10-04T12:31:28.354Z",
+    "fetchedAt": "2026-10-31T17:44:30.027Z",
     "id": "ultrasignup",
     "ref": "15442",
     "url": "https://ultrasignup.com/register.aspx?did=65409"
@@ -49,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-04T12:31:21.092Z",
-  "website": "https://blazetrails.com"
+  "updatedAt": "2026-10-31T17:44:22.947Z",
+  "website": "https://blazetrails.com/isle-du-bois/?utm_source=ultrasignup&utm_medium=referral&utm_campaign=usu-ws-link&utm_content=isle_du_bois"
 }

@@ -10,14 +10,15 @@
     }
   },
   "createdAt": "2026-10-29T13:18:14.753Z",
-  "date": "2027-02-12",
+  "date": "2027-02-13",
   "dateStatus": "confirmed",
   "distances": [
-    "217.3 km",
-    "160.9 km",
-    "100 Mile 5 Person Relay",
-    "100 Mile Ruck Relay",
-    "Friday 4 Mile Run"
+    "80.5 km",
+    "26.2M Sat.",
+    "Half Marathon Ruck Saturday",
+    "13.1M Sat.",
+    "5K Ruck Saturday",
+    "5K Saturday"
   ],
   "endDate": "2027-02-14",
   "featured": false,
@@ -34,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66014",
   "slug": "outlaw-100-oklahoma-us",
   "source": {
-    "fetchedAt": "2026-10-31T12:46:02.644Z",
+    "fetchedAt": "2026-10-31T17:44:30.027Z",
     "id": "ultrasignup",
     "ref": "9615",
     "url": "https://ultrasignup.com/register.aspx?did=66014"
@@ -50,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "updatedAt": "2026-10-31T17:44:22.947Z",
   "website": "https://trailultras.com/welcome/"
 }

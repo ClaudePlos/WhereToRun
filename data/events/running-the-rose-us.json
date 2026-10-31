@@ -34,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66805",
   "slug": "running-the-rose-us",
   "source": {
-    "fetchedAt": "2026-10-23T11:49:18.419Z",
+    "fetchedAt": "2026-10-31T17:44:30.027Z",
     "id": "ultrasignup",
     "ref": "7990",
     "url": "https://ultrasignup.com/register.aspx?did=66805"
@@ -50,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-23T11:49:12.588Z",
-  "website": "http://blazetrails.com/running-the-rose/"
+  "updatedAt": "2026-10-31T17:44:22.947Z",
+  "website": "https://blazetrails.com/running-the-rose/?utm_source=ultrasignup&utm_medium=referral&utm_campaign=usu-ws-link&utm_content=running_the_rose"
 }
