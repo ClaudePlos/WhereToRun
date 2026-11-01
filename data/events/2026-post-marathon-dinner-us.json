@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 Post-Marathon Dinner is a road race. Location: Honolulu, United States. Date: Monday, 14 December 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Honolulu, United States, Monday, 14 December 2026"
+    },
+    "pl": {
+      "description": "2026 Post-Marathon Dinner to bieg uliczny. Lokalizacja: Honolulu, Stany Zjednoczone. Termin: poniedziałek, 14 grudnia 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Honolulu, Stany Zjednoczone, poniedziałek, 14 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-01T13:36:15.331Z",
+  "date": "2026-12-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "HI"
+  },
+  "manual": false,
+  "name": "2026 Post-Marathon Dinner",
+  "registrationUrl": "https://runsignup.com/Race/HI/Honolulu/2026PostMarathonDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2026-post-marathon-dinner-us",
+  "source": {
+    "fetchedAt": "2026-11-01T13:36:24.012Z",
+    "id": "runraceusa",
+    "ref": "2026-post-marathon-dinner-hi",
+    "url": "https://runsignup.com/Race/HI/Honolulu/2026PostMarathonDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 21.3,
+    "lon": -157.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
+  "website": "https://runsignup.com/Race/HI/Honolulu/2026PostMarathonDinner?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

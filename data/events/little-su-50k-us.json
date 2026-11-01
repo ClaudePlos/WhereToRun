@@ -13,7 +13,9 @@
   "date": "2027-02-14",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50K Run",
+    "50K Bike",
+    "50K Ski"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +29,25 @@
   },
   "manual": false,
   "name": "Little Su 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=117",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68228",
   "slug": "little-su-50k-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "little-su-50k-ak",
-    "url": "https://ultrasignup.com/register.aspx?eid=117"
+    "fetchedAt": "2026-11-01T13:36:23.370Z",
+    "id": "ultrasignup",
+    "ref": "117",
+    "url": "https://ultrasignup.com/register.aspx?did=68228"
   },
   "start": {
-    "lat": 61.55,
-    "lon": -149.94,
+    "lat": 61.5504,
+    "lon": -149.938,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=117"
+  "updatedAt": "2026-11-01T13:36:15.331Z",
+  "website": "http://www.susitna100.com/"
 }

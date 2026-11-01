@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Spirit of Kona Triathlons & 5k/10k is a triathlon. Location: Lenoir City, United States. Date: Saturday, 22 May 2027. Distances: other, 5 km, u50k, 42.2 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Lenoir City, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "The Spirit of Kona Triathlons & 5k/10k to triatlon. Lokalizacja: Lenoir City, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: other, 5 km, u50k, 42.2 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Lenoir City, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-01T13:36:15.331Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "u50k",
+    "42.2 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lenoir City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "The Spirit of Kona Triathlons & 5k/10k",
+  "registrationUrl": "https://runsignup.com/Race/TN/LenoirCity/TheSpiritofKonaTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-spirit-of-kona-triathlons-5k-10k-us",
+  "source": {
+    "fetchedAt": "2026-11-01T13:36:24.012Z",
+    "id": "runraceusa",
+    "ref": "the-spirit-of-kona-triathlons-5k-10k-tn",
+    "url": "https://runsignup.com/Race/TN/LenoirCity/TheSpiritofKonaTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.79,
+    "lon": -84.22,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
+  "website": "https://runsignup.com/Race/TN/LenoirCity/TheSpiritofKonaTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

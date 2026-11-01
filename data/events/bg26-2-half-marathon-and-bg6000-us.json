@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-10T11:30:18.139Z",
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bg26-2-half-marathon-and-bg6000-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "fetchedAt": "2026-11-01T13:36:24.012Z",
     "id": "runraceusa",
     "ref": "bg26-2-half-marathon-and-bg6000-ky",
     "url": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
   "website": "https://runsignup.com/Race/KY/BowlingGreen/bg262?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

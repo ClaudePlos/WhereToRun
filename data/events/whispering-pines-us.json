@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Whispering Pines is a ultramarathon. Location: Inverness, United States. Date: Saturday, 6 February 2027. Distances: 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Inverness, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Whispering Pines to ultramaraton. Lokalizacja: Inverness, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Inverness, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-01T13:36:15.331Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Inverness",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Whispering Pines",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65553",
+  "slug": "whispering-pines-us",
+  "source": {
+    "fetchedAt": "2026-11-01T13:36:23.370Z",
+    "id": "ultrasignup",
+    "ref": "3720",
+    "url": "https://ultrasignup.com/register.aspx?did=65553"
+  },
+  "start": {
+    "lat": 28.8397,
+    "lon": -82.3527,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
+  "website": "https://a1ultraevents.wordpress.com/"
+}

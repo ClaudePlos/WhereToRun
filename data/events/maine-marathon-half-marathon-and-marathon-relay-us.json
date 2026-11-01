@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/ME/Portland/MaineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "maine-marathon-half-marathon-and-marathon-relay-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-01T13:36:24.012Z",
     "id": "runraceusa",
     "ref": "maine-marathon-half-marathon-and-marathon-relay-me",
     "url": "https://runsignup.com/Race/ME/Portland/MaineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
   "website": "https://runsignup.com/Race/ME/Portland/MaineMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

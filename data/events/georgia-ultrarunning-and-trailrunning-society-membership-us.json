@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Georgia Ultrarunning and Trailrunning Society Membership is a trail race. Location: Marietta, United States. Date: 1 January 2027 – 31 December 2027. Distances: Membership. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Marietta, United States, 1 January 2027 – 31 December 2027"
+    },
+    "pl": {
+      "description": "Georgia Ultrarunning and Trailrunning Society Membership to bieg trailowy. Lokalizacja: Marietta, Stany Zjednoczone. Termin: 1 stycznia 2027 – 31 grudnia 2027. Dystanse: Membership. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Marietta, Stany Zjednoczone, 1 stycznia 2027 – 31 grudnia 2027"
+    }
+  },
+  "createdAt": "2026-11-01T13:36:15.331Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Membership"
+  ],
+  "endDate": "2027-12-31",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marietta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Georgia Ultrarunning and Trailrunning Society Membership",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69675",
+  "slug": "georgia-ultrarunning-and-trailrunning-society-membership-us",
+  "source": {
+    "fetchedAt": "2026-11-01T13:36:23.370Z",
+    "id": "ultrasignup",
+    "ref": "3559",
+    "url": "https://ultrasignup.com/register.aspx?did=69675"
+  },
+  "start": {
+    "lat": 33.9526,
+    "lon": -84.5496,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "trail",
+    "ultrasignup"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-01T13:36:15.331Z",
+  "website": "http://www.getguts.com/"
+}
