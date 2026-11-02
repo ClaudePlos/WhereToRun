@@ -13,7 +13,7 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Mount Cheaha 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=125",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66259",
   "slug": "mount-cheaha-50k-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "mount-cheaha-50k-al",
-    "url": "https://ultrasignup.com/register.aspx?eid=125"
+    "fetchedAt": "2026-11-02T16:14:01.980Z",
+    "id": "ultrasignup",
+    "ref": "125",
+    "url": "https://ultrasignup.com/register.aspx?did=66259"
   },
   "start": {
-    "lat": 33.48,
-    "lon": -85.81,
+    "lat": 33.4818,
+    "lon": -85.8085,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=125"
+  "type": "ultra",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "http://www.pinhotitrailseries.com"
 }

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pullman Winter Ultras | January is a ultramarathon. Location: Pullman, United States. Date: Saturday, 9 January 2027. Distances: 50 km, 37.5 km, 25 km, 12.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pullman, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "Pullman Winter Ultras | January to ultramaraton. Lokalizacja: Pullman, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 50 km, 37.5 km, 25 km, 12.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pullman, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-02T16:13:53.519Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "37.5 km",
+    "25 km",
+    "12.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pullman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Pullman Winter Ultras | January",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69734",
+  "slug": "pullman-winter-ultras-january-us",
+  "source": {
+    "fetchedAt": "2026-11-02T16:14:01.980Z",
+    "id": "ultrasignup",
+    "ref": "3217",
+    "url": "https://ultrasignup.com/register.aspx?did=69734"
+  },
+  "start": {
+    "lat": 46.7197,
+    "lon": -117.164,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "https://www.palouseroadrunners.org/winter-ultras"
+}

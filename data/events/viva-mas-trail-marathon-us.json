@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Viva Más Trail Marathon is a trail race. Location: Charlottesville, United States. Date: Saturday, 23 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Charlottesville, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Viva Más Trail Marathon to bieg trailowy. Lokalizacja: Charlottesville, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Charlottesville, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-02T16:13:53.519Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Charlottesville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Viva Más Trail Marathon",
+  "registrationUrl": "https://runsignup.com/Race/VA/Charlottesville/VivaMasTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "viva-mas-trail-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-02T16:14:02.576Z",
+    "id": "runraceusa",
+    "ref": "viva-m-s-trail-marathon-va",
+    "url": "https://runsignup.com/Race/VA/Charlottesville/VivaMasTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.03,
+    "lon": -78.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "https://runsignup.com/Race/VA/Charlottesville/VivaMasTrailMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

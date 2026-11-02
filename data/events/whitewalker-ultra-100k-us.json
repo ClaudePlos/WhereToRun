@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "u100k",
-    "u50k"
+    "u50k",
+    "10 km"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "whitewalker-ultra-100k-us",
   "source": {
-    "fetchedAt": "2026-10-06T13:25:38.991Z",
+    "fetchedAt": "2026-11-02T16:14:02.576Z",
     "id": "runraceusa",
     "ref": "whitewalker-ultra-100k-wi",
     "url": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +48,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-06T13:25:30.898Z",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
   "website": "https://runsignup.com/Race/WI/Palmyra/WhitewalkerUltraK?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Psycho Wyco Run Toto Run is a ultramarathon. Location: Kansas City, United States. Date: Saturday, 20 February 2027. Distances: 50 km, 32.2 km, 16.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Kansas City, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Psycho Wyco Run Toto Run to ultramaraton. Lokalizacja: Kansas City, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 50 km, 32.2 km, 16.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Kansas City, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-02T16:13:53.519Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "16.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kansas City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Psycho Wyco Run Toto Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67968",
+  "slug": "psycho-wyco-run-toto-run-us",
+  "source": {
+    "fetchedAt": "2026-11-02T16:14:01.980Z",
+    "id": "ultrasignup",
+    "ref": "112",
+    "url": "https://ultrasignup.com/register.aspx?did=67968"
+  },
+  "start": {
+    "lat": 39.1501,
+    "lon": -94.7895,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "http://wycowolfpack.com/psycho/"
+}

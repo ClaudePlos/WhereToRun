@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Frost or Fog 10-Mile, 1/4 Marathon & 5K is a road race. Location: Chico, United States. Date: Saturday, 16 January 2027. Distances: other, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chico, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Frost or Fog 10-Mile, 1/4 Marathon & 5K to bieg uliczny. Lokalizacja: Chico, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: other, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chico, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-02T16:13:53.519Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chico",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Frost or Fog 10-Mile, 1/4 Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/CA/Chico/FrostorFog10Mile14Marathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "frost-or-fog-10-mile-1-4-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-11-02T16:14:02.576Z",
+    "id": "runraceusa",
+    "ref": "frost-or-fog-10-mile-1-4-marathon-5k-ca",
+    "url": "https://runsignup.com/Race/CA/Chico/FrostorFog10Mile14Marathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.72,
+    "lon": -121.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "https://runsignup.com/Race/CA/Chico/FrostorFog10Mile14Marathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

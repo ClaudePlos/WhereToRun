@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-03",
+  "date": "2027-10-02",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -28,13 +28,13 @@
   },
   "manual": false,
   "name": "Leavenworth Marathon & Half Marathon",
-  "registrationUrl": "https://raceroster.com/events/2026/111151/leavenworth-marathon-and-half-marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/166099/leavenworth-marathon-and-half-marathon",
   "slug": "leavenworth-marathon-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-02T16:14:02.576Z",
     "id": "runraceusa",
     "ref": "leavenworth-marathon-half-marathon-wa",
-    "url": "https://raceroster.com/events/2026/111151/leavenworth-marathon-and-half-marathon"
+    "url": "https://raceroster.com/events/2027/166099/leavenworth-marathon-and-half-marathon"
   },
   "start": {
     "lat": 47.6438,
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
-  "website": "https://raceroster.com/events/2026/111151/leavenworth-marathon-and-half-marathon"
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "https://raceroster.com/events/2027/166099/leavenworth-marathon-and-half-marathon"
 }

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tri Star Triathlons & Duathlons is a triathlon. Location: Knoxville, United States. Date: Saturday, 12 June 2027. Distances: other, u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Knoxville, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "Tri Star Triathlons & Duathlons to triatlon. Lokalizacja: Knoxville, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: other, u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Knoxville, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-02T16:13:53.519Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Knoxville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Tri Star Triathlons & Duathlons",
+  "registrationUrl": "https://runsignup.com/Race/TN/Knoxville/TriSTarSprintOlympicTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "tri-star-triathlons-duathlons-us",
+  "source": {
+    "fetchedAt": "2026-11-02T16:14:02.576Z",
+    "id": "runraceusa",
+    "ref": "tri-star-triathlons-duathlons-tn",
+    "url": "https://runsignup.com/Race/TN/Knoxville/TriSTarSprintOlympicTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.97,
+    "lon": -83.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-11-02T16:13:53.519Z",
+  "website": "https://runsignup.com/Race/TN/Knoxville/TriSTarSprintOlympicTriathlons?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
