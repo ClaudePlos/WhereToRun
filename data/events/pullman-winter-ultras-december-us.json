@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Pullman Winter Ultras | December is a ultramarathon. Location: Pullman, United States. Date: Saturday, 5 December 2026. Distances: 50 km, 37.5 km, 25 km, 12.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pullman, United States, Saturday, 5 December 2026"
+    },
+    "pl": {
+      "description": "Pullman Winter Ultras | December to ultramaraton. Lokalizacja: Pullman, Stany Zjednoczone. Termin: sobota, 5 grudnia 2026. Dystanse: 50 km, 37.5 km, 25 km, 12.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pullman, Stany Zjednoczone, sobota, 5 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-02T22:19:27.272Z",
+  "date": "2026-12-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "37.5 km",
+    "25 km",
+    "12.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pullman",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Pullman Winter Ultras | December",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69732",
+  "slug": "pullman-winter-ultras-december-us",
+  "source": {
+    "fetchedAt": "2026-11-02T22:19:36.021Z",
+    "id": "ultrasignup",
+    "ref": "4047",
+    "url": "https://ultrasignup.com/register.aspx?did=69732"
+  },
+  "start": {
+    "lat": 46.7401,
+    "lon": -117.149,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-02T22:19:27.272Z",
+  "website": "https://www.palouseroadrunners.org/winter-ultras"
+}

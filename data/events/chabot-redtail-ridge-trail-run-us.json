@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Chabot/Redtail Ridge Trail Run is a ultramarathon. Location: Castro Valley, United States. Date: Saturday, 20 February 2027. Distances: 50 km, 35 km, 1, 2 Marathon, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Castro Valley, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Chabot/Redtail Ridge Trail Run to ultramaraton. Lokalizacja: Castro Valley, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 50 km, 35 km, 1, 2 Marathon, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Castro Valley, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-02T22:19:27.272Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "35 km",
+    "1",
+    "2 Marathon",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Castro Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Chabot/Redtail Ridge Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67801",
+  "slug": "chabot-redtail-ridge-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-11-02T22:19:36.021Z",
+    "id": "ultrasignup",
+    "ref": "3210",
+    "url": "https://ultrasignup.com/register.aspx?did=67801"
+  },
+  "start": {
+    "lat": 37.717,
+    "lon": -122.105,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-02T22:19:27.272Z",
+  "website": "https://insidetrail.com/calendar/chabot-redtail-ridge-trail-run/"
+}

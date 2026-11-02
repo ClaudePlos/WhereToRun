@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Beast of Burden - Winter is a ultramarathon. Location: Lockport, United States. Date: Saturday, 20 February 2027. Distances: 160.9 km, 80.5 km, 40.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lockport, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Beast of Burden - Winter to ultramaraton. Lokalizacja: Lockport, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 160.9 km, 80.5 km, 40.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lockport, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-02T22:19:27.272Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km",
+    "40.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lockport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Beast of Burden - Winter",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69698",
+  "slug": "beast-of-burden-winter-us",
+  "source": {
+    "fetchedAt": "2026-11-02T22:19:36.021Z",
+    "id": "ultrasignup",
+    "ref": "2010",
+    "url": "https://ultrasignup.com/register.aspx?did=69698"
+  },
+  "start": {
+    "lat": 43.1852,
+    "lon": -78.6664,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-02T22:19:27.272Z",
+  "website": "http://www.BeastofBurden100.com/"
+}
