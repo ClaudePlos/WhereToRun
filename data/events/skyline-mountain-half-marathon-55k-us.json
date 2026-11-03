@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Skyline Mountain Half, Marathon, 55K is a trail race. Location: Eden, United States. Date: Saturday, 14 August 2027. Distances: u50k, 42.2 km, other, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Eden, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Skyline Mountain Half, Marathon, 55K to bieg trailowy. Lokalizacja: Eden, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50k, 42.2 km, other, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Eden, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-03T14:27:40.266Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Eden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Skyline Mountain Half, Marathon, 55K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3080",
+  "slug": "skyline-mountain-half-marathon-55k-us",
+  "source": {
+    "fetchedAt": "2026-11-03T14:27:48.107Z",
+    "id": "runraceusa",
+    "ref": "skyline-mountain-half-marathon-55k-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=3080"
+  },
+  "start": {
+    "lat": 41.3,
+    "lon": -111.81,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3080"
+}

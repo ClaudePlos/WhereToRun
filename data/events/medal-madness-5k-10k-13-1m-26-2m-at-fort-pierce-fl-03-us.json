@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Medal Madness 5K, 10K, 13.1M &  26.2M at Fort Pierce, FL (03) is a road race. Location: Fort Pierce, United States. Date: Saturday, 16 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Pierce, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Medal Madness 5K, 10K, 13.1M &  26.2M at Fort Pierce, FL (03) to bieg uliczny. Lokalizacja: Fort Pierce, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Pierce, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-03T14:27:40.266Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Pierce",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Medal Madness 5K, 10K, 13.1M &  26.2M at Fort Pierce, FL (03)",
+  "registrationUrl": "https://runsignup.com/Race/FL/FortPierce/Lakewood03?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "medal-madness-5k-10k-13-1m-26-2m-at-fort-pierce-fl-03-us",
+  "source": {
+    "fetchedAt": "2026-11-03T14:27:48.107Z",
+    "id": "runraceusa",
+    "ref": "medal-madness-5k-10k-13-1m-26-2m-at-fort-pierce-fl-03-fl",
+    "url": "https://runsignup.com/Race/FL/FortPierce/Lakewood03?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.54,
+    "lon": -80.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://runsignup.com/Race/FL/FortPierce/Lakewood03?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

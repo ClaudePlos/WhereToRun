@@ -13,8 +13,8 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Angry Tortoise 25K/50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4928",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67104",
   "slug": "angry-tortoise-25k-50k-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "angry-tortoise-25k-50k-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=4928"
+    "fetchedAt": "2026-11-03T14:27:46.977Z",
+    "id": "ultrasignup",
+    "ref": "4928",
+    "url": "https://ultrasignup.com/register.aspx?did=67104"
   },
   "start": {
-    "lat": 30.4,
-    "lon": -81.93,
+    "lat": 30.4007,
+    "lon": -81.9266,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4928"
+  "type": "ultra",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://floridastriders.com/cs/floridastriders/clubRaces.club_races?page_id=33"
 }

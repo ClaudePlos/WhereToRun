@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "The Short's Shortest Marathon is a road race. Location: Elk Rapids, United States. Date: Sunday, 23 May 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Elk Rapids, United States, Sunday, 23 May 2027"
+    },
+    "pl": {
+      "description": "The Short's Shortest Marathon to bieg uliczny. Lokalizacja: Elk Rapids, Stany Zjednoczone. Termin: niedziela, 23 maja 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Elk Rapids, Stany Zjednoczone, niedziela, 23 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-03T14:27:40.266Z",
+  "date": "2027-05-23",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Elk Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "The Short's Shortest Marathon",
+  "registrationUrl": "https://runsignup.com/Race/MI/ElkRapids/TheShortsShortestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-short-s-shortest-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-03T14:27:48.107Z",
+    "id": "runraceusa",
+    "ref": "the-short-s-shortest-marathon-mi",
+    "url": "https://runsignup.com/Race/MI/ElkRapids/TheShortsShortestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.9,
+    "lon": -85.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://runsignup.com/Race/MI/ElkRapids/TheShortsShortestMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

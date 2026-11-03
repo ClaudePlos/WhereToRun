@@ -24,24 +24,24 @@
   "fees": [],
   "links": [],
   "location": {
-    "city": "Freeport",
+    "city": "Surfside Beach",
     "country": "United States",
     "countryCode": "US",
     "region": "TX"
   },
   "manual": false,
   "name": "Gulf Coast Grind",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7921",
+  "registrationUrl": "https://runsignup.com/Race/TX/SurfsideBeach/GulfCoastGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "gulf-coast-grind-us",
   "source": {
-    "fetchedAt": "2026-09-17T17:38:23.476Z",
+    "fetchedAt": "2026-11-03T14:27:48.107Z",
     "id": "runraceusa",
     "ref": "gulf-coast-grind-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=7921"
+    "url": "https://runsignup.com/Race/TX/SurfsideBeach/GulfCoastGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 28.99,
-    "lon": -95.24,
+    "lat": 29.04,
+    "lon": -95.34,
     "name": null,
     "precision": "exact"
   },
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-17T17:38:14.220Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=7921"
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://runsignup.com/Race/TX/SurfsideBeach/GulfCoastGrind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

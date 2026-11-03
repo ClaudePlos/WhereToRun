@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "New England 776 is a road race. Location: North Andover, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — North Andover, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "New England 776 to bieg uliczny. Lokalizacja: North Andover, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — North Andover, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-03T14:27:40.266Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "North Andover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "New England 776",
+  "registrationUrl": "https://raceroster.com/events/2027/113483/new-england-776",
+  "slug": "new-england-776-us",
+  "source": {
+    "fetchedAt": "2026-11-03T14:27:48.107Z",
+    "id": "runraceusa",
+    "ref": "new-england-776-ma",
+    "url": "https://raceroster.com/events/2027/113483/new-england-776"
+  },
+  "start": {
+    "lat": 42.6826,
+    "lon": -71.109,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://raceroster.com/events/2027/113483/new-england-776"
+}

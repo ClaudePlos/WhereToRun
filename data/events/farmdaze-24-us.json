@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Farmdaze 24 is a ultramarathon. Location: Brooklet, United States. Date: Saturday, 20 February 2027. Distances: 24 h, 12 h, 6 h, The 0.0. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brooklet, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Farmdaze 24 to ultramaraton. Lokalizacja: Brooklet, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 24 h, 12 h, 6 h, The 0.0. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brooklet, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-03T14:27:40.266Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "6 h",
+    "The 0.0"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooklet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Farmdaze 24",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66679",
+  "slug": "farmdaze-24-us",
+  "source": {
+    "fetchedAt": "2026-11-03T14:27:46.977Z",
+    "id": "ultrasignup",
+    "ref": "5756",
+    "url": "https://ultrasignup.com/register.aspx?did=66679"
+  },
+  "start": {
+    "lat": 32.3728,
+    "lon": -81.5582,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "https://www.facebook.com/FarmDaze24/"
+}

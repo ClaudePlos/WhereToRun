@@ -13,9 +13,9 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u100k",
-    "u50k",
-    "other"
+    "100 km",
+    "50 km",
+    "35 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Red Dirt Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6015",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65596",
   "slug": "red-dirt-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "red-dirt-ultra-la",
-    "url": "https://ultrasignup.com/register.aspx?eid=6015"
+    "fetchedAt": "2026-11-03T14:27:46.977Z",
+    "id": "ultrasignup",
+    "ref": "6015",
+    "url": "https://ultrasignup.com/register.aspx?did=65596"
   },
   "start": {
-    "lat": 31.48,
-    "lon": -93.1,
+    "lat": 31.4787,
+    "lon": -93.1033,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=6015"
+  "updatedAt": "2026-11-03T14:27:40.266Z",
+  "website": "http://www.secondgrowthrunning.com"
 }
