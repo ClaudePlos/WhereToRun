@@ -13,7 +13,7 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Group Run"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Phoenix Phearsome Phour Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20819",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68074",
   "slug": "phoenix-phearsome-phour-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "phoenix-phearsome-phour-ultra-az",
-    "url": "https://ultrasignup.com/register.aspx?eid=20819"
+    "fetchedAt": "2026-11-04T20:26:18.220Z",
+    "id": "ultrasignup",
+    "ref": "20819",
+    "url": "https://ultrasignup.com/register.aspx?did=68074"
   },
   "start": {
-    "lat": 33.54,
-    "lon": -112,
+    "lat": 33.5354,
+    "lon": -112.002,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=20819"
+  "type": "road",
+  "updatedAt": "2026-11-04T20:26:11.331Z",
+  "website": "https://www.phoenixphearsomephour.com/ultra-route"
 }

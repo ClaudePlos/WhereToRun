@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Bigfoot Snowshoe Festival is a ultramarathon. Location: Midway, United States. Date: Saturday, 30 January 2027. Distances: 50 km, 42.2 km, 25 km, 15 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Midway, United States, Saturday, 30 January 2027"
+    },
+    "pl": {
+      "description": "Bigfoot Snowshoe Festival to ultramaraton. Lokalizacja: Midway, Stany Zjednoczone. Termin: sobota, 30 stycznia 2027. Dystanse: 50 km, 42.2 km, 25 km, 15 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Midway, Stany Zjednoczone, sobota, 30 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T20:26:11.331Z",
+  "date": "2027-01-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "42.2 km",
+    "25 km",
+    "15 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Midway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Bigfoot Snowshoe Festival",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69790",
+  "slug": "bigfoot-snowshoe-festival-us",
+  "source": {
+    "fetchedAt": "2026-11-04T20:26:18.220Z",
+    "id": "ultrasignup",
+    "ref": "104",
+    "url": "https://ultrasignup.com/register.aspx?did=69790"
+  },
+  "start": {
+    "lat": 40.5326,
+    "lon": -111.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-04T20:26:11.331Z",
+  "website": "http://www.squawpeak50.com/"
+}

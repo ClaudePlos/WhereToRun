@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Northwoods Marathon & Half Marathon - Duluth Winte is a road race. Location: Duluth, United States. Date: Saturday, 2 January 2027. Distances: Snowshoe Marathon, 42.2 km, Snowshoe 1, 2 Mar., 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Duluth, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Northwoods Marathon & Half Marathon - Duluth Winte to bieg uliczny. Lokalizacja: Duluth, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: Snowshoe Marathon, 42.2 km, Snowshoe 1, 2 Mar., 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Duluth, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T20:26:11.331Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Snowshoe Marathon",
+    "42.2 km",
+    "Snowshoe 1",
+    "2 Mar.",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Duluth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN"
+  },
+  "manual": false,
+  "name": "Northwoods Marathon & Half Marathon - Duluth Winte",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69796",
+  "slug": "northwoods-marathon-half-marathon-duluth-winte-us",
+  "source": {
+    "fetchedAt": "2026-11-04T20:26:18.220Z",
+    "id": "ultrasignup",
+    "ref": "9691",
+    "url": "https://ultrasignup.com/register.aspx?did=69796"
+  },
+  "start": {
+    "lat": 46.855,
+    "lon": -92.0125,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T20:26:11.331Z",
+  "website": "https://trailrunners.wixsite.com/wintertrailseries"
+}
