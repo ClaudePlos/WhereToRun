@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Viking 5K, 10K, 13.1M & 26.2M at Royal Palm Beach, FL (04) is a road race. Location: Royal Palm Beach, United States. Date: Saturday, 23 January 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Royal Palm Beach, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Viking 5K, 10K, 13.1M & 26.2M at Royal Palm Beach, FL (04) to bieg uliczny. Lokalizacja: Royal Palm Beach, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Royal Palm Beach, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Royal Palm Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Viking 5K, 10K, 13.1M & 26.2M at Royal Palm Beach, FL (04)",
+  "registrationUrl": "https://runsignup.com/Race/FL/RoyalPalmBeach/Viking5K10KMMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "viking-5k-10k-13-1m-26-2m-at-royal-palm-beach-fl-04-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "viking-5k-10k-13-1m-26-2m-at-royal-palm-beach-fl-04-fl",
+    "url": "https://runsignup.com/Race/FL/RoyalPalmBeach/Viking5K10KMMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 26.66,
+    "lon": -80.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/FL/RoyalPalmBeach/Viking5K10KMMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

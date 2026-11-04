@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Squirrel 5K, 10K, 13.1M &  26.2M at Royal Palm Beach, FL (09) is a road race. Location: Royal Palm Beach, United States. Date: Saturday, 27 February 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Royal Palm Beach, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Squirrel 5K, 10K, 13.1M &  26.2M at Royal Palm Beach, FL (09) to bieg uliczny. Lokalizacja: Royal Palm Beach, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Royal Palm Beach, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Royal Palm Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Squirrel 5K, 10K, 13.1M &  26.2M at Royal Palm Beach, FL (09)",
+  "registrationUrl": "https://runsignup.com/Race/FL/RoyalPalmBeach/Squirrel5K10KMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "squirrel-5k-10k-13-1m-26-2m-at-royal-palm-beach-fl-09-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "squirrel-5k-10k-13-1m-26-2m-at-royal-palm-beach-fl-09-fl",
+    "url": "https://runsignup.com/Race/FL/RoyalPalmBeach/Squirrel5K10KMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 26.66,
+    "lon": -80.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/FL/RoyalPalmBeach/Squirrel5K10KMAtRoyalPalmBeachFL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

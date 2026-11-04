@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Fort Wayne Taco 50K is a road race. Location: Fort Wayne, United States. Date: Saturday, 28 November 2026. Distances: u50k, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Wayne, United States, Saturday, 28 November 2026"
+    },
+    "pl": {
+      "description": "Fort Wayne Taco 50K to bieg uliczny. Lokalizacja: Fort Wayne, Stany Zjednoczone. Termin: sobota, 28 listopada 2026. Dystanse: u50k, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Wayne, Stany Zjednoczone, sobota, 28 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2026-11-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Wayne",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "Fort Wayne Taco 50K",
+  "registrationUrl": "https://runsignup.com/Race/IN/FortWayne/FortWayne50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fort-wayne-taco-50k-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "fort-wayne-taco-50k-in",
+    "url": "https://runsignup.com/Race/IN/FortWayne/FortWayne50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.09,
+    "lon": -85.16,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/IN/FortWayne/FortWayne50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

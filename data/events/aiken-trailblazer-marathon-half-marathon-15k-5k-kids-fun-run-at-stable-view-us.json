@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-30T13:10:12.084Z",
-  "date": "2027-04-17",
+  "date": "2027-04-10",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/SC/Aiken/StableViewTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "aiken-trailblazer-marathon-half-marathon-15k-5k-kids-fun-run-at-stable-view-us",
   "source": {
-    "fetchedAt": "2026-10-31T12:46:03.605Z",
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
     "id": "runraceusa",
     "ref": "aiken-trailblazer-marathon-half-marathon-15k-5k-kids-fun-run-at",
     "url": "https://runsignup.com/Race/SC/Aiken/StableViewTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-10-31T12:45:55.848Z",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
   "website": "https://runsignup.com/Race/SC/Aiken/StableViewTrailRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

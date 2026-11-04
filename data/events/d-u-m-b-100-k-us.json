@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "D.U.M.B. 100 K is a road race. Location: Pomona Park, United States. Date: Saturday, 7 November 2026. Distances: 5 km, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pomona Park, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "D.U.M.B. 100 K to bieg uliczny. Lokalizacja: Pomona Park, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 5 km, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pomona Park, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pomona Park",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "D.U.M.B. 100 K",
+  "registrationUrl": "https://runsignup.com/Race/FL/PomonaPark/DUMB100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "d-u-m-b-100-k-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "d-u-m-b-100-k-fl",
+    "url": "https://runsignup.com/Race/FL/PomonaPark/DUMB100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.5,
+    "lon": -81.59,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/FL/PomonaPark/DUMB100Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

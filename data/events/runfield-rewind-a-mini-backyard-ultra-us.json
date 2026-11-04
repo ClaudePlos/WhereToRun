@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Runfield Rewind - A Mini Backyard Ultra is a ultramarathon. Location: Buda, United States. Date: Saturday, 2 January 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Buda, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Runfield Rewind - A Mini Backyard Ultra to ultramaraton. Lokalizacja: Buda, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Buda, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Buda",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Runfield Rewind - A Mini Backyard Ultra",
+  "registrationUrl": "https://runsignup.com/Race/TX/Buda/RunfieldRewind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "runfield-rewind-a-mini-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "runfield-rewind-a-mini-backyard-ultra-tx",
+    "url": "https://runsignup.com/Race/TX/Buda/RunfieldRewind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.09,
+    "lon": -97.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/TX/Buda/RunfieldRewind?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

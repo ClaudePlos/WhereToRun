@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mindy Creek Trail Races is a trail race. Location: St. Croix Falls, United States. Date: Saturday, 28 August 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — St. Croix Falls, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "Mindy Creek Trail Races to bieg trailowy. Lokalizacja: St. Croix Falls, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — St. Croix Falls, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Croix Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Mindy Creek Trail Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12472",
+  "slug": "mindy-creek-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "mindy-creek-trail-races-wi",
+    "url": "https://ultrasignup.com/register.aspx?eid=12472"
+  },
+  "start": {
+    "lat": 45.4,
+    "lon": -92.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=12472"
+}

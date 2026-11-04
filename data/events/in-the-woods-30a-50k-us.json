@@ -13,7 +13,8 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50K Solo",
+    "3-Person Relay"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +28,25 @@
   },
   "manual": false,
   "name": "In the Woods 30A 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15372",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66156",
   "slug": "in-the-woods-30a-50k-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "in-the-woods-30a-50k-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=15372"
+    "fetchedAt": "2026-11-04T14:41:51.170Z",
+    "id": "ultrasignup",
+    "ref": "15372",
+    "url": "https://ultrasignup.com/register.aspx?did=66156"
   },
   "start": {
-    "lat": 30.34,
-    "lon": -86.17,
+    "lat": 30.3359,
+    "lon": -86.1671,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=15372"
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://www.runrotorhead30a.com/in-the-woods-30a-50k"
 }

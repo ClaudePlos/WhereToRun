@@ -27,13 +27,13 @@
   },
   "manual": false,
   "name": "2027 All Day Running Co. Clearwater Marathon & Running Festival",
-  "registrationUrl": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027",
+  "registrationUrl": "http://www.active.com/clearwater-fl/running/distance-running/all-day-running-co-clearwater-marathon-and-running-festival-2027",
   "slug": "2027-all-day-running-co-clearwater-marathon-running-festival-us",
   "source": {
-    "fetchedAt": "2026-09-14T23:07:01.587Z",
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
     "id": "runraceusa",
     "ref": "2027-all-day-running-co-clearwater-marathon-running-festival-fl",
-    "url": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027"
+    "url": "http://www.active.com/clearwater-fl/running/distance-running/all-day-running-co-clearwater-marathon-and-running-festival-2027"
   },
   "start": {
     "lat": 27.96,
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-14T23:06:54.508Z",
-  "website": "http://www.active.com/clearwater-fl/running/distance-running-races/all-day-running-co-clearwater-marathon-and-running-festival-2027"
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "http://www.active.com/clearwater-fl/running/distance-running/all-day-running-co-clearwater-marathon-and-running-festival-2027"
 }

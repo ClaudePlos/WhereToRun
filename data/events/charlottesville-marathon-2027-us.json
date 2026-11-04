@@ -27,13 +27,13 @@
   },
   "manual": false,
   "name": "Charlottesville Marathon 2027",
-  "registrationUrl": "http://www.active.com/charlottesville-va/running/distance-running-races/charlottesville-marathon-2027",
+  "registrationUrl": "http://www.active.com/charlottesville-va/running/distance-running/charlottesville-marathon-2027",
   "slug": "charlottesville-marathon-2027-us",
   "source": {
-    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
     "id": "runraceusa",
     "ref": "charlottesville-marathon-2027-va",
-    "url": "http://www.active.com/charlottesville-va/running/distance-running-races/charlottesville-marathon-2027"
+    "url": "http://www.active.com/charlottesville-va/running/distance-running/charlottesville-marathon-2027"
   },
   "start": {
     "lat": 38.03,
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-17T11:51:05.899Z",
-  "website": "http://www.active.com/charlottesville-va/running/distance-running-races/charlottesville-marathon-2027"
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "http://www.active.com/charlottesville-va/running/distance-running/charlottesville-marathon-2027"
 }

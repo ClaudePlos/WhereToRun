@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Space Pirate 100 is a ultramarathon. Location: Port Canaveral, United States. Date: Saturday, 20 February 2027. Distances: 160.9 km, 100 Mile 3 Person Relay, 80.5 km, 53.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Port Canaveral, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Space Pirate 100 to ultramaraton. Lokalizacja: Port Canaveral, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 160.9 km, 100 Mile 3 Person Relay, 80.5 km, 53.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Port Canaveral, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "100 Mile 3 Person Relay",
+    "80.5 km",
+    "53.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Port Canaveral",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Space Pirate 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65661",
+  "slug": "space-pirate-100-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:51.170Z",
+    "id": "ultrasignup",
+    "ref": "15942",
+    "url": "https://ultrasignup.com/register.aspx?did=65661"
+  },
+  "start": {
+    "lat": 28.3948,
+    "lon": -80.6185,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://www.spacepirate100.com/"
+}

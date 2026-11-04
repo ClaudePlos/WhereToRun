@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Tartarus Backyard Ultra is a ultramarathon. Location: Spokane, United States. Date: Saturday, 14 August 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Spokane, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Tartarus Backyard Ultra to ultramaraton. Lokalizacja: Spokane, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Spokane, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spokane",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Tartarus Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10557",
+  "slug": "tartarus-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "tartarus-backyard-ultra-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=10557"
+  },
+  "start": {
+    "lat": 47.73,
+    "lon": -117.52,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10557"
+}

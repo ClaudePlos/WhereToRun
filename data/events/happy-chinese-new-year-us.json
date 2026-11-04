@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Happy Chinese New Year is a ultramarathon. Location: SAN DIEGO, United States. Date: Saturday, 20 February 2027. Distances: 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — SAN DIEGO, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Happy Chinese New Year to ultramaraton. Lokalizacja: SAN DIEGO, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — SAN DIEGO, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "SAN DIEGO",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Happy Chinese New Year",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66593",
+  "slug": "happy-chinese-new-year-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:51.170Z",
+    "id": "ultrasignup",
+    "ref": "8224",
+    "url": "https://ultrasignup.com/register.aspx?did=66593"
+  },
+  "start": {
+    "lat": 32.941,
+    "lon": -117.136,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://facebook.com/bosd100/"
+}

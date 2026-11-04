@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Team Running Lab Half / Full Marathon Training Group is a road race. Location: Brighton, United States. Date: Monday, 4 January 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Brighton, United States, Monday, 4 January 2027"
+    },
+    "pl": {
+      "description": "Team Running Lab Half / Full Marathon Training Group to bieg uliczny. Lokalizacja: Brighton, Stany Zjednoczone. Termin: poniedziałek, 4 stycznia 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Brighton, Stany Zjednoczone, poniedziałek, 4 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-04T14:41:40.711Z",
+  "date": "2027-01-04",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brighton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Team Running Lab Half / Full Marathon Training Group",
+  "registrationUrl": "https://runsignup.com/Race/MI/Brighton/TeamRunningLabHalfFullMarathonTrainingGroup?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "team-running-lab-half-full-marathon-training-group-us",
+  "source": {
+    "fetchedAt": "2026-11-04T14:41:52.115Z",
+    "id": "runraceusa",
+    "ref": "team-running-lab-half-full-marathon-training-group-mi",
+    "url": "https://runsignup.com/Race/MI/Brighton/TeamRunningLabHalfFullMarathonTrainingGroup?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.54,
+    "lon": -83.78,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://runsignup.com/Race/MI/Brighton/TeamRunningLabHalfFullMarathonTrainingGroup?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

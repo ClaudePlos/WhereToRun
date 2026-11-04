@@ -13,7 +13,7 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Cabin Fever 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13906",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68939",
   "slug": "cabin-fever-50k-us",
   "source": {
-    "fetchedAt": "2026-09-24T11:56:49.985Z",
-    "id": "runraceusa",
-    "ref": "cabin-fever-50k-wv",
-    "url": "https://ultrasignup.com/register.aspx?eid=13906"
+    "fetchedAt": "2026-11-04T14:41:51.170Z",
+    "id": "ultrasignup",
+    "ref": "13906",
+    "url": "https://ultrasignup.com/register.aspx?did=68939"
   },
   "start": {
-    "lat": 37.88,
-    "lon": -81.02,
+    "lat": 37.8776,
+    "lon": -81.0189,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-24T11:56:40.673Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=13906"
+  "type": "ultra",
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://www.rimtoriverendurance.com/cabin-fever-50k"
 }

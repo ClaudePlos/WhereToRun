@@ -13,8 +13,8 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Flat Branch Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14812",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65640",
   "slug": "flat-branch-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "flat-branch-ultra-mo",
-    "url": "https://ultrasignup.com/register.aspx?eid=14812"
+    "fetchedAt": "2026-11-04T14:41:51.170Z",
+    "id": "ultrasignup",
+    "ref": "14812",
+    "url": "https://ultrasignup.com/register.aspx?did=65640"
   },
   "start": {
-    "lat": 38.95,
-    "lon": -92.33,
+    "lat": 38.949,
+    "lon": -92.3331,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14812"
+  "updatedAt": "2026-11-04T14:41:40.711Z",
+  "website": "https://www.haharacingevents.com"
 }
