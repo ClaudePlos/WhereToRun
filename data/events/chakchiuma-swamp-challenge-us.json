@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Chakchiuma Swamp Challenge is a ultramarathon. Location: Grenada, United States. Date: Saturday, 16 January 2027. Distances: 24 h, Am Challenge, Pm Challenge. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Grenada, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Chakchiuma Swamp Challenge to ultramaraton. Lokalizacja: Grenada, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 24 h, Am Challenge, Pm Challenge. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Grenada, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-05T00:53:12.899Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "Am Challenge",
+    "Pm Challenge"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grenada",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Chakchiuma Swamp Challenge",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69779",
+  "slug": "chakchiuma-swamp-challenge-us",
+  "source": {
+    "fetchedAt": "2026-11-05T00:53:19.607Z",
+    "id": "ultrasignup",
+    "ref": "21297",
+    "url": "https://ultrasignup.com/register.aspx?did=69779"
+  },
+  "start": {
+    "lat": 33.7893,
+    "lon": -89.8001,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-05T00:53:12.899Z",
+  "website": "https://www.friends-of-cs.org/"
+}
