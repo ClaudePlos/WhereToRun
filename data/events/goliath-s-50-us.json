@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Goliath's 50 is a ultramarathon. Location: Marble Falls, United States. Date: Saturday, 20 February 2027. Distances: 80.5 km, 50 km, 32.2 km, 16.1 km, 10M Ruck, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marble Falls, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Goliath's 50 to ultramaraton. Lokalizacja: Marble Falls, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 80.5 km, 50 km, 32.2 km, 16.1 km, 10M Ruck, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marble Falls, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "32.2 km",
+    "16.1 km",
+    "10M Ruck",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marble Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Goliath's 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66697",
+  "slug": "goliath-s-50-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:08.743Z",
+    "id": "ultrasignup",
+    "ref": "19801",
+    "url": "https://ultrasignup.com/register.aspx?did=66697"
+  },
+  "start": {
+    "lat": 30.539,
+    "lon": -98.1758,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://www.texasoutlawrunning.com/goliaths-50"
+}

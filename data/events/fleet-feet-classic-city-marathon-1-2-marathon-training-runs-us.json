@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Fleet Feet - Classic City Marathon & 1/2 Marathon Training Runs is a road race. Location: Athens, United States. Date: Saturday, 2 January 2027. Distances: 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Athens, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "Fleet Feet - Classic City Marathon & 1/2 Marathon Training Runs to bieg uliczny. Lokalizacja: Athens, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Athens, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Athens",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "Fleet Feet - Classic City Marathon & 1/2 Marathon Training Runs",
+  "registrationUrl": "https://runsignup.com/Race/GA/Athens/FleetFeetClassicCityMarathonMarathonTrainingRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fleet-feet-classic-city-marathon-1-2-marathon-training-runs-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "fleet-feet-classic-city-marathon-1-2-marathon-training-runs-ga",
+    "url": "https://runsignup.com/Race/GA/Athens/FleetFeetClassicCityMarathonMarathonTrainingRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.95,
+    "lon": -83.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/GA/Athens/FleetFeetClassicCityMarathonMarathonTrainingRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

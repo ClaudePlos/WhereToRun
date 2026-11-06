@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Whidbey Island Marathon is a road race. Location: Oak Harbor, United States. Date: Sunday, 25 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oak Harbor, United States, Sunday, 25 April 2027"
+    },
+    "pl": {
+      "description": "Whidbey Island Marathon to bieg uliczny. Lokalizacja: Oak Harbor, Stany Zjednoczone. Termin: niedziela, 25 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oak Harbor, Stany Zjednoczone, niedziela, 25 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-04-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oak Harbor",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Whidbey Island Marathon",
+  "registrationUrl": "https://runsignup.com/Race/WA/OakHarbor/RunWhidbey?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "whidbey-island-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "whidbey-island-marathon-wa",
+    "url": "https://runsignup.com/Race/WA/OakHarbor/RunWhidbey?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 48.32,
+    "lon": -122.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/WA/OakHarbor/RunWhidbey?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

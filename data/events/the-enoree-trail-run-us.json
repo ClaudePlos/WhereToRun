@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Enoree Trail Run is a ultramarathon. Location: Newberry, United States. Date: Saturday, 20 February 2027. Distances: 160.9 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Newberry, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "The Enoree Trail Run to ultramaraton. Lokalizacja: Newberry, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 160.9 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Newberry, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km",
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Newberry",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "The Enoree Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66221",
+  "slug": "the-enoree-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:08.743Z",
+    "id": "ultrasignup",
+    "ref": "20240",
+    "url": "https://ultrasignup.com/register.aspx?did=66221"
+  },
+  "start": {
+    "lat": 34.2782,
+    "lon": -81.5651,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://www.goattrailrunning.com"
+}

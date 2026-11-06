@@ -13,8 +13,9 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "52 km",
+    "26 km",
+    "13 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "Turquoise Trail Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17938",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68205",
   "slug": "turquoise-trail-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "turquoise-trail-ultra-nm",
-    "url": "https://ultrasignup.com/register.aspx?eid=17938"
+    "fetchedAt": "2026-11-06T14:25:08.743Z",
+    "id": "ultrasignup",
+    "ref": "17938",
+    "url": "https://ultrasignup.com/register.aspx?did=68205"
   },
   "start": {
-    "lat": 35.13,
-    "lon": -106.37,
+    "lat": 35.1293,
+    "lon": -106.366,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17938"
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runningwildevents.com/races/ttu"
 }

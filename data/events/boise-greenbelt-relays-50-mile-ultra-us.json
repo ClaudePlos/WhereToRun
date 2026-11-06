@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Boise Greenbelt Relays & 50 Mile Ultra is a ultramarathon. Location: Boise, United States. Date: Saturday, 24 April 2027. Distances: u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Boise, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Boise Greenbelt Relays & 50 Mile Ultra to ultramaraton. Lokalizacja: Boise, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Boise, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boise",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "Boise Greenbelt Relays & 50 Mile Ultra",
+  "registrationUrl": "https://runsignup.com/Race/ID/Boise/BoiseRiverGreenbeltRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "boise-greenbelt-relays-50-mile-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "boise-greenbelt-relays-50-mile-ultra-id",
+    "url": "https://runsignup.com/Race/ID/Boise/BoiseRiverGreenbeltRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.59,
+    "lon": -116.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/ID/Boise/BoiseRiverGreenbeltRelays?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Napa Valley Trail Marathon, Half Marathon, 10K & 5K is a trail race. Location: Calistoga, United States. Date: Saturday, 20 March 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Trail race — Calistoga, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "2027 Napa Valley Trail Marathon, Half Marathon, 10K & 5K to bieg trailowy. Lokalizacja: Calistoga, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg trailowy — Calistoga, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Calistoga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 Napa Valley Trail Marathon, Half Marathon, 10K & 5K",
+  "registrationUrl": "https://raceroster.com/events/2027/141029/2027-napa-valley-trail-marathon-half-marathon-10k-and-5k",
+  "slug": "2027-napa-valley-trail-marathon-half-marathon-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "2027-napa-valley-trail-marathon-half-marathon-10k-5k-ca",
+    "url": "https://raceroster.com/events/2027/141029/2027-napa-valley-trail-marathon-half-marathon-10k-and-5k"
+  },
+  "start": {
+    "lat": 38.5823,
+    "lon": -122.5814,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://raceroster.com/events/2027/141029/2027-napa-valley-trail-marathon-half-marathon-10k-and-5k"
+}

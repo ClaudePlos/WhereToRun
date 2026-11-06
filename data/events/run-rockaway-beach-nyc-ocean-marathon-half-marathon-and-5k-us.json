@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON, HALF MARATHON AND 5K is a road race. Location: Far Rockaway, United States. Date: Saturday, 6 November 2027. Distances: 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Far Rockaway, United States, Saturday, 6 November 2027"
+    },
+    "pl": {
+      "description": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON, HALF MARATHON AND 5K to bieg uliczny. Lokalizacja: Far Rockaway, Stany Zjednoczone. Termin: sobota, 6 listopada 2027. Dystanse: 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Far Rockaway, Stany Zjednoczone, sobota, 6 listopada 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Far Rockaway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "RUN ROCKAWAY BEACH NYC OCEAN MARATHON, HALF MARATHON AND 5K",
+  "registrationUrl": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-rockaway-beach-nyc-ocean-marathon-half-marathon-and-5k-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "run-rockaway-beach-nyc-ocean-marathon-half-marathon-and-5k-ny",
+    "url": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.61,
+    "lon": -73.82,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/NY/FarRockaway/THEOTHERNYCMARATHONROCKAWAYOCEANMARATHON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

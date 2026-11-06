@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Fall Creek Falls Half Iron, Olympic & Calfkiller Sprint Triathlons is a triathlon. Location: Spencer, United States. Date: Saturday, 21 August 2027. Distances: ultra, u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Triathlon — Spencer, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Fall Creek Falls Half Iron, Olympic & Calfkiller Sprint Triathlons to triatlon. Lokalizacja: Spencer, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: ultra, u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Triatlon — Spencer, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra",
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spencer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Fall Creek Falls Half Iron, Olympic & Calfkiller Sprint Triathlons",
+  "registrationUrl": "https://runsignup.com/Race/TN/Spencer/TriFallCreekFallsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fall-creek-falls-half-iron-olympic-calfkiller-sprint-triathlons-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "fall-creek-falls-half-iron-olympic-calfkiller-sprint-triathlons-tn",
+    "url": "https://runsignup.com/Race/TN/Spencer/TriFallCreekFallsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.73,
+    "lon": -85.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "triathlon"
+  ],
+  "type": "triathlon",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/TN/Spencer/TriFallCreekFallsTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

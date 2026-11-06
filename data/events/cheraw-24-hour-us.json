@@ -13,7 +13,7 @@
   "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Cheraw 24 Hour"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Cheraw 24 Hour",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16625",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68087",
   "slug": "cheraw-24-hour-us",
   "source": {
-    "fetchedAt": "2026-09-15T17:41:03.109Z",
-    "id": "runraceusa",
-    "ref": "cheraw-24-hour-sc",
-    "url": "https://ultrasignup.com/register.aspx?eid=16625"
+    "fetchedAt": "2026-11-06T14:25:08.743Z",
+    "id": "ultrasignup",
+    "ref": "16625",
+    "url": "https://ultrasignup.com/register.aspx?did=68087"
   },
   "start": {
-    "lat": 34.64,
-    "lon": -79.93,
+    "lat": 34.6407,
+    "lon": -79.9272,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-15T17:40:53.953Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16625"
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://www.facebook.com/p/Mountaineer-Rumble-100063462642786/"
 }

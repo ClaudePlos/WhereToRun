@@ -13,9 +13,12 @@
   "date": "2027-02-26",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Double ANVIL Relay - 3 Person Team",
+    "Double ANVIL Relay - 2 Person Team",
+    "Double ANVIL Triathlon",
+    "Do"
   ],
-  "endDate": null,
+  "endDate": "2027-02-27",
   "featured": false,
   "fees": [],
   "links": [],
@@ -27,25 +30,25 @@
   },
   "manual": false,
   "name": "Florida ANVIL Ultra Triathlon",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19410",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66633",
   "slug": "florida-anvil-ultra-triathlon-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "florida-anvil-ultra-triathlon-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=19410"
+    "fetchedAt": "2026-11-06T14:25:08.743Z",
+    "id": "ultrasignup",
+    "ref": "19410",
+    "url": "https://ultrasignup.com/register.aspx?did=66633"
   },
   "start": {
-    "lat": 28.44,
-    "lon": -81.72,
+    "lat": 28.4411,
+    "lon": -81.7246,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "triathlon"
+    "triathlon",
+    "ultrasignup"
   ],
   "type": "triathlon",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19410"
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://anvil-ultratri.com/2026-florida-anvil"
 }

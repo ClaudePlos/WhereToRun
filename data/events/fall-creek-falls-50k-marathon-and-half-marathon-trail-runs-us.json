@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Fall Creek Falls 50K, Marathon and Half Marathon Trail Runs is a trail race. Location: Spencer, United States. Date: Saturday, 20 March 2027. Distances: u50k, 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Spencer, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Fall Creek Falls 50K, Marathon and Half Marathon Trail Runs to bieg trailowy. Lokalizacja: Spencer, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: u50k, 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Spencer, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Spencer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Fall Creek Falls 50K, Marathon and Half Marathon Trail Runs",
+  "registrationUrl": "https://runsignup.com/Race/TN/Spencer/FallCreekFalls50KHalfMarathonTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fall-creek-falls-50k-marathon-and-half-marathon-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "fall-creek-falls-50k-marathon-and-half-marathon-trail-runs-tn",
+    "url": "https://runsignup.com/Race/TN/Spencer/FallCreekFalls50KHalfMarathonTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.73,
+    "lon": -85.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/TN/Spencer/FallCreekFalls50KHalfMarathonTrailRuns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

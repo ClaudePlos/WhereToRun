@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "3 State Marathon - 26.2 - 13.1 - 10K - 5K is a road race. Location: Mesquite, United States. Date: Saturday, 6 November 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Mesquite, United States, Saturday, 6 November 2027"
+    },
+    "pl": {
+      "description": "3 State Marathon - 26.2 - 13.1 - 10K - 5K to bieg uliczny. Lokalizacja: Mesquite, Stany Zjednoczone. Termin: sobota, 6 listopada 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Mesquite, Stany Zjednoczone, sobota, 6 listopada 2027"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2027-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mesquite",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NV"
+  },
+  "manual": false,
+  "name": "3 State Marathon - 26.2 - 13.1 - 10K - 5K",
+  "registrationUrl": "https://runsignup.com/Race/NV/Mesquite/3StateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "3-state-marathon-26-2-13-1-10k-5k-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "3-state-marathon-26-2-13-1-10k-5k-nv",
+    "url": "https://runsignup.com/Race/NV/Mesquite/3StateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.81,
+    "lon": -114.12,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/NV/Mesquite/3StateMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

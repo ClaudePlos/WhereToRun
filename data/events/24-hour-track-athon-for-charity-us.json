@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "24 Hour Track-athon For Charity is a road race. Location: Morgantown, United States. Date: Saturday, 12 December 2026. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Morgantown, United States, Saturday, 12 December 2026"
+    },
+    "pl": {
+      "description": "24 Hour Track-athon For Charity to bieg uliczny. Lokalizacja: Morgantown, Stany Zjednoczone. Termin: sobota, 12 grudnia 2026. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Morgantown, Stany Zjednoczone, sobota, 12 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-06T14:24:58.922Z",
+  "date": "2026-12-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Morgantown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "24 Hour Track-athon For Charity",
+  "registrationUrl": "https://runsignup.com/Race/WV/Morgantown/24hourtrackforcharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "24-hour-track-athon-for-charity-us",
+  "source": {
+    "fetchedAt": "2026-11-06T14:25:09.318Z",
+    "id": "runraceusa",
+    "ref": "24-hour-track-athon-for-charity-wv",
+    "url": "https://runsignup.com/Race/WV/Morgantown/24hourtrackforcharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.65,
+    "lon": -79.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-06T14:24:58.922Z",
+  "website": "https://runsignup.com/Race/WV/Morgantown/24hourtrackforcharity?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
