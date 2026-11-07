@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Saint Marys Lake Trail Series is a ultramarathon. Location: Leonardtown, United States. Date: Saturday, 27 February 2027. Distances: 50 km, 34 km, 17 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Leonardtown, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Saint Marys Lake Trail Series to ultramaraton. Lokalizacja: Leonardtown, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 50 km, 34 km, 17 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Leonardtown, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "34 km",
+    "17 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Leonardtown",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "Saint Marys Lake Trail Series",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68835",
+  "slug": "saint-marys-lake-trail-series-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "17319",
+    "url": "https://ultrasignup.com/register.aspx?did=68835"
+  },
+  "start": {
+    "lat": 38.2508,
+    "lon": -76.5423,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.facebook.com/Saint.Marys.Lake.Trail.Series/"
+}

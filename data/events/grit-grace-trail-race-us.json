@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Grit & Grace Trail Race is a ultramarathon. Location: Reidsville, United States. Date: Saturday, 27 February 2027. Distances: 12 h, 6H Ruck. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Reidsville, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Grit & Grace Trail Race to ultramaraton. Lokalizacja: Reidsville, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 12 h, 6H Ruck. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Reidsville, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6H Ruck"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Reidsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Grit & Grace Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65784",
+  "slug": "grit-grace-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "19063",
+    "url": "https://ultrasignup.com/register.aspx?did=65784"
+  },
+  "start": {
+    "lat": 36.2651,
+    "lon": -79.7081,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "http://www.dirty-soles.com/"
+}

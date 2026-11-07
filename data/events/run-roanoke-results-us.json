@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Roanoke Results is a road race. Location: Roanoke, United States. Date: Saturday, 7 November 2026. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Roanoke, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Run Roanoke Results to bieg uliczny. Lokalizacja: Roanoke, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Roanoke, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Roanoke",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Run Roanoke Results",
+  "registrationUrl": "https://runsignup.com/Race/VA/Roanoke/RunRoanokeResults?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "run-roanoke-results-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:27.207Z",
+    "id": "runraceusa",
+    "ref": "run-roanoke-results-va",
+    "url": "https://runsignup.com/Race/VA/Roanoke/RunRoanokeResults?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.35,
+    "lon": -79.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://runsignup.com/Race/VA/Roanoke/RunRoanokeResults?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

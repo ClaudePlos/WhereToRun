@@ -13,13 +13,16 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "u50m",
-    "u50k",
-    "other",
-    "ultra",
-    "21.1 km"
+    "160.9 km",
+    "100 km",
+    "80.5 km",
+    "50 km",
+    "30 km",
+    "24 h",
+    "24 hour relay",
+    "21.1 km",
+    "12 h",
+    "12 hour relay"
   ],
   "endDate": null,
   "featured": false,
@@ -33,25 +36,25 @@
   },
   "manual": false,
   "name": "Will Rogers 24 Hour/12 Hours/6 Hour",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19727",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65779",
   "slug": "will-rogers-24-hour-12-hours-6-hour-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "will-rogers-24-hour-12-hours-6-hour-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=19727"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "19727",
+    "url": "https://ultrasignup.com/register.aspx?did=65779"
   },
   "start": {
-    "lat": 34.05,
-    "lon": -118.55,
+    "lat": 34.0467,
+    "lon": -118.546,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19727"
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.khraces.com/"
 }

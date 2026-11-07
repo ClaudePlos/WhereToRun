@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
-    "21.1 km"
+    "1",
+    "2 Marathon"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "The Ellerbe Marathon and Half Marathon",
-  "registrationUrl": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68564",
   "slug": "the-ellerbe-marathon-and-half-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
-    "id": "runraceusa",
-    "ref": "the-ellerbe-marathon-and-half-marathon-nc",
-    "url": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "5988",
+    "url": "https://ultrasignup.com/register.aspx?did=68564"
   },
   "start": {
-    "lat": 35.09,
-    "lon": -79.75,
+    "lat": 35.0713,
+    "lon": -79.7614,
     "name": null,
     "precision": "exact"
   },
   "tags": [
     "road",
-    "runraceusa"
+    "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
-  "website": "https://runsignup.com/Race/NC/Ellerbe/TheEllerbeMarathonandHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://theboogieraces.com/ellerbemarathon"
 }

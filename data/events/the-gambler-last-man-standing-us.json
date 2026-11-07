@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Gambler Last Man Standing is a road race. Location: Pelham, United States. Date: Saturday, 27 February 2027. Distances: Last Man Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Pelham, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "The Gambler Last Man Standing to bieg uliczny. Lokalizacja: Pelham, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: Last Man Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Pelham, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Man Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pelham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "The Gambler Last Man Standing",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66135",
+  "slug": "the-gambler-last-man-standing-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "19132",
+    "url": "https://ultrasignup.com/register.aspx?did=66135"
+  },
+  "start": {
+    "lat": 33.35,
+    "lon": -86.7275,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.facebook.com/events/951391997028929"
+}

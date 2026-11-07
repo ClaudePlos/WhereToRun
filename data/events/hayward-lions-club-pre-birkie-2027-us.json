@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Hayward Lions Club Pre-Birkie 2027 is a road race. Location: Hayward, United States. Date: Saturday, 13 February 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hayward, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Hayward Lions Club Pre-Birkie 2027 to bieg uliczny. Lokalizacja: Hayward, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hayward, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hayward",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Hayward Lions Club Pre-Birkie 2027",
+  "registrationUrl": "https://runsignup.com/Race/WI/Hayward/HaywardLionsClubPreBirkie2021?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "hayward-lions-club-pre-birkie-2027-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:27.207Z",
+    "id": "runraceusa",
+    "ref": "hayward-lions-club-pre-birkie-2027-wi",
+    "url": "https://runsignup.com/Race/WI/Hayward/HaywardLionsClubPreBirkie2021?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.96,
+    "lon": -91.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://runsignup.com/Race/WI/Hayward/HaywardLionsClubPreBirkie2021?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

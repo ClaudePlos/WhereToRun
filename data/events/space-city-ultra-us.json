@@ -13,42 +13,43 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other",
+    "50 km",
+    "25 km",
     "10 km",
-    "5 km"
+    "5 km",
+    "5k kids registration"
   ],
   "endDate": null,
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Sugar Land",
+    "city": "Sugarland",
     "country": "United States",
     "countryCode": "US",
     "region": "TX"
   },
   "manual": false,
   "name": "Space City Ultra",
-  "registrationUrl": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66546",
   "slug": "space-city-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "space-city-ultra-tx",
-    "url": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "20347",
+    "url": "https://ultrasignup.com/register.aspx?did=66546"
   },
   "start": {
-    "lat": 29.58,
-    "lon": -95.61,
+    "lat": 29.5677,
+    "lon": -95.6589,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://runsignup.com/Race/TX/SugarLand/SpaceCityUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.riseracingco.com/space-city-ultra"
 }

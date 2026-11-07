@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "All Day at Holloway is a ultramarathon. Location: Lakeland, United States. Date: Saturday, 27 February 2027. Distances: 50 km, 50k RELAY, 30 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lakeland, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "All Day at Holloway to ultramaraton. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 50 km, 50k RELAY, 30 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lakeland, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "50k RELAY",
+    "30 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "All Day at Holloway",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67713",
+  "slug": "all-day-at-holloway-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "18821",
+    "url": "https://ultrasignup.com/register.aspx?did=67713"
+  },
+  "start": {
+    "lat": 28.0079,
+    "lon": -81.9114,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://facebook.com/events/s/all-day-holloway-10k-30k-50k/1596778787691994/"
+}

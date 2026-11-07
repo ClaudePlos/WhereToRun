@@ -13,9 +13,10 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k",
-    "other"
+    "80.5 km",
+    "50 km",
+    "30 km",
+    "15 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +30,25 @@
   },
   "manual": false,
   "name": "Moab Red Hot Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=119",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65912",
   "slug": "moab-red-hot-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "moab-red-hot-ultra-ut",
-    "url": "https://ultrasignup.com/register.aspx?eid=119"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "119",
+    "url": "https://ultrasignup.com/register.aspx?did=65912"
   },
   "start": {
-    "lat": 38.6,
-    "lon": -109.81,
+    "lat": 38.6005,
+    "lon": -109.814,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=119"
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.madmooseevents.com/moab-red-hot"
 }

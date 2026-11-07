@@ -13,7 +13,7 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Taco Bell 50K Knoxville",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19739",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65733",
   "slug": "taco-bell-50k-knoxville-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "taco-bell-50k-knoxville-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=19739"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "19739",
+    "url": "https://ultrasignup.com/register.aspx?did=65733"
   },
   "start": {
-    "lat": 35.95,
-    "lon": -83.96,
+    "lat": 35.955,
+    "lon": -83.9555,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19739"
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://thelongrun865.com/knoxville-taco-bell-50k"
 }

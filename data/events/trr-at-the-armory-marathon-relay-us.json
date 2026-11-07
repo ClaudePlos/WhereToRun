@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "TRR at the Armory Marathon Relay is a road race. Location: New York, United States. Date: Tuesday, 27 April 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — New York, United States, Tuesday, 27 April 2027"
+    },
+    "pl": {
+      "description": "TRR at the Armory Marathon Relay to bieg uliczny. Lokalizacja: New York, Stany Zjednoczone. Termin: wtorek, 27 kwietnia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — New York, Stany Zjednoczone, wtorek, 27 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-04-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "TRR at the Armory Marathon Relay",
+  "registrationUrl": "https://runsignup.com/Race/NY/NewYork/ArmoryMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "trr-at-the-armory-marathon-relay-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:27.207Z",
+    "id": "runraceusa",
+    "ref": "trr-at-the-armory-marathon-relay-ny",
+    "url": "https://runsignup.com/Race/NY/NewYork/ArmoryMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.84,
+    "lon": -73.94,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://runsignup.com/Race/NY/NewYork/ArmoryMarathonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

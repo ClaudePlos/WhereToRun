@@ -10,13 +10,14 @@
     }
   },
   "createdAt": "2026-10-31T12:45:55.848Z",
-  "date": "2027-02-20",
+  "date": "2027-02-19",
   "dateStatus": "confirmed",
   "distances": [
-    "160.9 km",
-    "100 km",
-    "80.5 km",
-    "24 h"
+    "100 Mile Short Course",
+    "100 Mile USATF",
+    "48 h",
+    "12 h",
+    "6 h"
   ],
   "endDate": "2027-02-21",
   "featured": false,
@@ -33,7 +34,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66314",
   "slug": "jackpot-ultras-us",
   "source": {
-    "fetchedAt": "2026-11-07T00:06:10.794Z",
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
     "id": "ultrasignup",
     "ref": "4009",
     "url": "https://ultrasignup.com/register.aspx?did=66314"
@@ -49,6 +50,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-07T00:06:03.807Z",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
   "website": "https://www.aravaiparunning.com/jackpot/"
 }

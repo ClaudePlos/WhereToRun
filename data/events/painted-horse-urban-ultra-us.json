@@ -13,8 +13,8 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "55 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Painted Horse Urban Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12697",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68310",
   "slug": "painted-horse-urban-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-15T22:52:36.847Z",
-    "id": "runraceusa",
-    "ref": "painted-horse-urban-ultra-fl",
-    "url": "https://ultrasignup.com/register.aspx?eid=12697"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "12697",
+    "url": "https://ultrasignup.com/register.aspx?did=68310"
   },
   "start": {
-    "lat": 29.11,
-    "lon": -82.1,
+    "lat": 29.1053,
+    "lon": -82.0955,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-15T22:52:27.272Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=12697"
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "http://facebook.com/PaintedHorseUrbanUltra"
 }

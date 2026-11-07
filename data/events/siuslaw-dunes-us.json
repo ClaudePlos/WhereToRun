@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Siuslaw Dunes is a ultramarathon. Location: Florence, United States. Date: Saturday, 27 February 2027. Distances: 50 km, 32.2 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Florence, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Siuslaw Dunes to ultramaraton. Lokalizacja: Florence, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 50 km, 32.2 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Florence, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32.2 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Florence",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Siuslaw Dunes",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68560",
+  "slug": "siuslaw-dunes-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "10725",
+    "url": "https://ultrasignup.com/register.aspx?did=68560"
+  },
+  "start": {
+    "lat": 43.9265,
+    "lon": -124.101,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.daybreakracing.com/siuslaw-dunes"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Sam's Last Stand is a ultramarathon. Location: Cleveland, United States. Date: Saturday, 27 February 2027. Distances: 154.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cleveland, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Sam's Last Stand to ultramaraton. Lokalizacja: Cleveland, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 154.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cleveland, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "154.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cleveland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Sam's Last Stand",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68015",
+  "slug": "sam-s-last-stand-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "19440",
+    "url": "https://ultrasignup.com/register.aspx?did=68015"
+  },
+  "start": {
+    "lat": 30.5386,
+    "lon": -95.7848,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.avastrails.com/"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Run Lovit is a ultramarathon. Location: Hot Springs, United States. Date: 27 February 2027 – 28 February 2027. Distances: 50 km, 160.9 km, 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hot Springs, United States, 27 February 2027 – 28 February 2027"
+    },
+    "pl": {
+      "description": "Run Lovit to ultramaraton. Lokalizacja: Hot Springs, Stany Zjednoczone. Termin: 27 lutego 2027 – 28 lutego 2027. Dystanse: 50 km, 160.9 km, 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hot Springs, Stany Zjednoczone, 27 lutego 2027 – 28 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "160.9 km",
+    "100 km"
+  ],
+  "endDate": "2027-02-28",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hot Springs",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Run Lovit",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65744",
+  "slug": "run-lovit-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "4580",
+    "url": "https://ultrasignup.com/register.aspx?did=65744"
+  },
+  "start": {
+    "lat": 34.5733,
+    "lon": -93.4321,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://runlovit.com/"
+}

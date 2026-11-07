@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-10T17:00:18.063Z",
-  "date": "2026-11-01",
+  "date": "2027-11-07",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "transportation-to-nyc-marathon-start-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "fetchedAt": "2026-11-07T13:16:27.207Z",
     "id": "runraceusa",
     "ref": "transportation-to-nyc-marathon-start-nj",
     "url": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
   "website": "https://runsignup.com/Race/NJ/Rahway/Bus2Marathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

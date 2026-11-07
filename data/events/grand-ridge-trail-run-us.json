@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Grand Ridge Trail Run is a trail race. Location: Issaquah, United States. Date: Saturday, 7 November 2026. Distances: other, 21.1 km, 42.2 km, u50k, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Issaquah, United States, Saturday, 7 November 2026"
+    },
+    "pl": {
+      "description": "Grand Ridge Trail Run to bieg trailowy. Lokalizacja: Issaquah, Stany Zjednoczone. Termin: sobota, 7 listopada 2026. Dystanse: other, 21.1 km, 42.2 km, u50k, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Issaquah, Stany Zjednoczone, sobota, 7 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2026-11-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "21.1 km",
+    "42.2 km",
+    "u50k",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Issaquah",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Grand Ridge Trail Run",
+  "registrationUrl": "https://runsignup.com/Race/WA/Issaquah/GrandRidgeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "grand-ridge-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:27.207Z",
+    "id": "runraceusa",
+    "ref": "grand-ridge-trail-run-wa",
+    "url": "https://runsignup.com/Race/WA/Issaquah/GrandRidgeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 47.5,
+    "lon": -122.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://runsignup.com/Race/WA/Issaquah/GrandRidgeTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

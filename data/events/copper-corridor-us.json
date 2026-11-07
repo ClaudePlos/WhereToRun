@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Copper Corridor is a ultramarathon. Location: Superior, United States. Date: Saturday, 27 February 2027. Distances: 50 km, 32 km, 17 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Superior, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "Copper Corridor to ultramaraton. Lokalizacja: Superior, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Dystanse: 50 km, 32 km, 17 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Superior, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-07T13:16:17.906Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "32 km",
+    "17 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Superior",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Copper Corridor",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66369",
+  "slug": "copper-corridor-us",
+  "source": {
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "12391",
+    "url": "https://ultrasignup.com/register.aspx?did=66369"
+  },
+  "start": {
+    "lat": 33.2935,
+    "lon": -111.097,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "https://www.aravaiparunning.com/copper/"
+}

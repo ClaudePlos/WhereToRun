@@ -13,7 +13,7 @@
   "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "21.1 km",
     "10 km",
     "5 km"
@@ -30,25 +30,25 @@
   },
   "manual": false,
   "name": "Salmon Falls 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=4351",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69660",
   "slug": "salmon-falls-50k-us",
   "source": {
-    "fetchedAt": "2026-10-29T13:18:24.874Z",
-    "id": "runraceusa",
-    "ref": "salmon-falls-50k-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=4351"
+    "fetchedAt": "2026-11-07T13:16:26.706Z",
+    "id": "ultrasignup",
+    "ref": "4351",
+    "url": "https://ultrasignup.com/register.aspx?did=69660"
   },
   "start": {
-    "lat": 38.72,
-    "lon": -121.1,
+    "lat": 38.7188,
+    "lon": -121.101,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-10-29T13:18:14.753Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=4351"
+  "type": "ultra",
+  "updatedAt": "2026-11-07T13:16:17.906Z",
+  "website": "http://www.salmonfalls50k.com"
 }
