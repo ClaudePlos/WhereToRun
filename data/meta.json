@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-11-07T18:02:57.305Z",
+  "lastRun": "2026-11-07T23:37:29.235Z",
   "skipped": 9,
   "sources": {
     "ai-discovery": {
@@ -41,6 +41,6 @@
       "fetched": 0
     }
   },
-  "unchanged": 1491,
-  "updated": 57
+  "unchanged": 1492,
+  "updated": 56
 }
