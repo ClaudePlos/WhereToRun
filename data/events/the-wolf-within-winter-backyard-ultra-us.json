@@ -26,11 +26,11 @@
     "region": "MN"
   },
   "manual": false,
-  "name": "The Wolf Within winter Backyard Ultra",
+  "name": "The Wolf Within Winter Backyard Ultra",
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=69439",
   "slug": "the-wolf-within-winter-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-11-03T20:06:46.966Z",
+    "fetchedAt": "2026-11-08T13:37:35.872Z",
     "id": "ultrasignup",
     "ref": "21204",
     "url": "https://ultrasignup.com/register.aspx?did=69439"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-11-03T20:06:38.404Z",
+  "updatedAt": "2026-11-08T13:37:25.474Z",
   "website": "http://www.northiswithin.com"
 }

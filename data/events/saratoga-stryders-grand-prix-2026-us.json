@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Saratoga Stryders Grand Prix 2026 is a road race. Location: Saratoga Springs Area, United States. Date: Thursday, 26 November 2026. Distances: 5 km, 42.2 km, 10 km, u50m, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Saratoga Springs Area, United States, Thursday, 26 November 2026"
+    },
+    "pl": {
+      "description": "Saratoga Stryders Grand Prix 2026 to bieg uliczny. Lokalizacja: Saratoga Springs Area, Stany Zjednoczone. Termin: czwartek, 26 listopada 2026. Dystanse: 5 km, 42.2 km, 10 km, u50m, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Saratoga Springs Area, Stany Zjednoczone, czwartek, 26 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-08T13:37:25.474Z",
+  "date": "2026-11-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "42.2 km",
+    "10 km",
+    "u50m",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saratoga Springs Area",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Saratoga Stryders Grand Prix 2026",
+  "registrationUrl": "https://runsignup.com/Race/NY/SaratogaSpringsArea/SaratogaStrydersGrandPrix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "saratoga-stryders-grand-prix-2026-us",
+  "source": {
+    "fetchedAt": "2026-11-08T13:37:36.441Z",
+    "id": "runraceusa",
+    "ref": "saratoga-stryders-grand-prix-2026-ny",
+    "url": "https://runsignup.com/Race/NY/SaratogaSpringsArea/SaratogaStrydersGrandPrix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.07,
+    "lon": -73.74,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-08T13:37:25.474Z",
+  "website": "https://runsignup.com/Race/NY/SaratogaSpringsArea/SaratogaStrydersGrandPrix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

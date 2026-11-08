@@ -15,14 +15,14 @@
   "distances": [
     "u100p",
     "u100m",
-    "u100k",
     "u50m",
     "u50k",
     "42.2 km",
     "21.1 km",
     "5 km",
     "other",
-    "10 km"
+    "10 km",
+    "u100k"
   ],
   "endDate": null,
   "featured": false,
@@ -39,7 +39,7 @@
   "registrationUrl": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "lost-pines-endurance-fest-5k-to-250k-us",
   "source": {
-    "fetchedAt": "2026-09-14T18:39:09.659Z",
+    "fetchedAt": "2026-11-08T13:37:36.441Z",
     "id": "runraceusa",
     "ref": "lost-pines-endurance-fest-5k-to-250k-tx",
     "url": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -55,6 +55,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-14T18:39:01.162Z",
+  "updatedAt": "2026-11-08T13:37:25.474Z",
   "website": "https://runsignup.com/Race/TX/Bastrop/LostPinesEnduranceChallenge?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
