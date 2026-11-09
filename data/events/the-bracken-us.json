@@ -32,14 +32,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66952",
   "slug": "the-bracken-us",
   "source": {
-    "fetchedAt": "2026-09-30T12:46:03.236Z",
+    "fetchedAt": "2026-11-09T22:59:32.910Z",
     "id": "ultrasignup",
     "ref": "20454",
     "url": "https://ultrasignup.com/register.aspx?did=66952"
   },
   "start": {
-    "lat": 35.2334,
-    "lon": -82.7343,
+    "lat": 35.2422,
+    "lon": -82.7552,
     "name": null,
     "precision": "exact"
   },
@@ -48,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-30T12:45:58.942Z",
+  "updatedAt": "2026-11-09T22:59:24.593Z",
   "website": "http://dirtywolfracing.com"
 }
