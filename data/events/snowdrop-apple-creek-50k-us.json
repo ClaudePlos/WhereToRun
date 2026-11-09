@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Snowdrop Apple Creek 50k is a road race. Location: Appleton, United States. Date: Saturday, 22 May 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Appleton, United States, Saturday, 22 May 2027"
+    },
+    "pl": {
+      "description": "Snowdrop Apple Creek 50k to bieg uliczny. Lokalizacja: Appleton, Stany Zjednoczone. Termin: sobota, 22 maja 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Appleton, Stany Zjednoczone, sobota, 22 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-09T16:37:07.399Z",
+  "date": "2027-05-22",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Appleton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "Snowdrop Apple Creek 50k",
+  "registrationUrl": "https://runsignup.com/Race/WI/Appleton/SnowdropAppleCreek50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "snowdrop-apple-creek-50k-us",
+  "source": {
+    "fetchedAt": "2026-11-09T16:37:15.016Z",
+    "id": "runraceusa",
+    "ref": "snowdrop-apple-creek-50k-wi",
+    "url": "https://runsignup.com/Race/WI/Appleton/SnowdropAppleCreek50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.35,
+    "lon": -88.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-09T16:37:07.399Z",
+  "website": "https://runsignup.com/Race/WI/Appleton/SnowdropAppleCreek50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

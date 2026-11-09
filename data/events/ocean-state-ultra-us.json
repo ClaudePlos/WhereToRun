@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ocean State Ultra is a ultramarathon. Location: West Greenwich, United States. Date: Saturday, 21 August 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — West Greenwich, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Ocean State Ultra to ultramaraton. Lokalizacja: West Greenwich, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — West Greenwich, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-09T16:37:07.399Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "West Greenwich",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "RI"
+  },
+  "manual": false,
+  "name": "Ocean State Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=18282",
+  "slug": "ocean-state-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-09T16:37:15.016Z",
+    "id": "runraceusa",
+    "ref": "ocean-state-ultra-ri",
+    "url": "https://ultrasignup.com/register.aspx?eid=18282"
+  },
+  "start": {
+    "lat": 41.64,
+    "lon": -71.58,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-09T16:37:07.399Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=18282"
+}

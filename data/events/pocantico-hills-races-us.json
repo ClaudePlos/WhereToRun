@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T11:31:46.015Z",
-  "date": "2026-11-07",
+  "date": "2027-11-06",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/NY/Tarrytown/PocanticoHillsRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "pocantico-hills-races-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "fetchedAt": "2026-11-09T16:37:15.016Z",
     "id": "runraceusa",
     "ref": "pocantico-hills-races-ny",
     "url": "https://runsignup.com/Race/NY/Tarrytown/PocanticoHillsRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "updatedAt": "2026-11-09T16:37:07.399Z",
   "website": "https://runsignup.com/Race/NY/Tarrytown/PocanticoHillsRaces?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

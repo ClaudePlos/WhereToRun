@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Whiterock Ultra is a ultramarathon. Location: Coon Rapids, United States. Date: Saturday, 24 July 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Coon Rapids, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Whiterock Ultra to ultramaraton. Lokalizacja: Coon Rapids, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Coon Rapids, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-09T16:37:07.399Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coon Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Whiterock Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=10134",
+  "slug": "whiterock-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-09T16:37:15.016Z",
+    "id": "runraceusa",
+    "ref": "whiterock-ultra-ia",
+    "url": "https://ultrasignup.com/register.aspx?eid=10134"
+  },
+  "start": {
+    "lat": 41.82,
+    "lon": -94.65,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-09T16:37:07.399Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=10134"
+}
