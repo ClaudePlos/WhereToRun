@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Endure Better Backyard Ultra Training Run is a road race. Location: Lakeland, United States. Date: Sunday, 6 December 2026. Distances: 6H Training Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Lakeland, United States, Sunday, 6 December 2026"
+    },
+    "pl": {
+      "description": "Endure Better Backyard Ultra Training Run to bieg uliczny. Lokalizacja: Lakeland, Stany Zjednoczone. Termin: niedziela, 6 grudnia 2026. Dystanse: 6H Training Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Lakeland, Stany Zjednoczone, niedziela, 6 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-10T20:28:01.821Z",
+  "date": "2026-12-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "6H Training Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lakeland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Endure Better Backyard Ultra Training Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69820",
+  "slug": "endure-better-backyard-ultra-training-run-us",
+  "source": {
+    "fetchedAt": "2026-11-10T20:28:10.215Z",
+    "id": "ultrasignup",
+    "ref": "21309",
+    "url": "https://ultrasignup.com/register.aspx?did=69820"
+  },
+  "start": {
+    "lat": 27.9275,
+    "lon": -81.96,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-10T20:28:01.821Z",
+  "website": "http://www.endurebetter.com"
+}

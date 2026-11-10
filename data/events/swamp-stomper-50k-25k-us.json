@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Swamp Stomper 50k/25k is a ultramarathon. Location: Millington, United States. Date: Saturday, 16 January 2027. Distances: 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Millington, United States, Saturday, 16 January 2027"
+    },
+    "pl": {
+      "description": "Swamp Stomper 50k/25k to ultramaraton. Lokalizacja: Millington, Stany Zjednoczone. Termin: sobota, 16 stycznia 2027. Dystanse: 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Millington, Stany Zjednoczone, sobota, 16 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-10T20:28:01.821Z",
+  "date": "2027-01-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Millington",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Swamp Stomper 50k/25k",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69915",
+  "slug": "swamp-stomper-50k-25k-us",
+  "source": {
+    "fetchedAt": "2026-11-10T20:28:10.215Z",
+    "id": "ultrasignup",
+    "ref": "101",
+    "url": "https://ultrasignup.com/register.aspx?did=69915"
+  },
+  "start": {
+    "lat": 35.3061,
+    "lon": -90.0674,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-10T20:28:01.821Z",
+  "website": "https://ultrasignup.com/register.aspx?did=146438"
+}
