@@ -13,7 +13,7 @@
   "date": "2027-03-05",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "Last Person Standing"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "Queeny Backyard Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13361",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65919",
   "slug": "queeny-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "queeny-backyard-ultra-mo",
-    "url": "https://ultrasignup.com/register.aspx?eid=13361"
+    "fetchedAt": "2026-11-10T15:01:38.287Z",
+    "id": "ultrasignup",
+    "ref": "13361",
+    "url": "https://ultrasignup.com/register.aspx?did=65919"
   },
   "start": {
-    "lat": 38.6,
-    "lon": -90.49,
+    "lat": 38.6044,
+    "lon": -90.4947,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "road",
+    "ultrasignup"
   ],
-  "type": "ultra",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=13361"
+  "type": "road",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
+  "website": "https://www.terraintrailrunners.com/queeny-backyard-ultra.html"
 }

@@ -13,7 +13,8 @@
   "date": "2027-03-13",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "ultra",
+    "other"
   ],
   "endDate": null,
   "featured": false,
@@ -30,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/MO/Columbia/DoHardThingsShamruckRunBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "do-hard-things-shamruck-run-backyard-ultra-us",
   "source": {
-    "fetchedAt": "2026-10-22T12:04:33.260Z",
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
     "id": "runraceusa",
     "ref": "do-hard-things-shamruck-run-backyard-ultra-mo",
     "url": "https://runsignup.com/Race/MO/Columbia/DoHardThingsShamruckRunBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +47,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-22T12:04:23.999Z",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
   "website": "https://runsignup.com/Race/MO/Columbia/DoHardThingsShamruckRunBackyardUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

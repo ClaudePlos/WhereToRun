@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2 Person Relay is a road race. Location: Boston, United States. Date: Saturday, 21 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Boston, United States, Saturday, 21 November 2026"
+    },
+    "pl": {
+      "description": "2 Person Relay to bieg uliczny. Lokalizacja: Boston, Stany Zjednoczone. Termin: sobota, 21 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Boston, Stany Zjednoczone, sobota, 21 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-10T15:01:29.297Z",
+  "date": "2026-11-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Boston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA"
+  },
+  "manual": false,
+  "name": "2 Person Relay",
+  "registrationUrl": "https://runsignup.com/Race/MA/Boston/2PersonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2-person-relay-us",
+  "source": {
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
+    "id": "runraceusa",
+    "ref": "2-person-relay-ma",
+    "url": "https://runsignup.com/Race/MA/Boston/2PersonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.36,
+    "lon": -71.03,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
+  "website": "https://runsignup.com/Race/MA/Boston/2PersonRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

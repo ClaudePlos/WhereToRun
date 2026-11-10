@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T11:33:01.537Z",
-  "date": "2026-10-17",
+  "date": "2027-10-16",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "tackle-the-trail-tm-us",
   "source": {
-    "fetchedAt": "2026-09-09T11:33:09.746Z",
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
     "id": "runraceusa",
     "ref": "tackle-the-trail-tm-ct",
     "url": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-09T11:33:01.537Z",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
   "website": "https://runsignup.com/Race/CT/Northeast/TackletheTrail?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

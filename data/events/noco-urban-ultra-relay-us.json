@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "u50m",
-    "u100m"
+    "u100m",
+    "u50k"
   ],
   "endDate": null,
   "featured": false,
@@ -27,11 +28,11 @@
     "region": "CO"
   },
   "manual": false,
-  "name": "NoCo Urban Ultra & Relay",
+  "name": "NOCO Urban Ultra & Relay",
   "registrationUrl": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "noco-urban-ultra-relay-us",
   "source": {
-    "fetchedAt": "2026-09-17T22:50:49.577Z",
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
     "id": "runraceusa",
     "ref": "noco-urban-ultra-relay-co",
     "url": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +48,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-17T22:50:40.759Z",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
   "website": "https://runsignup.com/Race/CO/Bellvue/NOCOUrbanUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

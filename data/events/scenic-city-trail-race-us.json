@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Scenic City Trail Race is a trail race. Location: Chattanooga, United States. Date: Saturday, 15 May 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Chattanooga, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Scenic City Trail Race to bieg trailowy. Lokalizacja: Chattanooga, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Chattanooga, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-10T15:01:29.297Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chattanooga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Scenic City Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2524",
+  "slug": "scenic-city-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
+    "id": "runraceusa",
+    "ref": "scenic-city-trail-race-tn",
+    "url": "https://ultrasignup.com/register.aspx?eid=2524"
+  },
+  "start": {
+    "lat": 35.04,
+    "lon": -85.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2524"
+}

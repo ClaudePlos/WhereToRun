@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "2026 College Station Marathon Deferral is a road race. Location: College Station, United States. Date: Sunday, 13 December 2026. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — College Station, United States, Sunday, 13 December 2026"
+    },
+    "pl": {
+      "description": "2026 College Station Marathon Deferral to bieg uliczny. Lokalizacja: College Station, Stany Zjednoczone. Termin: niedziela, 13 grudnia 2026. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — College Station, Stany Zjednoczone, niedziela, 13 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-10T15:01:29.297Z",
+  "date": "2026-12-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "College Station",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "2026 College Station Marathon Deferral",
+  "registrationUrl": "https://raceroster.com/events/2026/166629/2026-college-station-marathon-deferral",
+  "slug": "2026-college-station-marathon-deferral-us",
+  "source": {
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
+    "id": "runraceusa",
+    "ref": "2026-college-station-marathon-deferral-tx",
+    "url": "https://raceroster.com/events/2026/166629/2026-college-station-marathon-deferral"
+  },
+  "start": {
+    "lat": 30.6,
+    "lon": -96.31,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
+  "website": "https://raceroster.com/events/2026/166629/2026-college-station-marathon-deferral"
+}

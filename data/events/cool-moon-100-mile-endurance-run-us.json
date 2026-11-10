@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Cool Moon 100 Mile Endurance Run is a road race. Location: Cool, United States. Date: Saturday, 12 June 2027. Distances: u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cool, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "Cool Moon 100 Mile Endurance Run to bieg uliczny. Lokalizacja: Cool, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cool, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-10T15:01:29.297Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cool",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Cool Moon 100 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2169",
+  "slug": "cool-moon-100-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-11-10T15:01:38.919Z",
+    "id": "runraceusa",
+    "ref": "cool-moon-100-mile-endurance-run-ca",
+    "url": "https://ultrasignup.com/register.aspx?eid=2169"
+  },
+  "start": {
+    "lat": 38.89,
+    "lon": -121.02,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-10T15:01:29.297Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=2169"
+}
