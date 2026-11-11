@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Moab Run the Rocks is a ultramarathon. Location: Moab, United States. Date: 5 March 2027 – 7 March 2027. Distances: Full Pint, 77.2 km, Half Pint, 59.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Moab, United States, 5 March 2027 – 7 March 2027"
+    },
+    "pl": {
+      "description": "Moab Run the Rocks to ultramaraton. Lokalizacja: Moab, Stany Zjednoczone. Termin: 5 marca 2027 – 7 marca 2027. Dystanse: Full Pint, 77.2 km, Half Pint, 59.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Moab, Stany Zjednoczone, 5 marca 2027 – 7 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-11T20:12:20.278Z",
+  "date": "2027-03-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Full Pint",
+    "77.2 km",
+    "Half Pint",
+    "59.5 km"
+  ],
+  "endDate": "2027-03-07",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Moab",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Moab Run the Rocks",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67492",
+  "slug": "moab-run-the-rocks-us",
+  "source": {
+    "fetchedAt": "2026-11-11T20:12:26.679Z",
+    "id": "ultrasignup",
+    "ref": "18741",
+    "url": "https://ultrasignup.com/register.aspx?did=67492"
+  },
+  "start": {
+    "lat": 38.6358,
+    "lon": -109.805,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-11T20:12:20.278Z",
+  "website": "https://www.moabruntherocks.com/"
+}
