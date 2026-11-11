@@ -10,12 +10,13 @@
     }
   },
   "createdAt": "2026-09-10T17:00:18.063Z",
-  "date": "2026-11-01",
+  "date": "2027-11-07",
   "dateStatus": "confirmed",
   "distances": [
-    "10 km",
+    "42.2 km",
     "21.1 km",
-    "42.2 km"
+    "10 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -32,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "we-got-your-six-running-festival-us",
   "source": {
-    "fetchedAt": "2026-09-10T17:00:29.573Z",
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
     "id": "runraceusa",
     "ref": "we-got-your-six-running-festival-md",
     "url": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T17:00:18.063Z",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
   "website": "https://runsignup.com/Race/MD/WhitePlains/Wegotyoursix?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

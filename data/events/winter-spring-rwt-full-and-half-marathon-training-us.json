@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Winter/Spring RWT Full and Half Marathon Training is a road race. Location: Tulsa, United States. Date: Saturday, 19 December 2026. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Tulsa, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Winter/Spring RWT Full and Half Marathon Training to bieg uliczny. Lokalizacja: Tulsa, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Tulsa, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-11T14:33:06.132Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tulsa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Winter/Spring RWT Full and Half Marathon Training",
+  "registrationUrl": "https://runsignup.com/Race/OK/Tulsa/WinterSpringRWTTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "winter-spring-rwt-full-and-half-marathon-training-us",
+  "source": {
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
+    "id": "runraceusa",
+    "ref": "winter-spring-rwt-full-and-half-marathon-training-ok",
+    "url": "https://runsignup.com/Race/OK/Tulsa/WinterSpringRWTTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.09,
+    "lon": -95.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://runsignup.com/Race/OK/Tulsa/WinterSpringRWTTraining?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

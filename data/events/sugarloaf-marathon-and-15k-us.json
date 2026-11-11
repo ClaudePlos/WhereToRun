@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Sugarloaf Marathon and 15K is a road race. Location: Carrabassett Valley, United States. Date: Sunday, 16 May 2027. Distances: 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Carrabassett Valley, United States, Sunday, 16 May 2027"
+    },
+    "pl": {
+      "description": "Sugarloaf Marathon and 15K to bieg uliczny. Lokalizacja: Carrabassett Valley, Stany Zjednoczone. Termin: niedziela, 16 maja 2027. Dystanse: 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Carrabassett Valley, Stany Zjednoczone, niedziela, 16 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-11T14:33:06.132Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Carrabassett Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "Sugarloaf Marathon and 15K",
+  "registrationUrl": "https://runsignup.com/Race/ME/CarrabassettValley/sugarloafmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sugarloaf-marathon-and-15k-us",
+  "source": {
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
+    "id": "runraceusa",
+    "ref": "sugarloaf-marathon-and-15k-me",
+    "url": "https://runsignup.com/Race/ME/CarrabassettValley/sugarloafmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 44.99,
+    "lon": -70.18,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://runsignup.com/Race/ME/CarrabassettValley/sugarloafmarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

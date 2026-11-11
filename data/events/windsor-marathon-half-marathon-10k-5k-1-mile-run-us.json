@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "windsor-marathon-half-marathon-10k-5k-1-mile-run-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
     "id": "runraceusa",
     "ref": "windsor-marathon-half-marathon-10k-5k-1-mile-run-co",
     "url": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
   "website": "https://runsignup.com/Race/CO/Windsor/WindsorColoradoRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

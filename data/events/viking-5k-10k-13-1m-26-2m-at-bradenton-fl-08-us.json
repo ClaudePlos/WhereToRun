@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Viking 5K, 10K, 13.1M, & 26.2M at Bradenton, FL (08) is a road race. Location: Bradenton, United States. Date: Saturday, 20 February 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bradenton, United States, Saturday, 20 February 2027"
+    },
+    "pl": {
+      "description": "Viking 5K, 10K, 13.1M, & 26.2M at Bradenton, FL (08) to bieg uliczny. Lokalizacja: Bradenton, Stany Zjednoczone. Termin: sobota, 20 lutego 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bradenton, Stany Zjednoczone, sobota, 20 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-11T14:33:06.132Z",
+  "date": "2027-02-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bradenton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Viking 5K, 10K, 13.1M, & 26.2M at Bradenton, FL (08)",
+  "registrationUrl": "https://runsignup.com/Race/FL/Bradenton/Bradenton2242024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "viking-5k-10k-13-1m-26-2m-at-bradenton-fl-08-us",
+  "source": {
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
+    "id": "runraceusa",
+    "ref": "viking-5k-10k-13-1m-26-2m-at-bradenton-fl-08-fl",
+    "url": "https://runsignup.com/Race/FL/Bradenton/Bradenton2242024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.5,
+    "lon": -82.41,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://runsignup.com/Race/FL/Bradenton/Bradenton2242024?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

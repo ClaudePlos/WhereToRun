@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 International Marathons Semper Fi & America's Fund Team is a road race. Location: Oceanside, United States. Date: Friday, 1 January 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oceanside, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "2027 International Marathons Semper Fi & America's Fund Team to bieg uliczny. Lokalizacja: Oceanside, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oceanside, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-11T14:33:06.132Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oceanside",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "2027 International Marathons Semper Fi & America's Fund Team",
+  "registrationUrl": "https://runsignup.com/Race/CA/Oceanside/InternationalMarathonsSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-international-marathons-semper-fi-america-s-fund-team-us",
+  "source": {
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
+    "id": "runraceusa",
+    "ref": "2027-international-marathons-semper-fi-america-s-fund-team-ca",
+    "url": "https://runsignup.com/Race/CA/Oceanside/InternationalMarathonsSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 33.24,
+    "lon": -117.3,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://runsignup.com/Race/CA/Oceanside/InternationalMarathonsSemperFiAmericaSFundTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

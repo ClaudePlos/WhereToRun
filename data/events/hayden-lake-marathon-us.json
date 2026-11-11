@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T17:15:45.729Z",
-  "date": "2026-10-10",
+  "date": "2027-10-09",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "hayden-lake-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
     "id": "runraceusa",
     "ref": "hayden-lake-marathon-id",
     "url": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
   "website": "https://runsignup.com/Race/ID/HaydenLake/HaydenLakeMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

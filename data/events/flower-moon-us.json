@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Flower Moon is a road race. Location: Bartlesville, United States. Date: Saturday, 15 May 2027. Distances: u50m, 42.2 km, 21.1 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Bartlesville, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Flower Moon to bieg uliczny. Lokalizacja: Bartlesville, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: u50m, 42.2 km, 21.1 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Bartlesville, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-11T14:33:06.132Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bartlesville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Flower Moon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=12254",
+  "slug": "flower-moon-us",
+  "source": {
+    "fetchedAt": "2026-11-11T14:33:15.904Z",
+    "id": "runraceusa",
+    "ref": "flower-moon-ok",
+    "url": "https://ultrasignup.com/register.aspx?eid=12254"
+  },
+  "start": {
+    "lat": 36.72,
+    "lon": -96.17,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=12254"
+}

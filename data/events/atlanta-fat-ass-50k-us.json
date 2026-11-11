@@ -13,8 +13,8 @@
   "date": "2027-01-10",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Atlanta Fat Ass 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=2122",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65708",
   "slug": "atlanta-fat-ass-50k-us",
   "source": {
-    "fetchedAt": "2026-09-14T18:39:09.659Z",
-    "id": "runraceusa",
-    "ref": "atlanta-fat-ass-50k-ga",
-    "url": "https://ultrasignup.com/register.aspx?eid=2122"
+    "fetchedAt": "2026-11-11T14:33:15.119Z",
+    "id": "ultrasignup",
+    "ref": "2122",
+    "url": "https://ultrasignup.com/register.aspx?did=65708"
   },
   "start": {
-    "lat": 33.75,
-    "lon": -84.63,
+    "lat": 33.7512,
+    "lon": -84.6311,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-14T18:39:01.162Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=2122"
+  "type": "ultra",
+  "updatedAt": "2026-11-11T14:33:06.132Z",
+  "website": "https://www.getguts.com/race/atlanta-fat-ass"
 }
