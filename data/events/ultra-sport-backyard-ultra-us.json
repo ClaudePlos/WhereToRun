@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Sport - Backyard Ultra is a road race. Location: Hemet, United States. Date: Saturday, 19 December 2026. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Hemet, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Ultra Sport - Backyard Ultra to bieg uliczny. Lokalizacja: Hemet, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Hemet, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-12T01:53:38.563Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hemet",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Ultra Sport - Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69848",
+  "slug": "ultra-sport-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-12T01:53:47.554Z",
+    "id": "ultrasignup",
+    "ref": "21320",
+    "url": "https://ultrasignup.com/register.aspx?did=69848"
+  },
+  "start": {
+    "lat": 33.7373,
+    "lon": -117.085,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-12T01:53:38.563Z",
+  "website": "https://ultrasportsathletes.com/backyard-ultra"
+}
