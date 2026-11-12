@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "VICTORY LANE BACKYARD ULTRA is a ultramarathon. Location: Bussey, United States. Date: Saturday, 28 August 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bussey, United States, Saturday, 28 August 2027"
+    },
+    "pl": {
+      "description": "VICTORY LANE BACKYARD ULTRA to ultramaraton. Lokalizacja: Bussey, Stany Zjednoczone. Termin: sobota, 28 sierpnia 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bussey, Stany Zjednoczone, sobota, 28 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-08-28",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bussey",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "VICTORY LANE BACKYARD ULTRA",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19849",
+  "slug": "victory-lane-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "victory-lane-backyard-ultra-ia",
+    "url": "https://ultrasignup.com/register.aspx?eid=19849"
+  },
+  "start": {
+    "lat": 41.18,
+    "lon": -92.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19849"
+}

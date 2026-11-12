@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Old Pueblo Endurance Runs is a ultramarathon. Location: Sonoita, United States. Date: Saturday, 6 March 2027. Distances: 50 km, 80.5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Sonoita, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Old Pueblo Endurance Runs to ultramaraton. Lokalizacja: Sonoita, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 50 km, 80.5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Sonoita, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "80.5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sonoita",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Old Pueblo Endurance Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67497",
+  "slug": "old-pueblo-endurance-runs-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:01.998Z",
+    "id": "ultrasignup",
+    "ref": "133",
+    "url": "https://ultrasignup.com/register.aspx?did=67497"
+  },
+  "start": {
+    "lat": 31.7387,
+    "lon": -110.687,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "http://www.oldpueblo50.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hot Rod Ultra is a ultramarathon. Location: Bowling Green, United States. Date: Saturday, 25 September 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bowling Green, United States, Saturday, 25 September 2027"
+    },
+    "pl": {
+      "description": "Hot Rod Ultra to ultramaraton. Lokalizacja: Bowling Green, Stany Zjednoczone. Termin: sobota, 25 września 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bowling Green, Stany Zjednoczone, sobota, 25 września 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-09-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bowling Green",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Hot Rod Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21336",
+  "slug": "hot-rod-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "hot-rod-ultra-ky",
+    "url": "https://ultrasignup.com/register.aspx?eid=21336"
+  },
+  "start": {
+    "lat": 37,
+    "lon": -86.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21336"
+}

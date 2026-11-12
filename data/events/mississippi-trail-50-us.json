@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Mississippi Trail 50 is a ultramarathon. Location: Laurel, United States. Date: Saturday, 6 March 2027. Distances: 80.5 km, 50 km, 20 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Laurel, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Mississippi Trail 50 to ultramaraton. Lokalizacja: Laurel, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 80.5 km, 50 km, 20 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Laurel, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "20 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Laurel",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MS"
+  },
+  "manual": false,
+  "name": "Mississippi Trail 50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66318",
+  "slug": "mississippi-trail-50-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:01.998Z",
+    "id": "ultrasignup",
+    "ref": "1421",
+    "url": "https://ultrasignup.com/register.aspx?did=66318"
+  },
+  "start": {
+    "lat": 31.5687,
+    "lon": -88.9873,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "http://www.ms50.com/"
+}

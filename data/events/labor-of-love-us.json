@@ -13,7 +13,7 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
+    "50 km",
     "42.2 km",
     "21.1 km",
     "10 km",
@@ -31,25 +31,25 @@
   },
   "manual": false,
   "name": "Labor of Love",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1639",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68140",
   "slug": "labor-of-love-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "labor-of-love-nv",
-    "url": "https://ultrasignup.com/register.aspx?eid=1639"
+    "fetchedAt": "2026-11-12T15:25:01.998Z",
+    "id": "ultrasignup",
+    "ref": "1639",
+    "url": "https://ultrasignup.com/register.aspx?did=68140"
   },
   "start": {
-    "lat": 36.02,
-    "lon": -115.56,
+    "lat": 36.0185,
+    "lon": -115.561,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=1639"
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://www.aravaiparunning.com/labor-of-love/"
 }

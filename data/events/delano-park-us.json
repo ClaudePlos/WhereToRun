@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Delano Park is a road race. Location: Decatur, United States. Date: Saturday, 6 March 2027. Distances: 50 Mile Solo, 12 Hour Solo, 4 Person Relay, 3 Person Relay, 2 Person Relay. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Decatur, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Delano Park to bieg uliczny. Lokalizacja: Decatur, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 50 Mile Solo, 12 Hour Solo, 4 Person Relay, 3 Person Relay, 2 Person Relay. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Decatur, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 Mile Solo",
+    "12 Hour Solo",
+    "4 Person Relay",
+    "3 Person Relay",
+    "2 Person Relay"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Decatur",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Delano Park",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69056",
+  "slug": "delano-park-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:01.998Z",
+    "id": "ultrasignup",
+    "ref": "1423",
+    "url": "https://ultrasignup.com/register.aspx?did=69056"
+  },
+  "start": {
+    "lat": 34.5973,
+    "lon": -86.9754,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "http://www.delano12.com/"
+}

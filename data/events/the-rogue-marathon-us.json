@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "The Rogue Marathon is a road race. Location: Ashland, United States. Date: Saturday, 9 October 2027. Distances: 42.2 km, 21.1 km, 10 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ashland, United States, Saturday, 9 October 2027"
+    },
+    "pl": {
+      "description": "The Rogue Marathon to bieg uliczny. Lokalizacja: Ashland, Stany Zjednoczone. Termin: sobota, 9 października 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ashland, Stany Zjednoczone, sobota, 9 października 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-10-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ashland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "The Rogue Marathon",
+  "registrationUrl": "https://runsignup.com/Race/OR/Ashland/TRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-rogue-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "the-rogue-marathon-or",
+    "url": "https://runsignup.com/Race/OR/Ashland/TRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 42.19,
+    "lon": -122.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://runsignup.com/Race/OR/Ashland/TRMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

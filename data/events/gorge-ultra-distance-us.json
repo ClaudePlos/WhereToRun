@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Gorge Ultra Distance is a ultramarathon. Location: Stevenson, United States. Date: Sunday, 11 July 2027. Distances: other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Stevenson, United States, Sunday, 11 July 2027"
+    },
+    "pl": {
+      "description": "Gorge Ultra Distance to ultramaraton. Lokalizacja: Stevenson, Stany Zjednoczone. Termin: niedziela, 11 lipca 2027. Dystanse: other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Stevenson, Stany Zjednoczone, niedziela, 11 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-07-11",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Stevenson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Gorge Ultra Distance",
+  "registrationUrl": "https://runsignup.com/Race/WA/Stevenson/GorgeUltraDistance?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "gorge-ultra-distance-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "gorge-ultra-distance-wa",
+    "url": "https://runsignup.com/Race/WA/Stevenson/GorgeUltraDistance?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.69,
+    "lon": -121.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://runsignup.com/Race/WA/Stevenson/GorgeUltraDistance?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

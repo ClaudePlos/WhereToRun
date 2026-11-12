@@ -13,8 +13,8 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "other",
-    "u50k"
+    "16.1 km",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Stump Jump 50k & 10 Miler",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=299",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66527",
   "slug": "stump-jump-50k-10-miler-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "stump-jump-50k-10-miler-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=299"
+    "fetchedAt": "2026-11-12T15:25:01.998Z",
+    "id": "ultrasignup",
+    "ref": "299",
+    "url": "https://ultrasignup.com/register.aspx?did=66527"
   },
   "start": {
-    "lat": 35.16,
-    "lon": -85.37,
+    "lat": 35.1617,
+    "lon": -85.3681,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=299"
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://www.badbeardevents.com"
 }

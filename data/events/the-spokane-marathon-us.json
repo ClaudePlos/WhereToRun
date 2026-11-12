@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T22:38:34.998Z",
-  "date": "2026-10-11",
+  "date": "2027-10-10",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "the-spokane-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
     "id": "runraceusa",
     "ref": "the-spokane-marathon-wa",
     "url": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
   "website": "https://runsignup.com/Race/WA/Spokane/TheSpokaneMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

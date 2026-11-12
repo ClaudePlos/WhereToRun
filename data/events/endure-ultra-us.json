@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Endure Ultra is a ultramarathon. Location: Bonifay, United States. Date: Saturday, 13 March 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Bonifay, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Endure Ultra to ultramaraton. Lokalizacja: Bonifay, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Bonifay, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bonifay",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Endure Ultra",
+  "registrationUrl": "https://runsignup.com/Race/FL/Bonifay/EndureUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "endure-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "endure-ultra-fl",
+    "url": "https://runsignup.com/Race/FL/Bonifay/EndureUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.85,
+    "lon": -85.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://runsignup.com/Race/FL/Bonifay/EndureUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

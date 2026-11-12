@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Med Bow Rail Marathon & Half Marathon is a road race. Location: Laramie, United States. Date: Saturday, 7 August 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Laramie, United States, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "Med Bow Rail Marathon & Half Marathon to bieg uliczny. Lokalizacja: Laramie, Stany Zjednoczone. Termin: sobota, 7 sierpnia 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Laramie, Stany Zjednoczone, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-12T15:24:54.028Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Laramie",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WY"
+  },
+  "manual": false,
+  "name": "Med Bow Rail Marathon & Half Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=13443",
+  "slug": "med-bow-rail-marathon-half-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-12T15:25:02.587Z",
+    "id": "runraceusa",
+    "ref": "med-bow-rail-marathon-half-marathon-wy",
+    "url": "https://ultrasignup.com/register.aspx?eid=13443"
+  },
+  "start": {
+    "lat": 41.15,
+    "lon": -106.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-12T15:24:54.028Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=13443"
+}
