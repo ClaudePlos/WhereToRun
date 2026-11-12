@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Martin 50/50 is a ultramarathon. Location: Alexander City, United States. Date: Saturday, 6 March 2027. Distances: 80.5 km, 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Alexander City, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Lake Martin 50/50 to ultramaraton. Lokalizacja: Alexander City, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 80.5 km, 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Alexander City, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-12T20:50:15.994Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Alexander City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Lake Martin 50/50",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67168",
+  "slug": "lake-martin-50-50-us",
+  "source": {
+    "fetchedAt": "2026-11-12T20:50:24.938Z",
+    "id": "ultrasignup",
+    "ref": "3494",
+    "url": "https://ultrasignup.com/register.aspx?did=67168"
+  },
+  "start": {
+    "lat": 32.7637,
+    "lon": -85.9453,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-12T20:50:15.994Z",
+  "website": "https://www.southeasterntrailruns.com/lake-martin-100-50-27"
+}

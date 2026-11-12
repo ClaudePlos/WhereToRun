@@ -14,11 +14,11 @@
   "dateStatus": "confirmed",
   "distances": [
     "48 h",
-    "48 Hour Relay 4-person",
-    "24 hour 4 person relay",
+    "48 Hour Relay 4-6 person",
+    "24 hour 4-6 person relay",
     "24 h",
     "12 Hour Night",
-    "12 Hour - Day"
+    "12 Hour - D"
   ],
   "endDate": null,
   "featured": false,
@@ -35,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66027",
   "slug": "sombrero-ultra-running-festival-surf-us",
   "source": {
-    "fetchedAt": "2026-10-29T18:57:47.513Z",
+    "fetchedAt": "2026-11-12T20:50:24.938Z",
     "id": "ultrasignup",
     "ref": "18084",
     "url": "https://ultrasignup.com/register.aspx?did=66027"
@@ -51,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-29T18:57:38.517Z",
+  "updatedAt": "2026-11-12T20:50:15.994Z",
   "website": "https://sombrerorunning.com/events"
 }
