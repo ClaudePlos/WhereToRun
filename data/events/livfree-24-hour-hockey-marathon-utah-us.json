@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "LivFree 24 Hour Hockey Marathon - Utah is a road race. Location: Sandy, United States. Date: Saturday, 31 July 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sandy, United States, Saturday, 31 July 2027"
+    },
+    "pl": {
+      "description": "LivFree 24 Hour Hockey Marathon - Utah to bieg uliczny. Lokalizacja: Sandy, Stany Zjednoczone. Termin: sobota, 31 lipca 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sandy, Stany Zjednoczone, sobota, 31 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-07-31",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sandy",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "LivFree 24 Hour Hockey Marathon - Utah",
+  "registrationUrl": "https://runsignup.com/Race/UT/Sandy/LivFree24HourHockeyMarathonUtah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "livfree-24-hour-hockey-marathon-utah-us",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
+    "id": "runraceusa",
+    "ref": "livfree-24-hour-hockey-marathon-utah-ut",
+    "url": "https://runsignup.com/Race/UT/Sandy/LivFree24HourHockeyMarathonUtah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.58,
+    "lon": -111.88,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "https://runsignup.com/Race/UT/Sandy/LivFree24HourHockeyMarathonUtah?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

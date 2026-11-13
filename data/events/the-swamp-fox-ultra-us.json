@@ -13,12 +13,12 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u50m",
-    "u50k",
+    "160.9 km",
+    "80.5 km",
+    "50 km",
     "21.1 km"
   ],
-  "endDate": null,
+  "endDate": "2027-03-07",
   "featured": false,
   "fees": [],
   "links": [],
@@ -30,25 +30,25 @@
   },
   "manual": false,
   "name": "The Swamp Fox Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=6583",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66242",
   "slug": "the-swamp-fox-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "the-swamp-fox-ultra-sc",
-    "url": "https://ultrasignup.com/register.aspx?eid=6583"
+    "fetchedAt": "2026-11-13T14:43:04.107Z",
+    "id": "ultrasignup",
+    "ref": "6583",
+    "url": "https://ultrasignup.com/register.aspx?did=66242"
   },
   "start": {
-    "lat": 33.04,
-    "lon": -79.56,
+    "lat": 33.042,
+    "lon": -79.5638,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=6583"
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "http://www.palmettoultras.com"
 }

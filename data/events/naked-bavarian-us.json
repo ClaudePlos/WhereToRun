@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Naked Bavarian is a ultramarathon. Location: Leesport, United States. Date: Saturday, 6 March 2027. Distances: 64.4 km, 32.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Leesport, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Naked Bavarian to ultramaraton. Lokalizacja: Leesport, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 64.4 km, 32.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Leesport, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "64.4 km",
+    "32.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Leesport",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Naked Bavarian",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67363",
+  "slug": "naked-bavarian-us",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:04.107Z",
+    "id": "ultrasignup",
+    "ref": "4782",
+    "url": "https://ultrasignup.com/register.aspx?did=67363"
+  },
+  "start": {
+    "lat": 40.3866,
+    "lon": -76.0431,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "https://www.uberendurancesports.com/Nakedbavarian.html"
+}

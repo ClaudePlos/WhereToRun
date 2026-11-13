@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "7th Annual BONT Florida Inline Skating Marathon! is a road race. Location: Sarasota, United States. Date: Monday, 1 November 2027. Distances: 42.2 km, other, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Sarasota, United States, Monday, 1 November 2027"
+    },
+    "pl": {
+      "description": "7th Annual BONT Florida Inline Skating Marathon! to bieg uliczny. Lokalizacja: Sarasota, Stany Zjednoczone. Termin: poniedziałek, 1 listopada 2027. Dystanse: 42.2 km, other, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Sarasota, Stany Zjednoczone, poniedziałek, 1 listopada 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-11-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "other",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Sarasota",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "7th Annual BONT Florida Inline Skating Marathon!",
+  "registrationUrl": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "7th-annual-bont-florida-inline-skating-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
+    "id": "runraceusa",
+    "ref": "7th-annual-bont-florida-inline-skating-marathon-fl",
+    "url": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.37,
+    "lon": -82.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "https://runsignup.com/Race/FL/Sarasota/FloridaInlineSkatingMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

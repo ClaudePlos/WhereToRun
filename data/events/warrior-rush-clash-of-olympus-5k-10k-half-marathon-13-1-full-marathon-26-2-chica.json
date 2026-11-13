@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "WARRIOR RUSH: Clash of Olympus 5K - 10K - Half Marathon 13.1 - Full Marathon 26.2 (Chicagoland) is a road race. Location: Wheaton, United States. Date: Saturday, 29 May 2027. Distances: 5 km, 10 km, 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Wheaton, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "WARRIOR RUSH: Clash of Olympus 5K - 10K - Half Marathon 13.1 - Full Marathon 26.2 (Chicagoland) to bieg uliczny. Lokalizacja: Wheaton, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: 5 km, 10 km, 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Wheaton, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wheaton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "WARRIOR RUSH: Clash of Olympus 5K - 10K - Half Marathon 13.1 - Full Marathon 26.2 (Chicagoland)",
+  "registrationUrl": "https://runsignup.com/Race/IL/Wheaton/WARRIORRUSH5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "warrior-rush-clash-of-olympus-5k-10k-half-marathon-13-1-full-marathon-26-2-chica",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
+    "id": "runraceusa",
+    "ref": "warrior-rush-clash-of-olympus-5k-10k-half-marathon-13-1-full-marathon",
+    "url": "https://runsignup.com/Race/IL/Wheaton/WARRIORRUSH5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.87,
+    "lon": -88.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "https://runsignup.com/Race/IL/Wheaton/WARRIORRUSH5K10KHalfMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

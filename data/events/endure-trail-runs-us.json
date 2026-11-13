@@ -13,6 +13,7 @@
   "date": "2027-05-15",
   "dateStatus": "confirmed",
   "distances": [
+    "10 km",
     "other",
     "42.2 km"
   ],
@@ -31,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/CO/Divide/Tommyknocker12HourMineShaftHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "endure-trail-runs-us",
   "source": {
-    "fetchedAt": "2026-09-19T11:10:18.284Z",
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
     "id": "runraceusa",
     "ref": "endure-trail-runs-co",
     "url": "https://runsignup.com/Race/CO/Divide/Tommyknocker12HourMineShaftHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +48,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-19T11:10:09.619Z",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
   "website": "https://runsignup.com/Race/CO/Divide/Tommyknocker12HourMineShaftHalf?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

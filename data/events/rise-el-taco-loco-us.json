@@ -17,7 +17,6 @@
     "100k Relay",
     "100 km",
     "50 km",
-    "Virtual 50k-25k-10k and 5k",
     "25 km",
     "10 km",
     "5 km"
@@ -37,7 +36,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=63676",
   "slug": "rise-el-taco-loco-us",
   "source": {
-    "fetchedAt": "2026-09-22T11:50:13.969Z",
+    "fetchedAt": "2026-11-13T14:43:04.107Z",
     "id": "ultrasignup",
     "ref": "10292",
     "url": "https://ultrasignup.com/register.aspx?did=63676"
@@ -53,6 +52,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-22T11:50:06.240Z",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
   "website": "https://www.riseracingco.com/el-taco-loco"
 }

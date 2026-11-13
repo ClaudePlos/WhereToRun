@@ -13,8 +13,10 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other"
+    "50 km",
+    "25 km",
+    "12 km",
+    "12k HARDRUCK"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +30,25 @@
   },
   "manual": false,
   "name": "Music City Trail Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3740",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68793",
   "slug": "music-city-trail-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-21T12:59:31.301Z",
-    "id": "runraceusa",
-    "ref": "music-city-trail-ultra-tn",
-    "url": "https://ultrasignup.com/register.aspx?eid=3740"
+    "fetchedAt": "2026-11-13T14:43:04.107Z",
+    "id": "ultrasignup",
+    "ref": "3740",
+    "url": "https://ultrasignup.com/register.aspx?did=68793"
   },
   "start": {
-    "lat": 36.18,
-    "lon": -87.05,
+    "lat": 36.1783,
+    "lon": -87.0461,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-21T12:59:25.178Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3740"
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "http://hardwinadventures.com/?page_id=675"
 }

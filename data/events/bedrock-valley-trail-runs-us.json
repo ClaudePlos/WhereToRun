@@ -13,6 +13,7 @@
   "date": "2027-04-03",
   "dateStatus": "confirmed",
   "distances": [
+    "u50k",
     "42.2 km",
     "21.1 km",
     "other",
@@ -37,7 +38,7 @@
   "registrationUrl": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bedrock-valley-trail-runs-us",
   "source": {
-    "fetchedAt": "2026-09-17T11:51:15.210Z",
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
     "id": "runraceusa",
     "ref": "bedrock-valley-trail-runs-ca",
     "url": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -53,6 +54,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-17T11:51:05.899Z",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
   "website": "https://runsignup.com/Race/CA/Hemet/bedrockvalleytrailruns?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

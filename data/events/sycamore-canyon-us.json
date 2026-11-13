@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "Sycamore Canyon is a ultramarathon. Location: Poway, United States. Date: Saturday, 6 March 2027. Distances: 100K 4 Per Relay, 100 km, 50 km, 50K 4 Per Relay, 1, 2 Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Poway, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Sycamore Canyon to ultramaraton. Lokalizacja: Poway, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 100K 4 Per Relay, 100 km, 50 km, 50K 4 Per Relay, 1, 2 Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Poway, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100K 4 Per Relay",
+    "100 km",
+    "50 km",
+    "50K 4 Per Relay",
+    "1",
+    "2 Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Poway",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sycamore Canyon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66029",
+  "slug": "sycamore-canyon-us",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:04.107Z",
+    "id": "ultrasignup",
+    "ref": "4730",
+    "url": "https://ultrasignup.com/register.aspx?did=66029"
+  },
+  "start": {
+    "lat": 32.9298,
+    "lon": -116.97,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "http://trailrunning.dirtyfeet.us/sycamore-100k/"
+}

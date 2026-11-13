@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Elephant Rock Trail Run is a trail race. Location: Bountiful, United States. Date: Saturday, 14 August 2027. Distances: u50k, 42.2 km, 21.1 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Bountiful, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Elephant Rock Trail Run to bieg trailowy. Lokalizacja: Bountiful, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50k, 42.2 km, 21.1 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Bountiful, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-13T14:42:54.728Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "21.1 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bountiful",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Elephant Rock Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=7978",
+  "slug": "elephant-rock-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-11-13T14:43:05.220Z",
+    "id": "runraceusa",
+    "ref": "elephant-rock-trail-run-ut",
+    "url": "https://ultrasignup.com/register.aspx?eid=7978"
+  },
+  "start": {
+    "lat": 40.86,
+    "lon": -111.84,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-13T14:42:54.728Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=7978"
+}
