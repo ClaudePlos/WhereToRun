@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Long Play Trail Run is a ultramarathon. Location: Brooksville, United States. Date: Saturday, 6 March 2027. Distances: 53.6 km, 1, 2 Marathon, 6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Brooksville, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Long Play Trail Run to ultramaraton. Lokalizacja: Brooksville, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 53.6 km, 1, 2 Marathon, 6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Brooksville, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-13T20:29:31.674Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "53.6 km",
+    "1",
+    "2 Marathon",
+    "6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Brooksville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Long Play Trail Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65933",
+  "slug": "long-play-trail-run-us",
+  "source": {
+    "fetchedAt": "2026-11-13T20:29:38.878Z",
+    "id": "ultrasignup",
+    "ref": "9246",
+    "url": "https://ultrasignup.com/register.aspx?did=65933"
+  },
+  "start": {
+    "lat": 28.5271,
+    "lon": -82.2189,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-13T20:29:31.674Z",
+  "website": "https://a1ultraevents.wordpress.com"
+}
