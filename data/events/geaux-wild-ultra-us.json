@@ -13,9 +13,9 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u50m",
-    "u50k"
+    "160.9 km",
+    "80.5 km",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "Geaux Wild Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17623",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68033",
   "slug": "geaux-wild-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "geaux-wild-ultra-la",
-    "url": "https://ultrasignup.com/register.aspx?eid=17623"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "17623",
+    "url": "https://ultrasignup.com/register.aspx?did=68033"
   },
   "start": {
-    "lat": 32.44,
-    "lon": -93.38,
+    "lat": 32.4414,
+    "lon": -93.3823,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17623"
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.facebook.com/groups/252134567555520"
 }

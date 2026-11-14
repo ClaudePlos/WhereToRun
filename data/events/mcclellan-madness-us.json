@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "McClellan Madness is a ultramarathon. Location: Anniston, United States. Date: Saturday, 6 March 2027. Distances: 8 h, 4 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Anniston, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "McClellan Madness to ultramaraton. Lokalizacja: Anniston, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 8 h, 4 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Anniston, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "4 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Anniston",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "McClellan Madness",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65858",
+  "slug": "mcclellan-madness-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "14522",
+    "url": "https://ultrasignup.com/register.aspx?did=65858"
+  },
+  "start": {
+    "lat": 33.7086,
+    "lon": -85.7958,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.facebook.com/dirtysolestrailraces"
+}

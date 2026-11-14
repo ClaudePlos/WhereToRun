@@ -13,7 +13,10 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "12 h",
+    "6 h",
+    "3 h",
+    "1 h"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +30,25 @@
   },
   "manual": false,
   "name": "Livingston Oval Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16706",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=65898",
   "slug": "livingston-oval-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "livingston-oval-ultra-nj",
-    "url": "https://ultrasignup.com/register.aspx?eid=16706"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "16706",
+    "url": "https://ultrasignup.com/register.aspx?did=65898"
   },
   "start": {
-    "lat": 40.78,
-    "lon": -74.32,
+    "lat": 40.7822,
+    "lon": -74.3173,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=16706"
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.livingstonovalultra.com/"
 }

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Rockin K is a road race. Location: Ellsworth, United States. Date: Saturday, 3 April 2027. Distances: u50k, 42.2 km, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ellsworth, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Rockin K to bieg uliczny. Lokalizacja: Ellsworth, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u50k, 42.2 km, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ellsworth, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "42.2 km",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ellsworth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "Rockin K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=151",
+  "slug": "rockin-k-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:38.410Z",
+    "id": "runraceusa",
+    "ref": "rockin-k-ks",
+    "url": "https://ultrasignup.com/register.aspx?eid=151"
+  },
+  "start": {
+    "lat": 38.66,
+    "lon": -98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=151"
+}

@@ -13,7 +13,7 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "8 h"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +27,25 @@
   },
   "manual": false,
   "name": "The Dark Side 8 Hour Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14825",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67804",
   "slug": "the-dark-side-8-hour-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "the-dark-side-8-hour-ultra-md",
-    "url": "https://ultrasignup.com/register.aspx?eid=14825"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "14825",
+    "url": "https://ultrasignup.com/register.aspx?did=67804"
   },
   "start": {
-    "lat": 39.25,
-    "lon": -77.29,
+    "lat": 39.247,
+    "lon": -77.2907,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14825"
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.facebook.com/groups/1443472642847534"
 }

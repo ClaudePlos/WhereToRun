@@ -13,8 +13,9 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "other"
+    "80.5 km",
+    "40.2 km",
+    "16.1 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +29,25 @@
   },
   "manual": false,
   "name": "Naked Mountain Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14075",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68157",
   "slug": "naked-mountain-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "naked-mountain-ultra-nc",
-    "url": "https://ultrasignup.com/register.aspx?eid=14075"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "14075",
+    "url": "https://ultrasignup.com/register.aspx?did=68157"
   },
   "start": {
-    "lat": 35.38,
-    "lon": -80.07,
+    "lat": 35.3755,
+    "lon": -80.0739,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=14075"
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "http://www.omrultra.com"
 }

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Running the Richmond Marathon - Charity Entries is a road race. Location: Richmond, United States. Date: Monday, 16 November 2026. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Richmond, United States, Monday, 16 November 2026"
+    },
+    "pl": {
+      "description": "2027 Running the Richmond Marathon - Charity Entries to bieg uliczny. Lokalizacja: Richmond, Stany Zjednoczone. Termin: poniedziałek, 16 listopada 2026. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Richmond, Stany Zjednoczone, poniedziałek, 16 listopada 2026"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2026-11-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Richmond",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "2027 Running the Richmond Marathon - Charity Entries",
+  "registrationUrl": "https://runsignup.com/Race/VA/Richmond/RunningTheRichmondMarathonCharityEntries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-running-the-richmond-marathon-charity-entries-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:38.410Z",
+    "id": "runraceusa",
+    "ref": "2027-running-the-richmond-marathon-charity-entries-va",
+    "url": "https://runsignup.com/Race/VA/Richmond/RunningTheRichmondMarathonCharityEntries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 37.46,
+    "lon": -77.4,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://runsignup.com/Race/VA/Richmond/RunningTheRichmondMarathonCharityEntries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

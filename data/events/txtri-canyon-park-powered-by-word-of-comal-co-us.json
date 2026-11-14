@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T11:31:46.015Z",
-  "date": "2026-11-08",
+  "date": "2027-11-06",
   "dateStatus": "confirmed",
   "distances": [
     "other",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "txtri-canyon-park-powered-by-word-of-comal-co-us",
   "source": {
-    "fetchedAt": "2026-09-11T11:31:53.172Z",
+    "fetchedAt": "2026-11-14T13:39:38.410Z",
     "id": "runraceusa",
     "ref": "txtri-canyon-park-powered-by-word-of-comal-co-tx",
     "url": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-11T11:31:46.015Z",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
   "website": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

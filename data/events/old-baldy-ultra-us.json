@@ -13,9 +13,10 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k",
-    "other",
-    "21.1 km",
+    "50 km",
+    "30 km",
+    "20 km",
+    "10K RUCK",
     "10 km",
     "5 km"
   ],
@@ -31,25 +32,25 @@
   },
   "manual": false,
   "name": "Old Baldy Ultra",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=17029",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68133",
   "slug": "old-baldy-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "old-baldy-ultra-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=17029"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "17029",
+    "url": "https://ultrasignup.com/register.aspx?did=68133"
   },
   "start": {
-    "lat": 29.59,
-    "lon": -99.75,
+    "lat": 29.5891,
+    "lon": -99.747,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=17029"
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.texasoutlawrunning.com/oldbaldy"
 }

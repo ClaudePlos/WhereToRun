@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The TarDevil 30 Mile Bushwhack is a ultramarathon. Location: Chapel Hill, United States. Date: Saturday, 6 March 2027. Distances: 48.3 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chapel Hill, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "The TarDevil 30 Mile Bushwhack to ultramaraton. Lokalizacja: Chapel Hill, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 48.3 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chapel Hill, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "48.3 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chapel Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "The TarDevil 30 Mile Bushwhack",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66790",
+  "slug": "the-tardevil-30-mile-bushwhack-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "14645",
+    "url": "https://ultrasignup.com/register.aspx?did=66790"
+  },
+  "start": {
+    "lat": 35.912,
+    "lon": -79.0511,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.tardevil.org/"
+}

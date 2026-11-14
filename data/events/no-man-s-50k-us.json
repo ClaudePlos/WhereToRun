@@ -13,8 +13,8 @@
   "date": "2027-03-06",
   "dateStatus": "confirmed",
   "distances": [
-    "other",
-    "u50k"
+    "25 km",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "No Man's 50K",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=9627",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67953",
   "slug": "no-man-s-50k-us",
   "source": {
-    "fetchedAt": "2026-09-16T11:47:21.860Z",
-    "id": "runraceusa",
-    "ref": "no-man-s-50k-va",
-    "url": "https://ultrasignup.com/register.aspx?eid=9627"
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "9627",
+    "url": "https://ultrasignup.com/register.aspx?did=67953"
   },
   "start": {
-    "lat": 38.56,
-    "lon": -77.34,
+    "lat": 38.5586,
+    "lon": -77.3429,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T11:47:14.247Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=9627"
+  "type": "ultra",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://athletic-equation.com/endurance-events/the-ultrail-series/no-mans-50k/"
 }

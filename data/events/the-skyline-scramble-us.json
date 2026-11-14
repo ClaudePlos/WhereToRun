@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "The Skyline Scramble is a ultramarathon. Location: Topeka, United States. Date: Saturday, 6 March 2027. Distances: 12 h, 12 Hour Team Relay, 6 h, 2 Mile Kids Run, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Topeka, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "The Skyline Scramble to ultramaraton. Lokalizacja: Topeka, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 12 h, 12 Hour Team Relay, 6 h, 2 Mile Kids Run, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Topeka, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "12 Hour Team Relay",
+    "6 h",
+    "2 Mile Kids Run",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Topeka",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KS"
+  },
+  "manual": false,
+  "name": "The Skyline Scramble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67294",
+  "slug": "the-skyline-scramble-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:37.665Z",
+    "id": "ultrasignup",
+    "ref": "16050",
+    "url": "https://ultrasignup.com/register.aspx?did=67294"
+  },
+  "start": {
+    "lat": 39.0067,
+    "lon": -95.7389,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://www.facebook.com/SkylineScramble/"
+}

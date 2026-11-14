@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T22:33:20.292Z",
-  "date": "2026-11-15",
+  "date": "2027-11-14",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/PA/Levittown/MOBIUS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "mobius-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "fetchedAt": "2026-11-14T13:39:38.410Z",
     "id": "runraceusa",
     "ref": "mobius-pa",
     "url": "https://runsignup.com/Race/PA/Levittown/MOBIUS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
   "website": "https://runsignup.com/Race/PA/Levittown/MOBIUS?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

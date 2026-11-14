@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Dalmatian Run Fest & Dizzy Dalmatian 101 is a road race. Location: Fort Worth, United States. Date: Saturday, 13 February 2027. Distances: u50k, 21.1 km, 42.2 km, 10 km, 5 km, ultra, u100m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Fort Worth, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Dalmatian Run Fest & Dizzy Dalmatian 101 to bieg uliczny. Lokalizacja: Fort Worth, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: u50k, 21.1 km, 42.2 km, 10 km, 5 km, ultra, u100m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Fort Worth, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-14T13:39:31.605Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "21.1 km",
+    "42.2 km",
+    "10 km",
+    "5 km",
+    "ultra",
+    "u100m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Worth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Dalmatian Run Fest & Dizzy Dalmatian 101",
+  "registrationUrl": "https://runsignup.com/Race/TX/FortWorth/DalmatianRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dalmatian-run-fest-dizzy-dalmatian-101-us",
+  "source": {
+    "fetchedAt": "2026-11-14T13:39:38.410Z",
+    "id": "runraceusa",
+    "ref": "dalmatian-run-fest-dizzy-dalmatian-101-tx",
+    "url": "https://runsignup.com/Race/TX/FortWorth/DalmatianRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.91,
+    "lon": -97.43,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-14T13:39:31.605Z",
+  "website": "https://runsignup.com/Race/TX/FortWorth/DalmatianRunFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
