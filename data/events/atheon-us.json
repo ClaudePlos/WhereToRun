@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Atheon is a road race. Location: Ashland City, United States. Date: Saturday, 6 March 2027. Distances: Last Rucker Standing. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Ashland City, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Atheon to bieg uliczny. Lokalizacja: Ashland City, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: Last Rucker Standing. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Ashland City, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-15T14:05:09.072Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Last Rucker Standing"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ashland City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TN"
+  },
+  "manual": false,
+  "name": "Atheon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69330",
+  "slug": "atheon-us",
+  "source": {
+    "fetchedAt": "2026-11-15T14:05:17.420Z",
+    "id": "ultrasignup",
+    "ref": "18435",
+    "url": "https://ultrasignup.com/register.aspx?did=69330"
+  },
+  "start": {
+    "lat": 36.1776,
+    "lon": -87.0429,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-15T14:05:09.072Z",
+  "website": "https://hardwinadventures.com/atheon/"
+}

@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-09-15T22:52:27.272Z",
-  "date": "2027-02-26",
+  "date": "2027-02-27",
   "dateStatus": "confirmed",
   "distances": [
-    "48 hour solo"
+    "24 hour solo"
   ],
   "endDate": "2027-02-28",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66234",
   "slug": "dark-horse-24-48hr-ultra-run-us",
   "source": {
-    "fetchedAt": "2026-11-14T23:53:27.123Z",
+    "fetchedAt": "2026-11-15T14:05:17.420Z",
     "id": "ultrasignup",
     "ref": "19302",
     "url": "https://ultrasignup.com/register.aspx?did=66234"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "road",
-  "updatedAt": "2026-11-14T23:53:19.393Z",
+  "updatedAt": "2026-11-15T14:05:09.072Z",
   "website": "https://yetitrailrunners.com/"
 }

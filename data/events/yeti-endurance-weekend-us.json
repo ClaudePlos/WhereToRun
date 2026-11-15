@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T22:33:20.292Z",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "dateStatus": "confirmed",
   "distances": [
     "5 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "yeti-endurance-weekend-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "fetchedAt": "2026-11-15T14:05:17.971Z",
     "id": "runraceusa",
     "ref": "yeti-endurance-weekend-mo",
     "url": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "updatedAt": "2026-11-15T14:05:09.072Z",
   "website": "https://runsignup.com/Race/MO/KansasCity/YetiEnduranceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

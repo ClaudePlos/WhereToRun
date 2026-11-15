@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T17:02:01.760Z",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -35,7 +35,7 @@
   "registrationUrl": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "ryr-endurance-race-weekend-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "fetchedAt": "2026-11-15T14:05:17.971Z",
     "id": "runraceusa",
     "ref": "ryr-endurance-race-weekend-ky",
     "url": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -51,6 +51,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "updatedAt": "2026-11-15T14:05:09.072Z",
   "website": "https://runsignup.com/Race/KY/Owensboro/RYREnduranceRaceWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
