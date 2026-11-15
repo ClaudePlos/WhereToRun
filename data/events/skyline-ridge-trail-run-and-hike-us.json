@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Skyline Ridge Trail Run and Hike is a ultramarathon. Location: La Honda, United States. Date: Saturday, 6 March 2027. Distances: 50 km, 30 km, 21 km, 12 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — La Honda, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Skyline Ridge Trail Run and Hike to ultramaraton. Lokalizacja: La Honda, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 50 km, 30 km, 21 km, 12 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — La Honda, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-15T23:57:10.414Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "21 km",
+    "12 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "La Honda",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Skyline Ridge Trail Run and Hike",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69663",
+  "slug": "skyline-ridge-trail-run-and-hike-us",
+  "source": {
+    "fetchedAt": "2026-11-15T23:57:17.296Z",
+    "id": "ultrasignup",
+    "ref": "18573",
+    "url": "https://ultrasignup.com/register.aspx?did=69663"
+  },
+  "start": {
+    "lat": 37.3101,
+    "lon": -122.172,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-15T23:57:10.414Z",
+  "website": "https://ridgetrail.org/"
+}
