@@ -1,0 +1,58 @@
+{
+  "content": {
+    "en": {
+      "description": "Conquer The Wall Endurance Challenge | 47HR & 35HR is a ultramarathon. Location: Williamson, United States. Date: Friday, 12 March 2027. Distances: 47 h, 47 hr Individual ruck, 35H (7AM), 35 h, 35H Ruck (7AM), 35H Ruck, 47H 2-Person, 47H  3-Person. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Williamson, United States, Friday, 12 March 2027"
+    },
+    "pl": {
+      "description": "Conquer The Wall Endurance Challenge | 47HR & 35HR to ultramaraton. Lokalizacja: Williamson, Stany Zjednoczone. Termin: piątek, 12 marca 2027. Dystanse: 47 h, 47 hr Individual ruck, 35H (7AM), 35 h, 35H Ruck (7AM), 35H Ruck, 47H 2-Person, 47H  3-Person. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Williamson, Stany Zjednoczone, piątek, 12 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-03-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "47 h",
+    "47 hr Individual ruck",
+    "35H (7AM)",
+    "35 h",
+    "35H Ruck (7AM)",
+    "35H Ruck",
+    "47H 2-Person",
+    "47H  3-Person"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Williamson",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV"
+  },
+  "manual": false,
+  "name": "Conquer The Wall Endurance Challenge | 47HR & 35HR",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66425",
+  "slug": "conquer-the-wall-endurance-challenge-47hr-35hr-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
+    "id": "ultrasignup",
+    "ref": "8634",
+    "url": "https://ultrasignup.com/register.aspx?did=66425"
+  },
+  "start": {
+    "lat": 37.6719,
+    "lon": -82.2929,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "https://www.facebook.com/conquerthewallendurancechallenge/"
+}

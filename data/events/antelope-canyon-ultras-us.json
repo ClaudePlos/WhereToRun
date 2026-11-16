@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Antelope Canyon Ultras is a ultramarathon. Location: Page, United States. Date: Saturday, 6 March 2027. Distances: 80.5 km, 55 km, 30 km, Trail Half Marathon. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Page, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Antelope Canyon Ultras to ultramaraton. Lokalizacja: Page, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 80.5 km, 55 km, 30 km, Trail Half Marathon. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Page, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "55 km",
+    "30 km",
+    "Trail Half Marathon"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Page",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Antelope Canyon Ultras",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66537",
+  "slug": "antelope-canyon-ultras-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
+    "id": "ultrasignup",
+    "ref": "19184",
+    "url": "https://ultrasignup.com/register.aspx?did=66537"
+  },
+  "start": {
+    "lat": 36.9006,
+    "lon": -111.459,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "https://www.aravaiparunning.com/antelope/"
+}

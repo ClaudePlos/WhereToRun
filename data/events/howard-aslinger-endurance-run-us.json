@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Howard Aslinger Endurance Run is a ultramarathon. Location: Cape Girardeau, United States. Date: Friday, 12 March 2027. Distances: 24 h, 12 h, 1 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Cape Girardeau, United States, Friday, 12 March 2027"
+    },
+    "pl": {
+      "description": "Howard Aslinger Endurance Run to ultramaraton. Lokalizacja: Cape Girardeau, Stany Zjednoczone. Termin: piątek, 12 marca 2027. Dystanse: 24 h, 12 h, 1 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Cape Girardeau, Stany Zjednoczone, piątek, 12 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-03-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "24 h",
+    "12 h",
+    "1 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cape Girardeau",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Howard Aslinger Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68787",
+  "slug": "howard-aslinger-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
+    "id": "ultrasignup",
+    "ref": "3459",
+    "url": "https://ultrasignup.com/register.aspx?did=68787"
+  },
+  "start": {
+    "lat": 37.3142,
+    "lon": -89.5592,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "http://www.howardaslingerfoundation.org"
+}

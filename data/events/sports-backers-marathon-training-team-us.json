@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T22:33:20.292Z",
-  "date": "2026-11-14",
+  "date": "2027-11-13",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/VA/Henrico/SportsBackersMarathonTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "sports-backers-marathon-training-team-us",
   "source": {
-    "fetchedAt": "2026-09-11T22:33:30.584Z",
+    "fetchedAt": "2026-11-16T16:03:53.044Z",
     "id": "runraceusa",
     "ref": "sports-backers-marathon-training-team-va",
     "url": "https://runsignup.com/Race/VA/Henrico/SportsBackersMarathonTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-11T22:33:20.292Z",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
   "website": "https://runsignup.com/Race/VA/Henrico/SportsBackersMarathonTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

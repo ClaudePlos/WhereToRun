@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "TruStrength \"Uphill Will\" 24 Hr skimo is a road race. Location: Greenwood, United States. Date: Saturday, 6 March 2027. Distances: Vertical Challenge, 4 Person Relay Team, 2 Person Relay Team. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Greenwood, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "TruStrength \"Uphill Will\" 24 Hr skimo to bieg uliczny. Lokalizacja: Greenwood, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: Vertical Challenge, 4 Person Relay Team, 2 Person Relay Team. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Greenwood, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Vertical Challenge",
+    "4 Person Relay Team",
+    "2 Person Relay Team"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Greenwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ME"
+  },
+  "manual": false,
+  "name": "TruStrength \"Uphill Will\" 24 Hr skimo",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69440",
+  "slug": "trustrength-uphill-will-24-hr-skimo-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
+    "id": "ultrasignup",
+    "ref": "14993",
+    "url": "https://ultrasignup.com/register.aspx?did=69440"
+  },
+  "start": {
+    "lat": 44.3798,
+    "lon": -70.7069,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "https://www.tstomorrow.com/uphillwill"
+}

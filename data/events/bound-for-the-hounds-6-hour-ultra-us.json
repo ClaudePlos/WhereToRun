@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T17:02:01.760Z",
-  "date": "2026-11-14",
+  "date": "2027-11-13",
   "dateStatus": "confirmed",
   "distances": [
     "ultra"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bound-for-the-hounds-6-hour-ultra-us",
   "source": {
-    "fetchedAt": "2026-09-20T16:48:33.989Z",
+    "fetchedAt": "2026-11-16T16:03:53.044Z",
     "id": "runraceusa",
     "ref": "bound-for-the-hounds-6-hour-ultra-ny",
     "url": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-20T16:48:23.963Z",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
   "website": "https://runsignup.com/Race/NY/Canandaigua/5thAnnualBoundfortheHounds6HourUltra?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

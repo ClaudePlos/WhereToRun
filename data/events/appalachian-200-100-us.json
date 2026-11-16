@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Appalachian 200 / 100 is a ultramarathon. Location: Franklin, United States. Date: Wednesday, 10 March 2027. Distances: 321.9 km, 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Franklin, United States, Wednesday, 10 March 2027"
+    },
+    "pl": {
+      "description": "Appalachian 200 / 100 to ultramaraton. Lokalizacja: Franklin, Stany Zjednoczone. Termin: środa, 10 marca 2027. Dystanse: 321.9 km, 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Franklin, Stany Zjednoczone, środa, 10 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-03-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km",
+    "160.9 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Franklin",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Appalachian 200 / 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67712",
+  "slug": "appalachian-200-100-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
+    "id": "ultrasignup",
+    "ref": "20700",
+    "url": "https://ultrasignup.com/register.aspx?did=67712"
+  },
+  "start": {
+    "lat": 35.1823,
+    "lon": -83.3815,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "https://www.runbumtours.com"
+}

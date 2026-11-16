@@ -17,7 +17,8 @@
     "7 h",
     "7 hour 2 person relay",
     "6.4 km",
-    "Youth <18 4 mile"
+    "Youth <18 4 mile",
+    "Kids Fun Run <10"
   ],
   "endDate": null,
   "featured": false,
@@ -34,7 +35,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66286",
   "slug": "runfluent-christmas-us",
   "source": {
-    "fetchedAt": "2026-10-26T23:50:40.349Z",
+    "fetchedAt": "2026-11-16T16:03:52.022Z",
     "id": "ultrasignup",
     "ref": "16932",
     "url": "https://ultrasignup.com/register.aspx?did=66286"
@@ -50,6 +51,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-26T23:50:33.554Z",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
   "website": "http://dontjustrun.com/events"
 }

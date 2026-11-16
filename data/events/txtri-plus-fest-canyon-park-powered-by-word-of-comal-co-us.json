@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "TXTRI - PLUS FEST - Canyon Park - Powered by WORD of Comal Co. is a trail race. Location: Canyon Lake, United States. Date: Saturday, 6 November 2027. Distances: other, 5 km, u50k, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Canyon Lake, United States, Saturday, 6 November 2027"
+    },
+    "pl": {
+      "description": "TXTRI - PLUS FEST - Canyon Park - Powered by WORD of Comal Co. to bieg trailowy. Lokalizacja: Canyon Lake, Stany Zjednoczone. Termin: sobota, 6 listopada 2027. Dystanse: other, 5 km, u50k, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Canyon Lake, Stany Zjednoczone, sobota, 6 listopada 2027"
+    }
+  },
+  "createdAt": "2026-11-16T16:03:45.029Z",
+  "date": "2027-11-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "5 km",
+    "u50k",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canyon Lake",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "TXTRI - PLUS FEST - Canyon Park - Powered by WORD of Comal Co.",
+  "registrationUrl": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "txtri-plus-fest-canyon-park-powered-by-word-of-comal-co-us",
+  "source": {
+    "fetchedAt": "2026-11-16T16:03:53.044Z",
+    "id": "runraceusa",
+    "ref": "txtri-plus-fest-canyon-park-powered-by-word-of-comal-co-tx",
+    "url": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.91,
+    "lon": -98.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-16T16:03:45.029Z",
+  "website": "https://runsignup.com/Race/TX/CanyonLake/TexasStateSprintTriathlon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
