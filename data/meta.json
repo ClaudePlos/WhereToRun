@@ -1,7 +1,7 @@
 {
-  "added": 6,
+  "added": 1,
   "dryRun": false,
-  "eventCount": 3033,
+  "eventCount": 3034,
   "geocoding": {
     "capped": 0,
     "errors": 0,
@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-11-16T16:03:45.029Z",
+  "lastRun": "2026-11-16T22:53:49.112Z",
   "skipped": 8,
   "sources": {
     "ai-discovery": {
@@ -41,6 +41,6 @@
       "fetched": 0
     }
   },
-  "unchanged": 1455,
-  "updated": 60
+  "unchanged": 1465,
+  "updated": 55
 }
