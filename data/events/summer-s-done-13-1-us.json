@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Summer's Done 13.1 is a road race. Location: Cary, United States. Date: Saturday, 21 August 2027. Distances: 21.1 km, other, 10 km, 5 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cary, United States, Saturday, 21 August 2027"
+    },
+    "pl": {
+      "description": "Summer's Done 13.1 to bieg uliczny. Lokalizacja: Cary, Stany Zjednoczone. Termin: sobota, 21 sierpnia 2027. Dystanse: 21.1 km, other, 10 km, 5 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cary, Stany Zjednoczone, sobota, 21 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-17T16:13:42.474Z",
+  "date": "2027-08-21",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "other",
+    "10 km",
+    "5 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cary",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC"
+  },
+  "manual": false,
+  "name": "Summer's Done 13.1",
+  "registrationUrl": "https://runsignup.com/Race/NC/Cary/SummersDone131?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "summer-s-done-13-1-us",
+  "source": {
+    "fetchedAt": "2026-11-17T16:13:50.077Z",
+    "id": "runraceusa",
+    "ref": "summer-s-done-13-1-nc",
+    "url": "https://runsignup.com/Race/NC/Cary/SummersDone131?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.8,
+    "lon": -78.79,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-17T16:13:42.474Z",
+  "website": "https://runsignup.com/Race/NC/Cary/SummersDone131?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

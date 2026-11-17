@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-04",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "cary-greenways-tour-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-17T16:13:50.077Z",
     "id": "runraceusa",
     "ref": "cary-greenways-tour-nc",
     "url": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-11-17T16:13:42.474Z",
   "website": "https://runsignup.com/Race/NC/Cary/CaryGreenwaysTour?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

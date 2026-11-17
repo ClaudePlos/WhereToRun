@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Austin's Backyard Ultra • Memorial Day Marathon is a ultramarathon. Location: Marble Falls, United States. Date: Saturday, 29 May 2027. Distances: other, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marble Falls, United States, Saturday, 29 May 2027"
+    },
+    "pl": {
+      "description": "Austin's Backyard Ultra • Memorial Day Marathon to ultramaraton. Lokalizacja: Marble Falls, Stany Zjednoczone. Termin: sobota, 29 maja 2027. Dystanse: other, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marble Falls, Stany Zjednoczone, sobota, 29 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-17T16:13:42.474Z",
+  "date": "2027-05-29",
+  "dateStatus": "confirmed",
+  "distances": [
+    "other",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marble Falls",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Austin's Backyard Ultra • Memorial Day Marathon",
+  "registrationUrl": "https://runsignup.com/Race/TX/MarbleFalls/AustinsBackyardMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "austin-s-backyard-ultra-memorial-day-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-17T16:13:50.077Z",
+    "id": "runraceusa",
+    "ref": "austin-s-backyard-ultra-memorial-day-marathon-tx",
+    "url": "https://runsignup.com/Race/TX/MarbleFalls/AustinsBackyardMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 30.58,
+    "lon": -98.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-17T16:13:42.474Z",
+  "website": "https://runsignup.com/Race/TX/MarbleFalls/AustinsBackyardMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

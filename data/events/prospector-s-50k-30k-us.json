@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Prospector's 50k | 30k is a road race. Location: Cooke City, United States. Date: Saturday, 14 August 2027. Distances: u50k, other, u50m. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cooke City, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Prospector's 50k | 30k to bieg uliczny. Lokalizacja: Cooke City, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: u50k, other, u50m. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cooke City, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-17T16:13:42.474Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k",
+    "other",
+    "u50m"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cooke City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MT"
+  },
+  "manual": false,
+  "name": "Prospector's 50k | 30k",
+  "registrationUrl": "https://runsignup.com/Race/MT/CookeCity/Prospectors50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "prospector-s-50k-30k-us",
+  "source": {
+    "fetchedAt": "2026-11-17T16:13:50.077Z",
+    "id": "runraceusa",
+    "ref": "prospector-s-50k-30k-mt",
+    "url": "https://runsignup.com/Race/MT/CookeCity/Prospectors50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 45.02,
+    "lon": -109.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-17T16:13:42.474Z",
+  "website": "https://runsignup.com/Race/MT/CookeCity/Prospectors50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
