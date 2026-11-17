@@ -33,14 +33,14 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66443",
   "slug": "jupiter-ridge-sand-spur-us",
   "source": {
-    "fetchedAt": "2026-10-14T12:05:11.559Z",
+    "fetchedAt": "2026-11-17T21:46:42.109Z",
     "id": "ultrasignup",
     "ref": "7887",
     "url": "https://ultrasignup.com/register.aspx?did=66443"
   },
   "start": {
-    "lat": 26.916,
-    "lon": -80.0721,
+    "lat": 26.9157,
+    "lon": -80.073,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-14T12:05:01.599Z",
+  "updatedAt": "2026-11-17T21:46:34.200Z",
   "website": "https://www.sandspurultras.com"
 }

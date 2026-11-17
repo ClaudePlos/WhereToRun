@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-26T23:50:33.554Z",
-  "date": "2027-02-06",
+  "date": "2027-02-20",
   "dateStatus": "confirmed",
   "distances": [
     "50 km",
@@ -38,7 +38,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=69589",
   "slug": "mt-umunhum-trail-conquest-winter-us",
   "source": {
-    "fetchedAt": "2026-10-26T23:50:40.349Z",
+    "fetchedAt": "2026-11-17T21:46:42.109Z",
     "id": "ultrasignup",
     "ref": "14447",
     "url": "https://ultrasignup.com/register.aspx?did=69589"
@@ -54,6 +54,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-10-26T23:50:33.554Z",
+  "updatedAt": "2026-11-17T21:46:34.200Z",
   "website": "https://tctruns.com/mt-umunhum-trail-conquest-winter"
 }
