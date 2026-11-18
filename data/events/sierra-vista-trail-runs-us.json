@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sierra Vista Trail Runs is a ultramarathon. Location: Las Cruces, United States. Date: Saturday, 6 March 2027. Distances: 50 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Las Cruces, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Sierra Vista Trail Runs to ultramaraton. Lokalizacja: Las Cruces, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: 50 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Las Cruces, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T15:48:48.487Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Cruces",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Sierra Vista Trail Runs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70113",
+  "slug": "sierra-vista-trail-runs-us",
+  "source": {
+    "fetchedAt": "2026-11-18T15:48:54.124Z",
+    "id": "ultrasignup",
+    "ref": "3070",
+    "url": "https://ultrasignup.com/register.aspx?did=70113"
+  },
+  "start": {
+    "lat": 32.3185,
+    "lon": -106.632,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "http://sierravistatrailrun.wordpress.com/"
+}

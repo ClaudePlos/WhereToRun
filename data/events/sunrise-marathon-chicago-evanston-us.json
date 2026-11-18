@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon CHICAGO/EVANSTON is a road race. Location: Chicago, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Chicago, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon CHICAGO/EVANSTON to bieg uliczny. Lokalizacja: Chicago, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Chicago, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T15:48:48.487Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon CHICAGO/EVANSTON",
+  "registrationUrl": "https://runsignup.com/Race/IL/Chicago/SunriseMarathonCHICAGOEVANSTON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-chicago-evanston-us",
+  "source": {
+    "fetchedAt": "2026-11-18T15:48:54.672Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-chicago-evanston-il",
+    "url": "https://runsignup.com/Race/IL/Chicago/SunriseMarathonCHICAGOEVANSTON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.97,
+    "lon": -87.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "https://runsignup.com/Race/IL/Chicago/SunriseMarathonCHICAGOEVANSTON?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

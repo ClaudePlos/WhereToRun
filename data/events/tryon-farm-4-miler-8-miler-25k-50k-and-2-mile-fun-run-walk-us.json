@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-03",
+  "date": "2027-10-02",
   "dateStatus": "confirmed",
   "distances": [
     "other",
@@ -28,13 +28,13 @@
   },
   "manual": false,
   "name": "Tryon Farm 4 Miler/8 Miler/25k/50k and 2 mile Fun Run/Walk",
-  "registrationUrl": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk",
+  "registrationUrl": "https://raceroster.com/events/2027/166945/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk",
   "slug": "tryon-farm-4-miler-8-miler-25k-50k-and-2-mile-fun-run-walk-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-18T15:48:54.672Z",
     "id": "runraceusa",
     "ref": "tryon-farm-4-miler-8-miler-25k-50k-and-2-mile-fun-run-walk-in",
-    "url": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
+    "url": "https://raceroster.com/events/2027/166945/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
   },
   "start": {
     "lat": 41.698,
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
-  "website": "https://raceroster.com/events/2026/110803/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "https://raceroster.com/events/2027/166945/tryon-farm-4-miler8-miler25k50k-and-2-mile-fun-runwalk"
 }

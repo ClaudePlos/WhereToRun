@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Black Wolf Backyard Ultra is a ultramarathon. Location: Palmer, United States. Date: Friday, 9 July 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Palmer, United States, Friday, 9 July 2027"
+    },
+    "pl": {
+      "description": "Black Wolf Backyard Ultra to ultramaraton. Lokalizacja: Palmer, Stany Zjednoczone. Termin: piątek, 9 lipca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Palmer, Stany Zjednoczone, piątek, 9 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T15:48:48.487Z",
+  "date": "2027-07-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Palmer",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Black Wolf Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14570",
+  "slug": "black-wolf-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-18T15:48:54.672Z",
+    "id": "runraceusa",
+    "ref": "black-wolf-backyard-ultra-ak",
+    "url": "https://ultrasignup.com/register.aspx?eid=14570"
+  },
+  "start": {
+    "lat": 61.7,
+    "lon": -149.28,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14570"
+}

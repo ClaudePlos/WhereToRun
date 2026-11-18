@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Fifth Street Cross Summer Camp is a road race. Location: Kempton, United States. Date: Friday, 30 July 2027. Distances: 5 km, other, u100m, 42.2 km, u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Kempton, United States, Friday, 30 July 2027"
+    },
+    "pl": {
+      "description": "Fifth Street Cross Summer Camp to bieg uliczny. Lokalizacja: Kempton, Stany Zjednoczone. Termin: piątek, 30 lipca 2027. Dystanse: 5 km, other, u100m, 42.2 km, u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Kempton, Stany Zjednoczone, piątek, 30 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T15:48:48.487Z",
+  "date": "2027-07-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "other",
+    "u100m",
+    "42.2 km",
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Kempton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "Fifth Street Cross Summer Camp",
+  "registrationUrl": "https://runsignup.com/Race/PA/Kempton/FifthStreetCrossSummerCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "fifth-street-cross-summer-camp-us",
+  "source": {
+    "fetchedAt": "2026-11-18T15:48:54.672Z",
+    "id": "runraceusa",
+    "ref": "fifth-street-cross-summer-camp-pa",
+    "url": "https://runsignup.com/Race/PA/Kempton/FifthStreetCrossSummerCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.63,
+    "lon": -75.85,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "https://runsignup.com/Race/PA/Kempton/FifthStreetCrossSummerCamp?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

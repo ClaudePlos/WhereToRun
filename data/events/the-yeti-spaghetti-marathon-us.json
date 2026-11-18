@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Yeti Spaghetti Marathon is a road race. Location: Abingdon, United States. Date: Saturday, 5 June 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Abingdon, United States, Saturday, 5 June 2027"
+    },
+    "pl": {
+      "description": "The Yeti Spaghetti Marathon to bieg uliczny. Lokalizacja: Abingdon, Stany Zjednoczone. Termin: sobota, 5 czerwca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Abingdon, Stany Zjednoczone, sobota, 5 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T15:48:48.487Z",
+  "date": "2027-06-05",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Abingdon",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "The Yeti Spaghetti Marathon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14766",
+  "slug": "the-yeti-spaghetti-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-18T15:48:54.672Z",
+    "id": "runraceusa",
+    "ref": "the-yeti-spaghetti-marathon-va",
+    "url": "https://ultrasignup.com/register.aspx?eid=14766"
+  },
+  "start": {
+    "lat": 36.71,
+    "lon": -81.98,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-18T15:48:48.487Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14766"
+}
