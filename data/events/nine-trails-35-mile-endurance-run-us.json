@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Nine Trails 35 Mile Endurance Run is a ultramarathon. Location: Santa Barbara, United States. Date: Saturday, 13 March 2027. Distances: 56.3 km, Half 17 Miler. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Santa Barbara, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Nine Trails 35 Mile Endurance Run to ultramaraton. Lokalizacja: Santa Barbara, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 56.3 km, Half 17 Miler. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Santa Barbara, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T02:24:14.939Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "56.3 km",
+    "Half 17 Miler"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Santa Barbara",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Nine Trails 35 Mile Endurance Run",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68095",
+  "slug": "nine-trails-35-mile-endurance-run-us",
+  "source": {
+    "fetchedAt": "2026-11-18T02:24:20.829Z",
+    "id": "ultrasignup",
+    "ref": "4489",
+    "url": "https://ultrasignup.com/register.aspx?did=68095"
+  },
+  "start": {
+    "lat": 34.4534,
+    "lon": -119.73,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-18T02:24:14.939Z",
+  "website": "http://www.allwedoisrun.com"
+}

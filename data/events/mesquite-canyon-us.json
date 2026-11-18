@@ -1,0 +1,57 @@
+{
+  "content": {
+    "en": {
+      "description": "Mesquite Canyon is a ultramarathon. Location: Waddell, United States. Date: Saturday, 13 March 2027. Distances: 80.5 km, 50 km, 30 km, 1, 2 Marathon, 8 km, Kid's Fun Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Waddell, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Mesquite Canyon to ultramaraton. Lokalizacja: Waddell, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 80.5 km, 50 km, 30 km, 1, 2 Marathon, 8 km, Kid's Fun Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Waddell, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-18T02:24:14.939Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "30 km",
+    "1",
+    "2 Marathon",
+    "8 km",
+    "Kid's Fun Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waddell",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Mesquite Canyon",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66399",
+  "slug": "mesquite-canyon-us",
+  "source": {
+    "fetchedAt": "2026-11-18T02:24:20.829Z",
+    "id": "ultrasignup",
+    "ref": "1930",
+    "url": "https://ultrasignup.com/register.aspx?did=66399"
+  },
+  "start": {
+    "lat": 33.6046,
+    "lon": -112.504,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-18T02:24:14.939Z",
+  "website": "http://www.aravaiparunning.com/mesquite-canyon/"
+}

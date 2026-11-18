@@ -13,8 +13,8 @@
   "date": "2027-03-13",
   "dateStatus": "confirmed",
   "distances": [
-    "u50m",
-    "u50k"
+    "80.5 km",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -28,25 +28,25 @@
   },
   "manual": false,
   "name": "Marin Ultra Challenge",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3387",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67802",
   "slug": "marin-ultra-challenge-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "marin-ultra-challenge-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=3387"
+    "fetchedAt": "2026-11-18T02:24:20.829Z",
+    "id": "ultrasignup",
+    "ref": "3387",
+    "url": "https://ultrasignup.com/register.aspx?did=67802"
   },
   "start": {
-    "lat": 37.83,
-    "lon": -122.48,
+    "lat": 37.8336,
+    "lon": -122.476,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=3387"
+  "updatedAt": "2026-11-18T02:24:14.939Z",
+  "website": "http://insidetrail.com/calendar/marin-ultra-challenge/"
 }
