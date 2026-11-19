@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Little Backyard Adventure is a ultramarathon. Location: Olympia, United States. Date: Saturday, 13 March 2027. Distances: 12 h, 6 h, 3 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Olympia, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Little Backyard Adventure to ultramaraton. Lokalizacja: Olympia, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 12 h, 6 h, 3 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Olympia, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 h",
+    "6 h",
+    "3 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Olympia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Little Backyard Adventure",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=69633",
+  "slug": "little-backyard-adventure-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:10.892Z",
+    "id": "ultrasignup",
+    "ref": "10239",
+    "url": "https://ultrasignup.com/register.aspx?did=69633"
+  },
+  "start": {
+    "lat": 47.0154,
+    "lon": -122.858,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "http://rockcandyrunning.com/lba"
+}

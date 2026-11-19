@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon LAS VEGAS is a road race. Location: Las Vegas, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Las Vegas, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon LAS VEGAS to bieg uliczny. Lokalizacja: Las Vegas, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Las Vegas, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon LAS VEGAS",
+  "registrationUrl": "https://runsignup.com/Race/CA/LasVegas/SunriseMarathonLASVEGAS0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-las-vegas-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-las-vegas-ca",
+    "url": "https://runsignup.com/Race/CA/LasVegas/SunriseMarathonLASVEGAS0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 36.09,
+    "lon": -115.09,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://runsignup.com/Race/CA/LasVegas/SunriseMarathonLASVEGAS0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

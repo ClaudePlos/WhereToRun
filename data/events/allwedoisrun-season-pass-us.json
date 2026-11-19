@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "AllWeDoIsRun Season Pass is a road race. Location: Cool, United States. Date: Friday, 1 January 2027. Distances: AllWeDoIsRun Season Pass. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cool, United States, Friday, 1 January 2027"
+    },
+    "pl": {
+      "description": "AllWeDoIsRun Season Pass to bieg uliczny. Lokalizacja: Cool, Stany Zjednoczone. Termin: piątek, 1 stycznia 2027. Dystanse: AllWeDoIsRun Season Pass. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cool, Stany Zjednoczone, piątek, 1 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-01-01",
+  "dateStatus": "confirmed",
+  "distances": [
+    "AllWeDoIsRun Season Pass"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cool",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "AllWeDoIsRun Season Pass",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70145",
+  "slug": "allwedoisrun-season-pass-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:10.892Z",
+    "id": "ultrasignup",
+    "ref": "19376",
+    "url": "https://ultrasignup.com/register.aspx?did=70145"
+  },
+  "start": {
+    "lat": 38.8892,
+    "lon": -121.017,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://allwedoisrun.com/"
+}

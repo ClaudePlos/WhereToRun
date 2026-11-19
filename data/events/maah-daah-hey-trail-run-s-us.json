@@ -1,0 +1,56 @@
+{
+  "content": {
+    "en": {
+      "description": "MAAH DAAH HEY TRAIL RUN(S) is a trail race. Location: Medora, United States. Date: Friday, 30 July 2027. Distances: u100p, u50m, 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Medora, United States, Friday, 30 July 2027"
+    },
+    "pl": {
+      "description": "MAAH DAAH HEY TRAIL RUN(S) to bieg trailowy. Lokalizacja: Medora, Stany Zjednoczone. Termin: piątek, 30 lipca 2027. Dystanse: u100p, u50m, 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Medora, Stany Zjednoczone, piątek, 30 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-30",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100p",
+    "u50m",
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Medora",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ND"
+  },
+  "manual": false,
+  "name": "MAAH DAAH HEY TRAIL RUN(S)",
+  "registrationUrl": "https://runsignup.com/Race/ND/Medora/MAAHDAAHHEYTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "maah-daah-hey-trail-run-s-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "maah-daah-hey-trail-run-s-nd",
+    "url": "https://runsignup.com/Race/ND/Medora/MAAHDAAHHEYTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 46.94,
+    "lon": -103.56,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://runsignup.com/Race/ND/Medora/MAAHDAAHHEYTrailRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

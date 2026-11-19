@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Tampa Bay Ultra Fest is a ultramarathon. Location: Tampa, United States. Date: Saturday, 3 April 2027. Distances: u100m, u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Tampa, United States, Saturday, 3 April 2027"
+    },
+    "pl": {
+      "description": "Tampa Bay Ultra Fest to ultramaraton. Lokalizacja: Tampa, Stany Zjednoczone. Termin: sobota, 3 kwietnia 2027. Dystanse: u100m, u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Tampa, Stany Zjednoczone, sobota, 3 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-04-03",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100m",
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Tampa",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Tampa Bay Ultra Fest",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21387",
+  "slug": "tampa-bay-ultra-fest-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "tampa-bay-ultra-fest-fl",
+    "url": "https://ultrasignup.com/register.aspx?eid=21387"
+  },
+  "start": {
+    "lat": 27.96,
+    "lon": -82.44,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21387"
+}

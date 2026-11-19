@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Peyton's Wild and Wacky 10x5K is a ultramarathon. Location: Mount Pleasant, United States. Date: Saturday, 13 March 2027. Distances: 50 km, 50K 5 Person Relay, 50K 2 Person Relay, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Mount Pleasant, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Peyton's Wild and Wacky 10x5K to ultramaraton. Lokalizacja: Mount Pleasant, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 50 km, 50K 5 Person Relay, 50K 2 Person Relay, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Mount Pleasant, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "50K 5 Person Relay",
+    "50K 2 Person Relay",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Mount Pleasant",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Peyton's Wild and Wacky 10x5K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66112",
+  "slug": "peyton-s-wild-and-wacky-10x5k-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:10.892Z",
+    "id": "ultrasignup",
+    "ref": "5137",
+    "url": "https://ultrasignup.com/register.aspx?did=66112"
+  },
+  "start": {
+    "lat": 32.8734,
+    "lon": -79.7947,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "http://www.peytonsrace.com"
+}

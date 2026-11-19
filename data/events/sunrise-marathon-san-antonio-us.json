@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon SAN ANTONIO is a road race. Location: San Antonio, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Antonio, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon SAN ANTONIO to bieg uliczny. Lokalizacja: San Antonio, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Antonio, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Antonio",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon SAN ANTONIO",
+  "registrationUrl": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathonSANANTONIO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-san-antonio-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-san-antonio-tx",
+    "url": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathonSANANTONIO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 29.44,
+    "lon": -98.49,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://runsignup.com/Race/TX/SanAntonio/SunriseMarathonSANANTONIO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

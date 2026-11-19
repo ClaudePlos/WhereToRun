@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon SAN DIEGO is a road race. Location: San Diego, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — San Diego, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon SAN DIEGO to bieg uliczny. Lokalizacja: San Diego, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — San Diego, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon SAN DIEGO",
+  "registrationUrl": "https://runsignup.com/Race/CA/SanDiego/SunriseMarathonSANDIEGO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-san-diego-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-san-diego-ca",
+    "url": "https://runsignup.com/Race/CA/SanDiego/SunriseMarathonSANDIEGO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 32.8,
+    "lon": -117.24,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://runsignup.com/Race/CA/SanDiego/SunriseMarathonSANDIEGO724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 Madison Marathon is a road race. Location: Madison, United States. Date: Sunday, 14 November 2027. Distances: 42.2 km, 21.1 km, 10 km. Entry fee: check with the organiser. The map below shows the host town; check the organiser for the exact start line.",
+      "summary": "Road race — Madison, United States, Sunday, 14 November 2027"
+    },
+    "pl": {
+      "description": "2027 Madison Marathon to bieg uliczny. Lokalizacja: Madison, Stany Zjednoczone. Termin: niedziela, 14 listopada 2027. Dystanse: 42.2 km, 21.1 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Mapa poniżej pokazuje miejscowość — dokładnego miejsca startu szukaj u organizatora.",
+      "summary": "Bieg uliczny — Madison, Stany Zjednoczone, niedziela, 14 listopada 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-11-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Madison",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI"
+  },
+  "manual": false,
+  "name": "2027 Madison Marathon",
+  "registrationUrl": "https://raceroster.com/events/2027/166662/2027-madison-marathon",
+  "slug": "2027-madison-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "2027-madison-marathon-wi",
+    "url": "https://raceroster.com/events/2027/166662/2027-madison-marathon"
+  },
+  "start": {
+    "lat": 43.0696,
+    "lon": -89.4239,
+    "name": null,
+    "precision": "city"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://raceroster.com/events/2027/166662/2027-madison-marathon"
+}

@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Hatcher Pass Races is a road race. Location: Willow, United States. Date: Saturday, 31 July 2027. Distances: 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Willow, United States, Saturday, 31 July 2027"
+    },
+    "pl": {
+      "description": "Hatcher Pass Races to bieg uliczny. Lokalizacja: Willow, Stany Zjednoczone. Termin: sobota, 31 lipca 2027. Dystanse: 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Willow, Stany Zjednoczone, sobota, 31 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-31",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Willow",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK"
+  },
+  "manual": false,
+  "name": "Hatcher Pass Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=3146",
+  "slug": "hatcher-pass-races-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "hatcher-pass-races-ak",
+    "url": "https://ultrasignup.com/register.aspx?eid=3146"
+  },
+  "start": {
+    "lat": 61.77,
+    "lon": -149.91,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=3146"
+}

@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "GR-8H Trail Race is a ultramarathon. Location: Ormond Beach, United States. Date: Saturday, 13 March 2027. Distances: 8 h, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Ormond Beach, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "GR-8H Trail Race to ultramaraton. Lokalizacja: Ormond Beach, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 8 h, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Ormond Beach, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "8 h",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Ormond Beach",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "GR-8H Trail Race",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68938",
+  "slug": "gr-8h-trail-race-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:10.892Z",
+    "id": "ultrasignup",
+    "ref": "10971",
+    "url": "https://ultrasignup.com/register.aspx?did=68938"
+  },
+  "start": {
+    "lat": 29.4098,
+    "lon": -81.0997,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://www.eastcoasttrailracing.com/"
+}

@@ -13,12 +13,12 @@
   "date": "2026-12-13",
   "dateStatus": "confirmed",
   "distances": [
+    "42.2 km",
     "1.6 km",
     "5 km",
     "10 km",
     "other",
     "21.1 km",
-    "42.2 km",
     "u50k"
   ],
   "endDate": null,
@@ -36,7 +36,7 @@
   "registrationUrl": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon",
   "slug": "2026-bmw-dallas-marathon-us",
   "source": {
-    "fetchedAt": "2026-10-28T13:11:22.303Z",
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
     "id": "runraceusa",
     "ref": "2026-bmw-dallas-marathon-tx",
     "url": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon"
@@ -52,6 +52,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-28T13:11:12.427Z",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
   "website": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon"
 }

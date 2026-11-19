@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon NEW JERSEY is a road race. Location: Camden, United States. Date: Saturday, 24 July 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Camden, United States, Saturday, 24 July 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon NEW JERSEY to bieg uliczny. Lokalizacja: Camden, Stany Zjednoczone. Termin: sobota, 24 lipca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Camden, Stany Zjednoczone, sobota, 24 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-19T15:53:02.879Z",
+  "date": "2027-07-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Camden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon NEW JERSEY",
+  "registrationUrl": "https://runsignup.com/Race/NJ/Camden/SunriseMarathonNEWJERSEY0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-new-jersey-us",
+  "source": {
+    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-new-jersey-nj",
+    "url": "https://runsignup.com/Race/NJ/Camden/SunriseMarathonNEWJERSEY0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.94,
+    "lon": -75.11,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "website": "https://runsignup.com/Race/NJ/Camden/SunriseMarathonNEWJERSEY0724?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
