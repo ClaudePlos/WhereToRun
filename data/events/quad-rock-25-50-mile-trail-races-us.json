@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Quad Rock 25 & 50 Mile Trail Races is a trail race. Location: Bellvue, United States. Date: Saturday, 8 May 2027. Distances: u50m, other. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Bellvue, United States, Saturday, 8 May 2027"
+    },
+    "pl": {
+      "description": "Quad Rock 25 & 50 Mile Trail Races to bieg trailowy. Lokalizacja: Bellvue, Stany Zjednoczone. Termin: sobota, 8 maja 2027. Dystanse: u50m, other. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Bellvue, Stany Zjednoczone, sobota, 8 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-05-08",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "other"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Bellvue",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Quad Rock 25 & 50 Mile Trail Races",
+  "registrationUrl": "https://runsignup.com/Race/CO/Bellvue/QuadRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "quad-rock-25-50-mile-trail-races-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "quad-rock-25-50-mile-trail-races-co",
+    "url": "https://runsignup.com/Race/CO/Bellvue/QuadRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.63,
+    "lon": -105.26,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://runsignup.com/Race/CO/Bellvue/QuadRock?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

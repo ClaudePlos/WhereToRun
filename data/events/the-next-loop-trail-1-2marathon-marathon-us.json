@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "The Next Loop Trail 1/2Marathon & Marathon is a trail race. Location: Little Rock, United States. Date: Saturday, 9 January 2027. Distances: 21.1 km, 42.2 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Trail race — Little Rock, United States, Saturday, 9 January 2027"
+    },
+    "pl": {
+      "description": "The Next Loop Trail 1/2Marathon & Marathon to bieg trailowy. Lokalizacja: Little Rock, Stany Zjednoczone. Termin: sobota, 9 stycznia 2027. Dystanse: 21.1 km, 42.2 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg trailowy — Little Rock, Stany Zjednoczone, sobota, 9 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-01-09",
+  "dateStatus": "confirmed",
+  "distances": [
+    "21.1 km",
+    "42.2 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Little Rock",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "The Next Loop Trail 1/2Marathon & Marathon",
+  "registrationUrl": "https://runsignup.com/Race/AR/LittleRock/TheNextLoopTrailMarathonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "the-next-loop-trail-1-2marathon-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "the-next-loop-trail-1-2marathon-marathon-ar",
+    "url": "https://runsignup.com/Race/AR/LittleRock/TheNextLoopTrailMarathonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.79,
+    "lon": -92.5,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "trail"
+  ],
+  "type": "trail",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://runsignup.com/Race/AR/LittleRock/TheNextLoopTrailMarathonMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

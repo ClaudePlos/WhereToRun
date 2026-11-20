@@ -1,0 +1,55 @@
+{
+  "content": {
+    "en": {
+      "description": "Saved By the Trail is a ultramarathon. Location: Fort Worth, United States. Date: Saturday, 13 March 2027. Distances: 58 km, 45.1 km, 22.5 km, 11 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fort Worth, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Saved By the Trail to ultramaraton. Lokalizacja: Fort Worth, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 58 km, 45.1 km, 22.5 km, 11 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fort Worth, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "58 km",
+    "45.1 km",
+    "22.5 km",
+    "11 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fort Worth",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "Saved By the Trail",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68918",
+  "slug": "saved-by-the-trail-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:28.693Z",
+    "id": "ultrasignup",
+    "ref": "21057",
+    "url": "https://ultrasignup.com/register.aspx?did=68918"
+  },
+  "start": {
+    "lat": 32.7634,
+    "lon": -97.2765,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://www.riseracingco.com/saved-by-the-trail"
+}

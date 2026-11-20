@@ -13,9 +13,9 @@
   "date": "2027-03-13",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u100k",
-    "other"
+    "160.9 km",
+    "100 km",
+    "32.2 km"
   ],
   "endDate": null,
   "featured": false,
@@ -29,25 +29,25 @@
   },
   "manual": false,
   "name": "THUNDER KISS 100M/100K and 20 Miler",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19200",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67793",
   "slug": "thunder-kiss-100m-100k-and-20-miler-us",
   "source": {
-    "fetchedAt": "2026-09-16T17:38:10.008Z",
-    "id": "runraceusa",
-    "ref": "thunder-kiss-100m-100k-and-20-miler-al",
-    "url": "https://ultrasignup.com/register.aspx?eid=19200"
+    "fetchedAt": "2026-11-20T15:36:28.693Z",
+    "id": "ultrasignup",
+    "ref": "19200",
+    "url": "https://ultrasignup.com/register.aspx?did=67793"
   },
   "start": {
-    "lat": 33.39,
-    "lon": -86.61,
+    "lat": 33.3942,
+    "lon": -86.6132,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T17:38:01.758Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=19200"
+  "type": "ultra",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "http://www.zombietrailraces.com"
 }

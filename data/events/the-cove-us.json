@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "The Cove is a ultramarathon. Location: Chickamauga, United States. Date: Saturday, 13 March 2027. Distances: 50 km, 30 km, 10 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Chickamauga, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "The Cove to ultramaraton. Lokalizacja: Chickamauga, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 50 km, 30 km, 10 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Chickamauga, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "30 km",
+    "10 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Chickamauga",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA"
+  },
+  "manual": false,
+  "name": "The Cove",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68515",
+  "slug": "the-cove-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:28.693Z",
+    "id": "ultrasignup",
+    "ref": "17223",
+    "url": "https://ultrasignup.com/register.aspx?did=68515"
+  },
+  "start": {
+    "lat": 34.6308,
+    "lon": -85.4547,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://www.ridgeandvalleyadventures.com"
+}

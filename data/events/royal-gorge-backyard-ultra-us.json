@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Royal Gorge Backyard Ultra is a ultramarathon. Location: Canon City, United States. Date: Saturday, 15 May 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Canon City, United States, Saturday, 15 May 2027"
+    },
+    "pl": {
+      "description": "Royal Gorge Backyard Ultra to ultramaraton. Lokalizacja: Canon City, Stany Zjednoczone. Termin: sobota, 15 maja 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Canon City, Stany Zjednoczone, sobota, 15 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-05-15",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Canon City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CO"
+  },
+  "manual": false,
+  "name": "Royal Gorge Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21380",
+  "slug": "royal-gorge-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "royal-gorge-backyard-ultra-co",
+    "url": "https://ultrasignup.com/register.aspx?eid=21380"
+  },
+  "start": {
+    "lat": 38.48,
+    "lon": -105.33,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21380"
+}

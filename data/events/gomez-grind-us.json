@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Gomez Grind is a road race. Location: Silver City, United States. Date: Saturday, 13 March 2027. Distances: Gomez Grind 12 hr, Gomez Grind 6 hr. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Silver City, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Gomez Grind to bieg uliczny. Lokalizacja: Silver City, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: Gomez Grind 12 hr, Gomez Grind 6 hr. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Silver City, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Gomez Grind 12 hr",
+    "Gomez Grind 6 hr"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Silver City",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Gomez Grind",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68294",
+  "slug": "gomez-grind-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:28.693Z",
+    "id": "ultrasignup",
+    "ref": "19880",
+    "url": "https://ultrasignup.com/register.aspx?did=68294"
+  },
+  "start": {
+    "lat": 32.8486,
+    "lon": -108.276,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "http://www.gilaadventureruns.com"
+}

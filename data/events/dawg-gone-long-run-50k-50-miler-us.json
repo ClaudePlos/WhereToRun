@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Dawg Gone Long Run 50k/50 Miler is a road race. Location: Waynesville, United States. Date: Saturday, 10 July 2027. Distances: u50m, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Waynesville, United States, Saturday, 10 July 2027"
+    },
+    "pl": {
+      "description": "Dawg Gone Long Run 50k/50 Miler to bieg uliczny. Lokalizacja: Waynesville, Stany Zjednoczone. Termin: sobota, 10 lipca 2027. Dystanse: u50m, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Waynesville, Stany Zjednoczone, sobota, 10 lipca 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-07-10",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50m",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Waynesville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Dawg Gone Long Run 50k/50 Miler",
+  "registrationUrl": "https://runsignup.com/Race/OH/Waynesville/DawgGoneLongRun50k50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dawg-gone-long-run-50k-50-miler-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "dawg-gone-long-run-50k-50-miler-oh",
+    "url": "https://runsignup.com/Race/OH/Waynesville/DawgGoneLongRun50k50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.53,
+    "lon": -84.08,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://runsignup.com/Race/OH/Waynesville/DawgGoneLongRun50k50Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

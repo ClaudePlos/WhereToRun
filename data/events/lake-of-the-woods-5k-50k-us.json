@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Lake Of The Woods 5k & 50K is a road race. Location: Farmersville, United States. Date: Saturday, 6 February 2027. Distances: 5 km, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Farmersville, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Lake Of The Woods 5k & 50K to bieg uliczny. Lokalizacja: Farmersville, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 5 km, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Farmersville, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Farmersville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "Lake Of The Woods 5k & 50K",
+  "registrationUrl": "https://runsignup.com/Race/OH/Farmersville/LakeOfTheWoods5k50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "lake-of-the-woods-5k-50k-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "lake-of-the-woods-5k-50k-oh",
+    "url": "https://runsignup.com/Race/OH/Farmersville/LakeOfTheWoods5k50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 39.69,
+    "lon": -84.42,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://runsignup.com/Race/OH/Farmersville/LakeOfTheWoods5k50K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

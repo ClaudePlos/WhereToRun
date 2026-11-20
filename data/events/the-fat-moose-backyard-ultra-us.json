@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Fat Moose Backyard Ultra is a ultramarathon. Location: Coeur d'Alene, United States. Date: Friday, 25 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Coeur d'Alene, United States, Friday, 25 June 2027"
+    },
+    "pl": {
+      "description": "The Fat Moose Backyard Ultra to ultramaraton. Lokalizacja: Coeur d'Alene, Stany Zjednoczone. Termin: piątek, 25 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Coeur d'Alene, Stany Zjednoczone, piątek, 25 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-20T15:36:21.299Z",
+  "date": "2027-06-25",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Coeur d'Alene",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "ID"
+  },
+  "manual": false,
+  "name": "The Fat Moose Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=20627",
+  "slug": "the-fat-moose-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-20T15:36:29.593Z",
+    "id": "runraceusa",
+    "ref": "the-fat-moose-backyard-ultra-id",
+    "url": "https://ultrasignup.com/register.aspx?eid=20627"
+  },
+  "start": {
+    "lat": 47.64,
+    "lon": -116.66,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-20T15:36:21.299Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=20627"
+}
