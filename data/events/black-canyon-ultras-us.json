@@ -10,10 +10,10 @@
     }
   },
   "createdAt": "2026-10-30T13:10:12.084Z",
-  "date": "2027-02-13",
+  "date": "2027-02-14",
   "dateStatus": "confirmed",
   "distances": [
-    "100 km"
+    "50 km"
   ],
   "endDate": "2027-02-14",
   "featured": false,
@@ -30,7 +30,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66041",
   "slug": "black-canyon-ultras-us",
   "source": {
-    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "fetchedAt": "2026-11-21T20:06:23.143Z",
     "id": "ultrasignup",
     "ref": "4023",
     "url": "https://ultrasignup.com/register.aspx?did=66041"
@@ -46,6 +46,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "updatedAt": "2026-11-21T20:06:15.175Z",
   "website": "https://www.aravaiparunning.com/blackcanyon/"
 }
