@@ -10,10 +10,13 @@
     }
   },
   "createdAt": "2026-09-07T12:45:22.898Z",
-  "date": "2026-09-27",
+  "date": "2027-09-25",
   "dateStatus": "confirmed",
   "distances": [
-    "42.2 km"
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +30,25 @@
   },
   "manual": false,
   "name": "Adirondack Marathon Distance Festival",
-  "registrationUrl": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival",
+  "registrationUrl": "https://runsignup.com/Race/NY/SchroonLake/AdirondackMarathonDistanceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "adirondack-marathon-distance-festival-us",
   "source": {
-    "fetchedAt": "2026-09-26T11:33:39.262Z",
+    "fetchedAt": "2026-11-21T14:47:03.596Z",
     "id": "runraceusa",
     "ref": "adirondack-marathon-distance-festival-ny",
-    "url": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
+    "url": "https://runsignup.com/Race/NY/SchroonLake/AdirondackMarathonDistanceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 43.8412,
-    "lon": -73.7674,
+    "lat": 43.84,
+    "lon": -73.77,
     "name": null,
-    "precision": "city"
+    "precision": "exact"
   },
   "tags": [
     "road",
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-26T11:33:30.366Z",
-  "website": "https://raceroster.com/events/2026/112534/adirondack-marathon-distance-festival"
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://runsignup.com/Race/NY/SchroonLake/AdirondackMarathonDistanceFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

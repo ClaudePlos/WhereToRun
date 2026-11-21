@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-06T22:06:37.596Z",
-  "date": "2026-09-20",
+  "date": "2027-10-03",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/OH/Toledo/ToledoGarminMarathonSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "garmin-marathon-toledo-us",
   "source": {
-    "fetchedAt": "2026-09-06T22:06:46.698Z",
+    "fetchedAt": "2026-11-21T14:47:03.596Z",
     "id": "runraceusa",
     "ref": "garmin-marathon-toledo-oh",
     "url": "https://runsignup.com/Race/OH/Toledo/ToledoGarminMarathonSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-06T22:06:37.596Z",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
   "website": "https://runsignup.com/Race/OH/Toledo/ToledoGarminMarathonSeries?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

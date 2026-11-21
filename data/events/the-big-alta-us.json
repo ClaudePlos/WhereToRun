@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Big Alta is a ultramarathon. Location: Marinwood, United States. Date: 19 March 2027 – 21 March 2027. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Marinwood, United States, 19 March 2027 – 21 March 2027"
+    },
+    "pl": {
+      "description": "The Big Alta to ultramaraton. Lokalizacja: Marinwood, Stany Zjednoczone. Termin: 19 marca 2027 – 21 marca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Marinwood, Stany Zjednoczone, 19 marca 2027 – 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": "2027-03-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Marinwood",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "The Big Alta",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66528",
+  "slug": "the-big-alta-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "16815",
+    "url": "https://ultrasignup.com/register.aspx?did=66528"
+  },
+  "start": {
+    "lat": 38.0279,
+    "lon": -122.553,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://www.daybreakracing.com/big-alta"
+}

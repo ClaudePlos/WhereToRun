@@ -10,12 +10,15 @@
     }
   },
   "createdAt": "2026-09-16T22:54:39.061Z",
-  "date": "2027-03-18",
+  "date": "2027-03-19",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "48 h",
+    "48 Hours 6 Person Relay",
+    "48 Hour Hiker",
+    "12 Hour Day Friday"
   ],
-  "endDate": null,
+  "endDate": "2027-03-21",
   "featured": false,
   "fees": [],
   "links": [],
@@ -27,25 +30,25 @@
   },
   "manual": false,
   "name": "Dogwood Ultra Marathons",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5698",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66808",
   "slug": "dogwood-ultra-marathons-us",
   "source": {
-    "fetchedAt": "2026-09-16T22:54:49.121Z",
-    "id": "runraceusa",
-    "ref": "dogwood-ultra-marathons-va",
-    "url": "https://ultrasignup.com/register.aspx?eid=5698"
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "5698",
+    "url": "https://ultrasignup.com/register.aspx?did=66808"
   },
   "start": {
-    "lat": 37.18,
-    "lon": -78.27,
+    "lat": 37.1762,
+    "lon": -78.273,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "ultra"
+    "ultra",
+    "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-16T22:54:39.061Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5698"
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "http://virginiaadventures.com"
 }

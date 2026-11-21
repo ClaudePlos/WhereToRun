@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Southern States 200 is a ultramarathon. Location: Delta, United States. Date: Wednesday, 17 March 2027. Distances: 321.9 km, 160.9 km, Southern Staters 100 Pacer Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Delta, United States, Wednesday, 17 March 2027"
+    },
+    "pl": {
+      "description": "Southern States 200 to ultramaraton. Lokalizacja: Delta, Stany Zjednoczone. Termin: środa, 17 marca 2027. Dystanse: 321.9 km, 160.9 km, Southern Staters 100 Pacer Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Delta, Stany Zjednoczone, środa, 17 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-03-17",
+  "dateStatus": "confirmed",
+  "distances": [
+    "321.9 km",
+    "160.9 km",
+    "Southern Staters 100 Pacer Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Delta",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Southern States 200",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66162",
+  "slug": "southern-states-200-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "16741",
+    "url": "https://ultrasignup.com/register.aspx?did=66162"
+  },
+  "start": {
+    "lat": 33.4771,
+    "lon": -85.8087,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://www.southernstates200.com/"
+}

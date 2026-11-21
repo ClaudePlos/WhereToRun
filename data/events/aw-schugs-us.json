@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Aw, Schugs is a ultramarathon. Location: Dryden, United States. Date: Saturday, 23 January 2027. Distances: 50 km, 12 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Dryden, United States, Saturday, 23 January 2027"
+    },
+    "pl": {
+      "description": "Aw, Schugs to ultramaraton. Lokalizacja: Dryden, Stany Zjednoczone. Termin: sobota, 23 stycznia 2027. Dystanse: 50 km, 12 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Dryden, Stany Zjednoczone, sobota, 23 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-01-23",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km",
+    "12 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dryden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "Aw, Schugs",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70174",
+  "slug": "aw-schugs-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "18606",
+    "url": "https://ultrasignup.com/register.aspx?did=70174"
+  },
+  "start": {
+    "lat": 42.4597,
+    "lon": -76.2768,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://happilyrunning.com"
+}

@@ -13,7 +13,9 @@
   "date": "2027-03-19",
   "dateStatus": "confirmed",
   "distances": [
-    "ultra"
+    "24 h",
+    "12 h",
+    "6 h"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +29,25 @@
   },
   "manual": false,
   "name": "Pirate's Cove 6/12/24 hour Run/Hike",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=5193",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66530",
   "slug": "pirate-s-cove-6-12-24-hour-run-hike-us",
   "source": {
-    "fetchedAt": "2026-09-16T22:54:49.121Z",
-    "id": "runraceusa",
-    "ref": "pirate-s-cove-6-12-24-hour-run-hike-ca",
-    "url": "https://ultrasignup.com/register.aspx?eid=5193"
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "5193",
+    "url": "https://ultrasignup.com/register.aspx?did=66530"
   },
   "start": {
-    "lat": 32.99,
-    "lon": -116.58,
+    "lat": 32.9907,
+    "lon": -116.578,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T22:54:39.061Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=5193"
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "http://sdpiratescove12-24.com/"
 }

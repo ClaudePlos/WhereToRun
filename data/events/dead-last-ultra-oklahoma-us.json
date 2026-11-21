@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Dead Last Ultra Oklahoma is a road race. Location: McAlester, United States. Date: Saturday, 6 March 2027. Distances: Backyard Ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — McAlester, United States, Saturday, 6 March 2027"
+    },
+    "pl": {
+      "description": "Dead Last Ultra Oklahoma to bieg uliczny. Lokalizacja: McAlester, Stany Zjednoczone. Termin: sobota, 6 marca 2027. Dystanse: Backyard Ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — McAlester, Stany Zjednoczone, sobota, 6 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-03-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "Backyard Ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "McAlester",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Dead Last Ultra Oklahoma",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70163",
+  "slug": "dead-last-ultra-oklahoma-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "21396",
+    "url": "https://ultrasignup.com/register.aspx?did=70163"
+  },
+  "start": {
+    "lat": 34.9401,
+    "lon": -95.7381,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://deadlastultra.com"
+}

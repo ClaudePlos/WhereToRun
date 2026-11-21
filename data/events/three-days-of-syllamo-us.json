@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Three Days of Syllamo is a ultramarathon. Location: Fifty-Six, United States. Date: 19 March 2027 – 21 March 2027. Distances: 151.3 km, 80.5 km, 50 km, 20 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Fifty-Six, United States, 19 March 2027 – 21 March 2027"
+    },
+    "pl": {
+      "description": "Three Days of Syllamo to ultramaraton. Lokalizacja: Fifty-Six, Stany Zjednoczone. Termin: 19 marca 2027 – 21 marca 2027. Dystanse: 151.3 km, 80.5 km, 50 km, 20 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Fifty-Six, Stany Zjednoczone, 19 marca 2027 – 21 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "151.3 km",
+    "80.5 km",
+    "50 km",
+    "20 km"
+  ],
+  "endDate": "2027-03-21",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Fifty-Six",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AR"
+  },
+  "manual": false,
+  "name": "Three Days of Syllamo",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67182",
+  "slug": "three-days-of-syllamo-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "28",
+    "url": "https://ultrasignup.com/register.aspx?did=67182"
+  },
+  "start": {
+    "lat": 35.9689,
+    "lon": -92.1728,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://www.syllamoevents.com/"
+}

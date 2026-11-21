@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Warbird 100 is a ultramarathon. Location: Hyden, United States. Date: 19 March 2027 – 20 March 2027. Distances: 160.9 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Hyden, United States, 19 March 2027 – 20 March 2027"
+    },
+    "pl": {
+      "description": "Warbird 100 to ultramaraton. Lokalizacja: Hyden, Stany Zjednoczone. Termin: 19 marca 2027 – 20 marca 2027. Dystanse: 160.9 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Hyden, Stany Zjednoczone, 19 marca 2027 – 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-21T14:46:54.956Z",
+  "date": "2027-03-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "160.9 km"
+  ],
+  "endDate": "2027-03-20",
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Hyden",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY"
+  },
+  "manual": false,
+  "name": "Warbird 100",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66788",
+  "slug": "warbird-100-us",
+  "source": {
+    "fetchedAt": "2026-11-21T14:47:03.091Z",
+    "id": "ultrasignup",
+    "ref": "18824",
+    "url": "https://ultrasignup.com/register.aspx?did=66788"
+  },
+  "start": {
+    "lat": 37.1412,
+    "lon": -83.4303,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-21T14:46:54.956Z",
+  "website": "https://www.trailsick.com/warbird-100"
+}
