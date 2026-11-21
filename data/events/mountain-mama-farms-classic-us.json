@@ -13,6 +13,7 @@
   "date": "2026-11-21",
   "dateStatus": "confirmed",
   "distances": [
+    "Ruck Challenge",
     "8 h",
     "4 h"
   ],
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=65442",
   "slug": "mountain-mama-farms-classic-us",
   "source": {
-    "fetchedAt": "2026-09-28T14:09:33.778Z",
+    "fetchedAt": "2026-11-21T01:28:38.060Z",
     "id": "ultrasignup",
     "ref": "18002",
     "url": "https://ultrasignup.com/register.aspx?did=65442"
@@ -47,6 +48,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-28T14:09:26.019Z",
+  "updatedAt": "2026-11-21T01:28:31.964Z",
   "website": "https://www.3of7project.com/"
 }
