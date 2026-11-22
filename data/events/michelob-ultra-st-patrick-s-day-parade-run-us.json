@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Michelob ULTRA St. Patrick's Day Parade Run is a ultramarathon. Location: St. Louis, United States. Date: Saturday, 13 March 2027. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — St. Louis, United States, Saturday, 13 March 2027"
+    },
+    "pl": {
+      "description": "Michelob ULTRA St. Patrick's Day Parade Run to ultramaraton. Lokalizacja: St. Louis, Stany Zjednoczone. Termin: sobota, 13 marca 2027. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — St. Louis, Stany Zjednoczone, sobota, 13 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-22T14:42:59.845Z",
+  "date": "2027-03-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "St. Louis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO"
+  },
+  "manual": false,
+  "name": "Michelob ULTRA St. Patrick's Day Parade Run",
+  "registrationUrl": "https://runsignup.com/Race/MO/StLouis/MichelobULTRAStPatricksDayParadeRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "michelob-ultra-st-patrick-s-day-parade-run-us",
+  "source": {
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "id": "runraceusa",
+    "ref": "michelob-ultra-st-patrick-s-day-parade-run-mo",
+    "url": "https://runsignup.com/Race/MO/StLouis/MichelobULTRAStPatricksDayParadeRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 38.63,
+    "lon": -90.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
+  "website": "https://runsignup.com/Race/MO/StLouis/MichelobULTRAStPatricksDayParadeRun?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

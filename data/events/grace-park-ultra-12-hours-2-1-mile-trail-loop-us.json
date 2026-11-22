@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-11T17:02:01.760Z",
-  "date": "2026-11-14",
+  "date": "2027-11-13",
   "dateStatus": "confirmed",
   "distances": [
     "ultra"
@@ -30,7 +30,7 @@
   "registrationUrl": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "grace-park-ultra-12-hours-2-1-mile-trail-loop-us",
   "source": {
-    "fetchedAt": "2026-09-11T17:02:11.539Z",
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
     "id": "runraceusa",
     "ref": "grace-park-ultra-12-hours-2-1-mile-trail-loop-sc",
     "url": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -46,6 +46,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-09-11T17:02:01.760Z",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
   "website": "https://runsignup.com/Race/SC/Greenwood/TheGraceStParkUltramarathonHoursMileTrailLoop?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

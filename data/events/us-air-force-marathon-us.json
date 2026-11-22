@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "US Air Force Marathon is a road race. Location: Dayton, United States. Date: Saturday, 18 September 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Dayton, United States, Saturday, 18 September 2027"
+    },
+    "pl": {
+      "description": "US Air Force Marathon to bieg uliczny. Lokalizacja: Dayton, Stany Zjednoczone. Termin: sobota, 18 września 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Dayton, Stany Zjednoczone, sobota, 18 września 2027"
+    }
+  },
+  "createdAt": "2026-11-22T14:42:59.845Z",
+  "date": "2027-09-18",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Dayton",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH"
+  },
+  "manual": false,
+  "name": "US Air Force Marathon",
+  "registrationUrl": "https://www.usafmarathon.com/",
+  "slug": "us-air-force-marathon-us",
+  "source": {
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "id": "runraceusa",
+    "ref": "us-air-force-marathon-oh",
+    "url": "https://www.usafmarathon.com/"
+  },
+  "start": {
+    "lat": 39.7811,
+    "lon": -84.1092,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
+  "website": "https://www.usafmarathon.com/"
+}

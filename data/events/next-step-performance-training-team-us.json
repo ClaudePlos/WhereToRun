@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-10-16T11:35:30.531Z",
-  "date": "2026-11-21",
+  "date": "2026-12-12",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/SC/MyrtleBeach/NEXTSTEP5KTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "next-step-performance-training-team-us",
   "source": {
-    "fetchedAt": "2026-10-16T11:35:39.705Z",
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
     "id": "runraceusa",
     "ref": "next-step-performance-training-team-sc",
     "url": "https://runsignup.com/Race/SC/MyrtleBeach/NEXTSTEP5KTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-10-16T11:35:30.531Z",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
   "website": "https://runsignup.com/Race/SC/MyrtleBeach/NEXTSTEP5KTrainingTeam?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

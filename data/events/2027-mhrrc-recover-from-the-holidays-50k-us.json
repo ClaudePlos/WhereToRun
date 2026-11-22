@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "2027 MHRRC Recover From the Holidays 50k is a road race. Location: Staatsburg, United States. Date: Saturday, 2 January 2027. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Staatsburg, United States, Saturday, 2 January 2027"
+    },
+    "pl": {
+      "description": "2027 MHRRC Recover From the Holidays 50k to bieg uliczny. Lokalizacja: Staatsburg, Stany Zjednoczone. Termin: sobota, 2 stycznia 2027. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Staatsburg, Stany Zjednoczone, sobota, 2 stycznia 2027"
+    }
+  },
+  "createdAt": "2026-11-22T14:42:59.845Z",
+  "date": "2027-01-02",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Staatsburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY"
+  },
+  "manual": false,
+  "name": "2027 MHRRC Recover From the Holidays 50k",
+  "registrationUrl": "https://runsignup.com/Race/NY/Staatsburg/2023MHRRCRecoverFromtheHolidays50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "2027-mhrrc-recover-from-the-holidays-50k-us",
+  "source": {
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "id": "runraceusa",
+    "ref": "2027-mhrrc-recover-from-the-holidays-50k-ny",
+    "url": "https://runsignup.com/Race/NY/Staatsburg/2023MHRRCRecoverFromtheHolidays50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.85,
+    "lon": -73.9,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
+  "website": "https://runsignup.com/Race/NY/Staatsburg/2023MHRRCRecoverFromtheHolidays50k?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

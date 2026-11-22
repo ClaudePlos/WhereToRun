@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Taco Bell 50K Albuquerque Edition is a road race. Location: Albuquerque, United States. Date: Saturday, 19 December 2026. Distances: u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Albuquerque, United States, Saturday, 19 December 2026"
+    },
+    "pl": {
+      "description": "Taco Bell 50K Albuquerque Edition to bieg uliczny. Lokalizacja: Albuquerque, Stany Zjednoczone. Termin: sobota, 19 grudnia 2026. Dystanse: u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Albuquerque, Stany Zjednoczone, sobota, 19 grudnia 2026"
+    }
+  },
+  "createdAt": "2026-11-22T14:42:59.845Z",
+  "date": "2026-12-19",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Albuquerque",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NM"
+  },
+  "manual": false,
+  "name": "Taco Bell 50K Albuquerque Edition",
+  "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "taco-bell-50k-albuquerque-edition-us",
+  "source": {
+    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "id": "runraceusa",
+    "ref": "taco-bell-50k-albuquerque-edition-nm",
+    "url": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 35.07,
+    "lon": -106.51,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-22T14:42:59.845Z",
+  "website": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
