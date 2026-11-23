@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-10T22:34:00.117Z",
-  "date": "2026-11-07",
+  "date": "2027-11-06",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/OH/Glouster/Bobcat?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "bobcat-us",
   "source": {
-    "fetchedAt": "2026-09-10T22:34:09.050Z",
+    "fetchedAt": "2026-11-23T18:27:30.174Z",
     "id": "runraceusa",
     "ref": "bobcat-oh",
     "url": "https://runsignup.com/Race/OH/Glouster/Bobcat?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T22:34:00.117Z",
+  "updatedAt": "2026-11-23T18:27:21.815Z",
   "website": "https://runsignup.com/Race/OH/Glouster/Bobcat?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

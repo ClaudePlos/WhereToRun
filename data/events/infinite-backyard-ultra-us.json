@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Infinite Backyard Ultra is a ultramarathon. Location: Columbia, United States. Date: Saturday, 26 June 2027. Distances: ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Columbia, United States, Saturday, 26 June 2027"
+    },
+    "pl": {
+      "description": "Infinite Backyard Ultra to ultramaraton. Lokalizacja: Columbia, Stany Zjednoczone. Termin: sobota, 26 czerwca 2027. Dystanse: ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Columbia, Stany Zjednoczone, sobota, 26 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-23T18:27:21.815Z",
+  "date": "2027-06-26",
+  "dateStatus": "confirmed",
+  "distances": [
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "Infinite Backyard Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21398",
+  "slug": "infinite-backyard-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-23T18:27:30.174Z",
+    "id": "runraceusa",
+    "ref": "infinite-backyard-ultra-nj",
+    "url": "https://ultrasignup.com/register.aspx?eid=21398"
+  },
+  "start": {
+    "lat": 40.97,
+    "lon": -75.07,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-23T18:27:21.815Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21398"
+}

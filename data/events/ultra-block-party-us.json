@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Block Party is a ultramarathon. Location: Saint Petersburg, United States. Date: Saturday, 13 February 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Saint Petersburg, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "Ultra Block Party to ultramaraton. Lokalizacja: Saint Petersburg, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Saint Petersburg, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-23T18:27:21.815Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Saint Petersburg",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL"
+  },
+  "manual": false,
+  "name": "Ultra Block Party",
+  "registrationUrl": "https://runsignup.com/Race/FL/SaintPetersburg/UltraBlockParty?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "ultra-block-party-us",
+  "source": {
+    "fetchedAt": "2026-11-23T18:27:30.174Z",
+    "id": "runraceusa",
+    "ref": "ultra-block-party-fl",
+    "url": "https://runsignup.com/Race/FL/SaintPetersburg/UltraBlockParty?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 27.74,
+    "lon": -82.64,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-23T18:27:21.815Z",
+  "website": "https://runsignup.com/Race/FL/SaintPetersburg/UltraBlockParty?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
