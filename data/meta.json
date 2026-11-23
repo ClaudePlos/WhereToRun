@@ -9,7 +9,7 @@
     "lookups": 0,
     "misses": 0
   },
-  "lastRun": "2026-11-22T20:21:37.593Z",
+  "lastRun": "2026-11-23T00:48:40.934Z",
   "skipped": 7,
   "sources": {
     "ai-discovery": {
@@ -26,7 +26,7 @@
     },
     "runraceusa": {
       "error": null,
-      "fetched": 1232
+      "fetched": 1216
     },
     "runsignup": {
       "error": null,
@@ -41,6 +41,6 @@
       "fetched": 0
     }
   },
-  "unchanged": 1494,
+  "unchanged": 1478,
   "updated": 58
 }
