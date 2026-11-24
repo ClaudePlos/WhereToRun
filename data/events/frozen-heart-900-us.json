@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Frozen Heart 900 is a ultramarathon. Location: Rockfall, United States. Date: Saturday, 6 February 2027. Distances: 15 h. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Rockfall, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Frozen Heart 900 to ultramaraton. Lokalizacja: Rockfall, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 15 h. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Rockfall, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-24T00:51:28.332Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "15 h"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rockfall",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CT"
+  },
+  "manual": false,
+  "name": "Frozen Heart 900",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70231",
+  "slug": "frozen-heart-900-us",
+  "source": {
+    "fetchedAt": "2026-11-24T00:51:33.894Z",
+    "id": "ultrasignup",
+    "ref": "12283",
+    "url": "https://ultrasignup.com/register.aspx?did=70231"
+  },
+  "start": {
+    "lat": 41.5493,
+    "lon": -72.6963,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-24T00:51:28.332Z",
+  "website": "http://www.cttrailmixers.com"
+}
