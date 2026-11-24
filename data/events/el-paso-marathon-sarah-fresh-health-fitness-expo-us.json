@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "El Paso Marathon / Sarah Fresh Health & Fitness Expo is a road race. Location: El Paso, United States. Date: Saturday, 27 February 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — El Paso, United States, Saturday, 27 February 2027"
+    },
+    "pl": {
+      "description": "El Paso Marathon / Sarah Fresh Health & Fitness Expo to bieg uliczny. Lokalizacja: El Paso, Stany Zjednoczone. Termin: sobota, 27 lutego 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — El Paso, Stany Zjednoczone, sobota, 27 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-24T17:55:52.843Z",
+  "date": "2027-02-27",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "El Paso",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX"
+  },
+  "manual": false,
+  "name": "El Paso Marathon / Sarah Fresh Health & Fitness Expo",
+  "registrationUrl": "https://runsignup.com/Race/TX/ElPaso/SarahFarmsHealthFitnessExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "el-paso-marathon-sarah-fresh-health-fitness-expo-us",
+  "source": {
+    "fetchedAt": "2026-11-24T17:56:00.966Z",
+    "id": "runraceusa",
+    "ref": "el-paso-marathon-sarah-fresh-health-fitness-expo-tx",
+    "url": "https://runsignup.com/Race/TX/ElPaso/SarahFarmsHealthFitnessExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 31.76,
+    "lon": -106.48,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-24T17:55:52.843Z",
+  "website": "https://runsignup.com/Race/TX/ElPaso/SarahFarmsHealthFitnessExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

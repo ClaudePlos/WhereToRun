@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Kennekuk Road Runners - Howl at the Moon Ultra is a ultramarathon. Location: Danville, United States. Date: Saturday, 14 August 2027. Distances: 5 km, ultra. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Danville, United States, Saturday, 14 August 2027"
+    },
+    "pl": {
+      "description": "Kennekuk Road Runners - Howl at the Moon Ultra to ultramaraton. Lokalizacja: Danville, Stany Zjednoczone. Termin: sobota, 14 sierpnia 2027. Dystanse: 5 km, ultra. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Danville, Stany Zjednoczone, sobota, 14 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-24T17:55:52.843Z",
+  "date": "2027-08-14",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "ultra"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Danville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "Kennekuk Road Runners - Howl at the Moon Ultra",
+  "registrationUrl": "https://runsignup.com/Race/IL/Danville/KennekukRoadRunnersHowlattheMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "kennekuk-road-runners-howl-at-the-moon-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-24T17:56:00.966Z",
+    "id": "runraceusa",
+    "ref": "kennekuk-road-runners-howl-at-the-moon-ultra-il",
+    "url": "https://runsignup.com/Race/IL/Danville/KennekukRoadRunnersHowlattheMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.16,
+    "lon": -87.67,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-24T17:55:52.843Z",
+  "website": "https://runsignup.com/Race/IL/Danville/KennekukRoadRunnersHowlattheMoon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

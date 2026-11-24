@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-12T10:56:17.596Z",
-  "date": "2026-11-22",
+  "date": "2027-11-20",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "philadelphia-marathon-students-run-philly-style-us",
   "source": {
-    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "fetchedAt": "2026-11-24T17:56:00.966Z",
     "id": "runraceusa",
     "ref": "philadelphia-marathon-students-run-philly-style-pa",
     "url": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-11-22T14:42:59.845Z",
+  "updatedAt": "2026-11-24T17:55:52.843Z",
   "website": "https://runsignup.com/Race/PA/Philadelphia/PhiladelphiaMarathonStudentsRunPhillyStyle?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

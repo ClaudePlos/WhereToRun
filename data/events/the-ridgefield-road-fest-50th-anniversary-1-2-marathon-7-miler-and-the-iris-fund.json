@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T17:09:58.614Z",
-  "date": "2026-10-18",
+  "date": "2027-10-17",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "the-ridgefield-road-fest-50th-anniversary-1-2-marathon-7-miler-and-the-iris-fund",
   "source": {
-    "fetchedAt": "2026-09-09T17:10:09.093Z",
+    "fetchedAt": "2026-11-24T17:56:00.966Z",
     "id": "runraceusa",
     "ref": "the-ridgefield-road-fest-50th-anniversary-1-2-marathon-7-miler-and",
     "url": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-09T17:09:58.614Z",
+  "updatedAt": "2026-11-24T17:55:52.843Z",
   "website": "https://runsignup.com/Race/CT/Ridgefield/RidgefieldRoadFest?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

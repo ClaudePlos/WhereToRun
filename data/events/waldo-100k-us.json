@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Waldo 100K is a road race. Location: Oakridge, United States. Date: Saturday, 7 August 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Oakridge, United States, Saturday, 7 August 2027"
+    },
+    "pl": {
+      "description": "Waldo 100K to bieg uliczny. Lokalizacja: Oakridge, Stany Zjednoczone. Termin: sobota, 7 sierpnia 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Oakridge, Stany Zjednoczone, sobota, 7 sierpnia 2027"
+    }
+  },
+  "createdAt": "2026-11-24T17:55:52.843Z",
+  "date": "2027-08-07",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Oakridge",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR"
+  },
+  "manual": false,
+  "name": "Waldo 100K",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=264",
+  "slug": "waldo-100k-us",
+  "source": {
+    "fetchedAt": "2026-11-24T17:56:00.966Z",
+    "id": "runraceusa",
+    "ref": "waldo-100k-or",
+    "url": "https://ultrasignup.com/register.aspx?eid=264"
+  },
+  "start": {
+    "lat": 43.75,
+    "lon": -122.46,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-24T17:55:52.843Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=264"
+}
