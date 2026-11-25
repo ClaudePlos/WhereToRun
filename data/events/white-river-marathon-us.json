@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-12T10:56:17.596Z",
-  "date": "2026-11-21",
+  "date": "2027-11-20",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/AR/Cotter/WhiteRiverMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "white-river-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-12T10:56:26.076Z",
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
     "id": "runraceusa",
     "ref": "white-river-marathon-ar",
     "url": "https://runsignup.com/Race/AR/Cotter/WhiteRiverMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-12T10:56:17.596Z",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
   "website": "https://runsignup.com/Race/AR/Cotter/WhiteRiverMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

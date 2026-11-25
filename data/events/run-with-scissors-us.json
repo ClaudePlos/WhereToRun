@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-10T11:30:18.139Z",
-  "date": "2026-10-25",
+  "date": "2027-10-30",
   "dateStatus": "confirmed",
   "distances": [
     "u50m",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/OH/Hinckley/RunWithScissors?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "run-with-scissors-us",
   "source": {
-    "fetchedAt": "2026-09-10T11:30:28.486Z",
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
     "id": "runraceusa",
     "ref": "run-with-scissors-oh",
     "url": "https://runsignup.com/Race/OH/Hinckley/RunWithScissors?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-10T11:30:18.139Z",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
   "website": "https://runsignup.com/Race/OH/Hinckley/RunWithScissors?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

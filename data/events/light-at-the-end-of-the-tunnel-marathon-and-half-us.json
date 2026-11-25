@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Light at the End of the Tunnel Marathon and Half is a road race. Location: Snoqualmie Pass, United States. Date: Sunday, 6 June 2027. Distances: 42.2 km, 21.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Snoqualmie Pass, United States, Sunday, 6 June 2027"
+    },
+    "pl": {
+      "description": "Light at the End of the Tunnel Marathon and Half to bieg uliczny. Lokalizacja: Snoqualmie Pass, Stany Zjednoczone. Termin: niedziela, 6 czerwca 2027. Dystanse: 42.2 km, 21.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Snoqualmie Pass, Stany Zjednoczone, niedziela, 6 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-25T17:24:12.848Z",
+  "date": "2027-06-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Snoqualmie Pass",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA"
+  },
+  "manual": false,
+  "name": "Light at the End of the Tunnel Marathon and Half",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=15746",
+  "slug": "light-at-the-end-of-the-tunnel-marathon-and-half-us",
+  "source": {
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
+    "id": "runraceusa",
+    "ref": "light-at-the-end-of-the-tunnel-marathon-and-half-wa",
+    "url": "https://ultrasignup.com/register.aspx?eid=15746"
+  },
+  "start": {
+    "lat": 47.39,
+    "lon": -121.39,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=15746"
+}

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T22:48:59.007Z",
-  "date": "2026-10-03",
+  "date": "2027-10-02",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "the-towpath-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-07T22:49:07.159Z",
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
     "id": "runraceusa",
     "ref": "the-towpath-marathon-oh",
     "url": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-07T22:48:59.007Z",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
   "website": "https://runsignup.com/Race/OH/Cleveland/marathontowpath?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

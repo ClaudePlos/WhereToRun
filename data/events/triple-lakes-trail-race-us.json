@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-09T22:32:11.988Z",
-  "date": "2026-10-24",
+  "date": "2027-10-23",
   "dateStatus": "confirmed",
   "distances": [
     "21.1 km",
@@ -33,7 +33,7 @@
   "registrationUrl": "https://runsignup.com/Race/NC/Greensboro/TripleLakesTrailHalfMarathonMarathon40Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "triple-lakes-trail-race-us",
   "source": {
-    "fetchedAt": "2026-09-09T22:32:19.298Z",
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
     "id": "runraceusa",
     "ref": "triple-lakes-trail-race-nc",
     "url": "https://runsignup.com/Race/NC/Greensboro/TripleLakesTrailHalfMarathonMarathon40Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -49,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-09T22:32:11.988Z",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
   "website": "https://runsignup.com/Race/NC/Greensboro/TripleLakesTrailHalfMarathonMarathon40Miler?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

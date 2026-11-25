@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T22:38:34.998Z",
-  "date": "2026-10-17",
+  "date": "2027-10-16",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -34,7 +34,7 @@
   "registrationUrl": "https://runsignup.com/Race/MD/Baltimore/TheBaltimoreRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "baltimore-running-festival-us",
   "source": {
-    "fetchedAt": "2026-09-08T22:38:45.323Z",
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
     "id": "runraceusa",
     "ref": "baltimore-running-festival-md",
     "url": "https://runsignup.com/Race/MD/Baltimore/TheBaltimoreRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -50,6 +50,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T22:38:34.998Z",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
   "website": "https://runsignup.com/Race/MD/Baltimore/TheBaltimoreRunningFestival?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

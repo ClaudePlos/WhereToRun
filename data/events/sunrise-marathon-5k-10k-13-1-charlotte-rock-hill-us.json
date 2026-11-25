@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Sunrise Marathon 5K/10K/13.1 CHARLOTTE/ROCK HILL is a road race. Location: Rock Hill, United States. Date: Saturday, 20 March 2027. Distances: 5 km, 10 km, 21.1 km, 1.6 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Rock Hill, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Sunrise Marathon 5K/10K/13.1 CHARLOTTE/ROCK HILL to bieg uliczny. Lokalizacja: Rock Hill, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 5 km, 10 km, 21.1 km, 1.6 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Rock Hill, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-25T17:24:12.848Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km",
+    "10 km",
+    "21.1 km",
+    "1.6 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Rock Hill",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "SC"
+  },
+  "manual": false,
+  "name": "Sunrise Marathon 5K/10K/13.1 CHARLOTTE/ROCK HILL",
+  "registrationUrl": "https://runsignup.com/Race/SC/RockHill/SunriseMarathon5K10KCHARLOTTEROCKHILL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "sunrise-marathon-5k-10k-13-1-charlotte-rock-hill-us",
+  "source": {
+    "fetchedAt": "2026-11-25T17:24:21.070Z",
+    "id": "runraceusa",
+    "ref": "sunrise-marathon-5k-10k-13-1-charlotte-rock-hill-sc",
+    "url": "https://runsignup.com/Race/SC/RockHill/SunriseMarathon5K10KCHARLOTTEROCKHILL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 34.92,
+    "lon": -81.01,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-25T17:24:12.848Z",
+  "website": "https://runsignup.com/Race/SC/RockHill/SunriseMarathon5K10KCHARLOTTEROCKHILL?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
