@@ -14,6 +14,7 @@
   "dateStatus": "confirmed",
   "distances": [
     "u50k",
+    "other",
     "21.1 km",
     "10 km"
   ],
@@ -32,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=16207",
   "slug": "ridge-to-rails-50k-half-10k-us",
   "source": {
-    "fetchedAt": "2026-09-19T22:19:14.893Z",
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
     "id": "runraceusa",
     "ref": "ridge-to-rails-50k-half-10k-nc",
     "url": "https://ultrasignup.com/register.aspx?eid=16207"
@@ -48,6 +49,6 @@
     "trail"
   ],
   "type": "trail",
-  "updatedAt": "2026-09-19T22:19:06.847Z",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
   "website": "https://ultrasignup.com/register.aspx?eid=16207"
 }

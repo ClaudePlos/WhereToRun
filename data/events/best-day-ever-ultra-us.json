@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "Best Day Ever Ultra is a ultramarathon. Location: Davis, United States. Date: Saturday, 27 March 2027. Distances: u100k, u50k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Davis, United States, Saturday, 27 March 2027"
+    },
+    "pl": {
+      "description": "Best Day Ever Ultra to ultramaraton. Lokalizacja: Davis, Stany Zjednoczone. Termin: sobota, 27 marca 2027. Dystanse: u100k, u50k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Davis, Stany Zjednoczone, sobota, 27 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-03-27",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k",
+    "u50k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Davis",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK"
+  },
+  "manual": false,
+  "name": "Best Day Ever Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19110",
+  "slug": "best-day-ever-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "id": "runraceusa",
+    "ref": "best-day-ever-ultra-ok",
+    "url": "https://ultrasignup.com/register.aspx?eid=19110"
+  },
+  "start": {
+    "lat": 34.45,
+    "lon": -97.2,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=19110"
+}

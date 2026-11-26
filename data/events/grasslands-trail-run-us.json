@@ -13,12 +13,13 @@
   "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u100m",
-    "u50m",
+    "160.9 km",
+    "80.5 km",
     "42.2 km",
-    "21.1 km"
+    "1",
+    "2 Marathon"
   ],
-  "endDate": null,
+  "endDate": "2027-03-21",
   "featured": false,
   "fees": [],
   "links": [],
@@ -30,25 +31,25 @@
   },
   "manual": false,
   "name": "Grasslands Trail Run",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=142",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66121",
   "slug": "grasslands-trail-run-us",
   "source": {
-    "fetchedAt": "2026-09-16T22:54:49.121Z",
-    "id": "runraceusa",
-    "ref": "grasslands-trail-run-tx",
-    "url": "https://ultrasignup.com/register.aspx?eid=142"
+    "fetchedAt": "2026-11-26T17:04:35.846Z",
+    "id": "ultrasignup",
+    "ref": "142",
+    "url": "https://ultrasignup.com/register.aspx?did=66121"
   },
   "start": {
-    "lat": 33.42,
-    "lon": -97.62,
+    "lat": 33.4156,
+    "lon": -97.6244,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "runraceusa",
-    "trail"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "trail",
-  "updatedAt": "2026-09-16T22:54:39.061Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=142"
+  "type": "ultra",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://grasslandstrailrun.com/?utm_source=ultrasignup&utm_medium=referral&utm_campaign=usu-ws-link&utm_content=grasslands"
 }

@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-08T17:15:45.729Z",
-  "date": "2026-10-10",
+  "date": "2027-10-09",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -32,7 +32,7 @@
   "registrationUrl": "https://runsignup.com/Race/CO/FortCollins/LongViewMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "the-long-view-marathon-us",
   "source": {
-    "fetchedAt": "2026-09-08T17:15:55.317Z",
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
     "id": "runraceusa",
     "ref": "the-long-view-marathon-co",
     "url": "https://runsignup.com/Race/CO/FortCollins/LongViewMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -48,6 +48,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-09-08T17:15:45.729Z",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
   "website": "https://runsignup.com/Race/CO/FortCollins/LongViewMarathon?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

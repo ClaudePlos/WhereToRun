@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Cedar Rapids Marathon Weekend is a road race. Location: Cedar Rapids, United States. Date: Saturday, 24 April 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Cedar Rapids, United States, Saturday, 24 April 2027"
+    },
+    "pl": {
+      "description": "Cedar Rapids Marathon Weekend to bieg uliczny. Lokalizacja: Cedar Rapids, Stany Zjednoczone. Termin: sobota, 24 kwietnia 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Cedar Rapids, Stany Zjednoczone, sobota, 24 kwietnia 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-04-24",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Cedar Rapids",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IA"
+  },
+  "manual": false,
+  "name": "Cedar Rapids Marathon Weekend",
+  "registrationUrl": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "cedar-rapids-marathon-weekend-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "id": "runraceusa",
+    "ref": "cedar-rapids-marathon-weekend-ia",
+    "url": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 41.95,
+    "lon": -91.69,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://runsignup.com/Race/IA/CedarRapids/CedarRapidsMarathonWeekend?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

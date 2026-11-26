@@ -1,0 +1,53 @@
+{
+  "content": {
+    "en": {
+      "description": "Bel Monte Endurance Races is a ultramarathon. Location: Lyndhurst, United States. Date: Saturday, 20 March 2027. Distances: 80.5 km, 50 km, 25 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Lyndhurst, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Bel Monte Endurance Races to ultramaraton. Lokalizacja: Lyndhurst, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 80.5 km, 50 km, 25 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Lyndhurst, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "25 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Lyndhurst",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA"
+  },
+  "manual": false,
+  "name": "Bel Monte Endurance Races",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66773",
+  "slug": "bel-monte-endurance-races-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:35.846Z",
+    "id": "ultrasignup",
+    "ref": "1431",
+    "url": "https://ultrasignup.com/register.aspx?did=66773"
+  },
+  "start": {
+    "lat": 37.8826,
+    "lon": -79.015,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "http://belmonteraces.com/"
+}

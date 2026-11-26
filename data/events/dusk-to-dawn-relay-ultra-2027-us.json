@@ -1,0 +1,49 @@
+{
+  "content": {
+    "en": {
+      "description": "Dusk to Dawn Relay + Ultra 2027 is a ultramarathon. Location: Wendover, United States. Date: Friday, 3 September 2027. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wendover, United States, Friday, 3 September 2027"
+    },
+    "pl": {
+      "description": "Dusk to Dawn Relay + Ultra 2027 to ultramaraton. Lokalizacja: Wendover, Stany Zjednoczone. Termin: piątek, 3 września 2027. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wendover, Stany Zjednoczone, piątek, 3 września 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-09-03",
+  "dateStatus": "confirmed",
+  "distances": [],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wendover",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "UT"
+  },
+  "manual": false,
+  "name": "Dusk to Dawn Relay + Ultra 2027",
+  "registrationUrl": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "dusk-to-dawn-relay-ultra-2027-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "id": "runraceusa",
+    "ref": "dusk-to-dawn-relay-ultra-2027-ut",
+    "url": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 40.74,
+    "lon": -114.04,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://runsignup.com/Race/UT/Wendover/DusktoDawnRace?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}

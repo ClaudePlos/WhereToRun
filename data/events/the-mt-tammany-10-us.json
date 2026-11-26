@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The MT. TAMMANY 10 is a ultramarathon. Location: Delaware Water Gap, United States. Date: Saturday, 20 March 2027. Distances: 64.4 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Delaware Water Gap, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "The MT. TAMMANY 10 to ultramaraton. Lokalizacja: Delaware Water Gap, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 64.4 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Delaware Water Gap, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "64.4 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Delaware Water Gap",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ"
+  },
+  "manual": false,
+  "name": "The MT. TAMMANY 10",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67954",
+  "slug": "the-mt-tammany-10-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:35.846Z",
+    "id": "ultrasignup",
+    "ref": "2940",
+    "url": "https://ultrasignup.com/register.aspx?did=67954"
+  },
+  "start": {
+    "lat": 40.9704,
+    "lon": -75.126,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://athletic-equation.com/"
+}

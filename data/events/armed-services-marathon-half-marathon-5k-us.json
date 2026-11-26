@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "Armed Services Marathon, Half Marathon & 5K is a road race. Location: Grand Haven, United States. Date: Sunday, 16 May 2027. Distances: 42.2 km, 21.1 km, 10 km, 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Grand Haven, United States, Sunday, 16 May 2027"
+    },
+    "pl": {
+      "description": "Armed Services Marathon, Half Marathon & 5K to bieg uliczny. Lokalizacja: Grand Haven, Stany Zjednoczone. Termin: niedziela, 16 maja 2027. Dystanse: 42.2 km, 21.1 km, 10 km, 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Grand Haven, Stany Zjednoczone, niedziela, 16 maja 2027"
+    }
+  },
+  "createdAt": "2026-11-26T17:04:28.150Z",
+  "date": "2027-05-16",
+  "dateStatus": "confirmed",
+  "distances": [
+    "42.2 km",
+    "21.1 km",
+    "10 km",
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Grand Haven",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MI"
+  },
+  "manual": false,
+  "name": "Armed Services Marathon, Half Marathon & 5K",
+  "registrationUrl": "https://runsignup.com/Race/MI/GrandHaven/ArmedServicesMarathonHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "slug": "armed-services-marathon-half-marathon-5k-us",
+  "source": {
+    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "id": "runraceusa",
+    "ref": "armed-services-marathon-half-marathon-5k-mi",
+    "url": "https://runsignup.com/Race/MI/GrandHaven/ArmedServicesMarathonHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  },
+  "start": {
+    "lat": 43.04,
+    "lon": -86.19,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "runraceusa"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "website": "https://runsignup.com/Race/MI/GrandHaven/ArmedServicesMarathonHalfMarathon5K?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+}
