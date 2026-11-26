@@ -10,37 +10,37 @@
     }
   },
   "createdAt": "2026-09-17T22:50:40.759Z",
-  "date": "2027-04-16",
+  "date": "2027-01-01",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
     "21.1 km",
-    "5 km",
-    "1.6 km"
+    "10 km",
+    "5 km"
   ],
   "endDate": null,
   "featured": false,
   "fees": [],
   "links": [],
   "location": {
-    "city": "Kennewick",
+    "city": "Spicewood",
     "country": "United States",
     "countryCode": "US",
-    "region": "WA"
+    "region": "TX"
   },
   "manual": false,
   "name": "Run the River",
-  "registrationUrl": "https://runsignup.com/Race/WA/Kennewick/RuntheRiverMarathonandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/TX/Spicewood/RuntheRiverDownstream?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "run-the-river-us",
   "source": {
-    "fetchedAt": "2026-11-25T22:33:31.136Z",
+    "fetchedAt": "2026-11-26T02:49:15.718Z",
     "id": "runraceusa",
-    "ref": "run-the-river-wa",
-    "url": "https://runsignup.com/Race/WA/Kennewick/RuntheRiverMarathonandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "ref": "run-the-river-tx",
+    "url": "https://runsignup.com/Race/TX/Spicewood/RuntheRiverDownstream?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
-    "lat": 46.21,
-    "lon": -119.17,
+    "lat": 30.39,
+    "lon": -98.05,
     "name": null,
     "precision": "exact"
   },
@@ -49,6 +49,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-11-25T22:33:24.807Z",
-  "website": "https://runsignup.com/Race/WA/Kennewick/RuntheRiverMarathonandRelay?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-11-26T02:49:09.895Z",
+  "website": "https://runsignup.com/Race/TX/Spicewood/RuntheRiverDownstream?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

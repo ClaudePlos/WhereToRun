@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Crown King Scramble is a ultramarathon. Location: Phoenix, United States. Date: Saturday, 20 March 2027. Distances: 50 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Phoenix, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "Crown King Scramble to ultramaraton. Lokalizacja: Phoenix, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 50 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Phoenix, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-26T02:49:09.895Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "50 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Phoenix",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ"
+  },
+  "manual": false,
+  "name": "Crown King Scramble",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66367",
+  "slug": "crown-king-scramble-us",
+  "source": {
+    "fetchedAt": "2026-11-26T02:49:15.285Z",
+    "id": "ultrasignup",
+    "ref": "29",
+    "url": "https://ultrasignup.com/register.aspx?did=66367"
+  },
+  "start": {
+    "lat": 33.9055,
+    "lon": -112.309,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-26T02:49:09.895Z",
+  "website": "https://www.aravaiparunning.com/crown-king/"
+}
