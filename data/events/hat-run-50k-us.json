@@ -13,7 +13,8 @@
   "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
-    "u50k"
+    "50K 2 Person Relay",
+    "50 km"
   ],
   "endDate": null,
   "featured": false,
@@ -27,25 +28,25 @@
   },
   "manual": false,
   "name": "HAT Run 50k",
-  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=1124",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=68345",
   "slug": "hat-run-50k-us",
   "source": {
-    "fetchedAt": "2026-09-16T22:54:49.121Z",
-    "id": "runraceusa",
-    "ref": "hat-run-50k-md",
-    "url": "https://ultrasignup.com/register.aspx?eid=1124"
+    "fetchedAt": "2026-11-27T21:58:32.574Z",
+    "id": "ultrasignup",
+    "ref": "1124",
+    "url": "https://ultrasignup.com/register.aspx?did=68345"
   },
   "start": {
-    "lat": 39.6,
-    "lon": -76.14,
+    "lat": 39.6005,
+    "lon": -76.1376,
     "name": null,
     "precision": "exact"
   },
   "tags": [
-    "road",
-    "runraceusa"
+    "ultra",
+    "ultrasignup"
   ],
-  "type": "road",
-  "updatedAt": "2026-09-16T22:54:39.061Z",
-  "website": "https://ultrasignup.com/register.aspx?eid=1124"
+  "type": "ultra",
+  "updatedAt": "2026-11-27T21:58:25.297Z",
+  "website": "http://www.hatrun.com/"
 }
