@@ -13,6 +13,7 @@
   "date": "2027-04-03",
   "dateStatus": "confirmed",
   "distances": [
+    "u100k",
     "u100m",
     "u50m",
     "u50k"
@@ -32,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21387",
   "slug": "tampa-bay-ultra-fest-us",
   "source": {
-    "fetchedAt": "2026-11-19T15:53:11.633Z",
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
     "id": "runraceusa",
     "ref": "tampa-bay-ultra-fest-fl",
     "url": "https://ultrasignup.com/register.aspx?eid=21387"
@@ -48,6 +49,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-19T15:53:02.879Z",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
   "website": "https://ultrasignup.com/register.aspx?eid=21387"
 }

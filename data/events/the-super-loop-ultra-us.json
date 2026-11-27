@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The Super Loop Ultra is a ultramarathon. Location: Wrightsville, United States. Date: Saturday, 12 June 2027. Distances: u100k. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Wrightsville, United States, Saturday, 12 June 2027"
+    },
+    "pl": {
+      "description": "The Super Loop Ultra to ultramaraton. Lokalizacja: Wrightsville, Stany Zjednoczone. Termin: sobota, 12 czerwca 2027. Dystanse: u100k. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Wrightsville, Stany Zjednoczone, sobota, 12 czerwca 2027"
+    }
+  },
+  "createdAt": "2026-11-27T16:49:17.357Z",
+  "date": "2027-06-12",
+  "dateStatus": "confirmed",
+  "distances": [
+    "u100k"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Wrightsville",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "PA"
+  },
+  "manual": false,
+  "name": "The Super Loop Ultra",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=21429",
+  "slug": "the-super-loop-ultra-us",
+  "source": {
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
+    "id": "runraceusa",
+    "ref": "the-super-loop-ultra-pa",
+    "url": "https://ultrasignup.com/register.aspx?eid=21429"
+  },
+  "start": {
+    "lat": 40.02,
+    "lon": -76.53,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=21429"
+}

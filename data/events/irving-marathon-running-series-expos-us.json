@@ -10,7 +10,7 @@
     }
   },
   "createdAt": "2026-09-07T18:15:31.685Z",
-  "date": "2026-11-26",
+  "date": "2026-12-18",
   "dateStatus": "confirmed",
   "distances": [
     "42.2 km",
@@ -31,7 +31,7 @@
   "registrationUrl": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "irving-marathon-running-series-expos-us",
   "source": {
-    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
     "id": "runraceusa",
     "ref": "irving-marathon-running-series-expos-tx",
     "url": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
@@ -47,6 +47,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
   "website": "https://runsignup.com/Race/TX/Irving/IrvingMarathonRunningSeriesExpo?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }

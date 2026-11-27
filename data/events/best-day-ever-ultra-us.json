@@ -14,7 +14,8 @@
   "dateStatus": "confirmed",
   "distances": [
     "u100k",
-    "u50k"
+    "u50k",
+    "other"
   ],
   "endDate": null,
   "featured": false,
@@ -31,7 +32,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?eid=19110",
   "slug": "best-day-ever-ultra-us",
   "source": {
-    "fetchedAt": "2026-11-26T17:04:36.460Z",
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
     "id": "runraceusa",
     "ref": "best-day-ever-ultra-ok",
     "url": "https://ultrasignup.com/register.aspx?eid=19110"
@@ -47,6 +48,6 @@
     "ultra"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-26T17:04:28.150Z",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
   "website": "https://ultrasignup.com/register.aspx?eid=19110"
 }

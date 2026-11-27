@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "The DUC is a ultramarathon. Location: Pocomoke, United States. Date: Saturday, 13 February 2027. Distances: 100 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Pocomoke, United States, Saturday, 13 February 2027"
+    },
+    "pl": {
+      "description": "The DUC to ultramaraton. Lokalizacja: Pocomoke, Stany Zjednoczone. Termin: sobota, 13 lutego 2027. Dystanse: 100 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Pocomoke, Stany Zjednoczone, sobota, 13 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-27T16:49:17.357Z",
+  "date": "2027-02-13",
+  "dateStatus": "confirmed",
+  "distances": [
+    "100 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Pocomoke",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MD"
+  },
+  "manual": false,
+  "name": "The DUC",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=70325",
+  "slug": "the-duc-us",
+  "source": {
+    "fetchedAt": "2026-11-27T16:49:24.878Z",
+    "id": "ultrasignup",
+    "ref": "9789",
+    "url": "https://ultrasignup.com/register.aspx?did=70325"
+  },
+  "start": {
+    "lat": 38.1348,
+    "lon": -75.4913,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
+  "website": "https://www.alqultras.org/races"
+}

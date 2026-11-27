@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "Ultra Donut Dash is a ultramarathon. Location: Birmingham, United States. Date: Saturday, 6 February 2027. Distances: 5 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Birmingham, United States, Saturday, 6 February 2027"
+    },
+    "pl": {
+      "description": "Ultra Donut Dash to ultramaraton. Lokalizacja: Birmingham, Stany Zjednoczone. Termin: sobota, 6 lutego 2027. Dystanse: 5 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Birmingham, Stany Zjednoczone, sobota, 6 lutego 2027"
+    }
+  },
+  "createdAt": "2026-11-27T16:49:17.357Z",
+  "date": "2027-02-06",
+  "dateStatus": "confirmed",
+  "distances": [
+    "5 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Birmingham",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL"
+  },
+  "manual": false,
+  "name": "Ultra Donut Dash",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?eid=14576",
+  "slug": "ultra-donut-dash-us",
+  "source": {
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
+    "id": "runraceusa",
+    "ref": "ultra-donut-dash-al",
+    "url": "https://ultrasignup.com/register.aspx?eid=14576"
+  },
+  "start": {
+    "lat": 33.32,
+    "lon": -86.76,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "runraceusa",
+    "ultra"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-27T16:49:17.357Z",
+  "website": "https://ultrasignup.com/register.aspx?eid=14576"
+}

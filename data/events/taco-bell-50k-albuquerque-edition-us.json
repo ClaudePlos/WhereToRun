@@ -27,13 +27,13 @@
   },
   "manual": false,
   "name": "Taco Bell 50K Albuquerque Edition",
-  "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
+  "registrationUrl": "https://runsignup.com/Race/NM/Albuquerque/50KAlbuquerqueEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf",
   "slug": "taco-bell-50k-albuquerque-edition-us",
   "source": {
-    "fetchedAt": "2026-11-22T14:43:47.446Z",
+    "fetchedAt": "2026-11-27T16:49:25.542Z",
     "id": "runraceusa",
     "ref": "taco-bell-50k-albuquerque-edition-nm",
-    "url": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+    "url": "https://runsignup.com/Race/NM/Albuquerque/50KAlbuquerqueEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
   },
   "start": {
     "lat": 35.07,
@@ -46,6 +46,6 @@
     "runraceusa"
   ],
   "type": "road",
-  "updatedAt": "2026-11-22T14:42:59.845Z",
-  "website": "https://runsignup.com/Race/NM/Albuquerque/TacoBell50KAlbuquerque?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
+  "updatedAt": "2026-11-27T16:49:17.357Z",
+  "website": "https://runsignup.com/Race/NM/Albuquerque/50KAlbuquerqueEdition?aflt_token=mBX3jPRzwidCz6YqBWNr5yajv4IQmFEf"
 }
