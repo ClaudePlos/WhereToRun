@@ -1,0 +1,51 @@
+{
+  "content": {
+    "en": {
+      "description": "JTreequinox is a road race. Location: Joshua Tree, United States. Date: Saturday, 20 March 2027. Distances: 12 Hour Run. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Road race — Joshua Tree, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "JTreequinox to bieg uliczny. Lokalizacja: Joshua Tree, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 12 Hour Run. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Bieg uliczny — Joshua Tree, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-27T02:49:53.501Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "12 Hour Run"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Joshua Tree",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA"
+  },
+  "manual": false,
+  "name": "JTreequinox",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=67722",
+  "slug": "jtreequinox-us",
+  "source": {
+    "fetchedAt": "2026-11-27T02:50:02.056Z",
+    "id": "ultrasignup",
+    "ref": "15752",
+    "url": "https://ultrasignup.com/register.aspx?did=67722"
+  },
+  "start": {
+    "lat": 34.139,
+    "lon": -116.332,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "road",
+    "ultrasignup"
+  ],
+  "type": "road",
+  "updatedAt": "2026-11-27T02:49:53.501Z",
+  "website": "https://www.elevatedeventsbigbear.com/sports/j-treequinox"
+}

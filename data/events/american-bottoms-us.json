@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "description": "American Bottoms is a ultramarathon. Location: Columbia, United States. Date: Saturday, 20 March 2027. Distances: 181.9 km, 90.1 km. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Columbia, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "American Bottoms to ultramaraton. Lokalizacja: Columbia, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 181.9 km, 90.1 km. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Columbia, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-27T02:49:53.501Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "181.9 km",
+    "90.1 km"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Columbia",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL"
+  },
+  "manual": false,
+  "name": "American Bottoms",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66325",
+  "slug": "american-bottoms-us",
+  "source": {
+    "fetchedAt": "2026-11-27T02:50:02.056Z",
+    "id": "ultrasignup",
+    "ref": "18601",
+    "url": "https://ultrasignup.com/register.aspx?did=66325"
+  },
+  "start": {
+    "lat": 38.449,
+    "lon": -90.23,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-27T02:49:53.501Z",
+  "website": "https://americanbottomsultra.com/"
+}

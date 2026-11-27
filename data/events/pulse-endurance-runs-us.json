@@ -10,10 +10,13 @@
     }
   },
   "createdAt": "2026-11-21T14:46:54.956Z",
-  "date": "2027-03-18",
+  "date": "2027-03-19",
   "dateStatus": "confirmed",
   "distances": [
-    "48 h"
+    "160.9 km",
+    "24 h",
+    "12hr PM",
+    "6Hr PM"
   ],
   "endDate": "2027-03-20",
   "featured": false,
@@ -30,7 +33,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=70115",
   "slug": "pulse-endurance-runs-us",
   "source": {
-    "fetchedAt": "2026-11-26T22:21:52.505Z",
+    "fetchedAt": "2026-11-27T02:50:02.056Z",
     "id": "ultrasignup",
     "ref": "3164",
     "url": "https://ultrasignup.com/register.aspx?did=70115"
@@ -46,6 +49,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-26T22:21:46.642Z",
+  "updatedAt": "2026-11-27T02:49:53.501Z",
   "website": "https://www.pulserunning.com/pulseenduranceruns"
 }

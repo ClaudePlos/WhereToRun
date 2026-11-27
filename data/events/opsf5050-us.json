@@ -1,0 +1,54 @@
+{
+  "content": {
+    "en": {
+      "description": "OPSF5050 is a ultramarathon. Location: Poland, United States. Date: Saturday, 20 March 2027. Distances: 80.5 km, 50 km, 22.5 km, 10K Trail Race. Entry fee: check with the organiser. The start location is marked on the map below.",
+      "summary": "Ultramarathon — Poland, United States, Saturday, 20 March 2027"
+    },
+    "pl": {
+      "description": "OPSF5050 to ultramaraton. Lokalizacja: Poland, Stany Zjednoczone. Termin: sobota, 20 marca 2027. Dystanse: 80.5 km, 50 km, 22.5 km, 10K Trail Race. Opłata startowa: sprawdź na stronie organizatora. Miejsce startu zaznaczone na mapie poniżej.",
+      "summary": "Ultramaraton — Poland, Stany Zjednoczone, sobota, 20 marca 2027"
+    }
+  },
+  "createdAt": "2026-11-27T02:49:53.501Z",
+  "date": "2027-03-20",
+  "dateStatus": "confirmed",
+  "distances": [
+    "80.5 km",
+    "50 km",
+    "22.5 km",
+    "10K Trail Race"
+  ],
+  "endDate": null,
+  "featured": false,
+  "fees": [],
+  "links": [],
+  "location": {
+    "city": "Poland",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IN"
+  },
+  "manual": false,
+  "name": "OPSF5050",
+  "registrationUrl": "https://ultrasignup.com/register.aspx?did=66559",
+  "slug": "opsf5050-us",
+  "source": {
+    "fetchedAt": "2026-11-27T02:50:02.056Z",
+    "id": "ultrasignup",
+    "ref": "4495",
+    "url": "https://ultrasignup.com/register.aspx?did=66559"
+  },
+  "start": {
+    "lat": 39.3623,
+    "lon": -86.8507,
+    "name": null,
+    "precision": "exact"
+  },
+  "tags": [
+    "ultra",
+    "ultrasignup"
+  ],
+  "type": "ultra",
+  "updatedAt": "2026-11-27T02:49:53.501Z",
+  "website": "http://www.opsf5050.com/"
+}
