@@ -10,12 +10,17 @@
     }
   },
   "createdAt": "2026-09-16T22:54:39.061Z",
-  "date": "2027-03-18",
+  "date": "2027-03-20",
   "dateStatus": "confirmed",
   "distances": [
-    "72 h",
-    "72 Hour Hiker",
-    "Parent Loop"
+    "24 Hour Hiker",
+    "24 h",
+    "24 Hour Relay",
+    "16.1 km",
+    "10 Mile Night",
+    "10 Mile Hiker",
+    "12 Hour Hiker",
+    "12 h"
   ],
   "endDate": "2027-03-21",
   "featured": false,
@@ -32,7 +37,7 @@
   "registrationUrl": "https://ultrasignup.com/register.aspx?did=66808",
   "slug": "dogwood-ultra-marathons-us",
   "source": {
-    "fetchedAt": "2026-11-27T21:58:32.574Z",
+    "fetchedAt": "2026-11-28T02:39:49.008Z",
     "id": "ultrasignup",
     "ref": "5698",
     "url": "https://ultrasignup.com/register.aspx?did=66808"
@@ -48,6 +53,6 @@
     "ultrasignup"
   ],
   "type": "ultra",
-  "updatedAt": "2026-11-27T21:58:25.297Z",
+  "updatedAt": "2026-11-28T02:39:43.045Z",
   "website": "http://virginiaadventures.com"
 }
